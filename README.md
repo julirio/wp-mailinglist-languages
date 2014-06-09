@@ -1,6 +1,6 @@
-= Newsletter plugin languages =
+= WordPress Newsletter plugin languages =
 
-The language files of the Newsletter plugin are separately distributed.
+The language files of the <a href="http://tribulant.com/plugins/view/1/wordpress-newsletter-plugin">WordPress Newsletter plugin</a> are separately distributed.
 There are two reasons for this:
 
 1. To reduce the size of the plugin which needs to be installed/uploaded
@@ -22,6 +22,7 @@ Follow these steps to use the language file(s) you want:
 2. Go to "wp-content/plugins/" in your WordPress installation and create a "wp-mailinglist-languages" folder there.
 3. Upload the "wp-mailinglist-de_DE.mo" file to "wp-content/plugins/languages/" folder you created.
 4. Go to Newsletters > Configuration > System > WordPress Related in the plugin and tick/check "Yes, load external language file" for the "Load External Language" setting.
+5. Ensure that you have the <code>WPLANG</code> constant set in your <code>wp-config.php</code> file accordingly eg. de_DE
 
 Please note, if you don't tick/check that setting in #4 above, the plugin will look inside "wp-content/plugins/wp-mailinglist/languages/" for a language file.
 
