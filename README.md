@@ -1,4 +1,4 @@
-= WordPress Newsletter plugin languages =
+# WordPress Newsletter plugin languages
 
 The language files of the <a href="http://tribulant.com/plugins/view/1/wordpress-newsletter-plugin">WordPress Newsletter plugin</a> are separately distributed.
 There are two reasons for this:
@@ -6,7 +6,7 @@ There are two reasons for this:
 1. To reduce the size of the plugin which needs to be installed/uploaded
 2. To allow you to host the languages in an external folder to prevent it from being overwritten.
 
-== How to obtain the language files ==
+## How to obtain the language files
 
 You can obtain the language files from Github at: https://github.com/tribulant/wp-mailinglist-languages
 This folder contains all the .PO and .MO files with the current, available languages.
@@ -14,7 +14,7 @@ This folder contains all the .PO and .MO files with the current, available langu
 Only the .MO files are actually used by WordPress. 
 The .PO files are the source, which can be opened with an application such as poEdit: http://www.poedit.net
 
-== How to use the language files ==
+## How to use the language files
 
 Follow these steps to use the language file(s) you want:
 
@@ -29,7 +29,7 @@ Please note, if you don't tick/check that setting in #4 above, the plugin will l
 That's it, the German - de_DE (in this example) language file will now be loaded if the locale is de_DE.
 In the same manner, you can add more .MO files to that "wp-content/plugins/wp-mailinglist-languages/" folder accordingly.
 
-= How to update the language files =
+## How to update the language files
 
 Follow these steps to update language files:
 
