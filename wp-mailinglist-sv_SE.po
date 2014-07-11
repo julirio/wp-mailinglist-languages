@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WordPress Newsletter plugin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-07-03 14:09+0200\n"
+"POT-Creation-Date: 2014-07-11 22:02+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Tribulant Software <support@tribulant.com>\n"
 "Language-Team: Tomas Lindhoff <tomas@spotlife.se>\n"
@@ -13,7 +13,7 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ../wp-mailinglist\n"
-"X-Generator: Poedit 1.6.5\n"
+"X-Generator: Poedit 1.6.6\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: .\n"
 
@@ -21,45 +21,45 @@ msgstr ""
 msgid "Select"
 msgstr "Välj"
 
-#: helpers/html.php:152 wp-mailinglist-plugin.php:5479
+#: helpers/html.php:152 wp-mailinglist-plugin.php:5855
 msgid "Special"
 msgstr ""
 
-#: helpers/html.php:153 wp-mailinglist-plugin.php:5480
+#: helpers/html.php:153 wp-mailinglist-plugin.php:5856
 msgid "Text Field"
 msgstr "Text Fält"
 
-#: helpers/html.php:154 wp-mailinglist-plugin.php:5481
+#: helpers/html.php:154 wp-mailinglist-plugin.php:5857
 msgid "Text Area"
 msgstr "Text Area"
 
-#: helpers/html.php:155 wp-mailinglist-plugin.php:5482
-#: wp-mailinglist-widget.php:86 wp-mailinglist-widget.php:171
+#: helpers/html.php:155 wp-mailinglist-plugin.php:5858
+#: wp-mailinglist-widget.php:85 wp-mailinglist-widget.php:175
 msgid "Select Drop Down"
 msgstr "Välj Drop Down"
 
-#: helpers/html.php:156 wp-mailinglist-plugin.php:5483
+#: helpers/html.php:156 wp-mailinglist-plugin.php:5859
 msgid "Radio Buttons"
 msgstr "Runda knappar"
 
-#: helpers/html.php:157 wp-mailinglist-plugin.php:5484
+#: helpers/html.php:157 wp-mailinglist-plugin.php:5860
 msgid "Checkboxes"
 msgstr "Kryssrutor"
 
-#: helpers/html.php:158 wp-mailinglist-plugin.php:5485
+#: helpers/html.php:158 wp-mailinglist-plugin.php:5861
 #, fuzzy
 msgid "File Upload"
 msgstr "Fil typ"
 
-#: helpers/html.php:159 wp-mailinglist-plugin.php:5486
+#: helpers/html.php:159 wp-mailinglist-plugin.php:5862
 msgid "Predefined : Country Select"
 msgstr "Förvalt : Välj Land"
 
-#: helpers/html.php:160 wp-mailinglist-plugin.php:5487
+#: helpers/html.php:160 wp-mailinglist-plugin.php:5863
 msgid "Predefined : Date Picker (YYYY-MM-DD)"
 msgstr "Fördefinierat : Datumväljare (ÅÅÅÅ-MM-DD)"
 
-#: helpers/html.php:161 wp-mailinglist-plugin.php:5488
+#: helpers/html.php:161 wp-mailinglist-plugin.php:5864
 msgid "Predefined : Gender"
 msgstr "Fördefinierat : Kön"
 
@@ -100,35 +100,35 @@ msgstr "Denna uppgift har inte någon schemaläggning"
 msgid "No cron schedules are available or no task was specified."
 msgstr "Inga scheman är tillgängliga"
 
-#: helpers/html.php:334 views/admin/dashboard.php:63 wp-mailinglist.php:1836
+#: helpers/html.php:334 views/admin/dashboard.php:63 wp-mailinglist.php:1835
 msgid "Overview"
 msgstr "Översikt"
 
 #: helpers/html.php:337 views/admin/autoresponders/save.php:78
-#: views/admin/send.php:21 wp-mailinglist.php:1843
+#: views/admin/send.php:21 wp-mailinglist.php:1842
 #, fuzzy
 msgid "Create Newsletter"
 msgstr "Köa Nyhetsbrev"
 
-#: helpers/html.php:340 wp-mailinglist.php:1851
+#: helpers/html.php:340 wp-mailinglist.php:1850
 #, fuzzy
 msgid "Autoresponders"
 msgstr "beställningar"
 
 #: helpers/html.php:343 views/admin/autoresponderemails/index.php:2
 #: views/admin/autoresponders/loop.php:5
-#: views/admin/settings-cronschedules.php:90 wp-mailinglist.php:1852
+#: views/admin/settings-cronschedules.php:90 wp-mailinglist.php:1851
 #, fuzzy
 msgid "Autoresponder Emails"
 msgstr "Meddelanden i kö"
 
-#: helpers/html.php:346 views/admin/fields/save.php:331
+#: helpers/html.php:346 views/admin/fields/save.php:330
 #: views/admin/groups/view.php:46 views/admin/subscribers/loop.php:16
-#: wp-mailinglist.php:1853
+#: wp-mailinglist.php:1852
 msgid "Mailing Lists"
 msgstr "E-postlistor"
 
-#: helpers/html.php:349 wp-mailinglist.php:1854
+#: helpers/html.php:349 wp-mailinglist.php:1853
 msgid "Groups"
 msgstr "Grupper"
 
@@ -137,24 +137,24 @@ msgstr "Grupper"
 #: views/admin/metaboxes/send-mailinglists.php:13
 #: views/admin/settings-navigation.php:3 wp-mailinglist-plugin.php:462
 #: wp-mailinglist-plugin.php:611 wp-mailinglist-plugin.php:760
-#: wp-mailinglist.php:1838 wp-mailinglist.php:1855 wp-mailinglist.php:1925
+#: wp-mailinglist.php:1837 wp-mailinglist.php:1854 wp-mailinglist.php:1924
 msgid "Subscribers"
 msgstr "Prenumeranter"
 
 #: helpers/html.php:355 views/admin/mailinglists/save.php:64
-#: views/admin/subscribers/save.php:93 wp-mailinglist.php:1856
+#: views/admin/subscribers/save.php:93 wp-mailinglist.php:1855
 msgid "Custom Fields"
 msgstr "Egna Fält"
 
-#: helpers/html.php:358 wp-mailinglist.php:1857
+#: helpers/html.php:358 wp-mailinglist.php:1856
 msgid "Import/Export"
 msgstr "Importera/Exportera"
 
-#: helpers/html.php:361 wp-mailinglist.php:1858
+#: helpers/html.php:361 wp-mailinglist.php:1857
 msgid "Themes"
 msgstr "Teman"
 
-#: helpers/html.php:364 wp-mailinglist.php:1859
+#: helpers/html.php:364 wp-mailinglist.php:1858
 #, fuzzy
 msgid "Email Snippets"
 msgstr "Meddelanden Skickade"
@@ -165,17 +165,17 @@ msgid "Save Email Snippets"
 msgstr "Mallar för e-post"
 
 #: helpers/html.php:370 views/admin/queues/index.php:2
-#: views/admin/settings-cronschedules.php:29 wp-mailinglist.php:1861
+#: views/admin/settings-cronschedules.php:29 wp-mailinglist.php:1860
 msgid "Email Queue"
 msgstr "E-post Kö"
 
 #: helpers/html.php:373 views/admin/history/index.php:2
-#: wp-mailinglist.php:1844
+#: wp-mailinglist.php:1843
 #, fuzzy
 msgid "Sent &amp; Draft Emails"
 msgstr "Skicka Multipart meddelanden"
 
-#: helpers/html.php:376 wp-mailinglist.php:1847
+#: helpers/html.php:376 wp-mailinglist.php:1846
 msgid "Links &amp; Clicks"
 msgstr ""
 
@@ -183,61 +183,61 @@ msgstr ""
 msgid "Subscribe Orders"
 msgstr "Beställningar för Prenumerationer"
 
-#: helpers/html.php:382 views/admin/settings.php:13 wp-mailinglist.php:1837
+#: helpers/html.php:382 views/admin/settings.php:13 wp-mailinglist.php:1836
 #, fuzzy
 msgid "General Configuration"
 msgstr "PayPal Konfiguration"
 
 #: helpers/html.php:385 views/admin/settings-subscribers.php:13
-#: wp-mailinglist.php:1838
+#: wp-mailinglist.php:1837
 #, fuzzy
 msgid "Subscribers Configuration"
 msgstr "Bekräftelse för avregistrering"
 
 #: helpers/html.php:388 views/admin/settings-templates.php:13
-#: wp-mailinglist.php:1839
+#: wp-mailinglist.php:1838
 #, fuzzy
 msgid "Email Templates Configuration"
 msgstr "Mallar för e-post"
 
 #: helpers/html.php:391 views/admin/settings-system.php:13
-#: wp-mailinglist.php:1840
+#: wp-mailinglist.php:1839
 #, fuzzy
 msgid "System Configuration"
 msgstr "Konfiguration"
 
 #: helpers/html.php:394 views/admin/settings-cronschedules.php:2
-#: views/admin/settings-navigation.php:6 wp-mailinglist.php:1841
+#: views/admin/settings-navigation.php:6 wp-mailinglist.php:1840
 #, fuzzy
 msgid "Scheduled Tasks"
 msgstr "Detaljer för Schema"
 
-#: helpers/html.php:397 wp-mailinglist.php:1864
+#: helpers/html.php:397 wp-mailinglist.php:1863
 #, fuzzy
 msgid "Updates"
 msgstr "Antal Ord"
 
-#: helpers/html.php:400 wp-mailinglist.php:1863
+#: helpers/html.php:400 wp-mailinglist.php:1862
 msgid "Extensions"
 msgstr ""
 
 #: helpers/html.php:403 views/admin/extensions/settings.php:13
-#: wp-mailinglist.php:1865 wp-mailinglist.php:2028
+#: wp-mailinglist.php:1864 wp-mailinglist.php:2027
 #, fuzzy
 msgid "Extensions Settings"
 msgstr "Export Status"
 
-#: helpers/html.php:406 views/admin/help.php:2 wp-mailinglist.php:1868
+#: helpers/html.php:406 views/admin/help.php:2 wp-mailinglist.php:1867
 msgid "Support &amp; Help"
 msgstr "Support och Hjälp"
 
 #: helpers/html.php:549 views/admin/metaboxes/send-mailinglists.php:196
-#: views/admin/subscribers/loop.php:234 wp-mailinglist-plugin.php:3516
+#: views/admin/subscribers/loop.php:234 wp-mailinglist-plugin.php:3899
 msgid "Male"
 msgstr "Man"
 
 #: helpers/html.php:552 views/admin/metaboxes/send-mailinglists.php:197
-#: views/admin/subscribers/loop.php:234 wp-mailinglist-plugin.php:3517
+#: views/admin/subscribers/loop.php:234 wp-mailinglist-plugin.php:3900
 msgid "Female"
 msgstr "Kvinna"
 
@@ -399,7 +399,7 @@ msgid ""
 "Form 7 plugin forms."
 msgstr ""
 
-#: includes/extensions.php:49 views/admin/about.php:62
+#: includes/extensions.php:49 views/admin/about.php:67
 msgid "Digital Access Pass"
 msgstr ""
 
@@ -408,7 +408,7 @@ msgstr ""
 msgid "Capture email/newsletters subscribes from %sDigital Access Pass%s."
 msgstr ""
 
-#: includes/extensions.php:57 views/admin/about.php:72
+#: includes/extensions.php:57 views/admin/about.php:77
 msgid "Google Analytics"
 msgstr ""
 
@@ -451,7 +451,7 @@ msgstr ""
 msgid "Total control over your Newsletter plugin for WordPress."
 msgstr ""
 
-#: includes/extensions.php:89 views/admin/about.php:67
+#: includes/extensions.php:89 views/admin/about.php:72
 #, fuzzy
 msgid "WooCommerce Subscribers"
 msgstr "Sök Prenumeranter"
@@ -526,7 +526,7 @@ msgid "Email"
 msgstr "meddelanden"
 
 #: includes/variables.php:25 views/admin/subscribers/view.php:62
-#: wp-mailinglist.php:4070
+#: wp-mailinglist.php:4078
 msgid "IP Address"
 msgstr "IP Adress"
 
@@ -559,14 +559,14 @@ msgstr "Formulär för Prenumeration"
 #: js/tinymce/dialog.php:207 views/admin/metaboxes/send-insert.php:3
 #: views/admin/metaboxes/send-insert.php:11
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:4
-#: views/admin/tinymce-dialog.php:193 wp-mailinglist.php:1993
+#: views/admin/tinymce-dialog.php:193 wp-mailinglist.php:1992
 #, fuzzy
 msgid "Posts"
 msgstr "WP Inlägg"
 
-#: js/tinymce/dialog.php:208 js/tinymce/dialog.php:432
+#: js/tinymce/dialog.php:208 js/tinymce/dialog.php:429
 #: views/admin/metaboxes/send-insert.php:41
-#: views/admin/metaboxes/send-insert.php:178
+#: views/admin/metaboxes/send-insert.php:177
 #: views/admin/tinymce-dialog.php:194 views/admin/tinymce-dialog.php:415
 msgid "Thumbnail"
 msgstr ""
@@ -589,98 +589,159 @@ msgstr "url som prenumeranter kommer omdirigeras till efter aktivering"
 #: views/admin/offsite-wizard.php:16 views/admin/orders/loop.php:36
 #: views/admin/orders/loop.php:80 views/admin/orders/save.php:16
 #: views/admin/orders/view.php:35 views/admin/tinymce-dialog.php:209
-#: views/admin/widget-control.php:124 views/default/manage.php:10
-#: views/default/management/currentsubscriptions.php:1 wp-mailinglist.php:4677
+#: views/admin/widget-control.php:123 views/default/manage.php:10
+#: views/default/management/currentsubscriptions.php:1 wp-mailinglist.php:4685
 msgid "Mailing List"
 msgstr "E-postlista"
 
 #: js/tinymce/dialog.php:226 views/admin/tinymce-dialog.php:212
-#: views/admin/widget-control.php:41 views/admin/widget-control.php:126
+#: views/admin/widget-control.php:40 views/admin/widget-control.php:125
 msgid "Multiple Choice"
 msgstr "Multipla val"
 
 #: js/tinymce/dialog.php:227 views/admin/tinymce-dialog.php:213
-#: views/admin/widget-control.php:42 views/admin/widget-control.php:127
+#: views/admin/widget-control.php:41 views/admin/widget-control.php:126
 msgid "Show Select Drop Down"
 msgstr "Visa Drop Down för val"
 
 #: js/tinymce/dialog.php:228 views/admin/tinymce-dialog.php:214
-#: views/admin/widget-control.php:43 views/admin/widget-control.php:128
+#: views/admin/widget-control.php:42 views/admin/widget-control.php:127
 msgid "Show Checkbox List"
 msgstr "Visa kryssrutor"
 
-#: js/tinymce/dialog.php:235 views/admin/tinymce-dialog.php:218
-#: views/admin/widget-control.php:49 views/admin/widget-control.php:133
+#: js/tinymce/dialog.php:232 views/admin/tinymce-dialog.php:218
+#: views/admin/widget-control.php:48 views/admin/widget-control.php:132
 msgid "Specific Mailing List"
 msgstr "Speciell E-postlista"
 
-#: js/tinymce/dialog.php:242 views/admin/tinymce-dialog.php:225
+#: js/tinymce/dialog.php:239 views/admin/tinymce-dialog.php:225
 msgid "You can allow multiple choices or a specific mailinglist."
 msgstr "Du kan tillåta flera alternativ eller en specifik e-postlista"
 
-#: js/tinymce/dialog.php:246 views/admin/tinymce-dialog.php:229
+#: js/tinymce/dialog.php:243 views/admin/tinymce-dialog.php:229
 #, fuzzy
 msgid "Lists:"
 msgstr "Listor"
 
-#: js/tinymce/dialog.php:249 views/admin/tinymce-dialog.php:232
-#: views/admin/widget-control.php:63
+#: js/tinymce/dialog.php:246 views/admin/tinymce-dialog.php:232
+#: views/admin/widget-control.php:62
 msgid "Comma separated list IDs to show (eg. 11,3,7), leave empty for all."
 msgstr ""
 
-#: js/tinymce/dialog.php:263 views/admin/metaboxes/send-insert.php:47
+#: js/tinymce/dialog.php:260 views/admin/metaboxes/send-insert.php:46
 #: views/admin/tinymce-dialog.php:246
 #, fuzzy
 msgid "Language:"
 msgstr "Hantera"
 
-#: js/tinymce/dialog.php:276 views/admin/tinymce-dialog.php:259
+#: js/tinymce/dialog.php:273 views/admin/tinymce-dialog.php:259
 #, fuzzy
 msgid "Insert:"
 msgstr "Infoga"
 
-#: js/tinymce/dialog.php:278 views/admin/tinymce-dialog.php:261
+#: js/tinymce/dialog.php:275 views/admin/tinymce-dialog.php:261
 msgid "Single Post"
 msgstr "Enkelt inlägg"
 
-#: js/tinymce/dialog.php:279 views/admin/tinymce-dialog.php:262
+#: js/tinymce/dialog.php:276 views/admin/tinymce-dialog.php:262
 msgid "Multiple Posts"
 msgstr "Flera inlägg"
 
-#: js/tinymce/dialog.php:290 views/admin/metaboxes/send-insert.php:59
+#: js/tinymce/dialog.php:287 views/admin/metaboxes/send-insert.php:58
 #: views/admin/tinymce-dialog.php:273
 #, fuzzy
 msgid "Show Date:"
 msgstr "Skickat"
 
-#: js/tinymce/dialog.php:292 js/tinymce/dialog.php:350
+#: js/tinymce/dialog.php:289 js/tinymce/dialog.php:347
 #: views/admin/autoresponders/loop.php:169
 #: views/admin/autoresponders/save.php:53
 #: views/admin/autoresponders/save.php:68 views/admin/emails/loop.php:191
 #: views/admin/emails/loop.php:202 views/admin/emails/loop.php:207
-#: views/admin/fields/loop.php:187 views/admin/fields/save.php:134
+#: views/admin/fields/loop.php:187 views/admin/fields/save.php:133
 #: views/admin/history/loop.php:258 views/admin/import-export.php:230
 #: views/admin/import-export.php:291 views/admin/mailinglists/loop.php:191
 #: views/admin/mailinglists/loop.php:193 views/admin/mailinglists/save.php:55
 #: views/admin/mailinglists/save.php:98 views/admin/mailinglists/view.php:53
 #: views/admin/mailinglists/view.php:57
-#: views/admin/metaboxes/send-insert.php:60
+#: views/admin/metaboxes/send-insert.php:59
 #: views/admin/metaboxes/send-publish.php:6
 #: views/admin/metaboxes/settings-bounce.php:8
 #: views/admin/metaboxes/settings-bounce.php:37
 #: views/admin/metaboxes/settings-comments.php:7
-#: views/admin/metaboxes/settings-comments.php:76
-#: views/admin/metaboxes/settings-comments.php:91
-#: views/admin/metaboxes/settings-comments.php:154
+#: views/admin/metaboxes/settings-comments.php:75
+#: views/admin/metaboxes/settings-comments.php:90
+#: views/admin/metaboxes/settings-comments.php:152
 #: views/admin/metaboxes/settings-customcss.php:21
 #: views/admin/metaboxes/settings-customcss.php:29
 #: views/admin/metaboxes/settings-importusers.php:6
 #: views/admin/metaboxes/settings-importusers.php:36
+#: views/admin/metaboxes/settings-latestposts.php:230
+#: views/admin/metaboxes/settings-management.php:92
+#: views/admin/metaboxes/settings-management.php:100
+#: views/admin/metaboxes/settings-management.php:114
+#: views/admin/metaboxes/settings-management.php:123
+#: views/admin/metaboxes/settings-optin.php:49
+#: views/admin/metaboxes/settings-optin.php:60
+#: views/admin/metaboxes/settings-optin.php:68
+#: views/admin/metaboxes/settings-optin.php:105
+#: views/admin/metaboxes/settings-optin.php:113
+#: views/admin/metaboxes/settings-optin.php:124
+#: views/admin/metaboxes/settings-optin.php:132
+#: views/admin/metaboxes/settings-publishing.php:81
+#: views/admin/metaboxes/settings-scheduling.php:81
+#: views/admin/metaboxes/settings-sending.php:64
+#: views/admin/metaboxes/settings-sending.php:91
+#: views/admin/metaboxes/settings-sending.php:129
+#: views/admin/metaboxes/settings-subscribers.php:7
+#: views/admin/metaboxes/settings-subscribers.php:153
+#: views/admin/metaboxes/settings-subscribers.php:222
+#: views/admin/metaboxes/settings-subscriptions.php:53
+#: views/admin/metaboxes/settings-tc.php:23
+#: views/admin/metaboxes/settings-unsubscribe.php:17
+#: views/admin/metaboxes/settings-unsubscribe.php:169
+#: views/admin/metaboxes/settings-unsubscribe.php:184
+#: views/admin/metaboxes/settings-wprelated.php:42
+#: views/admin/metaboxes/settings-wprelated.php:64
+#: views/admin/offsite-wizard.php:39 views/admin/offsite-wizard.php:71
+#: views/admin/queues/loop.php:199 views/admin/subscribers/loop.php:189
+#: views/admin/subscribers/save.php:39 views/admin/subscribers/view.php:122
+#: views/admin/themes/save-ajax.php:160 views/admin/themes/save.php:145
+#: views/admin/tinymce-dialog.php:275 views/admin/tinymce-dialog.php:333
+#: views/admin/widget-control.php:80 views/admin/widget-control.php:91
+#: views/admin/widget-control.php:155 views/admin/widget-control.php:166
+#: views/default/manage.php:21 wp-mailinglist.php:4712
+msgid "Yes"
+msgstr "Ja"
+
+#: js/tinymce/dialog.php:290 js/tinymce/dialog.php:348
+#: views/admin/autoresponders/loop.php:171
+#: views/admin/autoresponders/save.php:54
+#: views/admin/autoresponders/save.php:69 views/admin/emails/loop.php:191
+#: views/admin/emails/loop.php:202 views/admin/emails/loop.php:207
+#: views/admin/fields/loop.php:187 views/admin/fields/save.php:133
+#: views/admin/history/loop.php:264 views/admin/import-export.php:231
+#: views/admin/import-export.php:292 views/admin/mailinglists/loop.php:191
+#: views/admin/mailinglists/loop.php:193 views/admin/mailinglists/save.php:56
+#: views/admin/mailinglists/save.php:98 views/admin/mailinglists/view.php:53
+#: views/admin/mailinglists/view.php:57
+#: views/admin/metaboxes/send-insert.php:60
+#: views/admin/metaboxes/send-publish.php:7
+#: views/admin/metaboxes/settings-bounce.php:9
+#: views/admin/metaboxes/settings-bounce.php:38
+#: views/admin/metaboxes/settings-comments.php:8
+#: views/admin/metaboxes/settings-comments.php:76
+#: views/admin/metaboxes/settings-comments.php:91
+#: views/admin/metaboxes/settings-comments.php:153
+#: views/admin/metaboxes/settings-customcss.php:22
+#: views/admin/metaboxes/settings-customcss.php:30
+#: views/admin/metaboxes/settings-importusers.php:7
+#: views/admin/metaboxes/settings-importusers.php:37
 #: views/admin/metaboxes/settings-latestposts.php:231
-#: views/admin/metaboxes/settings-management.php:94
-#: views/admin/metaboxes/settings-management.php:102
-#: views/admin/metaboxes/settings-management.php:116
-#: views/admin/metaboxes/settings-management.php:125
+#: views/admin/metaboxes/settings-management.php:93
+#: views/admin/metaboxes/settings-management.php:101
+#: views/admin/metaboxes/settings-management.php:115
+#: views/admin/metaboxes/settings-management.php:124
 #: views/admin/metaboxes/settings-optin.php:50
 #: views/admin/metaboxes/settings-optin.php:61
 #: views/admin/metaboxes/settings-optin.php:69
@@ -689,79 +750,18 @@ msgstr "Skickat"
 #: views/admin/metaboxes/settings-optin.php:125
 #: views/admin/metaboxes/settings-optin.php:133
 #: views/admin/metaboxes/settings-publishing.php:82
-#: views/admin/metaboxes/settings-scheduling.php:81
-#: views/admin/metaboxes/settings-sending.php:64
-#: views/admin/metaboxes/settings-sending.php:91
-#: views/admin/metaboxes/settings-sending.php:129
-#: views/admin/metaboxes/settings-subscribers.php:7
-#: views/admin/metaboxes/settings-subscribers.php:155
-#: views/admin/metaboxes/settings-subscribers.php:225
-#: views/admin/metaboxes/settings-subscriptions.php:53
-#: views/admin/metaboxes/settings-tc.php:23
-#: views/admin/metaboxes/settings-unsubscribe.php:17
-#: views/admin/metaboxes/settings-unsubscribe.php:172
-#: views/admin/metaboxes/settings-unsubscribe.php:187
-#: views/admin/metaboxes/settings-wprelated.php:42
-#: views/admin/metaboxes/settings-wprelated.php:64
-#: views/admin/offsite-wizard.php:39 views/admin/offsite-wizard.php:71
-#: views/admin/queues/loop.php:199 views/admin/subscribers/loop.php:189
-#: views/admin/subscribers/save.php:39 views/admin/subscribers/view.php:122
-#: views/admin/themes/save-ajax.php:160 views/admin/themes/save.php:145
-#: views/admin/tinymce-dialog.php:275 views/admin/tinymce-dialog.php:333
-#: views/admin/widget-control.php:81 views/admin/widget-control.php:92
-#: views/admin/widget-control.php:156 views/admin/widget-control.php:167
-#: views/default/manage.php:21 wp-mailinglist.php:4704
-msgid "Yes"
-msgstr "Ja"
-
-#: js/tinymce/dialog.php:293 js/tinymce/dialog.php:351
-#: views/admin/autoresponders/loop.php:171
-#: views/admin/autoresponders/save.php:54
-#: views/admin/autoresponders/save.php:69 views/admin/emails/loop.php:191
-#: views/admin/emails/loop.php:202 views/admin/emails/loop.php:207
-#: views/admin/fields/loop.php:187 views/admin/fields/save.php:134
-#: views/admin/history/loop.php:264 views/admin/import-export.php:231
-#: views/admin/import-export.php:292 views/admin/mailinglists/loop.php:191
-#: views/admin/mailinglists/loop.php:193 views/admin/mailinglists/save.php:56
-#: views/admin/mailinglists/save.php:98 views/admin/mailinglists/view.php:53
-#: views/admin/mailinglists/view.php:57
-#: views/admin/metaboxes/send-insert.php:61
-#: views/admin/metaboxes/send-publish.php:7
-#: views/admin/metaboxes/settings-bounce.php:9
-#: views/admin/metaboxes/settings-bounce.php:38
-#: views/admin/metaboxes/settings-comments.php:8
-#: views/admin/metaboxes/settings-comments.php:77
-#: views/admin/metaboxes/settings-comments.php:92
-#: views/admin/metaboxes/settings-comments.php:155
-#: views/admin/metaboxes/settings-customcss.php:22
-#: views/admin/metaboxes/settings-customcss.php:30
-#: views/admin/metaboxes/settings-importusers.php:7
-#: views/admin/metaboxes/settings-importusers.php:37
-#: views/admin/metaboxes/settings-latestposts.php:232
-#: views/admin/metaboxes/settings-management.php:95
-#: views/admin/metaboxes/settings-management.php:103
-#: views/admin/metaboxes/settings-management.php:117
-#: views/admin/metaboxes/settings-management.php:126
-#: views/admin/metaboxes/settings-optin.php:51
-#: views/admin/metaboxes/settings-optin.php:62
-#: views/admin/metaboxes/settings-optin.php:70
-#: views/admin/metaboxes/settings-optin.php:107
-#: views/admin/metaboxes/settings-optin.php:115
-#: views/admin/metaboxes/settings-optin.php:126
-#: views/admin/metaboxes/settings-optin.php:134
-#: views/admin/metaboxes/settings-publishing.php:83
 #: views/admin/metaboxes/settings-scheduling.php:82
 #: views/admin/metaboxes/settings-sending.php:65
 #: views/admin/metaboxes/settings-sending.php:92
 #: views/admin/metaboxes/settings-sending.php:130
 #: views/admin/metaboxes/settings-subscribers.php:8
-#: views/admin/metaboxes/settings-subscribers.php:156
-#: views/admin/metaboxes/settings-subscribers.php:226
+#: views/admin/metaboxes/settings-subscribers.php:154
+#: views/admin/metaboxes/settings-subscribers.php:223
 #: views/admin/metaboxes/settings-subscriptions.php:54
 #: views/admin/metaboxes/settings-tc.php:24
 #: views/admin/metaboxes/settings-unsubscribe.php:18
-#: views/admin/metaboxes/settings-unsubscribe.php:173
-#: views/admin/metaboxes/settings-unsubscribe.php:188
+#: views/admin/metaboxes/settings-unsubscribe.php:170
+#: views/admin/metaboxes/settings-unsubscribe.php:185
 #: views/admin/metaboxes/settings-wprelated.php:43
 #: views/admin/metaboxes/settings-wprelated.php:65
 #: views/admin/offsite-wizard.php:40 views/admin/offsite-wizard.php:72
@@ -769,95 +769,95 @@ msgstr "Ja"
 #: views/admin/subscribers/save.php:39 views/admin/subscribers/view.php:122
 #: views/admin/themes/save-ajax.php:161 views/admin/themes/save.php:146
 #: views/admin/tinymce-dialog.php:276 views/admin/tinymce-dialog.php:334
-#: views/admin/widget-control.php:82 views/admin/widget-control.php:93
-#: views/admin/widget-control.php:157 views/admin/widget-control.php:168
-#: views/default/manage.php:21 wp-mailinglist.php:4704
+#: views/admin/widget-control.php:81 views/admin/widget-control.php:92
+#: views/admin/widget-control.php:156 views/admin/widget-control.php:167
+#: views/default/manage.php:21 wp-mailinglist.php:4712
 msgid "No"
 msgstr "Nej"
 
-#: js/tinymce/dialog.php:294 views/admin/tinymce-dialog.php:277
+#: js/tinymce/dialog.php:291 views/admin/tinymce-dialog.php:277
 #, fuzzy
 msgid "Show the posted date for this post?"
 msgstr "Generera offsite kod för denna lista"
 
-#: js/tinymce/dialog.php:298 js/tinymce/dialog.php:356
+#: js/tinymce/dialog.php:295 js/tinymce/dialog.php:353
 #: views/admin/tinymce-dialog.php:281 views/admin/tinymce-dialog.php:339
 #, fuzzy
 msgid "Full/Excerpt:"
 msgstr "Hela inlägget eller bara utdrag"
 
-#: js/tinymce/dialog.php:300 js/tinymce/dialog.php:358
-#: js/tinymce/dialog.php:435 views/admin/metaboxes/send-insert.php:67
-#: views/admin/metaboxes/send-insert.php:181
+#: js/tinymce/dialog.php:297 js/tinymce/dialog.php:355
+#: js/tinymce/dialog.php:432 views/admin/metaboxes/send-insert.php:66
+#: views/admin/metaboxes/send-insert.php:180
 #: views/admin/tinymce-dialog.php:283 views/admin/tinymce-dialog.php:341
 #: views/admin/tinymce-dialog.php:418
 #, fuzzy
 msgid "Full"
 msgstr "Hela inlägget"
 
-#: js/tinymce/dialog.php:301 js/tinymce/dialog.php:359
+#: js/tinymce/dialog.php:298 js/tinymce/dialog.php:356
 #: views/admin/tinymce-dialog.php:284 views/admin/tinymce-dialog.php:342
 #, fuzzy
 msgid "Excerpt"
 msgstr "Inläggets utdrag"
 
-#: js/tinymce/dialog.php:302 views/admin/tinymce-dialog.php:285
+#: js/tinymce/dialog.php:299 views/admin/tinymce-dialog.php:285
 msgid "Insert a full post or the excerpt of a post."
 msgstr ""
 
-#: js/tinymce/dialog.php:306 views/admin/tinymce-dialog.php:289
+#: js/tinymce/dialog.php:303 views/admin/tinymce-dialog.php:289
 #, fuzzy
 msgid "Category:"
 msgstr "kategori"
 
-#: js/tinymce/dialog.php:308 views/admin/metaboxes/send-insert.php:92
+#: js/tinymce/dialog.php:305 views/admin/metaboxes/send-insert.php:91
 #: views/admin/tinymce-dialog.php:291
 msgid "- Select Category -"
 msgstr "- Välj Kategori -"
 
-#: js/tinymce/dialog.php:316 js/tinymce/dialog.php:397
+#: js/tinymce/dialog.php:313 js/tinymce/dialog.php:394
 #: views/admin/tinymce-dialog.php:299 views/admin/tinymce-dialog.php:380
 #, fuzzy
 msgid "Custom Post Types:"
 msgstr "Egna Fält"
 
-#: js/tinymce/dialog.php:321 js/tinymce/dialog.php:402
+#: js/tinymce/dialog.php:318 js/tinymce/dialog.php:399
 #: views/admin/tinymce-dialog.php:304 views/admin/tinymce-dialog.php:385
 msgid "Choose the custom post types to take posts from."
 msgstr "Välj vilken typ av egna inläggstyper som inlägg det ska tas ifrån"
 
-#: js/tinymce/dialog.php:326 views/admin/metaboxes/send-insert.php:103
+#: js/tinymce/dialog.php:323 views/admin/metaboxes/send-insert.php:102
 #: views/admin/tinymce-dialog.php:309
 #, fuzzy
 msgid "Choose Post:"
 msgstr "Välj Inlägg"
 
-#: js/tinymce/dialog.php:342 views/admin/tinymce-dialog.php:325
+#: js/tinymce/dialog.php:339 views/admin/tinymce-dialog.php:325
 #, fuzzy
 msgid "Number of Posts:"
 msgstr "Antal Inlägg"
 
-#: js/tinymce/dialog.php:348 views/admin/tinymce-dialog.php:331
+#: js/tinymce/dialog.php:345 views/admin/tinymce-dialog.php:331
 #, fuzzy
 msgid "Show Date"
 msgstr "Skickat"
 
-#: js/tinymce/dialog.php:352 views/admin/tinymce-dialog.php:335
+#: js/tinymce/dialog.php:349 views/admin/tinymce-dialog.php:335
 msgid "Show the posted date of each post?"
 msgstr "Visa datum för varje inlägg?"
 
-#: js/tinymce/dialog.php:360 views/admin/tinymce-dialog.php:343
+#: js/tinymce/dialog.php:357 views/admin/tinymce-dialog.php:343
 #, fuzzy
 msgid "Insert full posts or the excerpt of posts."
 msgstr "Hela inlägget eller bara utdrag"
 
-#: js/tinymce/dialog.php:364 js/tinymce/dialog.php:458
+#: js/tinymce/dialog.php:361 js/tinymce/dialog.php:455
 #: views/admin/tinymce-dialog.php:347 views/admin/tinymce-dialog.php:441
 #, fuzzy
 msgid "Order By:"
 msgstr "Sortera via"
 
-#: js/tinymce/dialog.php:367 js/tinymce/dialog.php:461
+#: js/tinymce/dialog.php:364 js/tinymce/dialog.php:458
 #: views/admin/autoresponderemails/loop.php:59
 #: views/admin/autoresponderemails/loop.php:102
 #: views/admin/autoresponders/loop.php:72
@@ -866,8 +866,8 @@ msgstr "Sortera via"
 #: views/admin/fields/loop.php:131 views/admin/groups/loop.php:43
 #: views/admin/groups/loop.php:67 views/admin/history/loop.php:95
 #: views/admin/history/loop.php:155 views/admin/links/loop.php:39
-#: views/admin/links/loop.php:57 views/admin/metaboxes/send-insert.php:131
-#: views/admin/metaboxes/settings-latestposts.php:188
+#: views/admin/links/loop.php:57 views/admin/metaboxes/send-insert.php:130
+#: views/admin/metaboxes/settings-latestposts.php:187
 #: views/admin/orders/loop.php:63 views/admin/orders/loop.php:106
 #: views/admin/posts.php:14 views/admin/posts.php:21
 #: views/admin/queues/loop.php:76 views/admin/queues/loop.php:127
@@ -879,149 +879,149 @@ msgstr "Sortera via"
 msgid "Date"
 msgstr "Datum"
 
-#: js/tinymce/dialog.php:368 views/admin/history/loop.php:87
+#: js/tinymce/dialog.php:365 views/admin/history/loop.php:87
 #: views/admin/history/loop.php:148 views/admin/history/view.php:67
-#: views/admin/metaboxes/send-insert.php:132
-#: views/admin/metaboxes/settings-latestposts.php:189
-#: views/admin/tinymce-dialog.php:351 wp-mailinglist.php:4751
+#: views/admin/metaboxes/send-insert.php:131
+#: views/admin/metaboxes/settings-latestposts.php:188
+#: views/admin/tinymce-dialog.php:351 wp-mailinglist.php:4759
 msgid "Author"
 msgstr "Författare"
 
-#: js/tinymce/dialog.php:369 views/admin/metaboxes/send-insert.php:133
+#: js/tinymce/dialog.php:366 views/admin/metaboxes/send-insert.php:132
 #: views/admin/tinymce-dialog.php:352
 msgid "Category"
 msgstr "kategori"
 
-#: js/tinymce/dialog.php:370 views/admin/metaboxes/send-insert.php:134
+#: js/tinymce/dialog.php:367 views/admin/metaboxes/send-insert.php:133
 #: views/admin/tinymce-dialog.php:353
 msgid "Post Content"
 msgstr "Innehåll i Inlägg"
 
-#: js/tinymce/dialog.php:371 views/admin/metaboxes/send-insert.php:135
+#: js/tinymce/dialog.php:368 views/admin/metaboxes/send-insert.php:134
 #: views/admin/tinymce-dialog.php:354
 msgid "Post ID"
 msgstr "Inläggs ID"
 
-#: js/tinymce/dialog.php:372 views/admin/metaboxes/send-insert.php:136
-#: views/admin/metaboxes/settings-latestposts.php:193
+#: js/tinymce/dialog.php:369 views/admin/metaboxes/send-insert.php:135
+#: views/admin/metaboxes/settings-latestposts.php:192
 #: views/admin/tinymce-dialog.php:355
 msgid "Menu Order"
 msgstr "Menyorder"
 
-#: js/tinymce/dialog.php:373 views/admin/metaboxes/send-insert.php:137
+#: js/tinymce/dialog.php:370 views/admin/metaboxes/send-insert.php:136
 #: views/admin/tinymce-dialog.php:356
 msgid "Post Title"
 msgstr "Titel för Inlägg"
 
-#: js/tinymce/dialog.php:374 views/admin/metaboxes/send-insert.php:138
+#: js/tinymce/dialog.php:371 views/admin/metaboxes/send-insert.php:137
 #: views/admin/tinymce-dialog.php:357
 msgid "Random Order"
 msgstr "Slumpmässig sortering"
 
-#: js/tinymce/dialog.php:379 js/tinymce/dialog.php:468
+#: js/tinymce/dialog.php:376 js/tinymce/dialog.php:465
 #: views/admin/tinymce-dialog.php:362 views/admin/tinymce-dialog.php:451
 #, fuzzy
 msgid "Order Direction:"
 msgstr "Riktning för sortering"
 
-#: js/tinymce/dialog.php:382 js/tinymce/dialog.php:471
+#: js/tinymce/dialog.php:379 js/tinymce/dialog.php:468
 #: views/admin/tinymce-dialog.php:365 views/admin/tinymce-dialog.php:454
 msgid "Descending (new to old/Z to A/Large to Small)"
 msgstr "Fallande (ny till gammal/Ö till A/Stor till Liten)"
 
-#: js/tinymce/dialog.php:383 js/tinymce/dialog.php:472
+#: js/tinymce/dialog.php:380 js/tinymce/dialog.php:469
 #: views/admin/tinymce-dialog.php:366 views/admin/tinymce-dialog.php:455
 msgid "Ascending (old to new/A to Z/Small to Large)"
 msgstr "Stigande (gammal till ny/A till Ö/Liten till Stor)"
 
-#: js/tinymce/dialog.php:388 views/admin/metaboxes/send-insert.php:148
+#: js/tinymce/dialog.php:385 views/admin/metaboxes/send-insert.php:147
 #: views/admin/tinymce-dialog.php:371
 #, fuzzy
 msgid "Posts Category:"
 msgstr "Inläggskategorier"
 
-#: js/tinymce/dialog.php:390 views/admin/metaboxes/send-insert.php:149
+#: js/tinymce/dialog.php:387 views/admin/metaboxes/send-insert.php:148
 #: views/admin/tinymce-dialog.php:373
 msgid "- All Categories -"
 msgstr "- Alla Kategorier -"
 
-#: js/tinymce/dialog.php:418 views/admin/metaboxes/send-insert.php:170
+#: js/tinymce/dialog.php:415 views/admin/metaboxes/send-insert.php:169
 #: views/admin/tinymce-dialog.php:401
 #, fuzzy
 msgid "Post ID:"
 msgstr "Inläggs ID"
 
-#: js/tinymce/dialog.php:423 views/admin/tinymce-dialog.php:406
+#: js/tinymce/dialog.php:420 views/admin/tinymce-dialog.php:406
 msgid "Featured image post ID. Leave empty for current post."
 msgstr ""
 
-#: js/tinymce/dialog.php:428 views/admin/tinymce-dialog.php:411
+#: js/tinymce/dialog.php:425 views/admin/tinymce-dialog.php:411
 msgid "Size:"
 msgstr ""
 
-#: js/tinymce/dialog.php:433 views/admin/metaboxes/send-insert.php:179
+#: js/tinymce/dialog.php:430 views/admin/metaboxes/send-insert.php:178
 #: views/admin/tinymce-dialog.php:416
 msgid "Medium"
 msgstr ""
 
-#: js/tinymce/dialog.php:434 views/admin/metaboxes/send-insert.php:180
+#: js/tinymce/dialog.php:431 views/admin/metaboxes/send-insert.php:179
 #: views/admin/tinymce-dialog.php:417
 msgid "Large"
 msgstr ""
 
-#: js/tinymce/dialog.php:438 views/admin/tinymce-dialog.php:421
+#: js/tinymce/dialog.php:435 views/admin/tinymce-dialog.php:421
 msgid "Preferred size of the image."
 msgstr ""
 
-#: js/tinymce/dialog.php:451 views/admin/tinymce-dialog.php:434
+#: js/tinymce/dialog.php:448 views/admin/tinymce-dialog.php:434
 #, fuzzy
 msgid "Number of Emails:"
 msgstr "Antal objekt"
 
-#: js/tinymce/dialog.php:454 views/admin/tinymce-dialog.php:437
+#: js/tinymce/dialog.php:451 views/admin/tinymce-dialog.php:437
 #, fuzzy
 msgid "Leave empty for unlimited/all emails."
 msgstr "Lämna tomt för obegränsade"
 
-#: js/tinymce/dialog.php:462 views/admin/history/view.php:34
+#: js/tinymce/dialog.php:459 views/admin/history/view.php:34
 #: views/admin/metaboxes/settings-latestposts.php:68
-#: views/admin/metaboxes/templates/bounce.php:17
-#: views/admin/metaboxes/templates/confirm.php:17
-#: views/admin/metaboxes/templates/expire.php:17
-#: views/admin/metaboxes/templates/order.php:17
-#: views/admin/metaboxes/templates/schedule.php:17
-#: views/admin/metaboxes/templates/subscribe.php:17
-#: views/admin/metaboxes/templates/unsubscribe.php:17
-#: views/admin/metaboxes/templates/unsubscribeuser.php:17
+#: views/admin/metaboxes/templates/bounce.php:16
+#: views/admin/metaboxes/templates/confirm.php:16
+#: views/admin/metaboxes/templates/expire.php:16
+#: views/admin/metaboxes/templates/order.php:16
+#: views/admin/metaboxes/templates/schedule.php:16
+#: views/admin/metaboxes/templates/subscribe.php:16
+#: views/admin/metaboxes/templates/unsubscribe.php:16
+#: views/admin/metaboxes/templates/unsubscribeuser.php:16
 #: views/admin/tinymce-dialog.php:445
 msgid "Email Subject"
 msgstr "Rubrik för E-post"
 
-#: js/tinymce/dialog.php:463 views/admin/templates/view.php:43
+#: js/tinymce/dialog.php:460 views/admin/templates/view.php:43
 #: views/admin/tinymce-dialog.php:446
 msgid "Times Sent"
 msgstr "Tid skickad"
 
-#: js/tinymce/dialog.php:477 views/admin/tinymce-dialog.php:460
+#: js/tinymce/dialog.php:474 views/admin/tinymce-dialog.php:460
 #, fuzzy
 msgid "Mailing List(s):"
 msgstr "E-postlistor"
 
-#: js/tinymce/dialog.php:480 views/admin/tinymce-dialog.php:463
+#: js/tinymce/dialog.php:477 views/admin/tinymce-dialog.php:463
 #, fuzzy
 msgid "- All Mailing Lists -"
 msgstr "Alla e-postlistor"
 
-#: js/tinymce/dialog.php:487 views/admin/tinymce-dialog.php:470
+#: js/tinymce/dialog.php:484 views/admin/tinymce-dialog.php:470
 msgid "You can select multiple mailing lists by holding CTRL key."
 msgstr ""
 "Du kan välja fler listor genom att hålla nere CTRL tangenten och klicka."
 
-#: js/tinymce/dialog.php:500 views/admin/tinymce-dialog.php:483
+#: js/tinymce/dialog.php:497 views/admin/tinymce-dialog.php:483
 msgid "Snippet:"
 msgstr ""
 
-#: js/tinymce/dialog.php:510 views/admin/tinymce-dialog.php:493
+#: js/tinymce/dialog.php:507 views/admin/tinymce-dialog.php:493
 #, fuzzy
 msgid "- Select Template -"
 msgstr "- Välj Roll -"
@@ -1066,12 +1066,12 @@ msgstr "Vänligen fyll i en licensnyckel"
 #: models/bounce.php:126 models/email.php:90 models/group.php:59
 #: models/latestpost.php:61 models/subscriber.php:623 models/theme.php:127
 #: models/unsubscribe.php:83 wp-mailinglist-plugin.php:830
-#: wp-mailinglist-plugin.php:884 wp-mailinglist.php:5107
+#: wp-mailinglist-plugin.php:884 wp-mailinglist.php:5115
 msgid "No data was posted"
 msgstr "Inget data postades"
 
 #: models/autoresponderemail.php:79 models/autoresponders_list.php:60
-#: wp-mailinglist.php:2807
+#: wp-mailinglist.php:2806
 #, fuzzy
 msgid "No autoresponder was specified."
 msgstr "Inget beställnings ID specificerades"
@@ -1120,8 +1120,8 @@ msgstr "Vänligen välj en filtyp"
 msgid "Please specify content"
 msgstr "Vänligen fyll i innehåll"
 
-#: models/email.php:85 models/subscribers_list.php:363 wp-mailinglist.php:3515
-#: wp-mailinglist.php:3532
+#: models/email.php:85 models/subscribers_list.php:363 wp-mailinglist.php:3514
+#: wp-mailinglist.php:3531
 msgid "No subscriber was specified"
 msgstr "Ingen prenumerant specificerades"
 
@@ -1136,7 +1136,7 @@ msgstr "Inget historiskt objekt specificerades"
 #: models/field.php:83 views/admin/import-export.php:83
 #: views/admin/subscribers/loop.php:78 views/admin/subscribers/loop.php:135
 #: views/admin/subscribers/save.php:10 views/admin/subscribers/view.php:35
-#: wp-mailinglist.php:4062 wp-mailinglist.php:4676
+#: wp-mailinglist.php:4070 wp-mailinglist.php:4684
 msgid "Email Address"
 msgstr "E-postadress"
 
@@ -1150,57 +1150,57 @@ msgstr "Vänligen fyll i en e-postadress"
 msgid "Please select a list"
 msgstr "Vänligen välj e-postlista/listor"
 
-#: models/field.php:377 models/field.php:382 models/mailinglist.php:365
+#: models/field.php:375 models/field.php:380 models/mailinglist.php:365
 #: models/template.php:153 models/theme.php:76
 msgid "Please fill in a title"
 msgstr "Vänligen fyll i en rubrik"
 
-#: models/field.php:379 models/field.php:383
+#: models/field.php:377 models/field.php:381
 #, fuzzy
 msgid "You cannot create an email custom field."
 msgstr "Skapa ett nytt eget fält"
 
-#: models/field.php:384
+#: models/field.php:382
 msgid "This title is too long, please keep below 64 characters."
 msgstr "Denna titel är för lång, vänligen använd under 64 tecken."
 
-#: models/field.php:387
+#: models/field.php:385
 #, fuzzy
 msgid "Please fill in a slug/nicename for this custom field."
 msgstr "Vänligen fyll i ett belopp för denna beställning"
 
-#: models/field.php:388
+#: models/field.php:386
 #, fuzzy
 msgid ""
 "A custom field with this slug already exists, please choose a different one."
 msgstr "Ett eget fält med denna titel existerar redan, vänligen ändra."
 
-#: models/field.php:390
+#: models/field.php:388
 msgid "Please choose a required status"
 msgstr "Vänligen välj en nödvändig status"
 
-#: models/field.php:393
+#: models/field.php:391
 msgid "Please fill in an error message"
 msgstr "Vänligen fyll i ett errormeddelande"
 
-#: models/field.php:397
+#: models/field.php:395
 #, fuzzy
 msgid "Please choose the display for this field."
 msgstr "Vänligen välj en typ för fält"
 
-#: models/field.php:399
+#: models/field.php:397
 msgid "Please choose a field type"
 msgstr "Vänligen välj en typ för fält"
 
-#: models/field.php:403 models/field.php:425
+#: models/field.php:401 models/field.php:423
 msgid "Please fill in some options"
 msgstr "Vänligen fyll i ett par alternativ"
 
-#: models/field.php:536
+#: models/field.php:534
 msgid "Please fill in "
 msgstr "Vänligen fyll i"
 
-#: models/fields_list.php:135 wp-mailinglist.php:5186
+#: models/fields_list.php:135 wp-mailinglist.php:5194
 msgid "No field was specified"
 msgstr "Inget fält specificerades"
 
@@ -1225,7 +1225,7 @@ msgstr "Inget historik objekt specificerades"
 
 #: models/histories_attachment.php:67 models/histories_list.php:62
 #: models/order.php:147 models/subscribers_list.php:364
-#: wp-mailinglist.php:3156 wp-mailinglist.php:3170 wp-mailinglist.php:3250
+#: wp-mailinglist.php:3155 wp-mailinglist.php:3169 wp-mailinglist.php:3249
 msgid "No mailing list was specified"
 msgstr "Ingen e-postlista specificerades"
 
@@ -1233,11 +1233,11 @@ msgstr "Ingen e-postlista specificerades"
 msgid "No history record was specified"
 msgstr "Inget historik objekt specificerades"
 
-#: models/history.php:502 models/queue.php:207 wp-mailinglist-plugin.php:4515
+#: models/history.php:502 models/queue.php:207 wp-mailinglist-plugin.php:4893
 msgid "No subject specified"
 msgstr "Ingen rubrik specificerad"
 
-#: models/history.php:503 models/queue.php:209 wp-mailinglist-plugin.php:4516
+#: models/history.php:503 models/queue.php:209 wp-mailinglist-plugin.php:4894
 msgid "No message specified"
 msgstr "Inget meddelande specificerat"
 
@@ -1295,12 +1295,12 @@ msgstr "Vänligen fyll i ett produkt ID för denna beställning"
 msgid "Please specify an order number for this order"
 msgstr "Vänligen fyll i ett order nummer för denna beställning"
 
-#: models/order.php:217 wp-mailinglist.php:5072
+#: models/order.php:217 wp-mailinglist.php:5080
 msgid "Order could not be removed"
 msgstr "Beställning kunde inte raderas"
 
-#: models/order.php:221 wp-mailinglist.php:5040 wp-mailinglist.php:5063
-#: wp-mailinglist.php:5075
+#: models/order.php:221 wp-mailinglist.php:5048 wp-mailinglist.php:5071
+#: wp-mailinglist.php:5083
 msgid "No order ID was specified"
 msgstr "Inget beställnings ID specificerades"
 
@@ -1320,7 +1320,7 @@ msgstr "Inget inlägg specificerades"
 msgid "No sent status was specified"
 msgstr "Ingen skickat status specificerades"
 
-#: models/queue.php:206 wp-mailinglist-plugin.php:4514
+#: models/queue.php:206 wp-mailinglist-plugin.php:4892
 msgid "No subscriber specified"
 msgstr "Ingen prenumerant specificerad"
 
@@ -1374,7 +1374,7 @@ msgstr ""
 msgid "Please fill in a valid email address"
 msgstr "Vänligen fyll i en giltig e-postadress"
 
-#: models/subscriber.php:686 wp-mailinglist.php:2231 wp-mailinglist.php:3273
+#: models/subscriber.php:686 wp-mailinglist.php:2230 wp-mailinglist.php:3272
 msgid "Please select mailing list(s)"
 msgstr "Vänligen välj e-postlista/listor"
 
@@ -1440,8 +1440,8 @@ msgstr "Ditt tema saknar[wpmlcontent] taggen"
 msgid "Already exists"
 msgstr ""
 
-#: models/unsubscribe.php:76 wp-mailinglist.php:4562 wp-mailinglist.php:4574
-#: wp-mailinglist.php:4597
+#: models/unsubscribe.php:76 wp-mailinglist.php:4570 wp-mailinglist.php:4582
+#: wp-mailinglist.php:4605
 msgid "No history email was specified"
 msgstr "Inget meddelande i historiken specifierades"
 
@@ -1609,56 +1609,54 @@ msgid ""
 msgstr ""
 
 #: views/admin/about.php:30
-msgid "Easier Editing Tools"
+msgid "WPML integration"
 msgstr ""
 
 #: views/admin/about.php:31
 msgid ""
-"Improved visual editing of themes and several other areas throughout the "
-"plugin to help you see better what the end-product will look like without "
-"having to necessarily go into code."
+"This version of the Newsletter plugin is fully integrated with WPML. It now "
+"supports internationalization and multilanguage through WPML."
 msgstr ""
 
-#: views/admin/about.php:35 views/admin/settings/api.php:11
+#: views/admin/about.php:37 views/admin/settings/api.php:11
 msgid "JSON API"
 msgstr ""
 
-#: views/admin/about.php:36
+#: views/admin/about.php:38
 msgid ""
 "The JSON API is a direct bridge and communication channel between any code "
 "or application and the Newsletter plugin itself, including it's database."
 msgstr ""
 
-#: views/admin/about.php:46 views/admin/metaboxes/settings-sending.php:32
-#: wp-mailinglist-plugin.php:1486 wp-mailinglist.php:1922
-msgid "Spam Score"
+#: views/admin/about.php:48
+msgid "Clicks section in admin"
 msgstr ""
 
-#: views/admin/about.php:47
+#: views/admin/about.php:49
 msgid ""
-"Prevent your emails from ending up in spam/junk folder unnecessarily. The "
-"spam score utility will show on each newsletter you create to give the "
-"newsletter a score, taking all it's aspects and factors in consideration."
+"A new clicks section in admin to view and manage all clicks on links. You "
+"can view all links and clicks per individual subscriber and all clicks per "
+"link."
 msgstr ""
 
-#: views/admin/about.php:51
-msgid "Sorry to see you go email"
-msgstr ""
+#: views/admin/about.php:55
+#, fuzzy
+msgid "Filter Subscribers"
+msgstr "Spara Prenumerant"
 
-#: views/admin/about.php:52
+#: views/admin/about.php:56
 msgid ""
-"The plugin can automatically send a \"Sorry to see you go...\" email to a "
-"user when they unsubscribe to both confirm their subscription, express your "
-"disappointment that they are leaving and it also includes a resubscribe link "
-"to convert."
+"You can now filter subscribers per mailinglist, status and registered "
+"status. After filtering your subscribers, you can activate or deactivate "
+"them, assign them to another mailinglist or delete them."
 msgstr ""
 
-#: views/admin/about.php:59
+#: views/admin/about.php:64
 #, fuzzy
 msgid "New Extensions"
 msgstr "Hantera Beställningar"
 
-#: views/admin/about.php:63
+#: views/admin/about.php:68
 msgid ""
 "This extension plugin allows you to capture Newsletter plugin subscribers "
 "from your 3rd party Digital Access Pass application/platform. As customers "
@@ -1666,82 +1664,82 @@ msgid ""
 "added as subscribers."
 msgstr ""
 
-#: views/admin/about.php:68
+#: views/admin/about.php:73
 msgid ""
 "WooCommerce Subscribers is a free extension plugin to capture email "
 "subscribers from your WooCommerce plugin checkout procedure into your "
 "Newsletter plugin."
 msgstr ""
 
-#: views/admin/about.php:73
+#: views/admin/about.php:78
 msgid ""
 "Google Analytics helps you analyze visitor traffic and paint a complete "
 "picture of your audience and their needs, wherever they are along the path."
 msgstr ""
 
-#: views/admin/about.php:83
+#: views/admin/about.php:88
 #, fuzzy
 msgid "Auto import users"
 msgstr "Importera automatiskt WordPress användare"
 
-#: views/admin/about.php:84
+#: views/admin/about.php:89
 msgid ""
 "The new auto import user function prevent unsubscribe/bounce emails and "
 "users from importing again."
 msgstr ""
 
-#: views/admin/about.php:85
+#: views/admin/about.php:90
 #, fuzzy
 msgid "WordPress Object Cache API"
 msgstr "WordPress Relaterat"
 
-#: views/admin/about.php:86
+#: views/admin/about.php:91
 msgid ""
 "peed up the plugin with the WordPress Object Cache API which is now built in "
 "to cache queries through the WordPress database object."
 msgstr ""
 
-#: views/admin/about.php:89
+#: views/admin/about.php:94
 msgid "Edit themes directly while creating a newsletter"
 msgstr ""
 
-#: views/admin/about.php:90
+#: views/admin/about.php:95
 msgid ""
 "You can now edit a theme directly as you are busy creating a newsletter."
 msgstr ""
 
-#: views/admin/about.php:92
+#: views/admin/about.php:97
 #, fuzzy
 msgid "Paid subscriptions immediate payment"
 msgstr "Betald Prenumeration"
 
-#: views/admin/about.php:93
+#: views/admin/about.php:98
 msgid ""
 "This function allow paid subscribers to pay immediately for a subscription "
 "and not being redirect and ask to confirm on email."
 msgstr ""
 
-#: views/admin/about.php:96
+#: views/admin/about.php:101
 msgid "Auto save information while creating a newsletter"
 msgstr ""
 
-#: views/admin/about.php:97
+#: views/admin/about.php:102
 msgid ""
 "Auto save information inserted into a newsletter while busy creating it."
 msgstr ""
 
-#: views/admin/about.php:99
+#: views/admin/about.php:104
 msgid "More Hooks"
 msgstr ""
 
-#: views/admin/about.php:100
+#: views/admin/about.php:105
 msgid ""
 "We've added more action and filter hooks to the core of the plugin which can "
 "be used by developers to integrate their own apps or 3rd party plugins as "
 "needed. If you need specific hooks, please contact us and we'll add it."
 msgstr ""
 
-#: views/admin/about.php:108
+#: views/admin/about.php:113
 #, fuzzy
 msgid "Go to Newsletters overview"
 msgstr "Förhandsvisning av Nyhetsbrev tema"
@@ -1836,7 +1834,7 @@ msgstr "Volym Åtgärder"
 #: views/admin/history/loop.php:177 views/admin/history/view.php:18
 #: views/admin/links/loop.php:10 views/admin/links/loop.php:76
 #: views/admin/mailinglists/loop.php:176 views/admin/mailinglists/view.php:10
-#: views/admin/metaboxes/settings-subscribers.php:236
+#: views/admin/metaboxes/settings-subscribers.php:233
 #: views/admin/orders/loop.php:7 views/admin/orders/loop.php:129
 #: views/admin/orders/view.php:11 views/admin/posts.php:40
 #: views/admin/queues/loop.php:10 views/admin/queues/loop.php:169
@@ -1872,14 +1870,14 @@ msgstr "Tillämpa"
 #: views/admin/groups/loop.php:54 views/admin/history/loop.php:40
 #: views/admin/history/loop.php:109 views/admin/mailinglists/loop.php:60
 #: views/admin/mailinglists/loop.php:114
-#: views/admin/metaboxes/settings-latestposts.php:187
+#: views/admin/metaboxes/settings-latestposts.php:186
 #: views/admin/orders/loop.php:30 views/admin/orders/loop.php:74
 #: views/admin/posts.php:12 views/admin/posts.php:19
 #: views/admin/queues/loop.php:35 views/admin/queues/loop.php:87
 #: views/admin/subscribers/loop.php:67 views/admin/subscribers/loop.php:126
 #: views/admin/templates/loop.php:30 views/admin/templates/loop.php:60
 #: views/admin/themes/loop.php:30 views/admin/themes/loop.php:53
-#: wp-mailinglist.php:4061
+#: wp-mailinglist.php:4069
 msgid "ID"
 msgstr "ID"
 
@@ -1929,7 +1927,7 @@ msgstr "framtida väntante meddelanden via autosvar "
 #: views/admin/autoresponderemails/loop.php:147
 #: views/admin/mailinglists/loop.php:214
 #: views/admin/metaboxes/send-mailinglists.php:36
-#: views/admin/metaboxes/settings-latestposts.php:219
+#: views/admin/metaboxes/settings-latestposts.php:218
 #: views/admin/subscribers/loop.php:195 views/admin/subscribers/view.php:48
 msgid "active"
 msgstr "aktiv"
@@ -2065,15 +2063,15 @@ msgstr "Deaktivera"
 
 #: views/admin/autoresponders/loop.php:41
 #: views/admin/autoresponders/loop.php:89 views/admin/fields/loop.php:50
-#: views/admin/fields/loop.php:99 views/admin/fields/save.php:24
+#: views/admin/fields/loop.php:99 views/admin/fields/save.php:23
 #: views/admin/groups/loop.php:36 views/admin/groups/loop.php:60
 #: views/admin/groups/view.php:26 views/admin/mailinglists/loop.php:67
 #: views/admin/mailinglists/loop.php:120 views/admin/mailinglists/view.php:28
-#: views/admin/metaboxes/settings-latestposts.php:190
+#: views/admin/metaboxes/settings-latestposts.php:189
 #: views/admin/templates/loop.php:36 views/admin/templates/loop.php:66
 #: views/admin/templates/view.php:31 views/admin/themes/loop.php:36
 #: views/admin/themes/loop.php:59 views/admin/themes/save-ajax.php:33
-#: views/admin/themes/save.php:18 views/admin/widget-control.php:118
+#: views/admin/themes/save.php:18 views/admin/widget-control.php:117
 msgid "Title"
 msgstr "Titel"
 
@@ -2190,7 +2188,7 @@ msgstr "Fyll i namn/titel för detta autosvar för identifikation."
 #: views/admin/emails/loop.php:92 views/admin/history/view.php:38
 #: views/admin/import-export.php:22 views/admin/import-export.php:73
 #: views/admin/import-export.php:256
-#: views/admin/metaboxes/settings-latestposts.php:212
+#: views/admin/metaboxes/settings-latestposts.php:211
 #: views/admin/subscribers/loop.php:92 views/admin/subscribers/loop.php:147
 #: views/admin/subscribers/save.php:18 views/admin/subscribers/view.php:39
 msgid "Mailing List(s)"
@@ -2317,9 +2315,9 @@ msgstr ""
 #: views/admin/metaboxes/settings-importusers.php:56
 #: views/admin/metaboxes/settings-sending.php:80
 #: views/admin/metaboxes/system/captcha.php:63 views/admin/orders/save.php:20
-#: views/admin/orders/save.php:47 wp-mailinglist-plugin.php:3350
-#: wp-mailinglist-plugin.php:3373 wp-mailinglist-widget.php:84
-#: wp-mailinglist-widget.php:169
+#: views/admin/orders/save.php:47 wp-mailinglist-plugin.php:3733
+#: wp-mailinglist-plugin.php:3756 wp-mailinglist-widget.php:83
+#: wp-mailinglist-widget.php:173
 msgid "- Select -"
 msgstr "- Välj -"
 
@@ -2388,8 +2386,8 @@ msgstr ""
 
 #: views/admin/autoresponders/save.php:166
 #: views/admin/metaboxes/send-theme.php:4
-#: views/admin/metaboxes/settings-latestposts.php:288
-#: views/admin/metaboxes/write-advanced.php:30
+#: views/admin/metaboxes/settings-latestposts.php:287
+#: views/admin/metaboxes/write-advanced.php:29
 msgid "NONE"
 msgstr "INGEN"
 
@@ -2663,7 +2661,7 @@ msgid "Bounced"
 msgstr "Studsar"
 
 #: views/admin/emails/loop.php:67 views/admin/emails/loop.php:117
-#: wp-mailinglist.php:4679
+#: wp-mailinglist.php:4687
 msgid "Sent Date"
 msgstr "Skickat"
 
@@ -2735,7 +2733,7 @@ msgid "Exporting Now"
 msgstr "Importera"
 
 #: views/admin/export-post.php:110 views/admin/import-export.php:248
-#: wp-mailinglist.php:4159
+#: wp-mailinglist.php:4167
 #, fuzzy
 msgid "Download CSV"
 msgstr "Nedladdnings sektion"
@@ -2843,7 +2841,7 @@ msgid "Order Fields"
 msgstr "Sortera Fält"
 
 #: views/admin/fields/loop.php:18 views/admin/fields/loop.php:70
-#: views/admin/fields/loop.php:119 views/admin/fields/save.php:132
+#: views/admin/fields/loop.php:119 views/admin/fields/save.php:131
 msgid "Required"
 msgstr "Nödvändig"
 
@@ -2871,7 +2869,7 @@ msgid "Shortcode"
 msgstr "shortcodes/variabler</a> i mallar."
 
 #: views/admin/fields/loop.php:76 views/admin/fields/loop.php:125
-#: views/admin/fields/save.php:148
+#: views/admin/fields/save.php:147
 msgid "Validation"
 msgstr ""
 
@@ -2904,30 +2902,30 @@ msgstr "&larr; Hantera alla Fält"
 msgid "Drag and drop the custom fields below to order them."
 msgstr "Dra och släpp egna fält nedan för att sortera dom"
 
-#: views/admin/fields/save.php:15
+#: views/admin/fields/save.php:14
 msgid "Save a Custom Field"
 msgstr "Spara Eget Fält"
 
-#: views/admin/fields/save.php:49
+#: views/admin/fields/save.php:48
 msgid ""
 "Title/name for this custom field as it will be displayed on subscribe forms."
 msgstr ""
 "Titel/namn för detta egna fält som det kommer visas på anmälningsformulär"
 
-#: views/admin/fields/save.php:55
+#: views/admin/fields/save.php:54
 msgid "Slug/Nicename"
 msgstr "Kortnamn"
 
-#: views/admin/fields/save.php:62
+#: views/admin/fields/save.php:61
 msgid "Only use letters, lowercase, no spaces or other characters, please."
 msgstr "Använd bara bokstäver, gemener, inga mellanslag eller andra tecken."
 
-#: views/admin/fields/save.php:69
+#: views/admin/fields/save.php:68
 msgid "Caption/Description"
 msgstr "Rubrik/Beskrivning"
 
-#: views/admin/fields/save.php:96 views/admin/fields/save.php:127
-#: views/admin/fields/save.php:242 views/admin/fields/save.php:262
+#: views/admin/fields/save.php:95 views/admin/fields/save.php:126
+#: views/admin/fields/save.php:241 views/admin/fields/save.php:261
 #: views/admin/mailinglists/save.php:79 views/admin/mailinglists/save.php:143
 #: views/admin/metaboxes/send-publish.php:72
 #: views/default/unsubscribe-user.php:36 views/default/unsubscribe.php:85
@@ -2935,94 +2933,94 @@ msgstr "Rubrik/Beskrivning"
 msgid "(optional)"
 msgstr "extra"
 
-#: views/admin/fields/save.php:96
+#: views/admin/fields/save.php:95
 #, fuzzy
 msgid "Give this field a descriptive caption/notation for subscribers to see."
 msgstr ""
 "Extra. Ge detta fält en beskrivande rubrik/notering för prenumeranter att se."
 
-#: views/admin/fields/save.php:100
+#: views/admin/fields/save.php:99
 msgid "Watermark"
 msgstr "Vattenstämpel"
 
-#: views/admin/fields/save.php:127
+#: views/admin/fields/save.php:126
 msgid ""
 "Watermark to show inside the input field which will disappear when the field "
 "is clicked on."
 msgstr ""
 "Vattenstämpel att visa i fältet som kommer gömmas när fältet klickas på."
 
-#: views/admin/fields/save.php:164
+#: views/admin/fields/save.php:163
 #, fuzzy
 msgid "Custom Regex"
 msgstr "Egen"
 
-#: views/admin/fields/save.php:167
+#: views/admin/fields/save.php:166
 #, php-format
 msgid "Specify a custom PHP regular expression, eg. %s"
 msgstr ""
 
-#: views/admin/fields/save.php:177
+#: views/admin/fields/save.php:176
 msgid "Error Message"
 msgstr "Felmeddelande"
 
-#: views/admin/fields/save.php:204
+#: views/admin/fields/save.php:203
 msgid "Error message which will be displayed when the field is left empty"
 msgstr "Felmeddelande som ska visas när fältet lämnats tomt"
 
-#: views/admin/fields/save.php:215
+#: views/admin/fields/save.php:214
 msgid "Field Type"
 msgstr "Fält Typ"
 
-#: views/admin/fields/save.php:239
+#: views/admin/fields/save.php:238
 #, fuzzy
 msgid "Alowed File Types"
 msgstr "Fil typ"
 
-#: views/admin/fields/save.php:242
+#: views/admin/fields/save.php:241
 #, php-format
 msgid "A comma separated (no spaces) list of allowed file extensions eg. %s"
 msgstr ""
 
-#: views/admin/fields/save.php:246
+#: views/admin/fields/save.php:245
 msgid "File Size Limit"
 msgstr ""
 
-#: views/admin/fields/save.php:257
+#: views/admin/fields/save.php:256
 msgid "Bytes (B)"
 msgstr ""
 
-#: views/admin/fields/save.php:258
+#: views/admin/fields/save.php:257
 msgid "Kilobytes (KB)"
 msgstr ""
 
-#: views/admin/fields/save.php:259
+#: views/admin/fields/save.php:258
 msgid "Megabytes (MB)"
 msgstr ""
 
-#: views/admin/fields/save.php:260
+#: views/admin/fields/save.php:259
 msgid "Gigabytes (GB)"
 msgstr ""
 
-#: views/admin/fields/save.php:262
+#: views/admin/fields/save.php:261
 msgid "Specify the maximum size that files are allowed to be when uploading."
 msgstr ""
 
-#: views/admin/fields/save.php:273
+#: views/admin/fields/save.php:272
 msgid "Field Options"
 msgstr "Fält Alternativ"
 
-#: views/admin/fields/save.php:297
+#: views/admin/fields/save.php:296
 msgid ""
 "Place each option on a new line and add the same number of options for each "
 "language."
 msgstr ""
 
-#: views/admin/fields/save.php:301
+#: views/admin/fields/save.php:300
 msgid "Place each option on a newline"
 msgstr "Placera varje alternativ på en egen rad"
 
-#: views/admin/fields/save.php:303
+#: views/admin/fields/save.php:302
 msgid ""
 "Removing options or changing the order will affect existing subscribers. "
 "Rather just add options below the current ones."
@@ -3030,53 +3028,53 @@ msgstr ""
 "Att ta bort alternativ eller ändra ordning kommer påverka existerande "
 "prenumeranter. Lägg hellre till nya alternativ efter de befintliga."
 
-#: views/admin/fields/save.php:316
+#: views/admin/fields/save.php:315
 #, fuzzy
 msgid "Display"
 msgstr "Visar"
 
-#: views/admin/fields/save.php:318
+#: views/admin/fields/save.php:317
 msgid "Always show"
 msgstr ""
 
-#: views/admin/fields/save.php:319
+#: views/admin/fields/save.php:318
 #, fuzzy
 msgid "Specific list(s)"
 msgstr "Speciell E-postlista"
 
-#: views/admin/fields/save.php:320
+#: views/admin/fields/save.php:319
 msgid "Should this field always show or only for specific mailing list(s)?"
 msgstr ""
 
-#: views/admin/fields/save.php:336
-#: views/admin/metaboxes/settings-latestposts.php:116
-#: views/admin/metaboxes/settings-latestposts.php:143
-#: views/admin/metaboxes/settings-latestposts.php:215
-#: views/admin/metaboxes/write-advanced.php:54 wp-mailinglist-plugin.php:286
+#: views/admin/fields/save.php:335
+#: views/admin/metaboxes/settings-latestposts.php:115
+#: views/admin/metaboxes/settings-latestposts.php:142
+#: views/admin/metaboxes/settings-latestposts.php:214
+#: views/admin/metaboxes/write-advanced.php:53 wp-mailinglist-plugin.php:286
 msgid "Select All"
 msgstr "Välj Alla"
 
-#: views/admin/fields/save.php:346 views/admin/mailinglists/loop.php:158
+#: views/admin/fields/save.php:345 views/admin/mailinglists/loop.php:158
 msgid "No mailing lists were found"
 msgstr "Inga e-postlistor hittades"
 
-#: views/admin/fields/save.php:358
+#: views/admin/fields/save.php:357
 msgid "Save Custom Field"
 msgstr "Spara Eget Fält"
 
-#: views/admin/fields/save.php:382
+#: views/admin/fields/save.php:381
 msgid "Enter field title/name here"
 msgstr "Lägg till namn för fältet här"
 
-#: views/admin/fields/save.php:383
+#: views/admin/fields/save.php:382
 msgid "Enter field slug for database and shortcodes use here"
 msgstr "Skriv in ett kortnamn för databas och shortcodes här"
 
-#: views/admin/fields/save.php:384
+#: views/admin/fields/save.php:383
 msgid "Enter a caption/description to show below the field here"
 msgstr "Skriv in en rubrik/beskrivning för fältet här"
 
-#: views/admin/fields/save.php:385
+#: views/admin/fields/save.php:384
 msgid "Enter watermark text here"
 msgstr "Skriv in text för vattenstämpel här"
 
@@ -3109,9 +3107,9 @@ msgid "Delete Selected"
 msgstr "Radera vald"
 
 #: views/admin/groups/loop.php:40 views/admin/groups/loop.php:64
-#: views/admin/groups/view.php:30 views/admin/widget-control.php:61
-#: wp-mailinglist-widget.php:100 wp-mailinglist-widget.php:185
-#: wp-mailinglist.php:4749
+#: views/admin/groups/view.php:30 views/admin/widget-control.php:60
+#: wp-mailinglist-widget.php:99 wp-mailinglist-widget.php:189
+#: wp-mailinglist.php:4757
 msgid "Lists"
 msgstr "Listor"
 
@@ -3203,14 +3201,14 @@ msgstr "Värde"
 #: views/admin/groups/view.php:36 views/admin/history/view.php:134
 #: views/admin/mailinglists/view.php:87 views/admin/orders/view.php:53
 #: views/admin/subscribers/view.php:136 views/admin/templates/view.php:35
-#: wp-mailinglist.php:4071 wp-mailinglist.php:4755
+#: wp-mailinglist.php:4079 wp-mailinglist.php:4763
 msgid "Created"
 msgstr "Skapad"
 
 #: views/admin/groups/view.php:40 views/admin/history/view.php:138
 #: views/admin/mailinglists/view.php:91 views/admin/orders/view.php:57
 #: views/admin/subscribers/view.php:140 views/admin/templates/view.php:39
-#: wp-mailinglist.php:4072 wp-mailinglist.php:4756
+#: wp-mailinglist.php:4080 wp-mailinglist.php:4764
 msgid "Modified"
 msgstr "Modifierad"
 
@@ -3286,14 +3284,14 @@ msgid "Clear"
 msgstr "Rensa Kö"
 
 #: views/admin/history/loop.php:47 views/admin/history/loop.php:115
-#: wp-mailinglist.php:4748
+#: wp-mailinglist.php:4756
 msgid "Subject"
 msgstr "Ärende"
 
 #: views/admin/history/loop.php:56 views/admin/history/loop.php:122
 #: views/admin/history/view.php:54 views/admin/metaboxes/system/captcha.php:58
 #: views/admin/queues/loop.php:57 views/admin/queues/loop.php:108
-#: wp-mailinglist.php:1927 wp-mailinglist.php:4750
+#: wp-mailinglist.php:1926 wp-mailinglist.php:4758
 msgid "Theme"
 msgstr "Tema"
 
@@ -3307,8 +3305,8 @@ msgid "Recurring"
 msgstr "hemlig sträng"
 
 #: views/admin/history/loop.php:79 views/admin/history/loop.php:141
-#: views/admin/metaboxes/send-insert.php:78
-#: views/admin/metaboxes/settings-latestposts.php:119 views/admin/posts.php:13
+#: views/admin/metaboxes/send-insert.php:77
+#: views/admin/metaboxes/settings-latestposts.php:118 views/admin/posts.php:13
 #: views/admin/posts.php:20
 #, fuzzy
 msgid "Post"
@@ -3346,7 +3344,7 @@ msgstr ""
 #: views/admin/history/loop.php:194 views/admin/mailinglists/loop.php:188
 #: views/admin/mailinglists/view.php:37 views/admin/subscribers/loop.php:202
 #: views/admin/subscribers/loop.php:221 views/admin/subscribers/view.php:56
-#: views/admin/subscribers/view.php:86 wp-mailinglist-plugin.php:3575
+#: views/admin/subscribers/view.php:86 wp-mailinglist-plugin.php:3958
 msgid "none"
 msgstr "ingen"
 
@@ -3367,7 +3365,7 @@ msgstr ""
 msgid "Scheduled"
 msgstr "Detaljer för Schema"
 
-#: views/admin/history/loop.php:250 wp-mailinglist-plugin.php:5432
+#: views/admin/history/loop.php:250 wp-mailinglist-plugin.php:5808
 msgid "Draft"
 msgstr "Utkast"
 
@@ -3412,7 +3410,7 @@ msgstr "Skicka detta meddelande igen eller editera utkastet"
 
 #: views/admin/history/view.php:17 views/admin/history/view.php:150
 #: views/admin/metaboxes/settings-sending.php:23
-#: views/admin/themes/loop.php:91 wp-mailinglist.php:1937
+#: views/admin/themes/loop.php:91
 msgid "Preview"
 msgstr "Förhandsvisning"
 
@@ -3430,8 +3428,8 @@ msgid "From"
 msgstr "Från Namn"
 
 #: views/admin/history/view.php:60 views/admin/metaboxes/send-theme.php:10
-#: views/admin/metaboxes/settings-latestposts.php:290
-#: views/admin/metaboxes/write-advanced.php:38
+#: views/admin/metaboxes/settings-latestposts.php:289
+#: views/admin/metaboxes/write-advanced.php:37
 #, fuzzy, php-format
 msgid "Edit Theme: %s"
 msgstr "E-posta Tema"
@@ -3454,11 +3452,11 @@ msgid "Are you sure you want to remove this attachment?"
 msgstr "Är du säker du vill radera detta tema?"
 
 #: views/admin/history/view.php:146 views/admin/subscribers/view.php:13
-#: views/admin/subscribers/view.php:109 wp-mailinglist.php:4753
+#: views/admin/subscribers/view.php:109 wp-mailinglist.php:4761
 msgid "Emails Sent"
 msgstr "Meddelanden Skickade"
 
-#: views/admin/history/view.php:153 wp-mailinglist.php:1932
+#: views/admin/history/view.php:153 wp-mailinglist.php:1931
 msgid "TEXT Version"
 msgstr ""
 
@@ -3466,7 +3464,7 @@ msgstr ""
 msgid "HTML Version"
 msgstr ""
 
-#: views/admin/import-export.php:6 wp-mailinglist.php:1857
+#: views/admin/import-export.php:6 wp-mailinglist.php:1856
 msgid "Import/Export Subscribers"
 msgstr "Importera/exportera Prenumeranter"
 
@@ -3485,15 +3483,15 @@ msgstr "CSV/vCard fil"
 #: views/admin/import-export.php:29 views/admin/import-export.php:263
 #: views/admin/subscribers/index.php:7 views/admin/subscribers/loop.php:30
 #: views/admin/subscribers/loop.php:261 views/admin/subscribers/save.php:24
-#: wp-mailinglist.php:3640
+#: wp-mailinglist.php:3639
 msgid "subscribers"
 msgstr "prenumeranter"
 
 #: views/admin/import-export.php:33
-#: views/admin/metaboxes/settings-comments.php:179
+#: views/admin/metaboxes/settings-comments.php:177
 #: views/admin/metaboxes/settings-importusers.php:28
-#: views/admin/metaboxes/settings-latestposts.php:223
-#: views/admin/metaboxes/write-advanced.php:63
+#: views/admin/metaboxes/settings-latestposts.php:222
+#: views/admin/metaboxes/write-advanced.php:62
 #: views/admin/subscribers/loop.php:34
 msgid "No mailing lists are available"
 msgstr "Inga e-postlistor är tillgängliga"
@@ -3603,7 +3601,7 @@ msgstr ""
 
 #: views/admin/import-export.php:194
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:6
-#: wp-mailinglist.php:1995
+#: wp-mailinglist.php:1994
 #, fuzzy
 msgid "Confirmation Email"
 msgstr "Konfiguration"
@@ -3772,7 +3770,7 @@ msgid "Are you sure you want to apply this action to the selected links?"
 msgstr "Är du säker du vill utföra denna handling för valda teman?"
 
 #: views/admin/links/loop.php:5 views/admin/links/loop.php:36
-#: views/admin/links/loop.php:54 wp-mailinglist.php:1848
+#: views/admin/links/loop.php:54 wp-mailinglist.php:1847
 msgid "Clicks"
 msgstr ""
 
@@ -3817,7 +3815,7 @@ msgid ""
 msgstr "Är du säker du vill tillämpa denna åtgärd för valda e-postlistor?"
 
 #: views/admin/mailinglists/loop.php:8 views/admin/mailinglists/loop.php:86
-#: views/admin/mailinglists/loop.php:136 wp-mailinglist-plugin.php:5433
+#: views/admin/mailinglists/loop.php:136 wp-mailinglist-plugin.php:5809
 msgid "Private"
 msgstr "Privat"
 
@@ -3891,50 +3889,50 @@ msgid "Add Subscriber"
 msgstr "Prenumerant"
 
 #: views/admin/mailinglists/loop.php:198 views/admin/mailinglists/view.php:70
-#: wp-mailinglist-plugin.php:5144 wp-mailinglist-plugin.php:5396
+#: wp-mailinglist-plugin.php:5522 wp-mailinglist-plugin.php:5774
 msgid "Daily"
 msgstr "Dagligen"
 
 #: views/admin/mailinglists/loop.php:199 views/admin/mailinglists/view.php:71
-#: wp-mailinglist-plugin.php:5145 wp-mailinglist-plugin.php:5397
+#: wp-mailinglist-plugin.php:5523 wp-mailinglist-plugin.php:5775
 msgid "Weekly"
 msgstr "Veckovis"
 
 #: views/admin/mailinglists/loop.php:200 views/admin/mailinglists/view.php:72
-#: wp-mailinglist-plugin.php:5146 wp-mailinglist-plugin.php:5398
+#: wp-mailinglist-plugin.php:5524 wp-mailinglist-plugin.php:5776
 msgid "Monthly"
 msgstr "Månadsvis"
 
 #: views/admin/mailinglists/loop.php:201 views/admin/mailinglists/view.php:73
-#: wp-mailinglist-plugin.php:5147 wp-mailinglist-plugin.php:5399
+#: wp-mailinglist-plugin.php:5525 wp-mailinglist-plugin.php:5777
 #, fuzzy
 msgid "Every Two Months"
 msgstr "Varje 2:a minut"
 
 #: views/admin/mailinglists/loop.php:202 views/admin/mailinglists/view.php:74
-#: wp-mailinglist-plugin.php:5148 wp-mailinglist-plugin.php:5400
+#: wp-mailinglist-plugin.php:5526 wp-mailinglist-plugin.php:5778
 #, fuzzy
 msgid "Every Three Months"
 msgstr "Varje 2:a minut"
 
 #: views/admin/mailinglists/loop.php:203 views/admin/mailinglists/view.php:75
-#: wp-mailinglist-plugin.php:5149 wp-mailinglist-plugin.php:5401
+#: wp-mailinglist-plugin.php:5527 wp-mailinglist-plugin.php:5779
 msgid "Twice Yearly (Six Months)"
 msgstr ""
 
 #: views/admin/mailinglists/loop.php:204 views/admin/mailinglists/view.php:76
-#: wp-mailinglist-plugin.php:5150 wp-mailinglist-plugin.php:5402
+#: wp-mailinglist-plugin.php:5528 wp-mailinglist-plugin.php:5780
 #, fuzzy
 msgid "Every Nine Months"
 msgstr "Varje 2:a minut"
 
 #: views/admin/mailinglists/loop.php:205 views/admin/mailinglists/view.php:77
-#: wp-mailinglist-plugin.php:5151 wp-mailinglist-plugin.php:5403
+#: wp-mailinglist-plugin.php:5529 wp-mailinglist-plugin.php:5781
 msgid "Yearly"
 msgstr "Årsvis"
 
 #: views/admin/mailinglists/loop.php:206 views/admin/mailinglists/view.php:78
-#: wp-mailinglist-plugin.php:5152 wp-mailinglist-plugin.php:5404
+#: wp-mailinglist-plugin.php:5530 wp-mailinglist-plugin.php:5782
 msgid "Once Off"
 msgstr ""
 
@@ -4189,7 +4187,7 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/send-insert.php:34
-#: views/admin/metaboxes/send-insert.php:165
+#: views/admin/metaboxes/send-insert.php:164
 #, fuzzy
 msgid "Insert Posts"
 msgstr "Infoga"
@@ -4206,61 +4204,61 @@ msgstr ""
 msgid "Single"
 msgstr "Enkelt inlägg"
 
-#: views/admin/metaboxes/send-insert.php:40 wp-mailinglist-widget.php:85
-#: wp-mailinglist-widget.php:170
+#: views/admin/metaboxes/send-insert.php:40 wp-mailinglist-widget.php:84
+#: wp-mailinglist-widget.php:174
 #, fuzzy
 msgid "Multiple"
 msgstr "Flera inlägg"
 
-#: views/admin/metaboxes/send-insert.php:55
+#: views/admin/metaboxes/send-insert.php:54
 msgid ""
-"Since you are using qTranslate, choose the language of the post(s) that you "
-"want to use in the newsletter."
+"Since you are using multilingual, choose the language of the post(s) that "
+"you want to use in the newsletter."
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:62
+#: views/admin/metaboxes/send-insert.php:61
 msgid "Choose whether or not to show the published date of the post."
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:66
+#: views/admin/metaboxes/send-insert.php:65
 #, fuzzy
 msgid "Display:"
 msgstr "Visar"
 
-#: views/admin/metaboxes/send-insert.php:68
+#: views/admin/metaboxes/send-insert.php:67
 #, fuzzy
 msgid "Excerpt/Short"
 msgstr "Inläggets utdrag"
 
-#: views/admin/metaboxes/send-insert.php:69
+#: views/admin/metaboxes/send-insert.php:68
 msgid ""
 "Do you want to display the full post or an excerpt of the post? Note that "
 "the excerpt is a short version of the first few characters of the post and "
 "all HTML will be stripped from it."
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:76
+#: views/admin/metaboxes/send-insert.php:75
 #, fuzzy
 msgid "Post Type:"
 msgstr "Titel för Inlägg"
 
-#: views/admin/metaboxes/send-insert.php:83
+#: views/admin/metaboxes/send-insert.php:82
 msgid ""
 "Since you have custom post types available, this menu is showing. Choose the "
 "post type to fetch posts from."
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:91
+#: views/admin/metaboxes/send-insert.php:90
 #, fuzzy
 msgid "Post Category:"
 msgstr "Inläggskategorier"
 
-#: views/admin/metaboxes/send-insert.php:95
+#: views/admin/metaboxes/send-insert.php:94
 msgid ""
 "Select a post category to narrow down posts by category for easier selection."
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:104
+#: views/admin/metaboxes/send-insert.php:103
 msgid ""
 "Click on a post below to insert it into your newsletter or use the "
 "checkboxes (you can select a range by holding Shift and clicking) to tick "
@@ -4268,75 +4266,75 @@ msgid ""
 "the selected posts."
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:106
+#: views/admin/metaboxes/send-insert.php:105
 msgid "Choose all settings above."
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:114
+#: views/admin/metaboxes/send-insert.php:113
 #, fuzzy
 msgid "Page:"
 msgstr "Sida"
 
-#: views/admin/metaboxes/send-insert.php:118
+#: views/admin/metaboxes/send-insert.php:117
 #, fuzzy
 msgid "Insert Page"
 msgstr "Nästa Sida"
 
-#: views/admin/metaboxes/send-insert.php:123
+#: views/admin/metaboxes/send-insert.php:122
 #, fuzzy
 msgid "Number:"
 msgstr "Kolumn"
 
-#: views/admin/metaboxes/send-insert.php:125
+#: views/admin/metaboxes/send-insert.php:124
 #, fuzzy
 msgid "Number"
 msgstr "Beställningsnummer"
 
-#: views/admin/metaboxes/send-insert.php:129
+#: views/admin/metaboxes/send-insert.php:128
 #, fuzzy
 msgid "Order:"
 msgstr "Sortera via"
 
-#: views/admin/metaboxes/send-insert.php:141
-#: views/admin/metaboxes/settings-latestposts.php:180
+#: views/admin/metaboxes/send-insert.php:140
+#: views/admin/metaboxes/settings-latestposts.php:179
 #, fuzzy
 msgid "Ascending"
 msgstr "Avvaktande"
 
-#: views/admin/metaboxes/send-insert.php:142
-#: views/admin/metaboxes/settings-latestposts.php:181
+#: views/admin/metaboxes/send-insert.php:141
+#: views/admin/metaboxes/settings-latestposts.php:180
 #, fuzzy
 msgid "Descending"
 msgstr "Avvaktande"
 
-#: views/admin/metaboxes/send-insert.php:144
+#: views/admin/metaboxes/send-insert.php:143
 #, fuzzy
 msgid "Order"
 msgstr "Sortera via"
 
-#: views/admin/metaboxes/send-insert.php:155
+#: views/admin/metaboxes/send-insert.php:154
 #, fuzzy
 msgid "Post Types:"
 msgstr "Egna Fält"
 
-#: views/admin/metaboxes/send-insert.php:172
+#: views/admin/metaboxes/send-insert.php:171
 msgid "Specify the ID of the post"
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:176
+#: views/admin/metaboxes/send-insert.php:175
 msgid "Thumbnail Size:"
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:185
+#: views/admin/metaboxes/send-insert.php:184
 msgid "Insert Thumbnail"
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:318
+#: views/admin/metaboxes/send-insert.php:317
 #, fuzzy
 msgid "Insert Snippets"
 msgstr "Infoga i Editorn"
 
-#: views/admin/metaboxes/send-insert.php:318
+#: views/admin/metaboxes/send-insert.php:317
 msgid ""
 "Below are all your email snippets. Click on the snippet to insert it into "
 "the newsletter and the shortcode will be replaced with the content of the "
@@ -4344,12 +4342,12 @@ msgid ""
 "snippet into the editor in full."
 msgstr ""
 
-#: views/admin/metaboxes/send-insert.php:327
+#: views/admin/metaboxes/send-insert.php:326
 #, fuzzy
 msgid "Load into Editor"
 msgstr "Infoga i Editorn"
 
-#: views/admin/metaboxes/send-insert.php:332
+#: views/admin/metaboxes/send-insert.php:331
 #, fuzzy
 msgid "No email snippets available."
 msgstr "Inga e-postlistor är tillgängliga"
@@ -4462,13 +4460,13 @@ msgid "ALL"
 msgstr "ALLA"
 
 #: views/admin/metaboxes/send-mailinglists.php:182
-#: wp-mailinglist-plugin.php:3466
+#: wp-mailinglist-plugin.php:3849
 #, fuzzy
 msgid "- Select Country -"
 msgstr "Välj Land"
 
 #: views/admin/metaboxes/send-mailinglists.php:195
-#: wp-mailinglist-plugin.php:3515
+#: wp-mailinglist-plugin.php:3898
 #, fuzzy
 msgid "- Select Gender -"
 msgstr "Välj kön"
@@ -4491,12 +4489,12 @@ msgid ""
 "conditions and other selections made."
 msgstr ""
 
-#: views/admin/metaboxes/send-mailinglists.php:317
+#: views/admin/metaboxes/send-mailinglists.php:322
 #, fuzzy
 msgid "loading subscriber count..."
 msgstr "Inga prenumeranter hittades"
 
-#: views/admin/metaboxes/send-mailinglists.php:322
+#: views/admin/metaboxes/send-mailinglists.php:327
 #, fuzzy
 msgid "No subscribers available."
 msgstr "Prenumerant är inte tillgänglig"
@@ -4521,28 +4519,32 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/send-preview.php:4
+msgid "Open in New Window"
+msgstr ""
+
+#: views/admin/metaboxes/send-preview.php:5
 #, fuzzy
 msgid "Update Preview"
 msgstr "Förhandsvisning"
 
-#: views/admin/metaboxes/send-preview.php:9
+#: views/admin/metaboxes/send-preview.php:10
 #, fuzzy
 msgid ""
 "Nothing to show yet, please add a subject, content and choose at least one "
 "mailing list."
 msgstr "Utkast kunde inte sparas, vänligen välj minst en e-postlista"
 
-#: views/admin/metaboxes/send-preview.php:59
+#: views/admin/metaboxes/send-preview.php:60
 msgid "Draft saved at"
 msgstr ""
 
-#: views/admin/metaboxes/send-publish.php:4 wp-mailinglist.php:1942
+#: views/admin/metaboxes/send-publish.php:4 wp-mailinglist.php:1941
 msgid "Publish as Post"
 msgstr "Publicera som inlägg"
 
 #: views/admin/metaboxes/send-publish.php:17
-#: views/admin/metaboxes/settings-latestposts.php:99
-#: views/admin/metaboxes/settings-latestposts.php:137
+#: views/admin/metaboxes/settings-latestposts.php:98
+#: views/admin/metaboxes/settings-latestposts.php:136
 msgid "Post Categories"
 msgstr "Inläggskategorier"
 
@@ -4715,7 +4717,7 @@ msgid "Queue Newsletter"
 msgstr "Köa Nyhetsbrev"
 
 #: views/admin/metaboxes/send-submit.php:231
-#: views/admin/metaboxes/send-submit.php:253 wp-mailinglist.php:1928
+#: views/admin/metaboxes/send-submit.php:253 wp-mailinglist.php:1927
 msgid "Send Newsletter"
 msgstr "Skicka Nyhetsbrev"
 
@@ -4919,7 +4921,7 @@ msgstr ""
 msgid "Comments Checkbox Label"
 msgstr "Rubrik för kryssruta"
 
-#: views/admin/metaboxes/settings-comments.php:70
+#: views/admin/metaboxes/settings-comments.php:69
 #, fuzzy
 msgid ""
 "Type a label/caption to display for the checkbox which your commentors will "
@@ -4927,58 +4929,58 @@ msgid ""
 msgstr ""
 "skriv in en rubrik/titel för kryssrutan som dina kommentatörer kommer se."
 
-#: views/admin/metaboxes/settings-comments.php:74
+#: views/admin/metaboxes/settings-comments.php:73
 msgid "Auto Check Checkbox"
 msgstr "Förhandsfyll kryssruta"
 
-#: views/admin/metaboxes/settings-comments.php:78
+#: views/admin/metaboxes/settings-comments.php:77
 msgid "automatically check the checkbox on the comment form."
 msgstr "kryssa automatiskt i kryssrytan i kommentars formuläret"
 
-#: views/admin/metaboxes/settings-comments.php:88
+#: views/admin/metaboxes/settings-comments.php:87
 msgid "Registration Checkbox"
 msgstr "Kryssruta för registrering"
 
-#: views/admin/metaboxes/settings-comments.php:96
+#: views/admin/metaboxes/settings-comments.php:95
 msgid "WordPress registration is currently deactivated"
 msgstr "WordPress registrering är för närvarande avaktiverat"
 
-#: views/admin/metaboxes/settings-comments.php:99
+#: views/admin/metaboxes/settings-comments.php:98
 msgid "Turn this on to place a subscribe checkbox on the registration form."
 msgstr ""
 "Aktivera detta val för att placera en kryssruta för att anmäla sig på "
 "registreringsformuläret."
 
-#: views/admin/metaboxes/settings-comments.php:109
+#: views/admin/metaboxes/settings-comments.php:108
 #, fuzzy
 msgid "Registration Checkbox Label"
 msgstr "Kryssruta för registrering"
 
-#: views/admin/metaboxes/settings-comments.php:147
+#: views/admin/metaboxes/settings-comments.php:145
 msgid "Label/caption text next to the checkbox on the registration form."
 msgstr "Titel för kryssrutan bredvid registreringsformuläret."
 
-#: views/admin/metaboxes/settings-comments.php:151
+#: views/admin/metaboxes/settings-comments.php:149
 msgid "Auto check to subscribe"
 msgstr "Välj automatiskt att prenumerera"
 
-#: views/admin/metaboxes/settings-comments.php:156
+#: views/admin/metaboxes/settings-comments.php:154
 msgid "Should the subscribe checkbox be ticked/checked by default or not?"
 msgstr ""
 
-#: views/admin/metaboxes/settings-comments.php:160
+#: views/admin/metaboxes/settings-comments.php:158
 #, fuzzy
 msgid "Registration List(s)"
 msgstr "Standard lista för registrering"
 
-#: views/admin/metaboxes/settings-comments.php:161
+#: views/admin/metaboxes/settings-comments.php:159
 msgid ""
 "New users will be subscribed to the chosen list(s) upon successful "
 "registration. The subscribe will only happen if the subscribe checkbox was "
 "ticked/checked by the user accordingly."
 msgstr ""
 
-#: views/admin/metaboxes/settings-comments.php:177
+#: views/admin/metaboxes/settings-comments.php:175
 #, fuzzy
 msgid "To which list(s) should new users be subscribed upon registration?"
 msgstr "url som prenumeranter kommer omdirigeras till efter aktivering"
@@ -5102,11 +5104,11 @@ msgstr ""
 #: views/admin/metaboxes/settings-sending.php:34
 #: views/admin/metaboxes/settings-subscriptions.php:15
 #: views/admin/metaboxes/settings-subscriptions.php:44
-#: views/admin/metaboxes/settings-unsubscribe.php:157
-#: views/admin/metaboxes/settings-unsubscribe.php:197
-#: views/admin/metaboxes/settings-unsubscribe.php:227
-#: wp-mailinglist-widget.php:118 wp-mailinglist-widget.php:127
-#: wp-mailinglist-widget.php:203 wp-mailinglist-widget.php:209
+#: views/admin/metaboxes/settings-unsubscribe.php:154
+#: views/admin/metaboxes/settings-unsubscribe.php:194
+#: views/admin/metaboxes/settings-unsubscribe.php:224
+#: wp-mailinglist-widget.php:117 wp-mailinglist-widget.php:126
+#: wp-mailinglist-widget.php:207 wp-mailinglist-widget.php:213
 msgid "On"
 msgstr "På"
 
@@ -5123,11 +5125,11 @@ msgstr "På"
 #: views/admin/metaboxes/settings-sending.php:35
 #: views/admin/metaboxes/settings-subscriptions.php:16
 #: views/admin/metaboxes/settings-subscriptions.php:45
-#: views/admin/metaboxes/settings-unsubscribe.php:158
-#: views/admin/metaboxes/settings-unsubscribe.php:198
-#: views/admin/metaboxes/settings-unsubscribe.php:228
-#: wp-mailinglist-widget.php:119 wp-mailinglist-widget.php:128
-#: wp-mailinglist-widget.php:204 wp-mailinglist-widget.php:210
+#: views/admin/metaboxes/settings-unsubscribe.php:155
+#: views/admin/metaboxes/settings-unsubscribe.php:195
+#: views/admin/metaboxes/settings-unsubscribe.php:225
+#: wp-mailinglist-widget.php:118 wp-mailinglist-widget.php:127
+#: wp-mailinglist-widget.php:208 wp-mailinglist-widget.php:214
 msgid "Off"
 msgstr "Av"
 
@@ -5540,48 +5542,50 @@ msgstr "Antal Inlägg"
 msgid "only new posts will be sent out and each post not more than once."
 msgstr "bara nya inlägg kommer skickas ut och endast en gång"
 
-#: views/admin/metaboxes/settings-latestposts.php:86
+#: views/admin/metaboxes/settings-latestposts.php:85
 #: views/admin/metaboxes/write-advanced.php:4
-msgid "qTranslate Language"
-msgstr "qÖversätt Språk"
+#, fuzzy
+msgid "Language"
+msgstr "Hantera"
 
-#: views/admin/metaboxes/settings-latestposts.php:91
-msgid "Choose the qTranslate language part which should be used for the posts."
+#: views/admin/metaboxes/settings-latestposts.php:90
+#, fuzzy
+msgid "Choose the language part which should be used for the posts."
 msgstr "Välj vilket qTranslate språk som ska användas för detta inlägg."
 
-#: views/admin/metaboxes/settings-latestposts.php:97
+#: views/admin/metaboxes/settings-latestposts.php:96
 #, fuzzy
 msgid "Take Posts From"
 msgstr "Senaste Inlägg från"
 
-#: views/admin/metaboxes/settings-latestposts.php:100
-#: views/admin/metaboxes/settings-latestposts.php:112
+#: views/admin/metaboxes/settings-latestposts.php:99
+#: views/admin/metaboxes/settings-latestposts.php:111
 #, fuzzy
 msgid "Custom Post Types"
 msgstr "Egna Fält"
 
-#: views/admin/metaboxes/settings-latestposts.php:101
+#: views/admin/metaboxes/settings-latestposts.php:100
 msgid ""
 "Should posts be regular posts in categories or posts from custom post types?"
 msgstr "Ska inlägg vara standard från kategorier eller från egna inläggstyper?"
 
-#: views/admin/metaboxes/settings-latestposts.php:126
+#: views/admin/metaboxes/settings-latestposts.php:125
 msgid "Tick/check custom post types to take posts from for sending."
 msgstr "Välj egna inläggstyper för att sända från dessa."
 
-#: views/admin/metaboxes/settings-latestposts.php:151
+#: views/admin/metaboxes/settings-latestposts.php:150
 msgid "categories for posts to be taken from."
 msgstr "kategorier för att ta inlägg ifrån"
 
-#: views/admin/metaboxes/settings-latestposts.php:153
+#: views/admin/metaboxes/settings-latestposts.php:152
 msgid "No categories are available"
 msgstr "Inga kategorier tillgängliga"
 
-#: views/admin/metaboxes/settings-latestposts.php:164
+#: views/admin/metaboxes/settings-latestposts.php:163
 msgid "Exclude Posts"
 msgstr "Exkludera inlägg"
 
-#: views/admin/metaboxes/settings-latestposts.php:167
+#: views/admin/metaboxes/settings-latestposts.php:166
 msgid ""
 "optional. comma separated post IDs to exclude from the latest posts "
 "subscription email."
@@ -5589,101 +5593,101 @@ msgstr ""
 "extra. kommaseparerade inläggs ID som ska exkluderas från prenumerationen "
 "för senaste inlägg."
 
-#: views/admin/metaboxes/settings-latestposts.php:171
+#: views/admin/metaboxes/settings-latestposts.php:170
 #, fuzzy
 msgid "Order Posts"
 msgstr "Infoga"
 
-#: views/admin/metaboxes/settings-latestposts.php:183
+#: views/admin/metaboxes/settings-latestposts.php:182
 #: views/admin/metaboxes/system/captcha.php:169
 #: views/admin/offsite-wizard.php:55
 msgid "by"
 msgstr "av"
 
-#: views/admin/metaboxes/settings-latestposts.php:191
+#: views/admin/metaboxes/settings-latestposts.php:190
 #, fuzzy
 msgid "Parent"
 msgstr "Valuta"
 
-#: views/admin/metaboxes/settings-latestposts.php:192
+#: views/admin/metaboxes/settings-latestposts.php:191
 #, fuzzy
 msgid "Comment Count"
 msgstr "Kommentarer"
 
-#: views/admin/metaboxes/settings-latestposts.php:205
+#: views/admin/metaboxes/settings-latestposts.php:204
 msgid "Oldest Post Date/Time"
 msgstr "Datum/Tid för äldsta inlägg "
 
-#: views/admin/metaboxes/settings-latestposts.php:208
-#: views/admin/metaboxes/settings-latestposts.php:253
+#: views/admin/metaboxes/settings-latestposts.php:207
+#: views/admin/metaboxes/settings-latestposts.php:252
 msgid "(format: YYYY-MM-DD HH:MM:SS)"
 msgstr "(format: YYYY-MM-DD HH:MM:SS)"
 
-#: views/admin/metaboxes/settings-latestposts.php:208
+#: views/admin/metaboxes/settings-latestposts.php:207
 msgid "Show posts with a publish date no older than the specified date above."
 msgstr ""
 "Visa inlägg med ett publiceringsdatum yngre än vad som specificerats ovan."
 
-#: views/admin/metaboxes/settings-latestposts.php:225
+#: views/admin/metaboxes/settings-latestposts.php:224
 msgid "mailing list(s) to send latest posts subscriptions to."
 msgstr "e-postlista(listor) som senaste inlägg ska skickas till."
 
-#: views/admin/metaboxes/settings-latestposts.php:229
+#: views/admin/metaboxes/settings-latestposts.php:228
 msgid "Update Schedule Interval?"
 msgstr "Uppdatera intervall för Schema"
 
-#: views/admin/metaboxes/settings-latestposts.php:233
+#: views/admin/metaboxes/settings-latestposts.php:232
 msgid "leave this as No to leave the interval and current schedule unchanged."
 msgstr ""
 "lämna denna till Nej för att inte ändra nuvarande intervall eller schema"
 
-#: views/admin/metaboxes/settings-latestposts.php:243
+#: views/admin/metaboxes/settings-latestposts.php:242
 msgid "Start Date/Time"
 msgstr "Start Datum/Tid"
 
-#: views/admin/metaboxes/settings-latestposts.php:252
+#: views/admin/metaboxes/settings-latestposts.php:251
 #, fuzzy
 msgid "Current Date/Time:"
 msgstr "Nuvarande Datum och Tid"
 
-#: views/admin/metaboxes/settings-latestposts.php:253
+#: views/admin/metaboxes/settings-latestposts.php:252
 msgid ""
 "Choose the day to start sending these posts for the first time with the "
 "settings configured."
 msgstr "Välj vilken dag från att börja skicka inlägg"
 
-#: views/admin/metaboxes/settings-latestposts.php:257
+#: views/admin/metaboxes/settings-latestposts.php:256
 msgid "Sending Interval"
 msgstr "Intervall för Utskick"
 
-#: views/admin/metaboxes/settings-latestposts.php:262
+#: views/admin/metaboxes/settings-latestposts.php:261
 msgid "- Select Schedule -"
 msgstr "- Välj Schema -"
 
-#: views/admin/metaboxes/settings-latestposts.php:268
+#: views/admin/metaboxes/settings-latestposts.php:267
 msgid "No schedules are available"
 msgstr "Inga scheman är tillgängliga"
 
-#: views/admin/metaboxes/settings-latestposts.php:270
+#: views/admin/metaboxes/settings-latestposts.php:269
 msgid "set how often the latest posts subscription should be sent out."
 msgstr "välj hur ofta senaste inlägg ska skickas ut till prenumeranterna."
 
-#: views/admin/metaboxes/settings-latestposts.php:271
+#: views/admin/metaboxes/settings-latestposts.php:270
 msgid ""
 "the first execution will be the time of the interval from the current date/"
 "time."
 msgstr ""
 "det första utskicket kommer ske närmaste intervall från nuvarande tid/datum"
 
-#: views/admin/metaboxes/settings-latestposts.php:281
+#: views/admin/metaboxes/settings-latestposts.php:280
 msgid "Email Theme"
 msgstr "E-posta Tema"
 
-#: views/admin/metaboxes/settings-latestposts.php:294
+#: views/admin/metaboxes/settings-latestposts.php:293
 msgid "No themes are available"
 msgstr "Inga teman tillgängliga"
 
-#: views/admin/metaboxes/settings-latestposts.php:296
+#: views/admin/metaboxes/settings-latestposts.php:295
 msgid "theme to use for the latest posts subscription email."
 msgstr "tema att använda för utskick av senaste inlägg"
 
@@ -5702,39 +5706,39 @@ msgstr ""
 msgid "Management Link text"
 msgstr "Länk text för Hantering"
 
-#: views/admin/metaboxes/settings-management.php:48
+#: views/admin/metaboxes/settings-management.php:47
 #, fuzzy, php-format
 msgid "displays subscription management page. generated by %s in content"
 msgstr "visar sidan för att hantera sin prenumeration. genererad via <code>["
 
-#: views/admin/metaboxes/settings-management.php:52
+#: views/admin/metaboxes/settings-management.php:51
 #, fuzzy
 msgid "Authentication Email Subject"
 msgstr "Rubrik för E-post"
 
-#: views/admin/metaboxes/settings-management.php:88
+#: views/admin/metaboxes/settings-management.php:86
 #, fuzzy
 msgid "The subject of the email when a subscriber authenticates."
 msgstr "qärendet för meddelandet till prenumeranterna"
 
-#: views/admin/metaboxes/settings-management.php:92
+#: views/admin/metaboxes/settings-management.php:90
 #, fuzzy
 msgid "Allow New Subscribes"
 msgstr "Nyhetsbrev till nya Prenumeranter"
 
-#: views/admin/metaboxes/settings-management.php:96
+#: views/admin/metaboxes/settings-management.php:94
 msgid ""
 "Should other, non-private lists be shown for subscribers to subscribe to?"
 msgstr ""
 "Ska andra, ej privata listor visas för prenumeranter att kunna prenumerera "
 "på?"
 
-#: views/admin/metaboxes/settings-management.php:100
+#: views/admin/metaboxes/settings-management.php:98
 #, fuzzy
 msgid "Custom Fields In Management"
 msgstr "Egna Fält"
 
-#: views/admin/metaboxes/settings-management.php:104
+#: views/admin/metaboxes/settings-management.php:102
 msgid ""
 "Should custom fields be shown in the management section to allow subscribers "
 "to edit values?"
@@ -5742,22 +5746,22 @@ msgstr ""
 "Ska egna fält visas i kontrollpanelen för att låta prenumeranter ändra "
 "värden i dessa?"
 
-#: views/admin/metaboxes/settings-management.php:114
+#: views/admin/metaboxes/settings-management.php:112
 #, fuzzy
 msgid "Allow Changing Email Address"
 msgstr "E-postadress"
 
-#: views/admin/metaboxes/settings-management.php:118
+#: views/admin/metaboxes/settings-management.php:116
 #, fuzzy
 msgid "Allow subscribers to change their email address?"
 msgstr ""
 "Vad göra när en användare försöker registrera med en befintlig e-postadress?"
 
-#: views/admin/metaboxes/settings-management.php:122
+#: views/admin/metaboxes/settings-management.php:120
 msgid "Allow Changing of Format"
 msgstr ""
 
-#: views/admin/metaboxes/settings-management.php:127
+#: views/admin/metaboxes/settings-management.php:125
 msgid "Let subscribers choose between HTML and TEXT formatted emails."
 msgstr ""
 
@@ -5768,67 +5772,68 @@ msgstr ""
 "Dessa inställningar kommer påverka inlägg/sidor som har inbäddade eller "
 "hårdkodade anmälningsformulär."
 
-#: views/admin/metaboxes/settings-optin.php:44
-#: views/admin/metaboxes/settings-optin.php:97
+#: views/admin/metaboxes/settings-optin.php:43
+#: views/admin/metaboxes/settings-optin.php:96
 msgid "Acknowledgement"
 msgstr "Bekräftelse"
 
-#: views/admin/metaboxes/settings-optin.php:48
-#: views/admin/metaboxes/settings-optin.php:112
-#: views/admin/widget-control.php:161
+#: views/admin/metaboxes/settings-optin.php:47
+#: views/admin/metaboxes/settings-optin.php:111
+#: views/admin/widget-control.php:160
 msgid "Ajax Features"
 msgstr "Ajax Funktioner"
 
-#: views/admin/metaboxes/settings-optin.php:55
-#: views/admin/metaboxes/settings-optin.php:119
-#: views/admin/offsite-wizard.php:62 views/admin/widget-control.php:97
-#: views/admin/widget-control.php:172
+#: views/admin/metaboxes/settings-optin.php:54
+#: views/admin/metaboxes/settings-optin.php:118
+#: views/admin/offsite-wizard.php:62 views/admin/widget-control.php:96
+#: views/admin/widget-control.php:171
 msgid "Button Text"
 msgstr "Knapptext"
 
-#: views/admin/metaboxes/settings-optin.php:59
-#: views/admin/metaboxes/settings-optin.php:123
+#: views/admin/metaboxes/settings-optin.php:58
+#: views/admin/metaboxes/settings-optin.php:122
 msgid "Scroll to Subscription Form"
 msgstr "Scrolla ner till formulär för Prenumeration"
 
-#: views/admin/metaboxes/settings-optin.php:63
-#: views/admin/metaboxes/settings-optin.php:127
+#: views/admin/metaboxes/settings-optin.php:62
+#: views/admin/metaboxes/settings-optin.php:126
 #, fuzzy
 msgid "Should the page scroll to focus on the subscription form?"
 msgstr "ska sidscroll fokusera på formuläret?"
 
-#: views/admin/metaboxes/settings-optin.php:67
-#: views/admin/metaboxes/settings-optin.php:131
+#: views/admin/metaboxes/settings-optin.php:66
+#: views/admin/metaboxes/settings-optin.php:130
 #, fuzzy
 msgid "Use Captcha for Form"
 msgstr "Använd Captcha för formulär"
 
-#: views/admin/metaboxes/settings-optin.php:72 wp-mailinglist-widget.php:122
+#: views/admin/metaboxes/settings-optin.php:71 wp-mailinglist-widget.php:121
 msgid ""
 "Please configure a security captcha under Newsletters > Configuration > "
 "System > Captcha in order to use this."
 msgstr ""
 
-#: views/admin/metaboxes/settings-optin.php:75
+#: views/admin/metaboxes/settings-optin.php:74
 #, fuzzy
 msgid "Requires captcha/turing image input upon subscribing."
 msgstr "kräv captcha skydd vid prenumeration."
 
-#: views/admin/metaboxes/settings-optin.php:91
-#: views/admin/widget-control.php:113
-msgid "No qTranslate languages have been defined."
+#: views/admin/metaboxes/settings-optin.php:90
+#: views/admin/widget-control.php:112
+#, fuzzy
+msgid "No languages have been defined."
 msgstr "Inga qTranslate språk har definierats"
 
-#: views/admin/metaboxes/settings-optin.php:100
+#: views/admin/metaboxes/settings-optin.php:99
 msgid "Acknowledgement message to show after a successful subscribe."
 msgstr ""
 
-#: views/admin/metaboxes/settings-optin.php:104
-#: views/admin/widget-control.php:155
+#: views/admin/metaboxes/settings-optin.php:103
+#: views/admin/widget-control.php:154
 msgid "Subscribe Again Link"
 msgstr "Prenumerera igen Länk"
 
-#: views/admin/metaboxes/settings-optin.php:108
+#: views/admin/metaboxes/settings-optin.php:107
 #, fuzzy
 msgid ""
 "Display a \"subscribe again\" link on success. useful for forms with "
@@ -5837,7 +5842,7 @@ msgstr ""
 "visa en \"prenumerera igen\" länk vid lyckad registrering. användbar vid "
 "formulär för fler e-postlistor"
 
-#: views/admin/metaboxes/settings-optin.php:135
+#: views/admin/metaboxes/settings-optin.php:134
 #, fuzzy
 msgid "Requires captcha image input upon subscribing."
 msgstr "kräv captcha skydd vid prenumeration."
@@ -5918,11 +5923,11 @@ msgid ""
 "the excerpt length specified above."
 msgstr ""
 
-#: views/admin/metaboxes/settings-publishing.php:52
+#: views/admin/metaboxes/settings-publishing.php:51
 msgid "Text to use for the \"read more\" link of excerpts."
 msgstr ""
 
-#: views/admin/metaboxes/settings-publishing.php:58
+#: views/admin/metaboxes/settings-publishing.php:57
 msgid ""
 "When writing a WordPress post, you will see a panel named \"Send to Mailing "
 "List\" which allows you to send a post as a newsletter"
@@ -5930,23 +5935,23 @@ msgstr ""
 "När du skriver ett inlägg kommer du se en panel som heter \"Skicka till e-"
 "postlista\" vilken låter dig skicka ett inlägg som ett nyhetsbrev"
 
-#: views/admin/metaboxes/settings-publishing.php:63
-#: views/admin/metaboxes/write-advanced.php:20
+#: views/admin/metaboxes/settings-publishing.php:62
+#: views/admin/metaboxes/write-advanced.php:19
 #, fuzzy
 msgid "Full Post or Excerpt"
 msgstr "Hela inlägget eller bara utdrag"
 
-#: views/admin/metaboxes/settings-publishing.php:65
-#: views/admin/metaboxes/write-advanced.php:22
+#: views/admin/metaboxes/settings-publishing.php:64
+#: views/admin/metaboxes/write-advanced.php:21
 msgid "Full Post"
 msgstr "Hela inlägget"
 
-#: views/admin/metaboxes/settings-publishing.php:66
-#: views/admin/metaboxes/write-advanced.php:23
+#: views/admin/metaboxes/settings-publishing.php:65
+#: views/admin/metaboxes/write-advanced.php:22
 msgid "Excerpt of Post"
 msgstr "Inläggets utdrag"
 
-#: views/admin/metaboxes/settings-publishing.php:68
+#: views/admin/metaboxes/settings-publishing.php:67
 #, fuzzy
 msgid ""
 "Excerpt will be the content before <code>&#60;!--more--&#62;</code>. if it "
@@ -5955,7 +5960,7 @@ msgstr ""
 "utdrag kommer visas innan koden <code>&#60;!--more--&#62;</code>. om utdrag "
 "inte finns tillgängligt kommer ett automatiskt utdrag att genereras."
 
-#: views/admin/metaboxes/settings-publishing.php:77
+#: views/admin/metaboxes/settings-publishing.php:76
 msgid "Include Unsubscribe Link"
 msgstr "Inkludera länk för avregistrering"
 
@@ -6068,6 +6073,11 @@ msgstr ""
 
 #: views/admin/metaboxes/settings-sending.php:28
 msgid "Turn on/off the preview feature while creating a newsletter."
+msgstr ""
+
+#: views/admin/metaboxes/settings-sending.php:32
+#: wp-mailinglist-plugin.php:1486 wp-mailinglist.php:1921
+msgid "Spam Score"
 msgstr ""
 
 #: views/admin/metaboxes/settings-sending.php:36
@@ -6336,7 +6346,7 @@ msgid "Custom URL"
 msgstr "Egen"
 
 #: views/admin/metaboxes/settings-subscribers.php:43
-#: views/admin/metaboxes/settings-subscribers.php:234
+#: views/admin/metaboxes/settings-subscribers.php:231
 msgid "Do Nothing"
 msgstr "Gör ingenting"
 
@@ -6359,141 +6369,141 @@ msgstr "URL/länk att skicka existerande prenumeranter till."
 msgid "Subscriber Exists Message"
 msgstr "Prenumerant har sparats"
 
-#: views/admin/metaboxes/settings-subscribers.php:103
+#: views/admin/metaboxes/settings-subscribers.php:102
 msgid ""
 "Message to show to a user when they already exist for the specified list(s)."
 msgstr ""
 
-#: views/admin/metaboxes/settings-subscribers.php:112
+#: views/admin/metaboxes/settings-subscribers.php:111
 msgid "Online Newsletter Link Text"
 msgstr "Text för att visa nyhetsbrev online"
 
-#: views/admin/metaboxes/settings-subscribers.php:148
+#: views/admin/metaboxes/settings-subscribers.php:146
 #, fuzzy
 msgid "Displays email in browser. generated by <code>["
 msgstr "visar nyhetsbrev i webbläsare. genererad via <code>["
 
-#: views/admin/metaboxes/settings-subscribers.php:152
+#: views/admin/metaboxes/settings-subscribers.php:150
 msgid "Admin Notification on Subscription"
 msgstr "Notifiera Admin vid Prenumeration"
 
-#: views/admin/metaboxes/settings-subscribers.php:161
+#: views/admin/metaboxes/settings-subscribers.php:159
 #, fuzzy
 msgid "Require Confirmation?"
 msgstr "Konfiguration"
 
-#: views/admin/metaboxes/settings-subscribers.php:163
+#: views/admin/metaboxes/settings-subscribers.php:161
 msgid "Yes, confirm email address"
 msgstr "Ja, bekräfta e-postadress"
 
-#: views/admin/metaboxes/settings-subscribers.php:164
+#: views/admin/metaboxes/settings-subscribers.php:162
 msgid "No, immediately activate"
 msgstr "Nej, aktivera direkt"
 
-#: views/admin/metaboxes/settings-subscribers.php:165
+#: views/admin/metaboxes/settings-subscribers.php:163
 msgid ""
 "Is double opt-in action required by subscribers to activate subscriptions?"
 msgstr ""
 
-#: views/admin/metaboxes/settings-subscribers.php:175
+#: views/admin/metaboxes/settings-subscribers.php:173
 #, fuzzy
 msgid "Confirmation Emails"
 msgstr "Konfiguration"
 
-#: views/admin/metaboxes/settings-subscribers.php:177
-#: views/admin/metaboxes/settings-unsubscribe.php:212
+#: views/admin/metaboxes/settings-subscribers.php:175
+#: views/admin/metaboxes/settings-unsubscribe.php:209
 #, fuzzy
 msgid "Single Email"
 msgstr "E-postadress för administratören"
 
-#: views/admin/metaboxes/settings-subscribers.php:178
-#: views/admin/metaboxes/settings-unsubscribe.php:213
+#: views/admin/metaboxes/settings-subscribers.php:176
+#: views/admin/metaboxes/settings-unsubscribe.php:210
 msgid "Multiple Emails (One for each list)"
 msgstr ""
 
-#: views/admin/metaboxes/settings-subscribers.php:179
+#: views/admin/metaboxes/settings-subscribers.php:177
 msgid ""
 "Should a single email or multiple emails (one for each list) be sent for "
 "confirmation when subscribing to multiple lists."
 msgstr ""
 
-#: views/admin/metaboxes/settings-subscribers.php:183
+#: views/admin/metaboxes/settings-subscribers.php:181
 msgid "Activation Link Text"
 msgstr "Text för länken att aktivera"
 
-#: views/admin/metaboxes/settings-subscribers.php:219
+#: views/admin/metaboxes/settings-subscribers.php:216
 #, fuzzy
 msgid "Displays an activation link generated by <code>["
 msgstr "visar en länk för aktivering. genererad via <code>["
 
-#: views/admin/metaboxes/settings-subscribers.php:223
+#: views/admin/metaboxes/settings-subscribers.php:220
 msgid "Custom Activate Redirect"
 msgstr "Egen omdirigering  vid Aktivering"
 
-#: views/admin/metaboxes/settings-subscribers.php:227
+#: views/admin/metaboxes/settings-subscribers.php:224
 #, fuzzy
 msgid "Defaults to the subscriber management section."
 msgstr ""
 "som standard omdirigeras man till sidan för hantering av sin prenumeration"
 
-#: views/admin/metaboxes/settings-subscribers.php:231
+#: views/admin/metaboxes/settings-subscribers.php:228
 #: views/admin/subscribers/index.php:43
 #, fuzzy
 msgid "Inactive Subscriptions"
 msgstr "Endast Inaktiva Prenumerationer"
 
-#: views/admin/metaboxes/settings-subscribers.php:235
+#: views/admin/metaboxes/settings-subscribers.php:232
 #, fuzzy
 msgid "Send Reminder"
 msgstr "Förhandsvisning"
 
-#: views/admin/metaboxes/settings-subscribers.php:237
+#: views/admin/metaboxes/settings-subscribers.php:234
 #, fuzzy
 msgid "How should inactive subscriptions be handled?"
 msgstr "Endast Inaktiva Prenumerationer"
 
-#: views/admin/metaboxes/settings-subscribers.php:248
+#: views/admin/metaboxes/settings-subscribers.php:245
 #, fuzzy
 msgid "Delete Delay"
 msgstr "Radera Utkast"
 
-#: views/admin/metaboxes/settings-subscribers.php:251
+#: views/admin/metaboxes/settings-subscribers.php:248
 #, php-format
 msgid "Delete inactive subscriptions %s days after subscribing."
 msgstr ""
 
-#: views/admin/metaboxes/settings-subscribers.php:252
+#: views/admin/metaboxes/settings-subscribers.php:249
 msgid ""
 "After how many days should an inactive subscription to a list be deleted?"
 msgstr ""
 
-#: views/admin/metaboxes/settings-subscribers.php:264
+#: views/admin/metaboxes/settings-subscribers.php:261
 #, fuzzy
 msgid "Confirmation Reminder"
 msgstr "Konfiguration"
 
-#: views/admin/metaboxes/settings-subscribers.php:267
+#: views/admin/metaboxes/settings-subscribers.php:264
 #, php-format
 msgid ""
 "Send an activate reminder to inactive subscriptions %s days after subscribing"
 msgstr ""
 
-#: views/admin/metaboxes/settings-subscribers.php:268
+#: views/admin/metaboxes/settings-subscribers.php:265
 msgid "Send a confirmation reminder to a subscriber X days after subscribing."
 msgstr ""
 
-#: views/admin/metaboxes/settings-subscribers.php:279
+#: views/admin/metaboxes/settings-subscribers.php:276
 msgid "Activate Redirect URL"
 msgstr "Aktivera URL för omdirigering"
 
-#: views/admin/metaboxes/settings-subscribers.php:282
+#: views/admin/metaboxes/settings-subscribers.php:279
 #, fuzzy
 msgid "Link/URL to which subscribers will be redirected upon activation."
 msgstr "url som prenumeranter kommer omdirigeras till efter aktivering"
 
 #: views/admin/metaboxes/settings-subscriptions.php:12
 #: views/admin/metaboxes/settings/tableofcontents.php:7
-#: wp-mailinglist.php:1969
+#: wp-mailinglist.php:1968
 msgid "Paid Subscriptions"
 msgstr "Betalda prenumerationer"
 
@@ -6645,17 +6655,17 @@ msgid ""
 "generate a resubscribe link."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:60
+#: views/admin/metaboxes/settings-unsubscribe.php:59
 msgid ""
 "Displays a resubscribe link generated by <code>[newsletters_resubscribe]</"
 "code> in content or theme of newsletters."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:64
+#: views/admin/metaboxes/settings-unsubscribe.php:63
 msgid "Unsubscription Link Text"
 msgstr "Text för länken att avregistrera"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:65
+#: views/admin/metaboxes/settings-unsubscribe.php:64
 msgid ""
 "This setting simply specifies the text to use for the link of the "
 "[wpmlunsubscribe] shortcode that you put into newsletters to generate an "
@@ -6664,36 +6674,36 @@ msgid ""
 "unsubscribe link automatically."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:101
+#: views/admin/metaboxes/settings-unsubscribe.php:99
 msgid ""
 "Displays an unsubscribe link generated by <code>[wpmlunsubscribe]</code> in "
 "content or theme of newsletters."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:105
+#: views/admin/metaboxes/settings-unsubscribe.php:103
 #, fuzzy
 msgid "Unsubscribe All Link Text"
 msgstr "Text för länken att avregistrera"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:106
+#: views/admin/metaboxes/settings-unsubscribe.php:104
 msgid ""
 "Same as the setting above, except that this is the link text for the "
 "unsubscribe link to all the lists that the subscriber is subscribed to using "
 "the [wpmlunsubscribeall] shortcode."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:142
+#: views/admin/metaboxes/settings-unsubscribe.php:139
 msgid ""
 "Displays an unsubscribe link generated by <code>[wpmlunsubscribeall]</code> "
 "in content or theme of newsletters."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:146
+#: views/admin/metaboxes/settings-unsubscribe.php:143
 #, fuzzy
 msgid "User Notification Email"
 msgstr "Konfiguration"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:147
+#: views/admin/metaboxes/settings-unsubscribe.php:144
 #, php-format
 msgid ""
 "Turning this on will send a notification email to acknowledge the "
@@ -6701,28 +6711,28 @@ msgid ""
 "under %s"
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:147
-#: views/admin/settings-navigation.php:4 wp-mailinglist.php:1839
+#: views/admin/metaboxes/settings-unsubscribe.php:144
+#: views/admin/settings-navigation.php:4 wp-mailinglist.php:1838
 msgid "Email Templates"
 msgstr "Mallar för e-post"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:149
+#: views/admin/metaboxes/settings-unsubscribe.php:146
 #, fuzzy
 msgid "Yes, send the user an unsubscribe confirmation email"
 msgstr "Ja, vänligen avregistrera mig från denna e-postlista"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:150
+#: views/admin/metaboxes/settings-unsubscribe.php:147
 msgid ""
 "Enable this to send the user/subscriber a \"sorry to see you go...\" email "
 "notification upon unsubscribe"
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:154
+#: views/admin/metaboxes/settings-unsubscribe.php:151
 #, fuzzy
 msgid "Unsubscribe Confirmation Screen"
 msgstr "Bekräftelse för avregistrering"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:155
+#: views/admin/metaboxes/settings-unsubscribe.php:152
 msgid ""
 "This setting turns On/Off the unsubscribe confirmation screen which is a "
 "simple screen with checkboxes and a button so that subscribers can confirm "
@@ -6731,18 +6741,18 @@ msgid ""
 "inside the email."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:159
+#: views/admin/metaboxes/settings-unsubscribe.php:156
 msgid ""
 "Let subscribers confirm their unsubscribe. Turn this Off to unsubscribe "
 "immediately."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:169
+#: views/admin/metaboxes/settings-unsubscribe.php:166
 #, fuzzy
 msgid "Remove All Subscriptions"
 msgstr "Alla Prenumerationer"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:170
+#: views/admin/metaboxes/settings-unsubscribe.php:167
 msgid ""
 "By default, a subscriber will be unsubscribed from the list(s) to which the "
 "newsletter was sent in the first place. If you turn this setting on, the "
@@ -6750,35 +6760,35 @@ msgid ""
 "subscriptions that they have."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:174
+#: views/admin/metaboxes/settings-unsubscribe.php:171
 msgid ""
 "With no confirmation, the subscriber is unsubscribed from only the list(s) "
 "sent to. This setting will remove all subscriptions if turned on."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:184
+#: views/admin/metaboxes/settings-unsubscribe.php:181
 #, fuzzy
 msgid "Delete Subscriber on Unsubscribe"
 msgstr "Valda prenumeranter har sats som aktiva"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:185
+#: views/admin/metaboxes/settings-unsubscribe.php:182
 msgid ""
 "A good setting to keep your subscribers database clean since it will delete "
 "a subscriber completely if the subscriber unsubscribes and has no "
 "subscriptions remaining."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:189
+#: views/admin/metaboxes/settings-unsubscribe.php:186
 msgid ""
 "Turning this on will delete the subscriber record if no subscriptions remain "
 "on the record."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:193
+#: views/admin/metaboxes/settings-unsubscribe.php:190
 msgid "Admin Notification on Unsubscription"
 msgstr "Notifiera Admin vid Avregistrering"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:194
+#: views/admin/metaboxes/settings-unsubscribe.php:191
 msgid ""
 "Turn this on to let the system send the administrator an email notification "
 "when a subscriber unsubscribes. The notification is sent to the "
@@ -6786,18 +6796,18 @@ msgid ""
 "> General Mail Settings."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:199
+#: views/admin/metaboxes/settings-unsubscribe.php:196
 msgid ""
 "Turn this on to receive a notification email on the administrator email each "
 "time someone unsubscribes."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:209
+#: views/admin/metaboxes/settings-unsubscribe.php:206
 #, fuzzy
 msgid "Unsubscribe Emails"
 msgstr "Avregistrera"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:210
+#: views/admin/metaboxes/settings-unsubscribe.php:207
 msgid ""
 "When a subscriber is subscribed to multiple mailing lists and they "
 "unsubcribe and the \"Admin Notification on Unsubscription\" setting above is "
@@ -6806,17 +6816,17 @@ msgid ""
 "the unsubscribes or multiple emails (one for each mailing list)."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:214
+#: views/admin/metaboxes/settings-unsubscribe.php:211
 msgid ""
 "Should the system send a single or multiple unsubscribe emails for an "
 "unsubscribe from multiple lists?"
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:224
+#: views/admin/metaboxes/settings-unsubscribe.php:221
 msgid "Unsubscribe Comments Box"
 msgstr "Kommentarsfält vid avregistrering"
 
-#: views/admin/metaboxes/settings-unsubscribe.php:225
+#: views/admin/metaboxes/settings-unsubscribe.php:222
 msgid ""
 "Do you want to allow your subscribers to enter an optional message/comments "
 "in the process of unsubscribing? If you turn this on, the message/comments "
@@ -6824,7 +6834,7 @@ msgid ""
 "be saved to the database for viewing later on."
 msgstr ""
 
-#: views/admin/metaboxes/settings-unsubscribe.php:229
+#: views/admin/metaboxes/settings-unsubscribe.php:226
 msgid ""
 "Turn this on to show a comment box on the unsubscribe confirmation page to "
 "allow users to post feedback."
@@ -6922,142 +6932,142 @@ msgid "Choose section..."
 msgstr "Välj Inlägg"
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:4
-#: wp-mailinglist.php:2016
+#: wp-mailinglist.php:2015
 #, fuzzy
 msgid "Subscriber Management Section"
 msgstr "Prenumerant har raderats"
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:5
-#: wp-mailinglist.php:2017
+#: wp-mailinglist.php:2016
 msgid "Subscription Behaviour"
 msgstr "Beteende för Prenumeration"
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:6
-#: wp-mailinglist.php:2018
+#: wp-mailinglist.php:2017
 #, fuzzy
 msgid "Unsubscribe Behaviour"
 msgstr "Beteende för Prenumeration"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:4
-#: wp-mailinglist.php:2041
+#: wp-mailinglist.php:2040
 #, fuzzy
 msgid "Captcha Settings"
 msgstr "Spara Inställningar"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:5
-#: wp-mailinglist.php:2042
+#: wp-mailinglist.php:2041
 msgid "WordPress Related"
 msgstr "WordPress Relaterat"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:6
-#: wp-mailinglist.php:2043
+#: wp-mailinglist.php:2042
 #, fuzzy
 msgid "Auto Import Users"
 msgstr "Importera automatiskt WordPress användare"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:7
-#: wp-mailinglist.php:2044
+#: wp-mailinglist.php:2043
 #, fuzzy
 msgid "WordPress Comment- and Registration Form"
 msgstr "WordPress Kommentarsform"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:5
-#: wp-mailinglist.php:1994
+#: wp-mailinglist.php:1993
 #, fuzzy
 msgid "Latest Posts"
 msgstr "Senaste Inlägg från"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:7
-#: wp-mailinglist.php:1996
+#: wp-mailinglist.php:1995
 #, fuzzy
 msgid "Bounce Email"
 msgstr "Kontrollera Studsade Meddelanden"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:8
-#: wp-mailinglist.php:1997
+#: wp-mailinglist.php:1996
 #, fuzzy
 msgid "Unsubscribe Admin Email"
 msgstr "Avregistrera"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:9
-#: wp-mailinglist.php:1998
+#: wp-mailinglist.php:1997
 #, fuzzy
 msgid "Unsubscribe User Email"
 msgstr "Avregistrera"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:10
-#: wp-mailinglist.php:1999
+#: wp-mailinglist.php:1998
 #, fuzzy
 msgid "Expiration Email"
 msgstr "E-postadress för administratören"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:11
-#: wp-mailinglist.php:2000
+#: wp-mailinglist.php:1999
 #, fuzzy
 msgid "Paid Subscription Email"
 msgstr "Betald Prenumeration"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:12
-#: wp-mailinglist.php:2001
+#: wp-mailinglist.php:2000
 #, fuzzy
 msgid "Cron Schedule Email"
 msgstr "Cron/schema typ"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:13
-#: wp-mailinglist.php:2002
+#: wp-mailinglist.php:2001
 #, fuzzy
 msgid "New Subscription Email"
 msgstr "Ny Registrering"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:4
-#: wp-mailinglist.php:1966
+#: wp-mailinglist.php:1965
 msgid "General Mail Settings"
 msgstr "Generella inställningar för e-post"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:5
-#: wp-mailinglist.php:1967
+#: wp-mailinglist.php:1966
 #, fuzzy
 msgid "Sending Settings"
 msgstr "Spara Inställningar"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:6
-#: wp-mailinglist.php:1968
+#: wp-mailinglist.php:1967
 msgid "Default Subscription Form Settings"
 msgstr "Standardinställningar för formulär gällande prenumeration"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:8
-#: wp-mailinglist.php:1970
+#: wp-mailinglist.php:1969
 msgid "PayPal Configuration"
 msgstr "PayPal Konfiguration"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:9
-#: wp-mailinglist.php:1971
+#: wp-mailinglist.php:1970
 msgid "2CheckOut Configuration"
 msgstr "2CheckOut Konfiguration"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:10
-#: wp-mailinglist.php:1972
+#: wp-mailinglist.php:1971
 #, fuzzy
 msgid "Posts Configuration"
 msgstr "Konfiguration"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:11
-#: wp-mailinglist.php:1973
+#: wp-mailinglist.php:1972
 msgid "Email Scheduling"
 msgstr "Schemaläggning för e-post"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:12
-#: wp-mailinglist.php:1974
+#: wp-mailinglist.php:1973
 msgid "Bounce Configuration"
 msgstr "Konfiguration för studsar"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:13
-#: views/admin/settings-cronschedules.php:65 wp-mailinglist.php:1975
+#: views/admin/settings-cronschedules.php:65 wp-mailinglist.php:1974
 msgid "Latest Posts Subscription"
 msgstr "Prenumeration för Senaste inlägg"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:14
-#: wp-mailinglist.php:1976
+#: wp-mailinglist.php:1975
 msgid "Theme, Scripts &amp; Custom CSS"
 msgstr ""
 
@@ -7253,80 +7263,80 @@ msgstr "Är du säker du vill radera denna mall?"
 msgid "Delete Snippet"
 msgstr "Radera vald"
 
-#: views/admin/metaboxes/templates-submit.php:12 wp-mailinglist.php:1954
+#: views/admin/metaboxes/templates-submit.php:12 wp-mailinglist.php:1953
 #, fuzzy
 msgid "Save Snippet"
 msgstr "Spara Inställningar"
 
-#: views/admin/metaboxes/templates/bounce.php:52
-#: views/admin/metaboxes/templates/confirm.php:52
-#: views/admin/metaboxes/templates/expire.php:52
-#: views/admin/metaboxes/templates/latestposts.php:17
-#: views/admin/metaboxes/templates/order.php:52
-#: views/admin/metaboxes/templates/posts.php:17
-#: views/admin/metaboxes/templates/schedule.php:52
-#: views/admin/metaboxes/templates/subscribe.php:52
-#: views/admin/metaboxes/templates/unsubscribe.php:52
-#: views/admin/metaboxes/templates/unsubscribeuser.php:52
+#: views/admin/metaboxes/templates/bounce.php:51
+#: views/admin/metaboxes/templates/confirm.php:51
+#: views/admin/metaboxes/templates/expire.php:51
+#: views/admin/metaboxes/templates/latestposts.php:16
+#: views/admin/metaboxes/templates/order.php:51
+#: views/admin/metaboxes/templates/posts.php:16
+#: views/admin/metaboxes/templates/schedule.php:51
+#: views/admin/metaboxes/templates/subscribe.php:51
+#: views/admin/metaboxes/templates/unsubscribe.php:51
+#: views/admin/metaboxes/templates/unsubscribeuser.php:51
 #, fuzzy
 msgid "Email Message"
 msgstr "E-postadress"
 
-#: views/admin/metaboxes/templates/latestposts.php:52
-#: views/admin/metaboxes/templates/posts.php:52
+#: views/admin/metaboxes/templates/latestposts.php:50
+#: views/admin/metaboxes/templates/posts.php:51
 #, fuzzy
 msgid "Shortcode Information"
 msgstr "Konfiguration"
 
-#: views/admin/metaboxes/templates/latestposts.php:53
-#: views/admin/metaboxes/templates/posts.php:53
+#: views/admin/metaboxes/templates/latestposts.php:51
+#: views/admin/metaboxes/templates/posts.php:52
 msgid "The posts loop. Use the codes below inside."
 msgstr ""
 
-#: views/admin/metaboxes/templates/latestposts.php:54
-#: views/admin/metaboxes/templates/posts.php:54
+#: views/admin/metaboxes/templates/latestposts.php:52
+#: views/admin/metaboxes/templates/posts.php:53
 msgid "The ID of the post."
 msgstr ""
 
-#: views/admin/metaboxes/templates/latestposts.php:55
-#: views/admin/metaboxes/templates/posts.php:55
+#: views/admin/metaboxes/templates/latestposts.php:53
+#: views/admin/metaboxes/templates/posts.php:54
 msgid "The display name of the author."
 msgstr ""
 
-#: views/admin/metaboxes/templates/latestposts.php:56
-#: views/admin/metaboxes/templates/posts.php:56
+#: views/admin/metaboxes/templates/latestposts.php:54
+#: views/admin/metaboxes/templates/posts.php:55
 msgid "The title of the post."
 msgstr ""
 
-#: views/admin/metaboxes/templates/latestposts.php:57
-#: views/admin/metaboxes/templates/posts.php:57
+#: views/admin/metaboxes/templates/latestposts.php:55
+#: views/admin/metaboxes/templates/posts.php:56
 msgid "The URL of the post."
 msgstr ""
 
-#: views/admin/metaboxes/templates/latestposts.php:58
-#: views/admin/metaboxes/templates/posts.php:58
+#: views/admin/metaboxes/templates/latestposts.php:56
+#: views/admin/metaboxes/templates/posts.php:57
 msgid ""
 "A wrapper for the date, simply to work with the \"showdate\" parameter in "
 "the shortcode."
 msgstr ""
 
-#: views/admin/metaboxes/templates/latestposts.php:59
-#: views/admin/metaboxes/templates/posts.php:59
+#: views/admin/metaboxes/templates/latestposts.php:57
+#: views/admin/metaboxes/templates/posts.php:58
 msgid "The date of the post with an optional \"format\" parameter."
 msgstr ""
 
-#: views/admin/metaboxes/templates/latestposts.php:60
-#: views/admin/metaboxes/templates/posts.php:60
+#: views/admin/metaboxes/templates/latestposts.php:58
+#: views/admin/metaboxes/templates/posts.php:59
 msgid "The thumbnail (if any) of the post with an optional \"size\" parameter."
 msgstr ""
 
-#: views/admin/metaboxes/templates/latestposts.php:61
-#: views/admin/metaboxes/templates/posts.php:61
+#: views/admin/metaboxes/templates/latestposts.php:59
+#: views/admin/metaboxes/templates/posts.php:60
 msgid "The excerpt of the post taken from the content."
 msgstr ""
 
-#: views/admin/metaboxes/templates/latestposts.php:62
-#: views/admin/metaboxes/templates/posts.php:62
+#: views/admin/metaboxes/templates/latestposts.php:60
+#: views/admin/metaboxes/templates/posts.php:61
 msgid "The full content of the post as published."
 msgstr ""
 
@@ -7439,19 +7449,19 @@ msgstr ""
 "Välj vilken titel/innehåll i editorn ovan som ska skickas till valda e-"
 "postlistor nedan."
 
-#: views/admin/metaboxes/write-advanced.php:14
+#: views/admin/metaboxes/write-advanced.php:13
 msgid "No languages are available, please enable languages first."
 msgstr "Inga språk är tillgängliga, vänligen aktivera språk först."
 
-#: views/admin/metaboxes/write-advanced.php:28
+#: views/admin/metaboxes/write-advanced.php:27
 msgid "Select a Theme"
 msgstr "Välj ett Tema"
 
-#: views/admin/metaboxes/write-advanced.php:47
+#: views/admin/metaboxes/write-advanced.php:46
 msgid "Select Mailing List(s)"
 msgstr "Välj E-postlista(listor)"
 
-#: views/admin/metaboxes/write-advanced.php:59
+#: views/admin/metaboxes/write-advanced.php:58
 msgid "active subscribers"
 msgstr "aktiva prenumeranter"
 
@@ -7841,7 +7851,7 @@ msgid "emails have been sent out."
 msgstr "meddelanden har skickats ut"
 
 #: views/admin/send-post.php:27 views/admin/send-post.php:124
-#: wp-mailinglist.php:2549
+#: wp-mailinglist.php:2548
 #, fuzzy
 msgid "emails have been queued."
 msgstr "meddelanden har skickats ut"
@@ -8086,11 +8096,11 @@ msgstr ""
 msgid "General"
 msgstr "Prisintervall"
 
-#: views/admin/settings-navigation.php:5 wp-mailinglist.php:1840
+#: views/admin/settings-navigation.php:5 wp-mailinglist.php:1839
 msgid "System"
 msgstr ""
 
-#: views/admin/settings-navigation.php:7 wp-mailinglist.php:1842
+#: views/admin/settings-navigation.php:7 wp-mailinglist.php:1841
 #, fuzzy
 msgid "API"
 msgstr "API Nyckel"
@@ -8679,7 +8689,7 @@ msgstr ""
 msgid "Registered Username"
 msgstr "Registrerat Användarnamn"
 
-#: views/admin/subscribers/view.php:150 wp-mailinglist.php:1862
+#: views/admin/subscribers/view.php:150 wp-mailinglist.php:1861
 msgid "Subscription Orders"
 msgstr "Beställningar för Prenumeration"
 
@@ -8915,7 +8925,7 @@ msgstr ""
 "Vänligen se till så att alla länkar, bilder eller andra referenser använder "
 "fulla absoluta sökvägar."
 
-#: views/admin/themes/save-ajax.php:13 wp-mailinglist.php:4182
+#: views/admin/themes/save-ajax.php:13 wp-mailinglist.php:4190
 msgid "Theme has been saved"
 msgstr "Tema har sparats"
 
@@ -9066,54 +9076,54 @@ msgstr ""
 msgid "Renew Now"
 msgstr "Skicka Nu"
 
-#: views/admin/widget-control.php:33 wp-mailinglist-widget.php:76
-#: wp-mailinglist-widget.php:161
+#: views/admin/widget-control.php:32 wp-mailinglist-widget.php:75
+#: wp-mailinglist-widget.php:165
 #, fuzzy
 msgid "Title:"
 msgstr "Titel"
 
-#: views/admin/widget-control.php:39 wp-mailinglist-widget.php:81
-#: wp-mailinglist-widget.php:166
+#: views/admin/widget-control.php:38 wp-mailinglist-widget.php:80
+#: wp-mailinglist-widget.php:170
 #, fuzzy
 msgid "Mailing List:"
 msgstr "E-postlista"
 
-#: views/admin/widget-control.php:45 views/admin/widget-control.php:130
+#: views/admin/widget-control.php:44 views/admin/widget-control.php:129
 msgid "Auto by Language"
 msgstr "Auto via Språk"
 
-#: views/admin/widget-control.php:69 views/admin/widget-control.php:144
+#: views/admin/widget-control.php:68 views/admin/widget-control.php:143
 msgid "Subtitle"
 msgstr "Undertitel"
 
-#: views/admin/widget-control.php:75 views/admin/widget-control.php:150
+#: views/admin/widget-control.php:74 views/admin/widget-control.php:149
 msgid "Acknowledgement Message"
 msgstr "Meddelande för bekräftelse"
 
-#: views/admin/widget-control.php:80
+#: views/admin/widget-control.php:79
 #, fuzzy
 msgid "Subscribe Again Link:"
 msgstr "Prenumerera igen Länk"
 
-#: views/admin/widget-control.php:83 views/admin/widget-control.php:158
+#: views/admin/widget-control.php:82 views/admin/widget-control.php:157
 msgid "display a \"subscribe again\" link on success"
 msgstr "visa en \"prenumerera igen\" länk vid lyckad prenumeration"
 
-#: views/admin/widget-control.php:86 wp-mailinglist-widget.php:126
-#: wp-mailinglist-widget.php:208
+#: views/admin/widget-control.php:85 wp-mailinglist-widget.php:125
+#: wp-mailinglist-widget.php:212
 #, fuzzy
 msgid "Ajax Features:"
 msgstr "Ajax Funktioner"
 
-#: views/admin/widget-control.php:87 views/admin/widget-control.php:162
+#: views/admin/widget-control.php:86 views/admin/widget-control.php:161
 msgid "Yes, turn on Ajax features"
 msgstr "Ja, slå på Ajax Funktioner"
 
-#: views/admin/widget-control.php:88 views/admin/widget-control.php:163
+#: views/admin/widget-control.php:87 views/admin/widget-control.php:162
 msgid "No, just normal page refresh"
 msgstr "Nej, bara en normal siduppdatering"
 
-#: views/admin/widget-control.php:91 views/admin/widget-control.php:166
+#: views/admin/widget-control.php:90 views/admin/widget-control.php:165
 msgid "Use Captcha for form"
 msgstr "Använd Captcha för formulär"
 
@@ -9135,7 +9145,7 @@ msgid "Go back to"
 msgstr "Gå tillbaks till"
 
 #: views/default/feed-newsletters.php:3 wp-mailinglist-widget.php:8
-#: wp-mailinglist.php:1831
+#: wp-mailinglist.php:1830
 msgid "Newsletters"
 msgstr "Nyhetsbrev"
 
@@ -9272,7 +9282,7 @@ msgstr "Logga ut"
 msgid "Current"
 msgstr "Valuta"
 
-#: views/default/management/index.php:34 wp-mailinglist.php:3284
+#: views/default/management/index.php:34 wp-mailinglist.php:3283
 msgid "Subscribe"
 msgstr "Prenumerera"
 
@@ -9281,16 +9291,16 @@ msgstr "Prenumerera"
 msgid "Profile"
 msgstr "Pris"
 
-#: views/default/management/index.php:110
+#: views/default/management/index.php:117
 #, fuzzy
 msgid "Activating..."
 msgstr "Aktivera"
 
-#: views/default/management/index.php:113
+#: views/default/management/index.php:120
 msgid "Removing..."
 msgstr "laddar..."
 
-#: views/default/management/index.php:126
+#: views/default/management/index.php:133
 #, fuzzy
 msgid "Subscribing..."
 msgstr "Prenumerera"
@@ -9306,8 +9316,8 @@ msgstr "Om du inte förflyttas inom någon sekund, klicka på länken nedan."
 
 #: views/default/management/login-auth.php:6
 #: views/default/management/logout-auth.php:6 views/default/resubscribe.php:6
-#: views/default/unsubscribe.php:19 wp-mailinglist-plugin.php:4790
-#: wp-mailinglist-plugin.php:5296
+#: views/default/unsubscribe.php:19 wp-mailinglist-plugin.php:5168
+#: wp-mailinglist-plugin.php:5674
 msgid "Manage Subscriptions"
 msgstr "Hantera Prenumeranter"
 
@@ -9347,7 +9357,7 @@ msgid "You can subscribe to our other mailing list(s) as well."
 msgstr "Du har prenumererat på e-postlistan"
 
 #: views/default/management/newsubscriptions.php:26
-#: wp-mailinglist-plugin.php:5390 wp-mailinglist-plugin.php:5414
+#: wp-mailinglist-plugin.php:5768 wp-mailinglist-plugin.php:5792
 #: wp-mailinglist-widget.php:51
 msgid "Subscribe Now"
 msgstr "Prenumerera Nu"
@@ -9445,11 +9455,11 @@ msgstr "Prenumerationer"
 msgid "&larr; Manage Subscriptions"
 msgstr "&larr; Hantera Prenumerationer"
 
-#: views/default/widget.php:51
+#: views/default/widget.php:55
 msgid "Please fill in the code below:"
 msgstr "Vänligen fyll i koden nedan:"
 
-#: views/default/widget.php:73
+#: views/default/widget.php:77
 msgid "Type the words"
 msgstr ""
 
@@ -9484,11 +9494,11 @@ msgstr "Du har inte rätt att visa denna sida"
 msgid "No method was specified"
 msgstr "Ingen metod specificerades"
 
-#: wp-mailinglist-ajax.php:196 wp-mailinglist-ajax.php:199
+#: wp-mailinglist-ajax.php:195 wp-mailinglist-ajax.php:198
 msgid "Submit another subscription"
 msgstr "Skicka in en ny registrering"
 
-#: wp-mailinglist-ajax.php:196 wp-mailinglist-ajax.php:199
+#: wp-mailinglist-ajax.php:195 wp-mailinglist-ajax.php:198
 msgid "Subscribe Again"
 msgstr "Prenumerera igen"
 
@@ -9593,7 +9603,7 @@ msgstr "Vänligen fyll i ett errormeddelande"
 msgid "Email was successfully sent, your settings are working!"
 msgstr "Meddelandet skickades utan problem, dina inställningar fungerar!"
 
-#: wp-mailinglist-plugin.php:1211 wp-mailinglist-plugin.php:5787
+#: wp-mailinglist-plugin.php:1211 wp-mailinglist-plugin.php:6150
 msgid "There are no emails in the mailbox"
 msgstr ""
 
@@ -9616,8 +9626,8 @@ msgstr "Inga Egna Fält specificerade"
 msgid "No data posted"
 msgstr "Inget data postades"
 
-#: wp-mailinglist-plugin.php:1287 wp-mailinglist.php:4205
-#: wp-mailinglist.php:4222 wp-mailinglist.php:4239
+#: wp-mailinglist-plugin.php:1287 wp-mailinglist.php:4213
+#: wp-mailinglist.php:4230 wp-mailinglist.php:4247
 msgid "No theme was specified"
 msgstr "Inget tema specificerat"
 
@@ -9662,12 +9672,12 @@ msgstr ""
 msgid "Serial key has been deleted."
 msgstr "Ingen filtyp har valts"
 
-#: wp-mailinglist-plugin.php:1548 wp-mailinglist.php:2095
+#: wp-mailinglist-plugin.php:1548 wp-mailinglist.php:2094
 #, fuzzy
 msgid "Please fill in a serial key."
 msgstr "Vänligen fyll i en licensnyckel"
 
-#: wp-mailinglist-plugin.php:1552 wp-mailinglist.php:2099
+#: wp-mailinglist-plugin.php:1552 wp-mailinglist.php:2098
 #, fuzzy
 msgid "Serial key is invalid, please try again."
 msgstr "Licensnyckel felaktig, vänligen prova igen"
@@ -9846,66 +9856,66 @@ msgstr ""
 msgid "Please fill in a valid email address."
 msgstr "Vänligen fyll i en giltig e-postadress"
 
-#: wp-mailinglist-plugin.php:3432
+#: wp-mailinglist-plugin.php:3815
 #, fuzzy
 msgid "Select File"
 msgstr "Välj Alla"
 
-#: wp-mailinglist-plugin.php:3479
+#: wp-mailinglist-plugin.php:3862
 msgid "YYYY"
 msgstr "ÅÅÅÅ"
 
-#: wp-mailinglist-plugin.php:3492
+#: wp-mailinglist-plugin.php:3875
 msgid "MM"
 msgstr "MM"
 
-#: wp-mailinglist-plugin.php:3501
+#: wp-mailinglist-plugin.php:3884
 msgid "DD"
 msgstr "DD"
 
-#: wp-mailinglist-plugin.php:3531
+#: wp-mailinglist-plugin.php:3914
 #, php-format
 msgid "Maximum file size of <strong>%s</strong>"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:3532
+#: wp-mailinglist-plugin.php:3915
 #, php-format
 msgid "Allowed file types are <strong>%s</strong>"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:4203
+#: wp-mailinglist-plugin.php:4580
 msgid "No feedback was provided by the subscriber."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:4206
+#: wp-mailinglist-plugin.php:4583
 msgid "Comments:"
 msgstr "Kommentar:"
 
-#: wp-mailinglist-plugin.php:4412
+#: wp-mailinglist-plugin.php:4790
 msgid "Sent on"
 msgstr "Skickat den"
 
-#: wp-mailinglist-plugin.php:4791
+#: wp-mailinglist-plugin.php:5169
 #, fuzzy
 msgid "[newsletters_management]"
 msgstr "Administration"
 
-#: wp-mailinglist-plugin.php:4810
+#: wp-mailinglist-plugin.php:5188
 #, php-format
 msgid "Newsletter plugin subscriber management post/page does not exist %s"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:4810
+#: wp-mailinglist-plugin.php:5188
 #, fuzzy
 msgid "please create it now"
 msgstr "Köa Nyhetsbrev"
 
-#: wp-mailinglist-plugin.php:4844
+#: wp-mailinglist-plugin.php:5222
 #, fuzzy
 msgid "Newsletter Images (do not remove)"
 msgstr "Förhandsvisning av Nyhetsbrev tema"
 
-#: wp-mailinglist-plugin.php:4845
+#: wp-mailinglist-plugin.php:5223
 #, fuzzy
 msgid ""
 "This is a placeholder for the Newsletter plugin images. You may edit and "
@@ -9914,99 +9924,99 @@ msgstr ""
 "Detta är en platshållare för Nyhetsbrev plugin. Du kan editera och "
 "återanvända denna sida men ta inte bort den"
 
-#: wp-mailinglist-plugin.php:5232
+#: wp-mailinglist-plugin.php:5610
 msgid "Authenticate Subscriber Account"
 msgstr "Autenticera konto för prenumerant"
 
-#: wp-mailinglist-plugin.php:5239
+#: wp-mailinglist-plugin.php:5617
 msgid "Subscription Successful"
 msgstr "Registrering Lyckades"
 
-#: wp-mailinglist-plugin.php:5264
+#: wp-mailinglist-plugin.php:5642
 msgid "username"
 msgstr "användarnamn"
 
-#: wp-mailinglist-plugin.php:5265
+#: wp-mailinglist-plugin.php:5643
 msgid "password"
 msgstr "lösenord"
 
-#: wp-mailinglist-plugin.php:5280 wp-mailinglist-plugin.php:5357
+#: wp-mailinglist-plugin.php:5658 wp-mailinglist-plugin.php:5735
 msgid "Receive news updates via email from this site"
 msgstr "Ta emot nyheter via e-post från denna webbplats"
 
-#: wp-mailinglist-plugin.php:5287
+#: wp-mailinglist-plugin.php:5665
 #, fuzzy
 msgid "resubscribe"
 msgstr "prenumeranter"
 
-#: wp-mailinglist-plugin.php:5288
+#: wp-mailinglist-plugin.php:5666
 #, fuzzy
 msgid "Unsubscribe from this newsletter"
 msgstr "Avregistrera dig från detta Nyhetsbrev"
 
-#: wp-mailinglist-plugin.php:5289
+#: wp-mailinglist-plugin.php:5667
 #, fuzzy
 msgid "Unsubscribe from all emails"
 msgstr "Avregistrera"
 
-#: wp-mailinglist-plugin.php:5293
+#: wp-mailinglist-plugin.php:5671
 msgid "Confirm Subscription"
 msgstr "Bekräfta Registrering"
 
-#: wp-mailinglist-plugin.php:5297
+#: wp-mailinglist-plugin.php:5675
 msgid "View in your browser"
 msgstr "Visa i din webbläsare"
 
-#: wp-mailinglist-plugin.php:5326
+#: wp-mailinglist-plugin.php:5704
 msgid "You are already subscribed, redirecting to the management page..."
 msgstr "Du ör redan prenumerant. Vidarebefordrar dig till kontrollpanelen..."
 
-#: wp-mailinglist-plugin.php:5335
+#: wp-mailinglist-plugin.php:5713
 msgid "secretstring"
 msgstr "hemlig sträng"
 
-#: wp-mailinglist-plugin.php:5361
+#: wp-mailinglist-plugin.php:5739
 #, fuzzy
 msgid "Read more"
 msgstr "läst"
 
-#: wp-mailinglist-plugin.php:5363
+#: wp-mailinglist-plugin.php:5741
 msgid "Latest Posts from"
 msgstr "Senaste Inlägg från"
 
-#: wp-mailinglist-plugin.php:5410
+#: wp-mailinglist-plugin.php:5788
 #, fuzzy
 msgid "Thank you for subscribing."
 msgstr "Tack för din registrering"
 
-#: wp-mailinglist-plugin.php:5411
+#: wp-mailinglist-plugin.php:5789
 #, fuzzy
 msgid "Subscribe to our newsletter."
 msgstr "Avregistrera dig från detta Nyhetsbrev"
 
-#: wp-mailinglist-plugin.php:5430
+#: wp-mailinglist-plugin.php:5806
 msgid "Published"
 msgstr "Publicerad"
 
-#: wp-mailinglist-plugin.php:5431
+#: wp-mailinglist-plugin.php:5807
 msgid "Pending"
 msgstr "Avvaktande"
 
-#: wp-mailinglist-plugin.php:5478
+#: wp-mailinglist-plugin.php:5854
 msgid "Hidden"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:5555
+#: wp-mailinglist-plugin.php:5931
 #, fuzzy
 msgid "Newsletters Manager"
 msgstr "Nyhetsbrev"
 
-#: wp-mailinglist-plugin.php:6037
+#: wp-mailinglist-plugin.php:6400
 #, fuzzy, php-format
 msgid "Rendering of %s has failed!"
 msgstr "Rendering av"
 
-#: wp-mailinglist-plugin.php:6040
+#: wp-mailinglist-plugin.php:6403
 msgid "No file was specified for rendering"
 msgstr "Ingen fil var specificerad för rendering"
 
@@ -10029,62 +10039,62 @@ msgstr "Prenumerantens e-postadress är"
 msgid "Thank you for subscribing!"
 msgstr "Tack för din registrering"
 
-#: wp-mailinglist-widget.php:77 wp-mailinglist-widget.php:162
+#: wp-mailinglist-widget.php:76 wp-mailinglist-widget.php:166
 msgid ""
 "The title of your widget used as a heading for display to your users on the "
 "front."
 msgstr ""
 
-#: wp-mailinglist-widget.php:82 wp-mailinglist-widget.php:167
+#: wp-mailinglist-widget.php:81 wp-mailinglist-widget.php:171
 msgid ""
 "Choose the list(s) that users will subscribe to. You can choose either a "
 "single, specific list or choose to have a select drop down of lists or "
 "checkboxes lists."
 msgstr ""
 
-#: wp-mailinglist-widget.php:87 wp-mailinglist-widget.php:172
+#: wp-mailinglist-widget.php:86 wp-mailinglist-widget.php:176
 #, fuzzy
 msgid "Checkbox List"
 msgstr "Visa kryssrutor"
 
-#: wp-mailinglist-widget.php:90 wp-mailinglist-widget.php:175
+#: wp-mailinglist-widget.php:89 wp-mailinglist-widget.php:179
 msgid "Specific"
 msgstr ""
 
-#: wp-mailinglist-widget.php:101 wp-mailinglist-widget.php:186
+#: wp-mailinglist-widget.php:100 wp-mailinglist-widget.php:190
 msgid ""
 "If you are using a select drop down or checkboxes list, you can now specify "
 "which lists should be included. Use comma separated list IDs eg. 2,3. To use "
 "all non-private mailing lists, leave this empty."
 msgstr ""
 
-#: wp-mailinglist-widget.php:106 wp-mailinglist-widget.php:191
+#: wp-mailinglist-widget.php:105 wp-mailinglist-widget.php:195
 #, fuzzy
 msgid "Subtitle:"
 msgstr "Undertitel"
 
-#: wp-mailinglist-widget.php:107 wp-mailinglist-widget.php:192
+#: wp-mailinglist-widget.php:106 wp-mailinglist-widget.php:196
 msgid ""
 "Specify the subtitle to show below the title of the widget and above the "
 "fields."
 msgstr ""
 
-#: wp-mailinglist-widget.php:111 wp-mailinglist-widget.php:196
+#: wp-mailinglist-widget.php:110 wp-mailinglist-widget.php:200
 #, fuzzy
 msgid "Success Message:"
 msgstr "Prenumerant har sparats"
 
-#: wp-mailinglist-widget.php:112 wp-mailinglist-widget.php:197
+#: wp-mailinglist-widget.php:111 wp-mailinglist-widget.php:201
 msgid ""
 "The success message is the acknowledgement displayed to the user after "
 "successfully subscribing."
 msgstr ""
 
-#: wp-mailinglist-widget.php:117 wp-mailinglist-widget.php:202
+#: wp-mailinglist-widget.php:116 wp-mailinglist-widget.php:206
 msgid "Security Captcha:"
 msgstr ""
 
-#: wp-mailinglist-widget.php:120
+#: wp-mailinglist-widget.php:119
 msgid ""
 "Display a security captcha image on the subscribe form to prevent spam "
 "submissions. It is simply a \"human\" check to stop bots from subscribing. "
@@ -10092,30 +10102,30 @@ msgid ""
 "accordingly."
 msgstr ""
 
-#: wp-mailinglist-widget.php:129 wp-mailinglist-widget.php:211
+#: wp-mailinglist-widget.php:128 wp-mailinglist-widget.php:215
 msgid ""
 "Turn on/off Ajax for the subscribe form. If you turn Ajax on, the subscribe "
 "form will submit without any page refresh and it is much quicker. Turning it "
 "off will generate a page refresh as the user submits the form to subscribe."
 msgstr ""
 
-#: wp-mailinglist-widget.php:132
+#: wp-mailinglist-widget.php:131
 #, fuzzy
 msgid "Scroll to subscribe form"
 msgstr "Scrolla ner till formulär för Prenumeration"
 
-#: wp-mailinglist-widget.php:135 wp-mailinglist-widget.php:214
+#: wp-mailinglist-widget.php:134 wp-mailinglist-widget.php:218
 #, fuzzy
 msgid "Button Text:"
 msgstr "Knapptext"
 
-#: wp-mailinglist-widget.php:136 wp-mailinglist-widget.php:215
+#: wp-mailinglist-widget.php:135 wp-mailinglist-widget.php:219
 msgid ""
 "The text to display on the subscribe button at the bottom of the subscribe "
 "form."
 msgstr ""
 
-#: wp-mailinglist-widget.php:205
+#: wp-mailinglist-widget.php:209
 msgid ""
 "Display a security captcha image on the subscribe form to prevent spam "
 "submissions."
@@ -10331,127 +10341,132 @@ msgstr "En gång i veckan"
 msgid "Once Monthly"
 msgstr "En gång i månaden"
 
-#: wp-mailinglist.php:1701
+#: wp-mailinglist.php:1700
 #, fuzzy
 msgid "read more"
 msgstr "läst"
 
-#: wp-mailinglist.php:1834
+#: wp-mailinglist.php:1833
 #, fuzzy
 msgid "Submit Serial"
 msgstr "Skicka licensnyckel"
 
-#: wp-mailinglist.php:1837
+#: wp-mailinglist.php:1836
 msgid "Configuration"
 msgstr "Konfiguration"
 
-#: wp-mailinglist.php:1860
+#: wp-mailinglist.php:1859
 #, fuzzy
 msgid "Save an Email Snippet"
 msgstr "Spara en E-postlista"
 
-#: wp-mailinglist.php:1902
+#: wp-mailinglist.php:1901
 msgid "Quick Search"
 msgstr ""
 
-#: wp-mailinglist.php:1902
+#: wp-mailinglist.php:1901
 msgid "Quick search"
 msgstr ""
 
-#: wp-mailinglist.php:1903
+#: wp-mailinglist.php:1902
 #, fuzzy
 msgid "Total Subscribers"
 msgstr "Exportera Prenumeranter"
 
-#: wp-mailinglist.php:1903
+#: wp-mailinglist.php:1902
 msgid ""
 "This is the total number of subscribers in the database. In other words, "
 "email addresses. Each subscriber could have multiple subscriptions to "
 "different lists or no subscriptions at all for that matter."
 msgstr ""
 
-#: wp-mailinglist.php:1904
+#: wp-mailinglist.php:1903
 #, fuzzy
 msgid "Total Mailing Lists"
 msgstr "Alla e-postlistor"
 
-#: wp-mailinglist.php:1904
+#: wp-mailinglist.php:1903
 msgid ""
 "The total mailing lists that you have in use. Each list can have a purpose "
 "of its own, make use of lists to organize and power your subscribers."
 msgstr ""
 
-#: wp-mailinglist.php:1905
+#: wp-mailinglist.php:1904
 #, fuzzy
 msgid "Total Emails"
 msgstr "Testmeddelande"
 
-#: wp-mailinglist.php:1905
+#: wp-mailinglist.php:1904
 msgid ""
 "The total number of emails sent to date since the plugin was installed until "
 "now."
 msgstr ""
 
-#: wp-mailinglist.php:1906
+#: wp-mailinglist.php:1905
 #, fuzzy
 msgid "Bounced Emails"
 msgstr "Kontrollera Studsade Meddelanden"
 
-#: wp-mailinglist.php:1906
+#: wp-mailinglist.php:1905
 msgid "The total number of bounces to date."
 msgstr ""
 
-#: wp-mailinglist.php:1907
+#: wp-mailinglist.php:1906
 msgid "Statistics Overview"
 msgstr ""
 
-#: wp-mailinglist.php:1907
+#: wp-mailinglist.php:1906
 msgid ""
 "This chart shows an overview of subscribers, emails sent, unsubscribes, "
 "bounces, etc in a visual manner."
 msgstr ""
 
-#: wp-mailinglist.php:1908
+#: wp-mailinglist.php:1907
 #, fuzzy
 msgid "Recent Emails"
 msgstr "Testmeddelande"
 
-#: wp-mailinglist.php:1908
+#: wp-mailinglist.php:1907
 msgid "This is a quick overview of your 5 latest newsletters."
 msgstr ""
 
-#: wp-mailinglist.php:1925
+#: wp-mailinglist.php:1924
 msgid ""
 "Tick/check the group(s) or list(s) that you want to send/queue this "
 "newsletter to. The newsletter will only be sent to active subscriptions in "
 "the chosen list(s)."
 msgstr ""
 
-#: wp-mailinglist.php:1926
+#: wp-mailinglist.php:1925
 #, fuzzy
 msgid "Insert into Newsletter"
 msgstr "Skicka Nyhetsbrev"
 
-#: wp-mailinglist.php:1926
+#: wp-mailinglist.php:1925
 msgid ""
 "Use this box to insert various things into your newsletter such as posts, "
 "snippets, custom fields and post thumbnails."
 msgstr ""
 
-#: wp-mailinglist.php:1927
+#: wp-mailinglist.php:1926
 msgid ""
 "Choose the theme that you want to use for this newsletter. The content "
 "filled into the TinyMCE editor to the left will be inserted into the theme "
 "where it has the [wpmlcontent] tag inside it."
 msgstr ""
 
-#: wp-mailinglist.php:1932
+#: wp-mailinglist.php:1931
 msgid ""
 "Specify the TEXT version of multipart emails which will be seen by users who "
 "prefer text or have HTML turned off."
 msgstr ""
 
-#: wp-mailinglist.php:1937
+#: wp-mailinglist.php:1936
+#, fuzzy
+msgid "Live Preview"
+msgstr "Förhandsvisning"
+
+#: wp-mailinglist.php:1936
 msgid ""
 "The preview section below shows a preview of what the newsletter will look "
 "like with the theme, content and other elements. It updates automatically "
@@ -10460,11 +10475,11 @@ msgid ""
 "clients render emails differently than browsers."
 msgstr ""
 
-#: wp-mailinglist.php:1940
+#: wp-mailinglist.php:1939
 msgid "Variables &amp; Custom Fields"
 msgstr "Variabler och Egna Fält"
 
-#: wp-mailinglist.php:1940
+#: wp-mailinglist.php:1939
 msgid ""
 "These are shortcodes which can be used inside of the newsletter theme or "
 "content where needed and as many of them as needed. The shortcodes will be "
@@ -10472,67 +10487,67 @@ msgid ""
 "can use this to personalize your newsletters to your subscribers easily."
 msgstr ""
 
-#: wp-mailinglist.php:1941
+#: wp-mailinglist.php:1940
 msgid "Email Attachment"
 msgstr "E-post bilaga"
 
-#: wp-mailinglist.php:1941
+#: wp-mailinglist.php:1940
 msgid ""
 "Attach files to your newsletter. It is possible to attach multiple files of "
 "any filetype and size to newsletters which will be sent to the subscribers. "
 "Try to keep attachments small to prevent emails from becoming too large."
 msgstr ""
 
-#: wp-mailinglist.php:1942
+#: wp-mailinglist.php:1941
 msgid ""
 "When you queue/send this newsletter you can publish it as a post on your "
 "website. Configure these settings to publish this newsletter as a post "
 "according to your needs."
 msgstr ""
 
-#: wp-mailinglist.php:1964 wp-mailinglist.php:1991 wp-mailinglist.php:2014
-#: wp-mailinglist.php:2039
+#: wp-mailinglist.php:1963 wp-mailinglist.php:1990 wp-mailinglist.php:2013
+#: wp-mailinglist.php:2038
 msgid "Configuration Settings"
 msgstr "Konfigurationsinställningar"
 
-#: wp-mailinglist.php:1965 wp-mailinglist.php:1992 wp-mailinglist.php:2015
-#: wp-mailinglist.php:2040
+#: wp-mailinglist.php:1964 wp-mailinglist.php:1991 wp-mailinglist.php:2014
+#: wp-mailinglist.php:2039
 #, fuzzy
 msgid "Quick Links"
 msgstr "Användbara länkar"
 
-#: wp-mailinglist.php:1966
+#: wp-mailinglist.php:1965
 msgid ""
 "These are general settings related to the sending of emails such as your "
 "email server. You can also turn on/off other features here such as read "
 "tracking, click tracking and more."
 msgstr ""
 
-#: wp-mailinglist.php:1968
+#: wp-mailinglist.php:1967
 msgid ""
 "Global subscribe form settings for hardcoded and shortcode (post/page) "
 "subscribe forms."
 msgstr ""
 
-#: wp-mailinglist.php:1970
+#: wp-mailinglist.php:1969
 msgid ""
 "If you are using PayPal as your payment method for paid subscriptions you "
 "can configure it here."
 msgstr ""
 
-#: wp-mailinglist.php:1971
+#: wp-mailinglist.php:1970
 msgid ""
 "Configure 2CheckOut (2CO) here if you are using it as your payment method "
 "for paid subscriptions."
 msgstr ""
 
-#: wp-mailinglist.php:1972
+#: wp-mailinglist.php:1971
 msgid ""
 "These are settings related to posts in general. For publishing newsletters "
 "as posts and also inserting posts into newsletters."
 msgstr ""
 
-#: wp-mailinglist.php:1973
+#: wp-mailinglist.php:1972
 msgid ""
 "The purpose of email scheduling is to allow you to send thousands of emails "
 "in a load distributed way. Please take note that you cannot expect your "
@@ -10540,62 +10555,62 @@ msgid ""
 "this is where email scheduling helps you."
 msgstr ""
 
-#: wp-mailinglist.php:1979
+#: wp-mailinglist.php:1978
 msgid "Language Configuration"
 msgstr "Konfiguration för Språk"
 
-#: wp-mailinglist.php:1993
+#: wp-mailinglist.php:1992
 msgid ""
 "The posts template used when using the [wpmlpost...] or [wpmlposts...] "
 "shorcodes in your newsletters."
 msgstr ""
 
-#: wp-mailinglist.php:1994
+#: wp-mailinglist.php:1993
 msgid ""
 "The posts template used for the \"Latest Posts Subscription\" feature which "
 "automatically sends out new posts."
 msgstr ""
 
-#: wp-mailinglist.php:1995
+#: wp-mailinglist.php:1994
 #, fuzzy
 msgid "Email message sent to new subscribers to confirm their subscription."
 msgstr "Vänligen kontrollera din inkorg för att bekräfta din avregistrering"
 
-#: wp-mailinglist.php:1996
+#: wp-mailinglist.php:1995
 msgid ""
 "Email message sent to the administrator when an email to a subscriber "
 "bounces."
 msgstr ""
 
-#: wp-mailinglist.php:1997
+#: wp-mailinglist.php:1996
 #, fuzzy
 msgid "Email message sent to the administrator when a subscriber unsubscribes."
 msgstr "qärendet för meddelandet till prenumeranterna"
 
-#: wp-mailinglist.php:1998
+#: wp-mailinglist.php:1997
 #, fuzzy
 msgid "Email message to the subscriber to confirm their unsubscribe."
 msgstr "Vänligen kontrollera din inkorg för att bekräfta din avregistrering"
 
-#: wp-mailinglist.php:1999
+#: wp-mailinglist.php:1998
 msgid "Email message sent to the subscriber when a paid subscription expires."
 msgstr ""
 
-#: wp-mailinglist.php:2000
+#: wp-mailinglist.php:1999
 msgid ""
 "Email message sent to the administrator for a new paid subscription order "
 "payment."
 msgstr ""
 
-#: wp-mailinglist.php:2001
+#: wp-mailinglist.php:2000
 msgid "Email message sent to the administrator when the email cron fires."
 msgstr ""
 
-#: wp-mailinglist.php:2002
+#: wp-mailinglist.php:2001
 msgid "Email message sent to the administrator when a new user subscribes."
 msgstr ""
 
-#: wp-mailinglist.php:2016
+#: wp-mailinglist.php:2015
 msgid ""
 "This section lets you control the way the subscriber management section "
 "behaves. It is the \"Manage Subscriptions\" page which is provided to "
@@ -10603,19 +10618,19 @@ msgid ""
 "their profile, etc."
 msgstr ""
 
-#: wp-mailinglist.php:2017
+#: wp-mailinglist.php:2016
 msgid ""
 "Control the way the plugin behaves when someone subscribes to your site. "
 "Certain things can happen upon subscription based on these settings."
 msgstr ""
 
-#: wp-mailinglist.php:2018
+#: wp-mailinglist.php:2017
 msgid ""
 "Control the unsubscribe procedure. Certain things can happen when a "
 "subscriber unsubscribes from your site based on these settings."
 msgstr ""
 
-#: wp-mailinglist.php:2041
+#: wp-mailinglist.php:2040
 #, fuzzy
 msgid ""
 "Use these settings for the captcha security image used in the subscribe "
@@ -10624,116 +10639,116 @@ msgstr ""
 "Dessa inställningar kommer påverka inlägg/sidor som har inbäddade eller "
 "hårdkodade anmälningsformulär."
 
-#: wp-mailinglist.php:2042
+#: wp-mailinglist.php:2041
 msgid ""
 "These are settings related to WordPress directly and how the plugin "
 "interacts with it."
 msgstr ""
 
-#: wp-mailinglist.php:2043
+#: wp-mailinglist.php:2042
 msgid ""
 "Use these settings to configure the way that WordPress users are "
 "automatically imported as subscribers into the system."
 msgstr ""
 
-#: wp-mailinglist.php:2044
+#: wp-mailinglist.php:2043
 msgid ""
 "Put a subscribe checkbox on your WordPress registration and/or comment forms "
 "to capture subscribers."
 msgstr ""
 
-#: wp-mailinglist.php:2152
+#: wp-mailinglist.php:2151
 msgid "Email template has been loaded into the subject field and editor below."
 msgstr "Mall för e-post har laddads in i editorn nedan"
 
-#: wp-mailinglist.php:2156
+#: wp-mailinglist.php:2155
 msgid "Email template could not be loaded, please try again."
 msgstr "Mall för e-post kunder inte laddas in, vänligen försök igen"
 
-#: wp-mailinglist.php:2200
+#: wp-mailinglist.php:2199
 #, fuzzy
 msgid "Sent/draft email could not be loaded, please try again."
 msgstr "E-post utkast kunde inte laddas in, vänligen försök igen"
 
-#: wp-mailinglist.php:2226
+#: wp-mailinglist.php:2225
 msgid "Please fill in an email subject"
 msgstr "Vänligen fyll i en rubrik för e-post"
 
-#: wp-mailinglist.php:2227
+#: wp-mailinglist.php:2226
 msgid "Please fill in a newsletter message"
 msgstr "Vänligen fyll i innehåll för meddelande"
 
-#: wp-mailinglist.php:2280
+#: wp-mailinglist.php:2279
 msgid "Newsletter could not be scheduled/qeueued"
 msgstr "Nyhetsbrev kunde inte schemaläggas/köas"
 
-#: wp-mailinglist.php:2282 wp-mailinglist.php:2758
+#: wp-mailinglist.php:2281 wp-mailinglist.php:2757
 msgid "Newsletter could not be sent"
 msgstr "Nyhetsbrev kunde inte skickas"
 
-#: wp-mailinglist.php:2553
+#: wp-mailinglist.php:2552
 #, fuzzy
 msgid "No mailing lists or roles have been selected"
 msgstr "Ingen e-postlista har valts"
 
-#: wp-mailinglist.php:2557
+#: wp-mailinglist.php:2556
 #, fuzzy, php-format
 msgid "Newsletter has been scheduled for %s"
 msgstr "Nyhetsbrev kunder inte schemaläggas/köas"
 
-#: wp-mailinglist.php:2631
+#: wp-mailinglist.php:2630
 msgid ""
 "Draft has been successfully saved. It has been saved to your email history."
 msgstr "Utkast har sparats. Det har sparats i din e-post historik"
 
-#: wp-mailinglist.php:2634
+#: wp-mailinglist.php:2633
 msgid "Draft could not be saved. Please fill in all required fields"
 msgstr "Utkast kunde inte sparas. Vänligen fyll i alla fält som krävs"
 
-#: wp-mailinglist.php:2720
+#: wp-mailinglist.php:2719
 #, fuzzy, php-format
 msgid "Preview cannot be sent to %s, %s."
 msgstr "Förhandsvisning har skickats till \""
 
-#: wp-mailinglist.php:2723
+#: wp-mailinglist.php:2722
 #, fuzzy, php-format
 msgid "Preview has been sent to %s"
 msgstr "Förhandsvisning har skickats till \""
 
-#: wp-mailinglist.php:2753
+#: wp-mailinglist.php:2752
 msgid "Preview could not be sent"
 msgstr "Förhandsvisning kunde inte skickas"
 
-#: wp-mailinglist.php:2756
+#: wp-mailinglist.php:2755
 msgid "Newsletter could not be scheduled/queued"
 msgstr "Nyhetsbrev kunder inte schemaläggas/köas"
 
-#: wp-mailinglist.php:2781
+#: wp-mailinglist.php:2780
 #, fuzzy
 msgid "Autoresponder has been saved."
 msgstr "Beställning har sparats"
 
-#: wp-mailinglist.php:2784
+#: wp-mailinglist.php:2783
 #, fuzzy
 msgid "Autoresponder could not be saved, please try again."
 msgstr "Mall för e-post kunder inte laddas in, vänligen försök igen"
 
-#: wp-mailinglist.php:2800
+#: wp-mailinglist.php:2799
 #, fuzzy
 msgid "Autoresponder has been deleted."
 msgstr "Ingen filtyp har valts"
 
-#: wp-mailinglist.php:2803
+#: wp-mailinglist.php:2802
 #, fuzzy
 msgid "Autoresponder cannot be deleted, please try again."
 msgstr "Mall för e-post kunder inte laddas in, vänligen försök igen"
 
-#: wp-mailinglist.php:2826
+#: wp-mailinglist.php:2825
 #, fuzzy
 msgid "Selected autoresponders and scheduled messages were removed."
 msgstr "Valda beställningar raderades"
 
-#: wp-mailinglist.php:2835
+#: wp-mailinglist.php:2834
 msgid ""
 "Selected autoresponders have been activated and messages will be scheduled "
 "for new subscriptions."
@@ -10741,7 +10756,7 @@ msgstr ""
 "Valda autosvarare har aktiverats och meddelanden kommer schemaläggas för nya "
 "prenumerationer."
 
-#: wp-mailinglist.php:2844
+#: wp-mailinglist.php:2843
 msgid ""
 "Selected autoresponders have been deactivated and no more messages will be "
 "scheduled for them."
@@ -10749,38 +10764,38 @@ msgstr ""
 "Valda autosvararer har deaktiverats och inga fler meddelande kommer "
 "schemaläggas för dem."
 
-#: wp-mailinglist.php:2849 wp-mailinglist.php:3043
+#: wp-mailinglist.php:2848 wp-mailinglist.php:3042
 #, fuzzy
 msgid "No action was specified."
 msgstr "Ingen åtgärd specificerades"
 
-#: wp-mailinglist.php:2853 wp-mailinglist.php:3047
+#: wp-mailinglist.php:2852 wp-mailinglist.php:3046
 #, fuzzy
 msgid "No autoresponders were selected."
 msgstr "Inga beställningar har valts"
 
-#: wp-mailinglist.php:2864
+#: wp-mailinglist.php:2863
 #, fuzzy
 msgid "Autoresponders schedule interval has been updated."
 msgstr "Ingen filtyp har valts"
 
-#: wp-mailinglist.php:2867
+#: wp-mailinglist.php:2866
 #, fuzzy
 msgid "No schedule interval was chosen."
 msgstr "Inga scheman är tillgängliga"
 
-#: wp-mailinglist.php:2896 wp-mailinglist.php:3107
+#: wp-mailinglist.php:2895 wp-mailinglist.php:3106
 msgid ""
 "Please note that autoresponder emails are only sent to Active subscriptions. "
 "Once a subscription is Active, the autoresponder email will queue."
 msgstr ""
 
-#: wp-mailinglist.php:2947
+#: wp-mailinglist.php:2946
 #, fuzzy
 msgid "Autoresponder email has been sent."
 msgstr "Beställning har sparats"
 
-#: wp-mailinglist.php:2950
+#: wp-mailinglist.php:2949
 #, fuzzy
 msgid ""
 "Autoresponder email could not be sent, please check your email settings."
@@ -10788,104 +10803,104 @@ msgstr ""
 "Meddelandet kunde inte skickas, vänligen kontrollera inställningarna för e-"
 "post i konfigurationen"
 
-#: wp-mailinglist.php:2954
+#: wp-mailinglist.php:2953
 #, fuzzy
 msgid "Autoresponder email cannot be read."
 msgstr "Historisk meddelande kan inte läsas"
 
-#: wp-mailinglist.php:2958
+#: wp-mailinglist.php:2957
 #, fuzzy
 msgid "No autoresponder email was specified."
 msgstr "Inget beställnings ID specificerades"
 
-#: wp-mailinglist.php:2969
+#: wp-mailinglist.php:2968
 #, fuzzy
 msgid "Autoresponder email has been removed."
 msgstr "Beställning har sparats"
 
-#: wp-mailinglist.php:2972
+#: wp-mailinglist.php:2971
 #, fuzzy
 msgid "Autoresponder email cannot be deleted."
 msgstr "Ingen filtyp har valts"
 
-#: wp-mailinglist.php:2976
+#: wp-mailinglist.php:2975
 #, fuzzy
 msgid "No autoresponder email has been specified."
 msgstr "Inget beställnings ID specificerades"
 
-#: wp-mailinglist.php:2995
+#: wp-mailinglist.php:2994
 #, fuzzy
 msgid "Selected autoresponder emails were removed."
 msgstr "Valda beställningar raderades"
 
-#: wp-mailinglist.php:3038
+#: wp-mailinglist.php:3037
 #, fuzzy
 msgid "Selected autoresponder emails were sent."
 msgstr "Valda beställningar raderades"
 
-#: wp-mailinglist.php:3121
+#: wp-mailinglist.php:3120
 msgid "Mailing list has been saved"
 msgstr "E-postlista har sparats"
 
-#: wp-mailinglist.php:3124
+#: wp-mailinglist.php:3123
 msgid "Mailing list could not be saved"
 msgstr "E-postlista kunde inte sparas"
 
-#: wp-mailinglist.php:3153
+#: wp-mailinglist.php:3152
 msgid "Mailing list could not be read"
 msgstr "E-postlista kunde inte läsas"
 
-#: wp-mailinglist.php:3163
+#: wp-mailinglist.php:3162
 msgid "Mailing list has been removed"
 msgstr "E-postlista har raderats"
 
-#: wp-mailinglist.php:3166
+#: wp-mailinglist.php:3165
 msgid "Mailing list cannot be removed"
 msgstr "E-postlista kunde inte raderas"
 
-#: wp-mailinglist.php:3188
+#: wp-mailinglist.php:3187
 #, fuzzy
 msgid "Selected lists set as single opt-in"
 msgstr "Valda prenumeranter har sats som aktiva"
 
-#: wp-mailinglist.php:3197
+#: wp-mailinglist.php:3196
 #, fuzzy
 msgid "Selected lists set as doublt opt-in"
 msgstr "Vald e-postlista har sats som Publik"
 
-#: wp-mailinglist.php:3206
+#: wp-mailinglist.php:3205
 #, fuzzy
 msgid "Selected mailing lists assigned to the chosen group."
 msgstr "Vald e-postlista har tilldelats prenumeranter"
 
-#: wp-mailinglist.php:3209
+#: wp-mailinglist.php:3208
 #, fuzzy
 msgid "No group was selected."
 msgstr "Inget format har valts"
 
-#: wp-mailinglist.php:3215
+#: wp-mailinglist.php:3214
 msgid "Selected mailing lists have been removed"
 msgstr "Vald e-postlista har raderats"
 
-#: wp-mailinglist.php:3223
+#: wp-mailinglist.php:3222
 msgid "Selected mailing lists have been set as private"
 msgstr "Vald e-postlista har sats som Privat"
 
-#: wp-mailinglist.php:3231
+#: wp-mailinglist.php:3230
 msgid "Selected mailing lists have been set as not private"
 msgstr "Vald e-postlista har sats som Publik"
 
-#: wp-mailinglist.php:3236 wp-mailinglist.php:3423 wp-mailinglist.php:3627
-#: wp-mailinglist.php:4266 wp-mailinglist.php:4365 wp-mailinglist.php:4468
-#: wp-mailinglist.php:5099 wp-mailinglist.php:5227
+#: wp-mailinglist.php:3235 wp-mailinglist.php:3422 wp-mailinglist.php:3626
+#: wp-mailinglist.php:4274 wp-mailinglist.php:4373 wp-mailinglist.php:4476
+#: wp-mailinglist.php:5107 wp-mailinglist.php:5235
 msgid "No action was selected"
 msgstr "Ingen åtgärd vald"
 
-#: wp-mailinglist.php:3240 wp-mailinglist.php:3565 wp-mailinglist.php:3592
+#: wp-mailinglist.php:3239 wp-mailinglist.php:3564 wp-mailinglist.php:3591
 msgid "No mailing lists were selected"
 msgstr "Ingen e-postlista har valts"
 
-#: wp-mailinglist.php:3276
+#: wp-mailinglist.php:3275
 msgid ""
 "Offsite code is specifically used for non-WordPress and other remote "
 "websites, not for the current one."
@@ -10893,150 +10908,150 @@ msgstr ""
 "Offsite kod används för icke-WordPress och andra webbplatse, inte för "
 "nuvarande."
 
-#: wp-mailinglist.php:3357
+#: wp-mailinglist.php:3356
 #, fuzzy
 msgid "Group has been saved."
 msgstr "Beställning har sparats"
 
-#: wp-mailinglist.php:3360
+#: wp-mailinglist.php:3359
 #, fuzzy
 msgid "Group could not be saved."
 msgstr "Utkast kunde inte sparas"
 
-#: wp-mailinglist.php:3379
+#: wp-mailinglist.php:3378
 #, fuzzy
 msgid "Group could not be read"
 msgstr "Beställning  kunde inte läsas"
 
-#: wp-mailinglist.php:3382 wp-mailinglist.php:3399
+#: wp-mailinglist.php:3381 wp-mailinglist.php:3398
 #, fuzzy
 msgid "No group was specified"
 msgstr "Inget inlägg specificerades"
 
-#: wp-mailinglist.php:3392
+#: wp-mailinglist.php:3391
 #, fuzzy
 msgid "Group has been removed"
 msgstr "Tema har raderats"
 
-#: wp-mailinglist.php:3395
+#: wp-mailinglist.php:3394
 #, fuzzy
 msgid "Group cannot be removed"
 msgstr "Fält kan inte raderas"
 
-#: wp-mailinglist.php:3418
+#: wp-mailinglist.php:3417
 #, fuzzy
 msgid "Selected groups have been removed."
 msgstr "Valda teman har raderats"
 
-#: wp-mailinglist.php:3427
+#: wp-mailinglist.php:3426
 #, fuzzy
 msgid "No groups were selected"
 msgstr "Inga beställningar har valts"
 
-#: wp-mailinglist.php:3489
+#: wp-mailinglist.php:3488
 msgid "Subscriber has been saved"
 msgstr "Prenumerant har sparats"
 
-#: wp-mailinglist.php:3493
+#: wp-mailinglist.php:3492
 msgid "Subscriber could not be saved"
 msgstr "Prenumerant kunde inte sparas"
 
-#: wp-mailinglist.php:3511
+#: wp-mailinglist.php:3510
 msgid "Subscriber cannot be read"
 msgstr "Prenumerant kunde inte läsas"
 
-#: wp-mailinglist.php:3525
+#: wp-mailinglist.php:3524
 msgid "Subscriber has been removed"
 msgstr "Prenumerant har raderats"
 
-#: wp-mailinglist.php:3528
+#: wp-mailinglist.php:3527
 msgid "Subscriber cannot be removed"
 msgstr "Prenumerant kan inte raderas"
 
-#: wp-mailinglist.php:3562
+#: wp-mailinglist.php:3561
 msgid "Selected mailing lists have been appended to the subscribers"
 msgstr "Vald e-postlista har fästs vid prenumeranter"
 
-#: wp-mailinglist.php:3589
+#: wp-mailinglist.php:3588
 msgid "Selected mailing lists have been assigned to the subscribers"
 msgstr "Vald e-postlista har tilldelats prenumeranter"
 
-#: wp-mailinglist.php:3602
+#: wp-mailinglist.php:3601
 msgid "Selected subscribers have been removed"
 msgstr "Valda prenumeranter har raderats"
 
-#: wp-mailinglist.php:3613
+#: wp-mailinglist.php:3612
 msgid "Selected subscribers set as active"
 msgstr "Valda prenumeranter har sats som aktiva"
 
-#: wp-mailinglist.php:3622
+#: wp-mailinglist.php:3621
 msgid "Selected subscribers deactivated"
 msgstr "Valda prenumeranter har avaktiverats"
 
-#: wp-mailinglist.php:3631
+#: wp-mailinglist.php:3630
 msgid "No subscribers were selected"
 msgstr "Inga prenumeranter valdes"
 
-#: wp-mailinglist.php:3641
+#: wp-mailinglist.php:3640
 msgid "and"
 msgstr "och"
 
-#: wp-mailinglist.php:3643
+#: wp-mailinglist.php:3642
 msgid "bounced emails were removed."
 msgstr "studsande e-post raderades."
 
-#: wp-mailinglist.php:3649
+#: wp-mailinglist.php:3648
 #, php-format
 msgid ""
 "%s subscriptions have been deactivated due to expiration or max emails sent."
 msgstr ""
 
-#: wp-mailinglist.php:3763
+#: wp-mailinglist.php:3771
 msgid "No file selected for uploading"
 msgstr "Ingen fil vald för uppladdning"
 
-#: wp-mailinglist.php:3764
+#: wp-mailinglist.php:3772
 msgid "File could not be uploaded"
 msgstr "Fil kunde inte laddas upp"
 
-#: wp-mailinglist.php:3765
+#: wp-mailinglist.php:3773
 msgid "No mailing list selected"
 msgstr "Ingen e-postlista har valts"
 
-#: wp-mailinglist.php:3766
+#: wp-mailinglist.php:3774
 msgid "No file type has been selected"
 msgstr "Ingen filtyp har valts"
 
-#: wp-mailinglist.php:3793
+#: wp-mailinglist.php:3801
 #, fuzzy, php-format
 msgid "Csv file could not be created! Check \"%s\" permissions!"
 msgstr ""
 "Csv fil kunde inte skapas! Kontrollera rättigheter för \"wp-content/uploads\""
 
-#: wp-mailinglist.php:3984
+#: wp-mailinglist.php:3992
 msgid "subscribers successfully imported"
 msgstr "prenumeranter importerades korrekt"
 
-#: wp-mailinglist.php:3986
+#: wp-mailinglist.php:3994
 #, fuzzy
 msgid "No subscribers were imported"
 msgstr "Inga prenumeranter hittades"
 
-#: wp-mailinglist.php:3998
+#: wp-mailinglist.php:4006
 msgid "Subscribers could not be imported"
 msgstr "Prenumeranter kunde inte importeras"
 
-#: wp-mailinglist.php:4007
+#: wp-mailinglist.php:4015
 #, fuzzy
 msgid "Please select export list(s)"
 msgstr "Vänligen välj e-postlista/listor"
 
-#: wp-mailinglist.php:4008
+#: wp-mailinglist.php:4016
 #, fuzzy
 msgid "Please select an export filetype"
 msgstr "Vänligen välj en filtyp"
 
-#: wp-mailinglist.php:4013
+#: wp-mailinglist.php:4021
 #, fuzzy, php-format
 msgid ""
 "Export file could not be created, please check permissions on <b>%s</b> to "
@@ -11044,42 +11059,42 @@ msgid ""
 msgstr ""
 "Csv fil kunde inte skapas! Kontrollera rättigheter för \"wp-content/uploads\""
 
-#: wp-mailinglist.php:4159
+#: wp-mailinglist.php:4167
 #, fuzzy, php-format
 msgid "subscribers have been exported. %s"
 msgstr "Prenumerant har raderats"
 
-#: wp-mailinglist.php:4185
+#: wp-mailinglist.php:4193
 msgid "Theme could not be saved"
 msgstr "Tema kunde inte sparas"
 
-#: wp-mailinglist.php:4198
+#: wp-mailinglist.php:4206
 msgid "Theme has been removed"
 msgstr "Tema har raderats"
 
-#: wp-mailinglist.php:4201
+#: wp-mailinglist.php:4209
 msgid "Theme could not be removed"
 msgstr "Tema kunde inte raderas"
 
-#: wp-mailinglist.php:4219
+#: wp-mailinglist.php:4227
 #, fuzzy
 msgid "Selected theme has been set as the sending default"
 msgstr "Valt tema har sats som standard"
 
-#: wp-mailinglist.php:4236
+#: wp-mailinglist.php:4244
 #, fuzzy
 msgid "Selected theme has been set as the system default"
 msgstr "Valt tema har sats som standard"
 
-#: wp-mailinglist.php:4257
+#: wp-mailinglist.php:4265
 msgid "Selected themes have been removed"
 msgstr "Valda teman har raderats"
 
-#: wp-mailinglist.php:4262
+#: wp-mailinglist.php:4270
 msgid "No themes were selected"
 msgstr "Inga teman har valts"
 
-#: wp-mailinglist.php:4309
+#: wp-mailinglist.php:4317
 #, fuzzy
 msgid ""
 "Email Snippets are meant for content only, use the Themes for newsletter "
@@ -11088,169 +11103,169 @@ msgstr ""
 "Mall för e-post är endast till för innehåll, använd teman för nyhetsbrevens "
 "utseende"
 
-#: wp-mailinglist.php:4313
+#: wp-mailinglist.php:4321
 #, fuzzy
 msgid "Snippet has been saved"
 msgstr "Prenumerant har sparats"
 
-#: wp-mailinglist.php:4316
+#: wp-mailinglist.php:4324
 #, fuzzy
 msgid "Snippet could not be saved"
 msgstr "Utkast kunde inte sparas"
 
-#: wp-mailinglist.php:4328
+#: wp-mailinglist.php:4336
 #, fuzzy
 msgid "Snippet has been removed"
 msgstr "Fält har raderats"
 
-#: wp-mailinglist.php:4332 wp-mailinglist.php:4345
+#: wp-mailinglist.php:4340 wp-mailinglist.php:4353
 #, fuzzy
 msgid "No snippet was specified"
 msgstr "Ingen lista specificerades"
 
-#: wp-mailinglist.php:4341
+#: wp-mailinglist.php:4349
 #, fuzzy
 msgid "Snippet cannot be read"
 msgstr "Fält kan inte raderas"
 
-#: wp-mailinglist.php:4354
+#: wp-mailinglist.php:4362
 #, fuzzy
 msgid "Selected snippets removed"
 msgstr "Valda mallar raderades"
 
-#: wp-mailinglist.php:4357
+#: wp-mailinglist.php:4365
 #, fuzzy
 msgid "Snippets could not be removed"
 msgstr "Mallar kunde inte raderas"
 
-#: wp-mailinglist.php:4361
+#: wp-mailinglist.php:4369
 #, fuzzy
 msgid "No snippets were selected"
 msgstr "Inga prenumerationer valda"
 
-#: wp-mailinglist.php:4408
+#: wp-mailinglist.php:4416
 msgid "Email scheduling is turned off"
 msgstr "Schemaläggning av e-post är avaktiverat"
 
-#: wp-mailinglist.php:4414
+#: wp-mailinglist.php:4422
 msgid "The queue has been truncated"
 msgstr "Kön har tömts"
 
-#: wp-mailinglist.php:4449
+#: wp-mailinglist.php:4457
 msgid "queue email(s) have been sent out"
 msgstr "meddelanden i kö har skickats ut"
 
-#: wp-mailinglist.php:4455
+#: wp-mailinglist.php:4463
 msgid "queue email(s) removed"
 msgstr "meddelanden i kö har raderats"
 
-#: wp-mailinglist.php:4458
+#: wp-mailinglist.php:4466
 msgid "Queue emails cannot be removed"
 msgstr "meddelande i kö kan inte raderas"
 
-#: wp-mailinglist.php:4464
+#: wp-mailinglist.php:4472
 msgid "No queue emails were selected"
 msgstr "Inga meddelanden i kön har valts"
 
-#: wp-mailinglist.php:4477
+#: wp-mailinglist.php:4485
 #, fuzzy
 msgid "Queued email has been deleted"
 msgstr "Inga meddelanden i kön har valts"
 
-#: wp-mailinglist.php:4480
+#: wp-mailinglist.php:4488
 #, fuzzy
 msgid "Queued email could not be deleted"
 msgstr "Meddelande i historik kunde inte raderas"
 
-#: wp-mailinglist.php:4484 wp-mailinglist.php:4512
+#: wp-mailinglist.php:4492 wp-mailinglist.php:4520
 #, fuzzy
 msgid "No queued email was specified"
 msgstr "Inget beställnings ID specificerades"
 
-#: wp-mailinglist.php:4501
+#: wp-mailinglist.php:4509
 #, fuzzy
 msgid "Queued email has been sent"
 msgstr "meddelanden i kö har skickats ut"
 
-#: wp-mailinglist.php:4504
+#: wp-mailinglist.php:4512
 #, fuzzy
 msgid "Email could not be sent, please check email settings"
 msgstr ""
 "Meddelandet kunde inte skickas, vänligen kontrollera inställningarna för e-"
 "post i konfigurationen"
 
-#: wp-mailinglist.php:4508
+#: wp-mailinglist.php:4516
 #, fuzzy
 msgid "Queued email cannot be read"
 msgstr "meddelande i kö kan inte raderas"
 
-#: wp-mailinglist.php:4558
+#: wp-mailinglist.php:4566
 msgid "History email cannot be read"
 msgstr "Historisk meddelande kan inte läsas"
 
-#: wp-mailinglist.php:4569
+#: wp-mailinglist.php:4577
 msgid "History email has been removed"
 msgstr "Meddelande i historik raderades"
 
-#: wp-mailinglist.php:4571
+#: wp-mailinglist.php:4579
 msgid "History email could not be removed"
 msgstr "Meddelande i historik kunde inte raderas"
 
-#: wp-mailinglist.php:4594
+#: wp-mailinglist.php:4602
 #, fuzzy
 msgid "History email has been duplicated"
 msgstr "Meddelande i historik raderades"
 
-#: wp-mailinglist.php:4615
+#: wp-mailinglist.php:4623
 msgid "history record(s) have been removed"
 msgstr "meddelanden i historiken har raderats"
 
-#: wp-mailinglist.php:4620
+#: wp-mailinglist.php:4628
 msgid "No history emails were selected"
 msgstr "Inga meddelanden i historiken har specificerats"
 
-#: wp-mailinglist.php:4624 wp-mailinglist.php:4932
+#: wp-mailinglist.php:4632 wp-mailinglist.php:4940
 msgid "No action was specified"
 msgstr "Ingen åtgärd specificerades"
 
-#: wp-mailinglist.php:4632
+#: wp-mailinglist.php:4640
 msgid "History list has been purged"
 msgstr "Historiken har tömts"
 
-#: wp-mailinglist.php:4635
+#: wp-mailinglist.php:4643
 msgid "History items cannot be removed"
 msgstr "Meddelanden i historik kan inte raderas"
 
-#: wp-mailinglist.php:4655
+#: wp-mailinglist.php:4663
 #, fuzzy
 msgid "Attachment file has been removed."
 msgstr "Tema har raderats"
 
-#: wp-mailinglist.php:4658
+#: wp-mailinglist.php:4666
 #, fuzzy
 msgid "Attachment could not be read."
 msgstr "Beställning  kunde inte läsas"
 
-#: wp-mailinglist.php:4662
+#: wp-mailinglist.php:4670
 #, fuzzy
 msgid "No attachment was specified."
 msgstr "Ingen bilaga specificerades"
 
-#: wp-mailinglist.php:4678
+#: wp-mailinglist.php:4686
 msgid "Read/Opened"
 msgstr "Läst/Öppnad"
 
-#: wp-mailinglist.php:4721 wp-mailinglist.php:4835
+#: wp-mailinglist.php:4729 wp-mailinglist.php:4843
 #, fuzzy
 msgid "CSV has been exported with filename \""
 msgstr "CSV har exporterats till \"wp-content/uploads/\" med filnamn \""
 
-#: wp-mailinglist.php:4721 wp-mailinglist.php:4835
+#: wp-mailinglist.php:4729 wp-mailinglist.php:4843
 #, fuzzy
 msgid "Download the CSV"
 msgstr "Nedladdnings sektion"
 
-#: wp-mailinglist.php:4724 wp-mailinglist.php:4838
+#: wp-mailinglist.php:4732 wp-mailinglist.php:4846
 #, fuzzy, php-format
 msgid ""
 "CSV file could not be created, please check write permissions on \"%s\" "
@@ -11258,238 +11273,241 @@ msgid ""
 msgstr ""
 "Csv fil kunde inte skapas! Kontrollera rättigheter för \"wp-content/uploads\""
 
-#: wp-mailinglist.php:4728 wp-mailinglist.php:4842
+#: wp-mailinglist.php:4736 wp-mailinglist.php:4850
 #, fuzzy
 msgid "CSV data could not be formulated, no emails maybe? Please try again"
 msgstr "Mall för e-post kunder inte laddas in, vänligen försök igen"
 
-#: wp-mailinglist.php:4732 wp-mailinglist.php:4846
+#: wp-mailinglist.php:4740 wp-mailinglist.php:4854
 #, fuzzy
 msgid "No history/draft emails are available to export!"
 msgstr "Inga meddelanden i historiken har specificerats"
 
-#: wp-mailinglist.php:4736
+#: wp-mailinglist.php:4744
 #, fuzzy
 msgid "No history email was specified, please try again."
 msgstr "Inget meddelande i historiken specifierades"
 
-#: wp-mailinglist.php:4747
+#: wp-mailinglist.php:4755
 msgid "Id"
 msgstr "Id"
 
-#: wp-mailinglist.php:4752
+#: wp-mailinglist.php:4760
 #, fuzzy
 msgid "Read %"
 msgstr "Red Ray"
 
-#: wp-mailinglist.php:4754
+#: wp-mailinglist.php:4762
 #, fuzzy
 msgid "Emails Read"
 msgstr "Meddelanden Skickade"
 
-#: wp-mailinglist.php:4815
+#: wp-mailinglist.php:4823
 msgid "read"
 msgstr "läst"
 
-#: wp-mailinglist.php:4891
+#: wp-mailinglist.php:4899
 #, fuzzy
 msgid "Link has been deleted"
 msgstr "Ingen filtyp har valts"
 
-#: wp-mailinglist.php:4894
+#: wp-mailinglist.php:4902
 #, fuzzy
 msgid "Link could not be deleted"
 msgstr "Förhandsvisning kunde inte skickas"
 
-#: wp-mailinglist.php:4898
+#: wp-mailinglist.php:4906
 #, fuzzy
 msgid "No link was specified"
 msgstr "Ingen lista specificerades"
 
-#: wp-mailinglist.php:4915
+#: wp-mailinglist.php:4923
 #, fuzzy
 msgid "Selected links have been deleted"
 msgstr "Vald e-postlista har raderats"
 
-#: wp-mailinglist.php:4923
+#: wp-mailinglist.php:4931
 #, fuzzy
 msgid "Selected links have been reset"
 msgstr "Vald e-postlista har raderats"
 
-#: wp-mailinglist.php:4928
+#: wp-mailinglist.php:4936
 #, fuzzy
 msgid "No links were selected"
 msgstr "Ingen e-postlista har valts"
 
-#: wp-mailinglist.php:4970
+#: wp-mailinglist.php:4978
 #, fuzzy
 msgid "Click has been deleted"
 msgstr "Ingen filtyp har valts"
 
-#: wp-mailinglist.php:4973
+#: wp-mailinglist.php:4981
 #, fuzzy
 msgid "Click could not be deleted"
 msgstr "Förhandsvisning kunde inte skickas"
 
-#: wp-mailinglist.php:4977
+#: wp-mailinglist.php:4985
 #, fuzzy
 msgid "No click was specified"
 msgstr "Ingen lista specificerades"
 
-#: wp-mailinglist.php:5037
+#: wp-mailinglist.php:5045
 msgid "Order could not be retrieved"
 msgstr "Beställning kunde inte hämtas"
 
-#: wp-mailinglist.php:5048
+#: wp-mailinglist.php:5056
 msgid "Order has been saved"
 msgstr "Beställning har sparats"
 
-#: wp-mailinglist.php:5052
+#: wp-mailinglist.php:5060
 msgid "Order could not be saved"
 msgstr "Beställning  kunde inte sparas"
 
-#: wp-mailinglist.php:5060
+#: wp-mailinglist.php:5068
 msgid "Order could not be read"
 msgstr "Beställning  kunde inte läsas"
 
-#: wp-mailinglist.php:5070
+#: wp-mailinglist.php:5078
 msgid "Order successfully removed"
 msgstr "Beställning raderades"
 
-#: wp-mailinglist.php:5094
+#: wp-mailinglist.php:5102
 msgid "Selected orders succesfully removed"
 msgstr "Valda beställningar raderades"
 
-#: wp-mailinglist.php:5103
+#: wp-mailinglist.php:5111
 msgid "No orders were selected"
 msgstr "Inga beställningar har valts"
 
-#: wp-mailinglist.php:5148
+#: wp-mailinglist.php:5156
 msgid "Custom field has been saved"
 msgstr "Egna Fält har sparats"
 
-#: wp-mailinglist.php:5151
+#: wp-mailinglist.php:5159
 msgid "Custom field could not be saved"
 msgstr "Egna Fält kunde inte sparas"
 
-#: wp-mailinglist.php:5158
+#: wp-mailinglist.php:5166
 msgid "This is a fixed field and can be edited but not deleted."
 msgstr ""
 
-#: wp-mailinglist.php:5171
+#: wp-mailinglist.php:5179
 msgid "Field has been removed"
 msgstr "Fält har raderats"
 
-#: wp-mailinglist.php:5174
+#: wp-mailinglist.php:5182
 msgid "Field cannot be removed"
 msgstr "Fält kan inte raderas"
 
-#: wp-mailinglist.php:5178
+#: wp-mailinglist.php:5186
 #, fuzzy
 msgid "This field may not be deleted."
 msgstr "E-post format kan inte sparas"
 
-#: wp-mailinglist.php:5182
+#: wp-mailinglist.php:5190
 #, fuzzy
 msgid "Field cannot be read."
 msgstr "Fält kan inte raderas"
 
-#: wp-mailinglist.php:5199
+#: wp-mailinglist.php:5207
 msgid "Selected custom fields removed"
 msgstr "Det valt Egna Fältet raderades"
 
-#: wp-mailinglist.php:5207
+#: wp-mailinglist.php:5215
 msgid "Selected custom fields have been set as required"
 msgstr "Valda Egna Fält har satts som nödvändigt"
 
-#: wp-mailinglist.php:5220
+#: wp-mailinglist.php:5228
 msgid "Selected custom fields have been set as NOT required"
 msgstr "Valda Egna Fält har satts som EJ nödvändigt"
 
-#: wp-mailinglist.php:5231
+#: wp-mailinglist.php:5239
 msgid "No custom fields were selected"
 msgstr "Inga Egna Fält specificerade"
 
-#: wp-mailinglist.php:5291
+#: wp-mailinglist.php:5299
 #, fuzzy
 msgid "Manage subscriptions post/page has been created"
 msgstr "PayPal prenumeration har ångrats"
 
-#: wp-mailinglist.php:5305
+#: wp-mailinglist.php:5313
 msgid "All database tables have been checked and optimized."
 msgstr ""
 
-#: wp-mailinglist.php:5313
+#: wp-mailinglist.php:5321
 #, fuzzy
 msgid "Latest Posts Subscription history has been cleared."
 msgstr "Prenumeration för Senaste inlägg"
 
-#: wp-mailinglist.php:5316
+#: wp-mailinglist.php:5324
 #, fuzzy
 msgid ""
 "Latest Posts Subscription history could not be cleared, please try again."
 msgstr "Mall för e-post kunder inte laddas in, vänligen försök igen"
 
-#: wp-mailinglist.php:5325
+#: wp-mailinglist.php:5333
 msgid "Task has been executed successfully!"
 msgstr "Uppgift har verkställts framgångsrikt!"
 
-#: wp-mailinglist.php:5328 wp-mailinglist.php:5360 wp-mailinglist.php:5373
+#: wp-mailinglist.php:5336 wp-mailinglist.php:5368 wp-mailinglist.php:5381
 #, fuzzy
 msgid "No task was specified, please try again."
 msgstr "Licensnyckel felaktig, vänligen prova igen"
 
-#: wp-mailinglist.php:5357
+#: wp-mailinglist.php:5365
 msgid "Task has been rescheduled successfully!"
 msgstr "Uppgift har schemalagts framgångsrikt!"
 
-#: wp-mailinglist.php:5370
+#: wp-mailinglist.php:5378
 msgid "Task has been unscheduled, remember to reschedule as needed."
 msgstr ""
 "Uppgift har tagits bort från schemaläggning, kom ihåg att schemalägga igen "
 "om nödvändigt."
 
-#: wp-mailinglist.php:5386
+#: wp-mailinglist.php:5394
 msgid "All configuration settings have been reset"
 msgstr "All konfiguration har återställts"
 
-#: wp-mailinglist.php:5389
+#: wp-mailinglist.php:5397
 msgid "Configuration settings cannot be reset"
 msgstr "Konfiguration kan inte återställas"
 
-#: wp-mailinglist.php:5448
+#: wp-mailinglist.php:5456
 msgid "Configuration settings successfully updated"
 msgstr "Konfigurationen uppdaterades korrekt"
 
-#: wp-mailinglist.php:5494
+#: wp-mailinglist.php:5502
 #, fuzzy
 msgid "Subscribers configuration settings have been saved."
 msgstr "All konfiguration har återställts"
 
-#: wp-mailinglist.php:5517
+#: wp-mailinglist.php:5525
 #, fuzzy
 msgid "Email template configuration settings have been saved."
 msgstr "All konfiguration har återställts"
 
-#: wp-mailinglist.php:5578
+#: wp-mailinglist.php:5586
 #, fuzzy
 msgid "System configuration settings have been saved."
 msgstr "All konfiguration har återställts"
 
-#: wp-mailinglist.php:5610
+#: wp-mailinglist.php:5618
 #, fuzzy
 msgid "Extension has been activated."
 msgstr "Prenumeration har avaktiverats"
 
-#: wp-mailinglist.php:5614
+#: wp-mailinglist.php:5622
 #, fuzzy
 msgid "Extension has been deactivated."
 msgstr "Prenumeration har avaktiverats"
 
-#: wp-mailinglist.php:5633
+#: wp-mailinglist.php:5641
 #, fuzzy
 msgid "Extensions settings have been saved."
 msgstr "All konfiguration har återställts"
+
+#~ msgid "qTranslate Language"
+#~ msgstr "qÖversätt Språk"
 
 #~ msgid "Check All"
 #~ msgstr "Välj Alla"
