@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WordPress Newsletter plugin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-09-10 10:46+0200\n"
+"POT-Creation-Date: 2014-10-01 14:24+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Tribulant Software <support@tribulant.com>\n"
 "Language-Team: Kim Gjerstad <kgjerstad@gmail.com>\n"
@@ -20,49 +20,49 @@ msgstr ""
 msgid "Select"
 msgstr "Selectionnez"
 
-#: helpers/html.php:182 wp-mailinglist-plugin.php:5989
+#: helpers/html.php:182 wp-mailinglist-plugin.php:6146
 msgid "Special"
 msgstr ""
 
-#: helpers/html.php:183 wp-mailinglist-plugin.php:5990
+#: helpers/html.php:183 wp-mailinglist-plugin.php:6147
 msgid "Text Field"
 msgstr "Champs de texte"
 
-#: helpers/html.php:184 wp-mailinglist-plugin.php:5991
+#: helpers/html.php:184 wp-mailinglist-plugin.php:6148
 msgid "Text Area"
 msgstr "Champs multiligne"
 
-#: helpers/html.php:185 wp-mailinglist-plugin.php:5992
+#: helpers/html.php:185 wp-mailinglist-plugin.php:6149
 #: wp-mailinglist-widget.php:86 wp-mailinglist-widget.php:177
 msgid "Select Drop Down"
 msgstr "Liste déroulante"
 
-#: helpers/html.php:186 wp-mailinglist-plugin.php:5993
+#: helpers/html.php:186 wp-mailinglist-plugin.php:6150
 msgid "Radio Buttons"
 msgstr "Boutons radio"
 
-#: helpers/html.php:187 wp-mailinglist-plugin.php:5994
+#: helpers/html.php:187 wp-mailinglist-plugin.php:6151
 msgid "Checkboxes"
 msgstr "Cases à cocher"
 
-#: helpers/html.php:188 wp-mailinglist-plugin.php:5995
+#: helpers/html.php:188 wp-mailinglist-plugin.php:6152
 #, fuzzy
 msgid "File Upload"
 msgstr "Champs"
 
-#: helpers/html.php:189 wp-mailinglist-plugin.php:5996
+#: helpers/html.php:189 wp-mailinglist-plugin.php:6153
 msgid "Predefined : Country Select"
 msgstr "Prédéfini : choix de pays"
 
-#: helpers/html.php:190 wp-mailinglist-plugin.php:5997
+#: helpers/html.php:190 wp-mailinglist-plugin.php:6154
 msgid "Predefined : Date Picker (YYYY-MM-DD)"
 msgstr "Prédéfini : date (AAAA-MM-JJ)"
 
-#: helpers/html.php:191 wp-mailinglist-plugin.php:5998
+#: helpers/html.php:191 wp-mailinglist-plugin.php:6155
 msgid "Predefined : Gender"
 msgstr "Prédéfini : sexe"
 
-#: helpers/html.php:192 wp-mailinglist-plugin.php:5988
+#: helpers/html.php:192 wp-mailinglist-plugin.php:6145
 msgid "Hidden"
 msgstr ""
 
@@ -71,12 +71,12 @@ msgstr ""
 msgid "Uploaded file"
 msgstr "Charger un fichier HTML"
 
-#: helpers/html.php:267 views/admin/import-export.php:132
+#: helpers/html.php:267 views/admin/import-export.php:142
 #, fuzzy
 msgid "First Name"
 msgstr "De"
 
-#: helpers/html.php:268 views/admin/import-export.php:146
+#: helpers/html.php:268 views/admin/import-export.php:156
 #, fuzzy
 msgid "Last Name"
 msgstr "Dernier créé"
@@ -89,211 +89,211 @@ msgstr ""
 msgid "Biographical Info"
 msgstr ""
 
-#: helpers/html.php:301
+#: helpers/html.php:305
 msgid "This task does not have a next schedule."
 msgstr "Cette tâche n'est pas planifiée."
 
-#: helpers/html.php:304
+#: helpers/html.php:308
 msgid "No schedule has been set for this task."
 msgstr "Tâche non planifiée."
 
-#: helpers/html.php:307
+#: helpers/html.php:311
 msgid "No cron schedules are available or no task was specified."
 msgstr "Aucune planification cron disponible ou tâche non spécifiée."
 
-#: helpers/html.php:340 views/admin/dashboard.php:65 wp-mailinglist.php:2022
+#: helpers/html.php:344 views/admin/dashboard.php:68 wp-mailinglist.php:2145
 msgid "Overview"
 msgstr "Aperçu"
 
-#: helpers/html.php:343 views/admin/lite-upgrade.php:40
-#: views/admin/lite-upgrade.php:73 wp-mailinglist.php:2020
-#: wp-mailinglist.php:2059
+#: helpers/html.php:347 views/admin/lite-upgrade.php:40
+#: views/admin/lite-upgrade.php:73 wp-mailinglist.php:2143
+#: wp-mailinglist.php:2182
 #, fuzzy
 msgid "Submit Serial"
 msgstr "Renseigner la clé d'activation"
 
-#: helpers/html.php:346 views/admin/autoresponders/save.php:78
-#: views/admin/send.php:21 wp-mailinglist.php:2029
+#: helpers/html.php:350 views/admin/autoresponders/save.php:78
+#: views/admin/send.php:21 wp-mailinglist.php:2152
 msgid "Create Newsletter"
 msgstr "Créer une newsletter"
 
-#: helpers/html.php:349 wp-mailinglist.php:2037
+#: helpers/html.php:353 wp-mailinglist.php:2160
 msgid "Autoresponders"
 msgstr "Messages automatiques"
 
-#: helpers/html.php:352 views/admin/autoresponderemails/index.php:2
+#: helpers/html.php:356 views/admin/autoresponderemails/index.php:2
 #: views/admin/autoresponders/loop.php:5
-#: views/admin/settings-cronschedules.php:90 wp-mailinglist.php:2038
+#: views/admin/settings-cronschedules.php:100 wp-mailinglist.php:2161
 msgid "Autoresponder Emails"
 msgstr "Messages automatiques"
 
-#: helpers/html.php:355 views/admin/fields/save.php:389
-#: views/admin/groups/view.php:46 views/admin/subscribers/loop.php:20
-#: wp-mailinglist.php:2039
+#: helpers/html.php:359 views/admin/fields/save.php:393
+#: views/admin/groups/view.php:46 views/admin/subscribers/loop.php:30
+#: wp-mailinglist.php:2162
 msgid "Mailing Lists"
 msgstr "Listes d'envois"
 
-#: helpers/html.php:358 wp-mailinglist.php:2040
+#: helpers/html.php:362 wp-mailinglist.php:2163
 msgid "Groups"
 msgstr ""
 
-#: helpers/html.php:361 views/admin/dashboard.php:73
+#: helpers/html.php:365 views/admin/dashboard.php:76
 #: views/admin/mailinglists/view.php:48 views/admin/mailinglists/view.php:97
 #: views/admin/metaboxes/send-mailinglists.php:13
-#: views/admin/settings-navigation.php:3 wp-mailinglist-plugin.php:508
-#: wp-mailinglist-plugin.php:657 wp-mailinglist-plugin.php:806
-#: wp-mailinglist.php:2024 wp-mailinglist.php:2041 wp-mailinglist.php:2117
+#: views/admin/settings-navigation.php:3 wp-mailinglist-plugin.php:562
+#: wp-mailinglist-plugin.php:711 wp-mailinglist-plugin.php:860
+#: wp-mailinglist.php:2147 wp-mailinglist.php:2164 wp-mailinglist.php:2241
 msgid "Subscribers"
 msgstr "Abonnés"
 
-#: helpers/html.php:364 views/admin/mailinglists/save.php:64
-#: views/admin/subscribers/save.php:93 wp-mailinglist.php:2042
+#: helpers/html.php:368 views/admin/mailinglists/save.php:64
+#: views/admin/subscribers/save.php:100 wp-mailinglist.php:2165
 msgid "Custom Fields"
 msgstr "Champs personnalisés"
 
-#: helpers/html.php:367 wp-mailinglist.php:2043
+#: helpers/html.php:371 wp-mailinglist.php:2166
 msgid "Import/Export"
 msgstr "Import/Export"
 
-#: helpers/html.php:370 wp-mailinglist.php:2044
+#: helpers/html.php:374 wp-mailinglist.php:2167
 msgid "Themes"
 msgstr "Thèmes"
 
-#: helpers/html.php:373 wp-mailinglist.php:2045
+#: helpers/html.php:377 wp-mailinglist.php:2168
 #, fuzzy
 msgid "Email Snippets"
 msgstr "E-mails envoyés"
 
-#: helpers/html.php:376
+#: helpers/html.php:380
 #, fuzzy
 msgid "Save Email Snippets"
 msgstr "Modèles"
 
-#: helpers/html.php:379 views/admin/queues/index.php:2
-#: views/admin/settings-cronschedules.php:29 wp-mailinglist.php:2047
+#: helpers/html.php:383 views/admin/queues/index.php:2
+#: views/admin/settings-cronschedules.php:39 wp-mailinglist.php:2170
 msgid "Email Queue"
 msgstr "Envoi en attente"
 
-#: helpers/html.php:382 views/admin/history/index.php:2
-#: wp-mailinglist.php:2030
+#: helpers/html.php:386 views/admin/history/index.php:2
+#: wp-mailinglist.php:2153
 #, fuzzy
 msgid "Sent &amp; Draft Emails"
 msgstr "Envoyer les messages au format MIME"
 
-#: helpers/html.php:385
+#: helpers/html.php:389
 #, fuzzy
 msgid "Links"
 msgstr "Liens utiles"
 
-#: helpers/html.php:388 views/admin/links/loop.php:5
+#: helpers/html.php:392 views/admin/links/loop.php:5
 #: views/admin/links/loop.php:36 views/admin/links/loop.php:54
-#: wp-mailinglist.php:2034
+#: wp-mailinglist.php:2157
 msgid "Clicks"
 msgstr ""
 
-#: helpers/html.php:391
+#: helpers/html.php:395
 msgid "Subscribe Orders"
 msgstr "Abonnements"
 
-#: helpers/html.php:394 views/admin/settings.php:13 wp-mailinglist.php:2023
+#: helpers/html.php:398 views/admin/settings.php:13 wp-mailinglist.php:2146
 #, fuzzy
 msgid "General Configuration"
 msgstr "Configuration PayPal"
 
-#: helpers/html.php:397 views/admin/settings-subscribers.php:13
-#: wp-mailinglist.php:2024
+#: helpers/html.php:401 views/admin/settings-subscribers.php:13
+#: wp-mailinglist.php:2147
 #, fuzzy
 msgid "Subscribers Configuration"
 msgstr "Confirmation de désabonnement"
 
-#: helpers/html.php:400 views/admin/settings-templates.php:13
-#: wp-mailinglist.php:2025
+#: helpers/html.php:404 views/admin/settings-templates.php:13
+#: wp-mailinglist.php:2148
 #, fuzzy
 msgid "Email Templates Configuration"
 msgstr "Modèles"
 
-#: helpers/html.php:403 views/admin/settings-system.php:13
-#: wp-mailinglist.php:2026
+#: helpers/html.php:407 views/admin/settings-system.php:13
+#: wp-mailinglist.php:2149
 #, fuzzy
 msgid "System Configuration"
 msgstr "Configuration"
 
-#: helpers/html.php:406 views/admin/settings-cronschedules.php:2
-#: views/admin/settings-navigation.php:6 wp-mailinglist.php:2027
+#: helpers/html.php:410 views/admin/settings-cronschedules.php:12
+#: views/admin/settings-navigation.php:6 wp-mailinglist.php:2150
 msgid "Scheduled Tasks"
 msgstr "Tâches en attente"
 
-#: helpers/html.php:409 wp-mailinglist.php:2050
+#: helpers/html.php:413 wp-mailinglist.php:2173
 #, fuzzy
 msgid "Updates"
 msgstr "Mettre à jour"
 
-#: helpers/html.php:412 views/admin/settings-navigation.php:7
-#: wp-mailinglist.php:2028
+#: helpers/html.php:416 views/admin/settings-navigation.php:7
+#: wp-mailinglist.php:2151
 #, fuzzy
 msgid "API"
 msgstr "Clé API"
 
-#: helpers/html.php:415 wp-mailinglist.php:2049
+#: helpers/html.php:419 wp-mailinglist.php:2172
 msgid "Extensions"
 msgstr ""
 
-#: helpers/html.php:418 views/admin/extensions/settings.php:13
-#: wp-mailinglist.php:2051 wp-mailinglist.php:2220
+#: helpers/html.php:422 views/admin/extensions/settings.php:13
+#: wp-mailinglist.php:2174 wp-mailinglist.php:2345
 #, fuzzy
 msgid "Extensions Settings"
 msgstr "Paramètres d'envoi"
 
-#: helpers/html.php:421 views/admin/help.php:2 wp-mailinglist.php:2054
+#: helpers/html.php:425 views/admin/help.php:2 wp-mailinglist.php:2177
 msgid "Support &amp; Help"
 msgstr "Aide"
 
-#: helpers/html.php:424 models/newsletter.php:25
+#: helpers/html.php:428 models/newsletter.php:25
 #: views/admin/lite-upgrade.php:69 views/admin/submitserial.php:11
-#: wp-mailinglist-plugin.php:213 wp-mailinglist.php:270
+#: wp-mailinglist-plugin.php:213 wp-mailinglist.php:374
 msgid "Upgrade to PRO"
 msgstr ""
 
-#: helpers/html.php:567 views/admin/metaboxes/send-mailinglists.php:200
-#: views/admin/subscribers/loop.php:266 wp-mailinglist-plugin.php:4015
+#: helpers/html.php:571 views/admin/metaboxes/send-mailinglists.php:200
+#: views/admin/subscribers/loop.php:276 wp-mailinglist-plugin.php:4131
 msgid "Male"
 msgstr "Homme"
 
-#: helpers/html.php:570 views/admin/metaboxes/send-mailinglists.php:201
-#: views/admin/subscribers/loop.php:266 wp-mailinglist-plugin.php:4016
+#: helpers/html.php:574 views/admin/metaboxes/send-mailinglists.php:201
+#: views/admin/subscribers/loop.php:276 wp-mailinglist-plugin.php:4132
 msgid "Female"
 msgstr "Femme"
 
-#: helpers/html.php:651
+#: helpers/html.php:655
 msgid "The uploaded file exceeds the PHP upload_max_filesize directive."
 msgstr "Le fichier envoyé est trop lourd."
 
-#: helpers/html.php:654
+#: helpers/html.php:658
 msgid ""
 "The uploaded file exceeds the max_file_size directive specified in the form."
 msgstr "Le fichier envoyé est trop lourd."
 
-#: helpers/html.php:657
+#: helpers/html.php:661
 msgid "The uploaded file was only partially uploaded."
 msgstr "Le fichier envoyé a été partiellement chargé seulement."
 
-#: helpers/html.php:660
+#: helpers/html.php:664
 msgid "No file was uploaded."
 msgstr "Aucun fichier chargé."
 
-#: helpers/html.php:663
+#: helpers/html.php:667
 msgid "Missing a temporary folder."
 msgstr "Dossier temporaire manquant."
 
-#: helpers/html.php:666
+#: helpers/html.php:670
 msgid "Failed to write file to disk."
 msgstr "Fichier non créé."
 
-#: helpers/html.php:669
+#: helpers/html.php:673
 msgid "A PHP extension stopped the file upload."
 msgstr "Une extension PHP a empêché le chargement du fichier."
 
-#: helpers/html.php:672
+#: helpers/html.php:676
 msgid "An error occurred. Please try again."
 msgstr "Un erreur est survenue, veuillez recommencer."
 
@@ -435,7 +435,7 @@ msgid "Google Analytics link tracking for the %s."
 msgstr ""
 
 #: includes/extensions.php:59 views/admin/help.php:6
-#: views/admin/import-export.php:283
+#: views/admin/import-export.php:295
 #, fuzzy
 msgid "Newsletter plugin"
 msgstr "Fonctionnalités de la Newsletter"
@@ -543,7 +543,7 @@ msgid "Email"
 msgstr "e-mails"
 
 #: includes/variables.php:25 views/admin/subscribers/view.php:62
-#: wp-mailinglist.php:4301
+#: wp-mailinglist.php:4600
 msgid "IP Address"
 msgstr "Adresse IP"
 
@@ -594,13 +594,13 @@ msgstr "Veuillez renseigner une clé d'activation"
 #: models/autoresponders_list.php:63 models/bounce.php:67
 #: models/bounce.php:126 models/email.php:90 models/group.php:59
 #: models/latestpost.php:61 models/subscriber.php:639 models/theme.php:127
-#: models/unsubscribe.php:83 wp-mailinglist-plugin.php:876
-#: wp-mailinglist-plugin.php:930 wp-mailinglist.php:5368
+#: models/unsubscribe.php:105 wp-mailinglist-plugin.php:930
+#: wp-mailinglist-plugin.php:995 wp-mailinglist.php:5731
 msgid "No data was posted"
 msgstr "Aucune donnée n'a été envoyée"
 
 #: models/autoresponderemail.php:79 models/autoresponders_list.php:60
-#: wp-mailinglist.php:3003
+#: wp-mailinglist.php:3176
 msgid "No autoresponder was specified."
 msgstr "Aucun message automatique spécifié"
 
@@ -616,7 +616,7 @@ msgstr "Message automatique déjà existant."
 msgid "No mailing list was specified."
 msgstr "Aucune liste d'envoi spécifiée."
 
-#: models/bounce.php:62 models/unsubscribe.php:74
+#: models/bounce.php:62 models/unsubscribe.php:96
 #, fuzzy
 msgid "No email was specified."
 msgstr "Aucun historique n'a été spécifié"
@@ -646,8 +646,8 @@ msgstr "Sélectionnez le type de fichier"
 msgid "Please specify content"
 msgstr "Remplissez le contenu"
 
-#: models/email.php:85 models/subscribers_list.php:363 wp-mailinglist.php:3711
-#: wp-mailinglist.php:3728
+#: models/email.php:85 models/subscribers_list.php:363 wp-mailinglist.php:3899
+#: wp-mailinglist.php:3916
 msgid "No subscriber was specified"
 msgstr "Aucun abonné spécifié"
 
@@ -659,81 +659,86 @@ msgstr "Aucun identifiant unique (ID) spécifié "
 msgid "No history item was specified"
 msgstr "Aucun historique spécifié"
 
-#: models/field.php:87 views/admin/import-export.php:83
-#: views/admin/subscribers/loop.php:82 views/admin/subscribers/loop.php:148
-#: views/admin/subscribers/save.php:10 views/admin/subscribers/view.php:35
-#: wp-mailinglist.php:4293 wp-mailinglist.php:5045
+#: models/field.php:93 views/admin/import-export.php:93
+#: views/admin/subscribers/loop.php:92 views/admin/subscribers/loop.php:158
+#: views/admin/subscribers/save.php:10
+#: views/admin/subscribers/unsubscribes.php:52
+#: views/admin/subscribers/unsubscribes.php:91
+#: views/admin/subscribers/view.php:35 wp-mailinglist.php:4592
+#: wp-mailinglist.php:5379
 msgid "Email Address"
 msgstr "Adresse e-mail"
 
-#: models/field.php:91
+#: models/field.php:97
 msgid "Please fill in your email address"
 msgstr "Votre adresse mail"
 
-#: models/field.php:126 views/admin/offsite-wizard.php:16
+#: models/field.php:132 views/admin/offsite-wizard.php:16
 #: views/admin/orders/loop.php:36 views/admin/orders/loop.php:80
 #: views/admin/orders/save.php:16 views/admin/orders/view.php:35
+#: views/admin/subscribers/unsubscribes.php:70
+#: views/admin/subscribers/unsubscribes.php:109
 #: views/admin/tinymce-dialog.php:210
-#: views/default/management/currentsubscriptions.php:1 wp-mailinglist.php:5046
+#: views/default/management/currentsubscriptions.php:1 wp-mailinglist.php:5380
 msgid "Mailing List"
 msgstr "Liste"
 
-#: models/field.php:130
+#: models/field.php:136
 #, fuzzy
 msgid "Please select a list"
 msgstr "Sélectionnez une liste d'envoi"
 
-#: models/field.php:379 models/field.php:384 models/mailinglist.php:365
+#: models/field.php:385 models/field.php:390 models/mailinglist.php:365
 #: models/template.php:153 models/theme.php:76
 msgid "Please fill in a title"
 msgstr "Choisissez un titre"
 
-#: models/field.php:381 models/field.php:385
+#: models/field.php:387 models/field.php:391
 msgid "You cannot create an email custom field."
 msgstr "Impossible de créer un champ personnalisé d'e-mail."
 
-#: models/field.php:386
+#: models/field.php:392
 msgid "This title is too long, please keep below 64 characters."
 msgstr "Titre trop long (pas plus de 64 caractères)"
 
-#: models/field.php:389
+#: models/field.php:395
 #, fuzzy
 msgid "Please fill in a slug/nicename for this custom field."
 msgstr "Renseigner un titre pour ce message automatique"
 
-#: models/field.php:390
+#: models/field.php:396
 #, fuzzy
 msgid ""
 "A custom field with this slug already exists, please choose a different one."
 msgstr ""
 "Titre de champ personnalisé non disponible, veuillez en choisir un autre."
 
-#: models/field.php:392
+#: models/field.php:398
 msgid "Please choose a required status"
 msgstr "Choisissez un état"
 
-#: models/field.php:395
+#: models/field.php:401
 msgid "Please fill in an error message"
 msgstr "Ajoutez un message d'erreur"
 
-#: models/field.php:399
+#: models/field.php:405
 #, fuzzy
 msgid "Please choose the display for this field."
 msgstr "Sélectionnes un type de champs"
 
-#: models/field.php:401
+#: models/field.php:407
 msgid "Please choose a field type"
 msgstr "Sélectionnes un type de champs"
 
-#: models/field.php:405 models/field.php:427
+#: models/field.php:411 models/field.php:433
 msgid "Please fill in some options"
 msgstr "Choisissez des options"
 
-#: models/field.php:540
+#: models/field.php:546
 msgid "Please fill in "
 msgstr "Remplissez "
 
-#: models/fields_list.php:135 wp-mailinglist.php:5447
+#: models/fields_list.php:135 wp-mailinglist.php:5815
 msgid "No field was specified"
 msgstr "Aucun champ spécifié"
 
@@ -758,7 +763,7 @@ msgstr "Aucun historique spécifié"
 
 #: models/histories_attachment.php:67 models/histories_list.php:62
 #: models/order.php:147 models/subscribers_list.php:364
-#: wp-mailinglist.php:3352 wp-mailinglist.php:3366 wp-mailinglist.php:3446
+#: wp-mailinglist.php:3530 wp-mailinglist.php:3544 wp-mailinglist.php:3624
 msgid "No mailing list was specified"
 msgstr "Aucune liste n'a été spécifiée"
 
@@ -766,11 +771,11 @@ msgstr "Aucune liste n'a été spécifiée"
 msgid "No history record was specified"
 msgstr "Aucun historique spécifié"
 
-#: models/history.php:502 models/queue.php:207 wp-mailinglist-plugin.php:5009
+#: models/history.php:502 models/queue.php:207 wp-mailinglist-plugin.php:5130
 msgid "No subject specified"
 msgstr "Aucun sujet"
 
-#: models/history.php:503 models/queue.php:209 wp-mailinglist-plugin.php:5010
+#: models/history.php:503 models/queue.php:209 wp-mailinglist-plugin.php:5131
 msgid "No message specified"
 msgstr "Aucun message"
 
@@ -808,54 +813,54 @@ msgstr "Choisissez un interval"
 msgid "Please fill in a subscription price"
 msgstr "Prix d'abonnement"
 
-#: models/newsletter.php:41
+#: models/newsletter.php:47
 #, fuzzy
 msgid "Newsletters LITE"
 msgstr "Newsletters"
 
-#: models/newsletter.php:53
+#: models/newsletter.php:59
 #, fuzzy, php-format
 msgid "%s of 1 (%s&#37;) mailing lists used"
 msgstr "Aucune liste spécifié"
 
-#: models/newsletter.php:70
+#: models/newsletter.php:76
 #, php-format
 msgid "%s of 500 (%s&#37;) subscribers used"
 msgstr ""
 
-#: models/newsletter.php:84
+#: models/newsletter.php:90
 #, php-format
 msgid "%s of 1000 (%s&#37;) emails used (resets on 1st of month)"
 msgstr ""
 
-#: models/newsletter.php:98 views/admin/settings-submitserial.php:2
+#: models/newsletter.php:104 views/admin/settings-submitserial.php:2
 #: views/admin/settings-submitserial.php:24 views/admin/submitserial.php:26
-#: wp-mailinglist.php:269
+#: wp-mailinglist.php:373
 msgid "Submit Serial Key"
 msgstr "Renseigner la clé d'activation"
 
-#: models/newsletter.php:108
+#: models/newsletter.php:114
 msgid "Upgrade to PRO now!"
 msgstr ""
 
-#: models/newsletter.php:191
+#: models/newsletter.php:197
 #, php-format
 msgid "Mailing list limit of %s has been reached, you can %s for unlimited."
 msgstr ""
 
-#: models/newsletter.php:214
+#: models/newsletter.php:220
 #, php-format
 msgid ""
 "Email limit of %s emails per month has been reached, you can %s for "
 "unlimited."
 msgstr ""
 
-#: models/newsletter.php:235
+#: models/newsletter.php:241
 #, php-format
 msgid "Subscriber limit of %s has been reached, you can %s for unlimited."
 msgstr ""
 
-#: models/newsletter.php:250
+#: models/newsletter.php:256
 #, fuzzy, php-format
 msgid ""
 "Additional custom fields are only available in the PRO version, you can %s "
@@ -882,12 +887,12 @@ msgstr "Spécifiez le ID de cette commande"
 msgid "Please specify an order number for this order"
 msgstr "Vérifiez le numéro de cette commande"
 
-#: models/order.php:217 wp-mailinglist.php:5333
+#: models/order.php:217 wp-mailinglist.php:5696
 msgid "Order could not be removed"
 msgstr "La commande n'a pas pu être supprimée"
 
-#: models/order.php:221 wp-mailinglist.php:5301 wp-mailinglist.php:5324
-#: wp-mailinglist.php:5336
+#: models/order.php:221 wp-mailinglist.php:5658 wp-mailinglist.php:5687
+#: wp-mailinglist.php:5699
 msgid "No order ID was specified"
 msgstr "Aucun ID spécifié"
 
@@ -907,16 +912,16 @@ msgstr "Aucun article spécifié"
 msgid "No sent status was specified"
 msgstr "Aucun état spécifié"
 
-#: models/queue.php:206 wp-mailinglist-plugin.php:5008
+#: models/queue.php:206 wp-mailinglist-plugin.php:5129
 msgid "No subscriber specified"
 msgstr "Aucun abonné sélectionné"
 
-#: models/queue.php:279
+#: models/queue.php:301
 #, fuzzy
-msgid "Query failed, email could not be queued."
+msgid "Query failed, email may already be queued?"
 msgstr "L'historique est indisponible."
 
-#: models/queue.php:285
+#: models/queue.php:307
 msgid "Email with this subscriber and history email is already in the queue."
 msgstr ""
 
@@ -957,11 +962,11 @@ msgstr ""
 "E-mail non disponible ; les listes appropriées ont été cochées ci-dessous. "
 "Veuillez renouveler votre requête"
 
-#: models/subscriber.php:700 wp-mailinglist-plugin.php:1193
+#: models/subscriber.php:700 wp-mailinglist-plugin.php:1258
 msgid "Please fill in a valid email address"
 msgstr "Veuillez renseigner une adresse e-mail valide"
 
-#: models/subscriber.php:702 wp-mailinglist.php:2427 wp-mailinglist.php:3469
+#: models/subscriber.php:702 wp-mailinglist.php:2577 wp-mailinglist.php:3647
 msgid "Please select mailing list(s)"
 msgstr "Sélectionnez une liste d'envoi"
 
@@ -1023,14 +1028,9 @@ msgstr "Coller le code HTML de votre thème"
 msgid "Your theme does not have the [wpmlcontent] tag"
 msgstr "Votre thème ne possède pas de tag [wpmlcontent]"
 
-#: models/unsubscribe.php:70
+#: models/unsubscribe.php:92
 msgid "Already exists"
 msgstr ""
-
-#: models/unsubscribe.php:76 wp-mailinglist.php:4821 wp-mailinglist.php:4833
-#: wp-mailinglist.php:4856
-msgid "No history email was specified"
-msgstr "Aucun historique n'a été spécifié"
 
 #: vendors/class.paginate.php:180
 #, php-format
@@ -1357,7 +1357,7 @@ msgid "All Autoresponders"
 msgstr "Messages automatiques"
 
 #: views/admin/autoresponderemails/index.php:21
-#: views/admin/subscribers/index.php:50
+#: views/admin/queues/index.php:120 views/admin/subscribers/index.php:50
 #, fuzzy
 msgid "Filter"
 msgstr "Fichier"
@@ -1379,6 +1379,7 @@ msgstr "Messages automatiques"
 #: views/admin/history/index.php:8 views/admin/links/index.php:9
 #: views/admin/mailinglists/index.php:8 views/admin/orders/index.php:8
 #: views/admin/queues/index.php:80 views/admin/subscribers/index.php:9
+#: views/admin/subscribers/unsubscribes.php:11
 #: views/admin/templates/index.php:8 views/admin/themes/index.php:9
 msgid "Show All"
 msgstr "Afficher tout"
@@ -1389,6 +1390,7 @@ msgstr "Afficher tout"
 #: views/admin/history/index.php:10 views/admin/links/index.php:11
 #: views/admin/mailinglists/index.php:10 views/admin/orders/index.php:10
 #: views/admin/queues/index.php:82 views/admin/subscribers/index.php:11
+#: views/admin/subscribers/unsubscribes.php:13
 #: views/admin/templates/index.php:10 views/admin/themes/index.php:11
 msgid "Show Paging"
 msgstr "Afficher la pagination"
@@ -1407,7 +1409,8 @@ msgstr ""
 #: views/admin/fields/loop.php:16 views/admin/groups/loop.php:6
 #: views/admin/history/loop.php:16 views/admin/links/loop.php:9
 #: views/admin/mailinglists/loop.php:6 views/admin/orders/loop.php:6
-#: views/admin/queues/loop.php:9 views/admin/subscribers/loop.php:10
+#: views/admin/queues/loop.php:9 views/admin/subscribers/loop.php:20
+#: views/admin/subscribers/unsubscribes.php:27
 #: views/admin/templates/loop.php:6 views/admin/themes/loop.php:6
 #, fuzzy
 msgid "- Bulk Actions -"
@@ -1417,18 +1420,20 @@ msgstr "Actions groupées"
 #: views/admin/autoresponderemails/loop.php:151
 #: views/admin/autoresponders/loop.php:10
 #: views/admin/autoresponders/loop.php:141 views/admin/clicks/loop.php:7
-#: views/admin/clicks/loop.php:100 views/admin/fields/loop.php:17
-#: views/admin/fields/loop.php:158 views/admin/groups/loop.php:88
-#: views/admin/groups/view.php:8 views/admin/history/loop.php:17
-#: views/admin/history/loop.php:179 views/admin/history/view.php:18
-#: views/admin/links/loop.php:10 views/admin/links/loop.php:76
-#: views/admin/mailinglists/loop.php:179 views/admin/mailinglists/view.php:10
+#: views/admin/clicks/loop.php:101 views/admin/clicks/loop.php:108
+#: views/admin/fields/loop.php:17 views/admin/fields/loop.php:158
+#: views/admin/groups/loop.php:88 views/admin/groups/view.php:8
+#: views/admin/history/loop.php:17 views/admin/history/loop.php:179
+#: views/admin/history/view.php:18 views/admin/links/loop.php:10
+#: views/admin/links/loop.php:76 views/admin/mailinglists/loop.php:179
+#: views/admin/mailinglists/view.php:10
 #: views/admin/metaboxes/settings-subscribers.php:233
 #: views/admin/orders/loop.php:7 views/admin/orders/loop.php:129
 #: views/admin/orders/view.php:11 views/admin/posts.php:40
-#: views/admin/queues/loop.php:10 views/admin/queues/loop.php:169
-#: views/admin/send.php:155 views/admin/send.php:227
-#: views/admin/subscribers/loop.php:11 views/admin/subscribers/loop.php:205
+#: views/admin/queues/loop.php:10 views/admin/queues/loop.php:170
+#: views/admin/send.php:157 views/admin/send.php:229
+#: views/admin/subscribers/loop.php:21 views/admin/subscribers/loop.php:215
+#: views/admin/subscribers/unsubscribes.php:28
 #: views/admin/subscribers/view.php:12 views/admin/templates/loop.php:7
 #: views/admin/templates/loop.php:100 views/admin/templates/view.php:13
 #: views/admin/themes/loop.php:7 views/admin/themes/loop.php:90
@@ -1445,8 +1450,9 @@ msgstr "Envoyer la newsletter"
 #: views/admin/fields/loop.php:23 views/admin/groups/loop.php:9
 #: views/admin/history/loop.php:20 views/admin/links/loop.php:13
 #: views/admin/mailinglists/loop.php:34 views/admin/orders/loop.php:9
-#: views/admin/queues/loop.php:13 views/admin/subscribers/loop.php:25
+#: views/admin/queues/loop.php:13 views/admin/subscribers/loop.php:35
 #: views/admin/subscribers/screen-options.php:17
+#: views/admin/subscribers/unsubscribes.php:32
 #: views/admin/templates/loop.php:9 views/admin/themes/loop.php:9
 msgid "Apply"
 msgstr "Appliquer"
@@ -1459,20 +1465,20 @@ msgstr "Appliquer"
 #: views/admin/groups/loop.php:54 views/admin/history/loop.php:42
 #: views/admin/history/loop.php:111 views/admin/mailinglists/loop.php:63
 #: views/admin/mailinglists/loop.php:117
-#: views/admin/metaboxes/settings-latestposts.php:202
+#: views/admin/metaboxes/settings-latestposts.php:205
 #: views/admin/orders/loop.php:30 views/admin/orders/loop.php:74
 #: views/admin/posts.php:12 views/admin/posts.php:19
 #: views/admin/queues/loop.php:35 views/admin/queues/loop.php:87
-#: views/admin/subscribers/loop.php:71 views/admin/subscribers/loop.php:139
+#: views/admin/subscribers/loop.php:81 views/admin/subscribers/loop.php:149
 #: views/admin/templates/loop.php:30 views/admin/templates/loop.php:60
 #: views/admin/themes/loop.php:30 views/admin/themes/loop.php:53
-#: wp-mailinglist.php:4292
+#: wp-mailinglist.php:4591
 msgid "ID"
 msgstr "ID"
 
 #: views/admin/autoresponderemails/loop.php:38
-#: views/admin/autoresponderemails/loop.php:84 views/admin/clicks/loop.php:26
-#: views/admin/clicks/loop.php:55 views/admin/emails/loop.php:28
+#: views/admin/autoresponderemails/loop.php:84 views/admin/clicks/loop.php:27
+#: views/admin/clicks/loop.php:56 views/admin/emails/loop.php:28
 #: views/admin/emails/loop.php:78 views/admin/orders/loop.php:43
 #: views/admin/orders/loop.php:87 views/admin/orders/view.php:31
 #: views/admin/queues/loop.php:45 views/admin/queues/loop.php:96
@@ -1490,7 +1496,7 @@ msgstr "Messages automatiques"
 #: views/admin/autoresponders/loop.php:66
 #: views/admin/autoresponders/loop.php:114
 #: views/admin/autoresponders/save.php:198 views/admin/history/loop.php:67
-#: views/admin/history/loop.php:131 views/admin/subscribers/loop.php:16
+#: views/admin/history/loop.php:131 views/admin/subscribers/loop.php:26
 #: views/default/management/currentsubscriptions.php:1
 msgid "Status"
 msgstr "Statut"
@@ -1498,18 +1504,20 @@ msgstr "Statut"
 #: views/admin/autoresponderemails/loop.php:59
 #: views/admin/autoresponderemails/loop.php:102
 #: views/admin/autoresponders/loop.php:72
-#: views/admin/autoresponders/loop.php:120 views/admin/clicks/loop.php:44
-#: views/admin/clicks/loop.php:73 views/admin/fields/loop.php:82
+#: views/admin/autoresponders/loop.php:120 views/admin/clicks/loop.php:45
+#: views/admin/clicks/loop.php:74 views/admin/fields/loop.php:82
 #: views/admin/fields/loop.php:131 views/admin/groups/loop.php:43
 #: views/admin/groups/loop.php:67 views/admin/history/loop.php:97
 #: views/admin/history/loop.php:157 views/admin/links/loop.php:39
 #: views/admin/links/loop.php:57 views/admin/metaboxes/send-insert.php:130
-#: views/admin/metaboxes/settings-latestposts.php:203
+#: views/admin/metaboxes/settings-latestposts.php:206
 #: views/admin/metaboxes/settings-scheduling.php:98
 #: views/admin/orders/loop.php:63 views/admin/orders/loop.php:106
 #: views/admin/posts.php:14 views/admin/posts.php:21
 #: views/admin/queues/loop.php:76 views/admin/queues/loop.php:127
-#: views/admin/subscribers/loop.php:127 views/admin/subscribers/loop.php:182
+#: views/admin/subscribers/loop.php:137 views/admin/subscribers/loop.php:192
+#: views/admin/subscribers/unsubscribes.php:82
+#: views/admin/subscribers/unsubscribes.php:121
 #: views/admin/templates/loop.php:49 views/admin/templates/loop.php:79
 #: views/admin/themes/loop.php:42 views/admin/themes/loop.php:65
 #: views/admin/tinymce-dialog.php:351 views/admin/tinymce-dialog.php:445
@@ -1536,18 +1544,18 @@ msgstr "futurs messages automatiques en attente"
 #: views/admin/autoresponderemails/loop.php:147
 #: views/admin/mailinglists/loop.php:218
 #: views/admin/metaboxes/send-mailinglists.php:36
-#: views/admin/metaboxes/settings-latestposts.php:234
-#: views/admin/subscribers/loop.php:227 views/admin/subscribers/view.php:48
+#: views/admin/metaboxes/settings-latestposts.php:237
+#: views/admin/subscribers/loop.php:237 views/admin/subscribers/view.php:48
 msgid "active"
 msgstr "actif"
 
 #: views/admin/autoresponderemails/loop.php:147
-#: views/admin/subscribers/loop.php:227 views/admin/subscribers/view.php:48
+#: views/admin/subscribers/loop.php:237 views/admin/subscribers/view.php:48
 msgid "inactive"
 msgstr "inactif"
 
 #: views/admin/autoresponderemails/loop.php:149 views/admin/queues/loop.php:11
-#: views/admin/queues/loop.php:170
+#: views/admin/queues/loop.php:171
 msgid "Send Now"
 msgstr "Envoyer maintenant"
 
@@ -1580,19 +1588,20 @@ msgid "Unsent"
 msgstr "Insérer"
 
 #: views/admin/autoresponderemails/loop.php:182
-#: views/admin/autoresponders/loop.php:199 views/admin/clicks/loop.php:139
+#: views/admin/autoresponders/loop.php:199 views/admin/clicks/loop.php:147
 #: views/admin/emails/loop.php:222 views/admin/fields/loop.php:205
 #: views/admin/groups/loop.php:105 views/admin/history/loop.php:311
 #: views/admin/links/loop.php:95 views/admin/mailinglists/loop.php:231
-#: views/admin/orders/loop.php:148 views/admin/queues/loop.php:218
-#: views/admin/subscribers/loop.php:290 views/admin/templates/loop.php:118
-#: views/admin/themes/loop.php:104
+#: views/admin/orders/loop.php:148 views/admin/queues/loop.php:219
+#: views/admin/subscribers/loop.php:300
+#: views/admin/subscribers/unsubscribes.php:195
+#: views/admin/templates/loop.php:118 views/admin/themes/loop.php:104
 #, fuzzy
 msgid "- Per Page -"
 msgstr "Par page"
 
 #: views/admin/autoresponderemails/loop.php:185
-#: views/admin/autoresponders/loop.php:202 views/admin/clicks/loop.php:142
+#: views/admin/autoresponders/loop.php:202 views/admin/clicks/loop.php:150
 #: views/admin/fields/loop.php:208 views/admin/groups/loop.php:108
 #: views/admin/history/loop.php:314 views/admin/links/loop.php:98
 #: views/admin/mailinglists/loop.php:234 views/admin/templates/loop.php:121
@@ -1657,13 +1666,13 @@ msgstr ""
 "sélectionnés ?"
 
 #: views/admin/autoresponders/loop.php:11 views/admin/extensions/index.php:64
-#: views/admin/subscribers/loop.php:17
+#: views/admin/subscribers/loop.php:27
 #: views/default/management/currentsubscriptions.php:1
 msgid "Activate"
 msgstr "Activer"
 
 #: views/admin/autoresponders/loop.php:12 views/admin/extensions/index.php:71
-#: views/admin/subscribers/loop.php:18
+#: views/admin/subscribers/loop.php:28
 msgid "Deactivate"
 msgstr "Désactiver"
 
@@ -1673,7 +1682,7 @@ msgstr "Désactiver"
 #: views/admin/groups/loop.php:36 views/admin/groups/loop.php:60
 #: views/admin/groups/view.php:26 views/admin/mailinglists/loop.php:70
 #: views/admin/mailinglists/loop.php:123 views/admin/mailinglists/view.php:28
-#: views/admin/metaboxes/settings-latestposts.php:205
+#: views/admin/metaboxes/settings-latestposts.php:208
 #: views/admin/templates/loop.php:36 views/admin/templates/loop.php:66
 #: views/admin/templates/view.php:31 views/admin/themes/loop.php:36
 #: views/admin/themes/loop.php:59 views/admin/themes/save-ajax.php:33
@@ -1715,13 +1724,15 @@ msgstr "Aucun message automatique spécifié"
 msgid "pending emails"
 msgstr "Paramètres d'envoi"
 
-#: views/admin/autoresponders/loop.php:140 views/admin/fields/loop.php:156
-#: views/admin/groups/loop.php:87 views/admin/mailinglists/loop.php:178
+#: views/admin/autoresponders/loop.php:140 views/admin/dashboard.php:32
+#: views/admin/fields/loop.php:156 views/admin/groups/loop.php:87
+#: views/admin/mailinglists/loop.php:178
 #: views/admin/metaboxes/send-submit.php:31
 #: views/admin/metaboxes/send-submit.php:96
-#: views/admin/metaboxes/send-submit.php:170 views/admin/orders/loop.php:128
-#: views/admin/subscribers/loop.php:204 views/admin/templates/loop.php:99
-#: views/admin/themes/loop.php:87
+#: views/admin/metaboxes/send-submit.php:170
+#: views/admin/metaboxes/welcome/history.php:29
+#: views/admin/orders/loop.php:128 views/admin/subscribers/loop.php:214
+#: views/admin/templates/loop.php:99 views/admin/themes/loop.php:87
 msgid "Edit"
 msgstr "Modifier"
 
@@ -1730,21 +1741,24 @@ msgid "Are you sure you want to delete this autoresponder?"
 msgstr "Confirmez-vous la suppression du message automatique ?"
 
 #: views/admin/autoresponders/loop.php:142
-#: views/admin/subscribers/view.php:146 wp-mailinglist-plugin.php:509
-#: wp-mailinglist-plugin.php:658 wp-mailinglist-plugin.php:807
+#: views/admin/subscribers/view.php:146 wp-mailinglist-plugin.php:563
+#: wp-mailinglist-plugin.php:712 wp-mailinglist-plugin.php:861
 #, fuzzy
 msgid "Emails"
 msgstr "e-mails"
 
-#: views/admin/autoresponders/loop.php:164 views/admin/clicks/loop.php:103
-#: views/admin/clicks/loop.php:111 views/admin/clicks/loop.php:124
+#: views/admin/autoresponders/loop.php:164 views/admin/clicks/loop.php:111
+#: views/admin/clicks/loop.php:119 views/admin/clicks/loop.php:132
 #: views/admin/emails/loop.php:184 views/admin/fields/loop.php:172
 #: views/admin/fields/loop.php:182 views/admin/history/loop.php:204
 #: views/admin/history/loop.php:278 views/admin/history/loop.php:286
 #: views/admin/history/loop.php:299 views/admin/history/view.php:62
 #: views/admin/history/view.php:73 views/admin/metaboxes/system/captcha.php:15
-#: views/admin/queues/loop.php:179 views/admin/queues/loop.php:194
-#: wp-mailinglist-plugin.php:163
+#: views/admin/queues/loop.php:180 views/admin/queues/loop.php:195
+#: views/admin/subscribers/unsubscribes.php:154
+#: views/admin/subscribers/unsubscribes.php:161
+#: views/admin/subscribers/unsubscribes.php:168
+#: views/admin/subscribers/unsubscribes.php:175 wp-mailinglist-plugin.php:163
 msgid "None"
 msgstr "Aucun"
 
@@ -1753,8 +1767,8 @@ msgstr "Aucun"
 #: views/admin/autoresponders/save.php:68 views/admin/emails/loop.php:191
 #: views/admin/emails/loop.php:202 views/admin/emails/loop.php:207
 #: views/admin/fields/loop.php:187 views/admin/fields/save.php:133
-#: views/admin/history/loop.php:260 views/admin/import-export.php:230
-#: views/admin/import-export.php:291 views/admin/mailinglists/loop.php:195
+#: views/admin/history/loop.php:260 views/admin/import-export.php:241
+#: views/admin/import-export.php:310 views/admin/mailinglists/loop.php:195
 #: views/admin/mailinglists/loop.php:197 views/admin/mailinglists/save.php:55
 #: views/admin/mailinglists/save.php:98 views/admin/mailinglists/view.php:53
 #: views/admin/mailinglists/view.php:57
@@ -1770,8 +1784,8 @@ msgstr "Aucun"
 #: views/admin/metaboxes/settings-customcss.php:29
 #: views/admin/metaboxes/settings-importusers.php:6
 #: views/admin/metaboxes/settings-importusers.php:36
-#: views/admin/metaboxes/settings-latestposts.php:167
-#: views/admin/metaboxes/settings-latestposts.php:246
+#: views/admin/metaboxes/settings-latestposts.php:170
+#: views/admin/metaboxes/settings-latestposts.php:249
 #: views/admin/metaboxes/settings-management.php:92
 #: views/admin/metaboxes/settings-management.php:100
 #: views/admin/metaboxes/settings-management.php:114
@@ -1798,12 +1812,12 @@ msgstr "Aucun"
 #: views/admin/metaboxes/settings-unsubscribe.php:184
 #: views/admin/metaboxes/settings-wprelated.php:42
 #: views/admin/offsite-wizard.php:39 views/admin/offsite-wizard.php:71
-#: views/admin/queues/loop.php:199 views/admin/subscribers/loop.php:210
-#: views/admin/subscribers/loop.php:216 views/admin/subscribers/save.php:39
-#: views/admin/subscribers/save.php:116 views/admin/subscribers/view.php:122
+#: views/admin/queues/loop.php:200 views/admin/subscribers/loop.php:220
+#: views/admin/subscribers/loop.php:226 views/admin/subscribers/save.php:46
+#: views/admin/subscribers/save.php:123 views/admin/subscribers/view.php:122
 #: views/admin/themes/save-ajax.php:160 views/admin/themes/save.php:145
 #: views/admin/tinymce-dialog.php:276 views/admin/tinymce-dialog.php:334
-#: wp-mailinglist.php:5073
+#: wp-mailinglist.php:5407
 msgid "Yes"
 msgstr "Oui"
 
@@ -1812,8 +1826,8 @@ msgstr "Oui"
 #: views/admin/autoresponders/save.php:69 views/admin/emails/loop.php:191
 #: views/admin/emails/loop.php:202 views/admin/emails/loop.php:207
 #: views/admin/fields/loop.php:187 views/admin/fields/save.php:133
-#: views/admin/history/loop.php:266 views/admin/import-export.php:231
-#: views/admin/import-export.php:292 views/admin/mailinglists/loop.php:195
+#: views/admin/history/loop.php:266 views/admin/import-export.php:242
+#: views/admin/import-export.php:311 views/admin/mailinglists/loop.php:195
 #: views/admin/mailinglists/loop.php:197 views/admin/mailinglists/save.php:56
 #: views/admin/mailinglists/save.php:98 views/admin/mailinglists/view.php:53
 #: views/admin/mailinglists/view.php:57
@@ -1829,8 +1843,8 @@ msgstr "Oui"
 #: views/admin/metaboxes/settings-customcss.php:30
 #: views/admin/metaboxes/settings-importusers.php:7
 #: views/admin/metaboxes/settings-importusers.php:37
-#: views/admin/metaboxes/settings-latestposts.php:168
-#: views/admin/metaboxes/settings-latestposts.php:247
+#: views/admin/metaboxes/settings-latestposts.php:171
+#: views/admin/metaboxes/settings-latestposts.php:250
 #: views/admin/metaboxes/settings-management.php:93
 #: views/admin/metaboxes/settings-management.php:101
 #: views/admin/metaboxes/settings-management.php:115
@@ -1857,12 +1871,12 @@ msgstr "Oui"
 #: views/admin/metaboxes/settings-unsubscribe.php:185
 #: views/admin/metaboxes/settings-wprelated.php:43
 #: views/admin/offsite-wizard.php:40 views/admin/offsite-wizard.php:72
-#: views/admin/queues/loop.php:202 views/admin/subscribers/loop.php:210
-#: views/admin/subscribers/loop.php:218 views/admin/subscribers/save.php:39
-#: views/admin/subscribers/save.php:117 views/admin/subscribers/view.php:122
+#: views/admin/queues/loop.php:203 views/admin/subscribers/loop.php:220
+#: views/admin/subscribers/loop.php:228 views/admin/subscribers/save.php:46
+#: views/admin/subscribers/save.php:124 views/admin/subscribers/view.php:122
 #: views/admin/themes/save-ajax.php:161 views/admin/themes/save.php:146
 #: views/admin/tinymce-dialog.php:277 views/admin/tinymce-dialog.php:335
-#: wp-mailinglist.php:5073
+#: wp-mailinglist.php:5407
 msgid "No"
 msgstr "Non"
 
@@ -1904,10 +1918,10 @@ msgstr "Renseigner un nom/titre pour ce message automatique."
 
 #: views/admin/autoresponders/save.php:30 views/admin/emails/loop.php:42
 #: views/admin/emails/loop.php:92 views/admin/history/view.php:38
-#: views/admin/import-export.php:22 views/admin/import-export.php:73
-#: views/admin/import-export.php:256
-#: views/admin/metaboxes/settings-latestposts.php:227
-#: views/admin/subscribers/loop.php:105 views/admin/subscribers/loop.php:168
+#: views/admin/import-export.php:29 views/admin/import-export.php:83
+#: views/admin/import-export.php:268
+#: views/admin/metaboxes/settings-latestposts.php:230
+#: views/admin/subscribers/loop.php:115 views/admin/subscribers/loop.php:178
 #: views/admin/subscribers/save.php:18 views/admin/subscribers/view.php:39
 msgid "Mailing List(s)"
 msgstr "Liste(s)"
@@ -1919,7 +1933,7 @@ msgid ""
 "active, this autoresponder will be sent to the subscriber."
 msgstr ""
 
-#: views/admin/autoresponders/save.php:34 views/admin/import-export.php:25
+#: views/admin/autoresponders/save.php:34 views/admin/import-export.php:32
 #: views/admin/mailinglists/save.php:66
 #: views/admin/metaboxes/system/permissions.php:18
 #: views/admin/subscribers/save.php:21
@@ -2018,16 +2032,17 @@ msgstr ""
 "Pour les statistiques d'ouverture et de lecture des newsletters, veuillez "
 "consulter l'onglet Historique/brouillons."
 
-#: views/admin/autoresponders/save.php:95 views/admin/import-export.php:136
-#: views/admin/import-export.php:150 views/admin/import-export.php:164
+#: views/admin/autoresponders/save.php:95 views/admin/import-export.php:146
+#: views/admin/import-export.php:160 views/admin/import-export.php:174
 #: views/admin/metaboxes/send-mailinglists.php:170
 #: views/admin/metaboxes/settings-bounce.php:87
 #: views/admin/metaboxes/settings-importusers.php:56
 #: views/admin/metaboxes/settings-sending.php:80
 #: views/admin/metaboxes/system/captcha.php:63 views/admin/orders/save.php:20
-#: views/admin/orders/save.php:47 wp-mailinglist-plugin.php:3848
-#: wp-mailinglist-plugin.php:3871 wp-mailinglist-widget.php:83
-#: wp-mailinglist-widget.php:174
+#: views/admin/orders/save.php:47 wp-mailinglist-plugin.php:304
+#: wp-mailinglist-plugin.php:3964 wp-mailinglist-plugin.php:3987
+#: wp-mailinglist-widget.php:83 wp-mailinglist-widget.php:174
+#: wp-mailinglist.php:126 wp-mailinglist.php:138
 msgid "- Select -"
 msgstr "Selectionnez"
 
@@ -2092,7 +2107,7 @@ msgstr ""
 
 #: views/admin/autoresponders/save.php:166
 #: views/admin/metaboxes/send-theme.php:4
-#: views/admin/metaboxes/settings-latestposts.php:303
+#: views/admin/metaboxes/settings-latestposts.php:306
 #: views/admin/metaboxes/write-advanced.php:43
 msgid "NONE"
 msgstr "AUCUN"
@@ -2171,13 +2186,21 @@ msgstr ""
 msgid "Save Autoresponder"
 msgstr "Sauvegarder"
 
-#: views/admin/autoresponders/save.php:217
+#: views/admin/autoresponders/save.php:212 views/admin/fields/save.php:422
+#: views/admin/groups/save.php:17 views/admin/mailinglists/save.php:153
+#: views/admin/orders/save.php:60 views/admin/subscribers/save.php:134
+#: views/admin/themes/save.php:198
+#, fuzzy
+msgid "Continue editing"
+msgstr "Poursuivre"
+
+#: views/admin/autoresponders/save.php:220
 #, fuzzy
 msgid "Enter autoresponder title here"
 msgstr "futurs messages automatiques en attente"
 
-#: views/admin/autoresponders/save.php:218 views/admin/send.php:187
-#: wp-mailinglist-plugin.php:1392
+#: views/admin/autoresponders/save.php:221 views/admin/send.php:189
+#: wp-mailinglist-plugin.php:1457
 #, fuzzy
 msgid "Enter email subject here"
 msgstr "Objet de l'e-mail"
@@ -2203,60 +2226,70 @@ msgstr ""
 "Confirmez-vous l'exécution de l'action pour les messages automatiques "
 "sélectionnés ?"
 
-#: views/admin/clicks/loop.php:32 views/admin/clicks/loop.php:61
+#: views/admin/clicks/loop.php:33 views/admin/clicks/loop.php:62
 #: views/admin/links/loop.php:32 views/admin/links/loop.php:50
 msgid "Link"
 msgstr ""
 
-#: views/admin/clicks/loop.php:38 views/admin/clicks/loop.php:67
+#: views/admin/clicks/loop.php:39 views/admin/clicks/loop.php:68
 #, fuzzy
 msgid "History"
 msgstr "Historique des newsletters"
 
-#: views/admin/clicks/loop.php:82
+#: views/admin/clicks/loop.php:83
 #, fuzzy
 msgid "No clicks were found"
 msgstr "Aucun e-mail disponible"
 
-#: views/admin/clicks/loop.php:100
+#: views/admin/clicks/loop.php:101 views/admin/clicks/loop.php:108
 #, fuzzy
 msgid "Are you sure you want to delete this click?"
 msgstr "Confirmez-vous la suppression de l'e-mail ?"
 
-#: views/admin/dashboard.php:19
+#: views/admin/clicks/loop.php:105
+msgid "User:"
+msgstr ""
+
+#: views/admin/dashboard.php:21
 #, fuzzy
 msgid "Latest"
 msgstr "Mettre à jour"
 
-#: views/admin/dashboard.php:29 views/admin/groups/loop.php:89
+#: views/admin/dashboard.php:31 views/admin/groups/loop.php:89
 #: views/admin/history/loop.php:181 views/admin/mailinglists/loop.php:180
-#: views/admin/subscribers/loop.php:206 views/admin/templates/loop.php:101
+#: views/admin/metaboxes/welcome/history.php:28
+#: views/admin/subscribers/loop.php:216 views/admin/templates/loop.php:101
 msgid "View"
 msgstr "Aperçu"
 
-#: views/admin/dashboard.php:36
+#: views/admin/dashboard.php:39
 #, fuzzy, php-format
 msgid "No emails are available yet, please %s."
 msgstr "Aucun abonné disponible."
 
-#: views/admin/dashboard.php:36
+#: views/admin/dashboard.php:39
 msgid "create one"
 msgstr ""
 
-#: views/admin/dashboard.php:81 views/admin/mailinglists/loop.php:104
+#: views/admin/dashboard.php:84 views/admin/mailinglists/loop.php:104
 #: views/admin/mailinglists/loop.php:152
 msgid "Subscriptions"
 msgstr "Abonnements"
 
-#: views/admin/dashboard.php:89
+#: views/admin/dashboard.php:92 views/admin/subscribers/loop.php:17
+#: wp-mailinglist.php:2222
 #, fuzzy
 msgid "Unsubscribes"
 msgstr "Se désinscrire"
 
-#: views/admin/dashboard.php:97 views/admin/subscribers/loop.php:109
-#: views/admin/subscribers/loop.php:171 views/admin/subscribers/view.php:132
+#: views/admin/dashboard.php:100 views/admin/subscribers/loop.php:119
+#: views/admin/subscribers/loop.php:181 views/admin/subscribers/view.php:132
 msgid "Bounces"
 msgstr "E-mails en erreur"
+
+#: views/admin/dashboard.php:107
+msgid "See full overview"
+msgstr ""
 
 #: views/admin/dkim/step1.php:2 views/admin/dkim/step2.php:2
 #: views/admin/dkim/step3.php:2
@@ -2344,12 +2377,15 @@ msgid "Export sent emails to CSV"
 msgstr "Exporter les e-mails envoyés par CSV"
 
 #: views/admin/emails/loop.php:6 views/admin/history/loop.php:10
-#: views/admin/history/loop.php:18 views/admin/import-export.php:243
+#: views/admin/history/loop.php:18 views/admin/import-export.php:11
+#: views/admin/import-export.php:255
 msgid "Export"
 msgstr "Exporter"
 
 #: views/admin/emails/loop.php:35 views/admin/emails/loop.php:85
 #: views/admin/queues/loop.php:51 views/admin/queues/loop.php:102
+#: views/admin/subscribers/unsubscribes.php:76
+#: views/admin/subscribers/unsubscribes.php:115
 msgid "History Email"
 msgstr "Historique"
 
@@ -2368,7 +2404,7 @@ msgid "Bounced"
 msgstr "E-mails en erreur"
 
 #: views/admin/emails/loop.php:67 views/admin/emails/loop.php:117
-#: wp-mailinglist.php:5048
+#: wp-mailinglist.php:5382
 msgid "Sent Date"
 msgstr "Date d'envoi"
 
@@ -2378,11 +2414,11 @@ msgid "No emails found"
 msgstr "Aucun e-mail disponible"
 
 #: views/admin/emails/loop.php:225 views/admin/queues/index.php:16
-#: views/admin/queues/index.php:67 views/admin/queues/loop.php:221
+#: views/admin/queues/index.php:67 views/admin/queues/loop.php:222
 msgid "emails"
 msgstr "e-mails"
 
-#: views/admin/export-post.php:2 views/admin/import-export.php:300
+#: views/admin/export-post.php:2 views/admin/import-export.php:319
 msgid "Export Subscribers"
 msgstr "Exporter les abonnés"
 
@@ -2436,14 +2472,13 @@ msgstr ""
 msgid "Exporting Now"
 msgstr "Exporter"
 
-#: views/admin/export-post.php:110 views/admin/import-export.php:248
-#: wp-mailinglist.php:4390
+#: views/admin/export-post.php:110 views/admin/import-export.php:260
 #, fuzzy
 msgid "Download CSV"
 msgstr "Télécharger le CSV"
 
 #: views/admin/export-post.php:120 views/admin/import-post.php:147
-#: views/admin/send-post.php:85 views/admin/send.php:192
+#: views/admin/send-post.php:85 views/admin/send.php:194
 msgid ""
 "You have unsaved changes on this page! All unsaved changes will be lost and "
 "it cannot be undone."
@@ -2484,7 +2519,7 @@ msgid "Are you sure you want to deactivate this extension?"
 msgstr "Confirmez-vous la suppression de l'e-mail ?"
 
 #: views/admin/extensions/index.php:78
-#: views/admin/extensions/navigation.php:11 wp-mailinglist.php:1788
+#: views/admin/extensions/navigation.php:11 wp-mailinglist.php:1909
 #, fuzzy
 msgid "Settings"
 msgstr "Sauvegarder les paramètres"
@@ -2627,9 +2662,9 @@ msgid "Caption/Description"
 msgstr "Légende/description"
 
 #: views/admin/fields/save.php:95 views/admin/fields/save.php:126
-#: views/admin/fields/save.php:300 views/admin/fields/save.php:320
+#: views/admin/fields/save.php:304 views/admin/fields/save.php:324
 #: views/admin/mailinglists/save.php:79 views/admin/mailinglists/save.php:143
-#: views/admin/metaboxes/send-publish.php:70
+#: views/admin/metaboxes/send-publish.php:79
 #: views/default/unsubscribe-user.php:36 views/default/unsubscribe.php:86
 #, fuzzy
 msgid "(optional)"
@@ -2678,131 +2713,135 @@ msgstr "Type"
 msgid "Hidden Value"
 msgstr ""
 
-#: views/admin/fields/save.php:243
+#: views/admin/fields/save.php:243 views/admin/setvariables.php:160
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: views/admin/fields/save.php:244
 msgid "$_POST"
 msgstr ""
 
-#: views/admin/fields/save.php:244
+#: views/admin/fields/save.php:245
 msgid "$_GET"
 msgstr ""
 
-#: views/admin/fields/save.php:245
+#: views/admin/fields/save.php:246
 msgid "$GLOBALS"
 msgstr ""
 
-#: views/admin/fields/save.php:246
+#: views/admin/fields/save.php:247
 msgid "$_COOKIE"
 msgstr ""
 
-#: views/admin/fields/save.php:247
+#: views/admin/fields/save.php:248
 msgid "$_SESSION"
 msgstr ""
 
-#: views/admin/fields/save.php:248
+#: views/admin/fields/save.php:249
 msgid "$_SERVER"
 msgstr ""
 
-#: views/admin/fields/save.php:297
+#: views/admin/fields/save.php:301
 #, fuzzy
 msgid "Alowed File Types"
 msgstr "Type"
 
-#: views/admin/fields/save.php:300
+#: views/admin/fields/save.php:304
 #, php-format
 msgid "A comma separated (no spaces) list of allowed file extensions eg. %s"
 msgstr ""
 
-#: views/admin/fields/save.php:304
+#: views/admin/fields/save.php:308
 msgid "File Size Limit"
 msgstr ""
 
-#: views/admin/fields/save.php:315
+#: views/admin/fields/save.php:319
 msgid "Bytes (B)"
 msgstr ""
 
-#: views/admin/fields/save.php:316
+#: views/admin/fields/save.php:320
 msgid "Kilobytes (KB)"
 msgstr ""
 
-#: views/admin/fields/save.php:317
+#: views/admin/fields/save.php:321
 msgid "Megabytes (MB)"
 msgstr ""
 
-#: views/admin/fields/save.php:318
+#: views/admin/fields/save.php:322
 msgid "Gigabytes (GB)"
 msgstr ""
 
-#: views/admin/fields/save.php:320
+#: views/admin/fields/save.php:324
 msgid "Specify the maximum size that files are allowed to be when uploading."
 msgstr ""
 
-#: views/admin/fields/save.php:331
+#: views/admin/fields/save.php:335
 msgid "Field Options"
 msgstr "Options"
 
-#: views/admin/fields/save.php:355
+#: views/admin/fields/save.php:359
 msgid ""
 "Place each option on a new line and add the same number of options for each "
 "language."
 msgstr ""
 
-#: views/admin/fields/save.php:359
+#: views/admin/fields/save.php:363
 msgid "Place each option on a newline"
 msgstr "Placez chaque option sur une nouvelle ligne"
 
-#: views/admin/fields/save.php:361
+#: views/admin/fields/save.php:365
 msgid ""
 "Removing options or changing the order will affect existing subscribers. "
 "Rather just add options below the current ones."
 msgstr ""
 
-#: views/admin/fields/save.php:374
+#: views/admin/fields/save.php:378
 #, fuzzy
 msgid "Display"
 msgstr "Affichage"
 
-#: views/admin/fields/save.php:376
+#: views/admin/fields/save.php:380
 msgid "Always show"
 msgstr ""
 
-#: views/admin/fields/save.php:377
+#: views/admin/fields/save.php:381
 #, fuzzy
 msgid "Specific list(s)"
 msgstr "Choix de liste d'envoi"
 
-#: views/admin/fields/save.php:378
+#: views/admin/fields/save.php:382
 msgid "Should this field always show or only for specific mailing list(s)?"
 msgstr ""
 
-#: views/admin/fields/save.php:394
-#: views/admin/metaboxes/settings-latestposts.php:118
-#: views/admin/metaboxes/settings-latestposts.php:145
-#: views/admin/metaboxes/settings-latestposts.php:230
-#: views/admin/metaboxes/write-advanced.php:67 wp-mailinglist-plugin.php:332
+#: views/admin/fields/save.php:398
+#: views/admin/metaboxes/settings-latestposts.php:121
+#: views/admin/metaboxes/settings-latestposts.php:148
+#: views/admin/metaboxes/settings-latestposts.php:233
+#: views/admin/metaboxes/write-advanced.php:67 wp-mailinglist-plugin.php:386
 msgid "Select All"
 msgstr "Tout sélectionner"
 
-#: views/admin/fields/save.php:404 views/admin/mailinglists/loop.php:161
+#: views/admin/fields/save.php:408 views/admin/mailinglists/loop.php:161
 msgid "No mailing lists were found"
 msgstr "Aucune liste trouvée"
 
-#: views/admin/fields/save.php:416
+#: views/admin/fields/save.php:420
 msgid "Save Custom Field"
 msgstr "Sauvegarder"
 
-#: views/admin/fields/save.php:440
+#: views/admin/fields/save.php:447
 msgid "Enter field title/name here"
 msgstr ""
 
-#: views/admin/fields/save.php:441
+#: views/admin/fields/save.php:448
 msgid "Enter field slug for database and shortcodes use here"
 msgstr ""
 
-#: views/admin/fields/save.php:442
+#: views/admin/fields/save.php:449
 msgid "Enter a caption/description to show below the field here"
 msgstr ""
 
-#: views/admin/fields/save.php:443
+#: views/admin/fields/save.php:450
 msgid "Enter watermark text here"
 msgstr ""
 
@@ -2837,7 +2876,7 @@ msgstr "Supprimez la sélection"
 
 #: views/admin/groups/loop.php:40 views/admin/groups/loop.php:64
 #: views/admin/groups/view.php:30 wp-mailinglist-widget.php:100
-#: wp-mailinglist-widget.php:191 wp-mailinglist.php:4884
+#: wp-mailinglist-widget.php:191 wp-mailinglist.php:5218
 msgid "Lists"
 msgstr "Listes"
 
@@ -2870,7 +2909,7 @@ msgstr "Titre de l'article"
 msgid "Save Group"
 msgstr "Sauvegarder le brouillon"
 
-#: views/admin/groups/save.php:22
+#: views/admin/groups/save.php:25
 msgid "Enter group title here"
 msgstr ""
 
@@ -2926,17 +2965,17 @@ msgstr "Champs"
 msgid "Value"
 msgstr "Valeur"
 
-#: views/admin/groups/view.php:36 views/admin/history/view.php:134
+#: views/admin/groups/view.php:36 views/admin/history/view.php:159
 #: views/admin/mailinglists/view.php:87 views/admin/orders/view.php:53
 #: views/admin/subscribers/view.php:136 views/admin/templates/view.php:35
-#: wp-mailinglist.php:4302 wp-mailinglist.php:4890
+#: wp-mailinglist.php:4601 wp-mailinglist.php:5224
 msgid "Created"
 msgstr "Créé(e)"
 
-#: views/admin/groups/view.php:40 views/admin/history/view.php:138
+#: views/admin/groups/view.php:40 views/admin/history/view.php:163
 #: views/admin/mailinglists/view.php:91 views/admin/orders/view.php:57
 #: views/admin/subscribers/view.php:140 views/admin/templates/view.php:39
-#: wp-mailinglist.php:4303 wp-mailinglist.php:4891
+#: wp-mailinglist.php:4602 wp-mailinglist.php:5225
 msgid "Modified"
 msgstr "Modifié"
 
@@ -3005,14 +3044,14 @@ msgid "Clear"
 msgstr "Vider la liste d'attente"
 
 #: views/admin/history/loop.php:49 views/admin/history/loop.php:117
-#: views/admin/metaboxes/settings-scheduling.php:97 wp-mailinglist.php:4883
+#: views/admin/metaboxes/settings-scheduling.php:97 wp-mailinglist.php:5217
 msgid "Subject"
 msgstr "Objet"
 
 #: views/admin/history/loop.php:58 views/admin/history/loop.php:124
 #: views/admin/history/view.php:54 views/admin/metaboxes/system/captcha.php:58
 #: views/admin/queues/loop.php:57 views/admin/queues/loop.php:108
-#: wp-mailinglist.php:2119 wp-mailinglist.php:4885
+#: wp-mailinglist.php:2243 wp-mailinglist.php:5219
 msgid "Theme"
 msgstr "Thème"
 
@@ -3027,7 +3066,7 @@ msgstr "phrase secrète"
 
 #: views/admin/history/loop.php:81 views/admin/history/loop.php:143
 #: views/admin/metaboxes/send-insert.php:77
-#: views/admin/metaboxes/settings-latestposts.php:121 views/admin/posts.php:13
+#: views/admin/metaboxes/settings-latestposts.php:124 views/admin/posts.php:13
 #: views/admin/posts.php:20
 #, fuzzy
 msgid "Post"
@@ -3035,13 +3074,13 @@ msgstr "Slug"
 
 #: views/admin/history/loop.php:89 views/admin/history/loop.php:150
 #: views/admin/history/view.php:67 views/admin/metaboxes/send-insert.php:131
-#: views/admin/metaboxes/settings-latestposts.php:204
-#: views/admin/tinymce-dialog.php:352 wp-mailinglist.php:4886
+#: views/admin/metaboxes/settings-latestposts.php:207
+#: views/admin/tinymce-dialog.php:352 wp-mailinglist.php:5220
 msgid "Author"
 msgstr "Auteur"
 
 #: views/admin/history/loop.php:102 views/admin/history/loop.php:161
-#: views/admin/history/view.php:120
+#: views/admin/history/view.php:145
 #: views/admin/metaboxes/send-attachment.php:19 views/admin/queues/loop.php:61
 #: views/admin/queues/loop.php:112 views/admin/send-post.php:58
 #, fuzzy
@@ -3070,14 +3109,14 @@ msgid "Duplicate"
 msgstr ""
 
 #: views/admin/history/loop.php:196 views/admin/mailinglists/loop.php:192
-#: views/admin/mailinglists/view.php:37 views/admin/subscribers/loop.php:234
-#: views/admin/subscribers/loop.php:253 views/admin/subscribers/view.php:56
-#: views/admin/subscribers/view.php:86 wp-mailinglist-plugin.php:4074
+#: views/admin/mailinglists/view.php:37 views/admin/subscribers/loop.php:244
+#: views/admin/subscribers/loop.php:263 views/admin/subscribers/view.php:56
+#: views/admin/subscribers/view.php:86 wp-mailinglist-plugin.php:4190
 msgid "none"
 msgstr "aucun"
 
 #: views/admin/history/loop.php:202 views/admin/history/view.php:58
-#: views/admin/queues/loop.php:177
+#: views/admin/queues/loop.php:178
 msgid "Theme Preview:"
 msgstr "Aperçu du thème :"
 
@@ -3093,7 +3132,7 @@ msgstr ""
 msgid "Scheduled"
 msgstr "Tâches en attente"
 
-#: views/admin/history/loop.php:252 wp-mailinglist-plugin.php:5937
+#: views/admin/history/loop.php:252 wp-mailinglist-plugin.php:6085
 msgid "Draft"
 msgstr "Ébauche"
 
@@ -3123,7 +3162,7 @@ msgid "Sent/Draft:"
 msgstr "Date d'envoi"
 
 #: views/admin/history/view.php:10 views/admin/queues/index.php:2
-#: views/admin/settings-cronschedules.php:2
+#: views/admin/settings-cronschedules.php:12
 msgid "Refresh"
 msgstr "Actualiser"
 
@@ -3136,7 +3175,7 @@ msgstr "&larr; Tous les modèles"
 msgid "Send this history email again or edit the draft"
 msgstr "Renvoyez ou modifiez l'ébauche"
 
-#: views/admin/history/view.php:17 views/admin/history/view.php:150
+#: views/admin/history/view.php:17 views/admin/history/view.php:175
 #: views/admin/metaboxes/settings-sending.php:23
 #: views/admin/themes/loop.php:91
 msgid "Preview"
@@ -3156,7 +3195,7 @@ msgid "From"
 msgstr "De"
 
 #: views/admin/history/view.php:34
-#: views/admin/metaboxes/settings-latestposts.php:70
+#: views/admin/metaboxes/settings-latestposts.php:73
 #: views/admin/metaboxes/templates/bounce.php:16
 #: views/admin/metaboxes/templates/confirm.php:16
 #: views/admin/metaboxes/templates/expire.php:16
@@ -3170,264 +3209,290 @@ msgid "Email Subject"
 msgstr "Objet de l'e-mail"
 
 #: views/admin/history/view.php:60 views/admin/metaboxes/send-theme.php:10
-#: views/admin/metaboxes/settings-latestposts.php:305
+#: views/admin/metaboxes/settings-latestposts.php:308
 #: views/admin/metaboxes/write-advanced.php:51
 #, fuzzy, php-format
 msgid "Edit Theme: %s"
 msgstr "Thème d'email"
 
-#: views/admin/history/view.php:78
+#: views/admin/history/view.php:80
+#, fuzzy
+msgid "Queued"
+msgstr "Emails en attente"
+
+#: views/admin/history/view.php:82
+#, fuzzy, php-format
+msgid "%s emails in the queue"
+msgstr "e-mails en attente"
+
+#: views/admin/history/view.php:87
 msgid "Tracking"
 msgstr "Suivi"
 
-#: views/admin/history/view.php:115
+#: views/admin/history/view.php:126
 #, php-format
 msgid ""
-"%s opened %s, %s unsubscribes %s, %s bounces %s and %s%s clicks%s out of %s "
-"emails sent out"
+"%s opened %s, %s%s unsubscribes%s %s, %s bounces %s and %s%s clicks%s out of "
+"%s emails sent out"
 msgstr ""
 
-#: views/admin/history/view.php:126
+#: views/admin/history/view.php:151
 #: views/admin/metaboxes/send-attachment.php:27
 msgid "Are you sure you want to remove this attachment?"
 msgstr "Êtes-vous certain de supprimer la pièce jointe ?"
 
-#: views/admin/history/view.php:146 views/admin/subscribers/view.php:13
-#: views/admin/subscribers/view.php:109 wp-mailinglist.php:4888
+#: views/admin/history/view.php:171 views/admin/subscribers/view.php:13
+#: views/admin/subscribers/view.php:109 wp-mailinglist.php:5222
 msgid "Emails Sent"
 msgstr "E-mails envoyés"
 
-#: views/admin/history/view.php:153 wp-mailinglist.php:2124
+#: views/admin/history/view.php:178 wp-mailinglist.php:2248
 msgid "TEXT Version"
 msgstr ""
 
-#: views/admin/history/view.php:158
+#: views/admin/history/view.php:183
 msgid "HTML Version"
 msgstr ""
 
-#: views/admin/import-export.php:6 wp-mailinglist.php:2043
+#: views/admin/import-export.php:6 wp-mailinglist.php:2166
 msgid "Import/Export Subscribers"
 msgstr "Importer/exporter les abonnés"
 
-#: views/admin/import-export.php:7
+#: views/admin/import-export.php:10 views/admin/import-export.php:14
 msgid "Import"
 msgstr "Import"
 
-#: views/admin/import-export.php:14
+#: views/admin/import-export.php:21
 msgid "File"
 msgstr "Fichier"
 
-#: views/admin/import-export.php:17
+#: views/admin/import-export.php:24
 msgid "CSV/vCard file"
 msgstr ""
 
-#: views/admin/import-export.php:29 views/admin/import-export.php:263
-#: views/admin/subscribers/index.php:7 views/admin/subscribers/loop.php:34
-#: views/admin/subscribers/loop.php:293 views/admin/subscribers/save.php:24
-#: wp-mailinglist.php:3847
+#: views/admin/import-export.php:36 views/admin/import-export.php:275
+#: views/admin/subscribers/index.php:7 views/admin/subscribers/loop.php:44
+#: views/admin/subscribers/loop.php:303 views/admin/subscribers/save.php:24
+#: wp-mailinglist.php:4035
 msgid "subscribers"
 msgstr "abonnés"
 
-#: views/admin/import-export.php:33
+#: views/admin/import-export.php:43
 #: views/admin/metaboxes/settings-comments.php:177
 #: views/admin/metaboxes/settings-importusers.php:28
-#: views/admin/metaboxes/settings-latestposts.php:238
+#: views/admin/metaboxes/settings-latestposts.php:241
 #: views/admin/metaboxes/write-advanced.php:76
-#: views/admin/subscribers/loop.php:38
+#: views/admin/subscribers/loop.php:48
 msgid "No mailing lists are available"
 msgstr "Aucune liste disponible"
 
-#: views/admin/import-export.php:40
+#: views/admin/import-export.php:50
 msgid "File Type"
 msgstr "Type"
 
-#: views/admin/import-export.php:42
+#: views/admin/import-export.php:52
 msgid "CSV Spreadsheet"
 msgstr "CSV"
 
-#: views/admin/import-export.php:43
+#: views/admin/import-export.php:53
 #, fuzzy
 msgid "Mac OS Address Book (vCard file)"
 msgstr "Mac OS Address Book"
 
-#: views/admin/import-export.php:54
+#: views/admin/import-export.php:64 views/admin/import-export.php:301
 msgid "Delimiter"
 msgstr "Délimitation"
 
-#: views/admin/import-export.php:57
+#: views/admin/import-export.php:67
 msgid ""
 "Operator delimiting field values. Open your CSV in a text editor to confirm "
 "with which operator field values are delimited. The default is comma (,)."
 msgstr ""
 
-#: views/admin/import-export.php:62
+#: views/admin/import-export.php:72
 msgid "Fields to Import"
 msgstr ""
 
-#: views/admin/import-export.php:65
+#: views/admin/import-export.php:75
 msgid ""
 "Tick/check the fields which are available in your CSV file that you are "
 "uploading."
 msgstr ""
 
-#: views/admin/import-export.php:66
+#: views/admin/import-export.php:76
 msgid ""
 "Fill in only column numbers (no letters), where \"1\" is the first column in "
 "your CSV file."
 msgstr ""
 
-#: views/admin/import-export.php:76 views/admin/import-export.php:86
-#: views/admin/import-export.php:97
+#: views/admin/import-export.php:86 views/admin/import-export.php:96
+#: views/admin/import-export.php:107
 #, fuzzy
 msgid "Column Number:"
 msgstr "Colonne"
 
-#: views/admin/import-export.php:77
+#: views/admin/import-export.php:87
 msgid "Auto create these lists by title if they do not exist"
 msgstr ""
 
-#: views/admin/import-export.php:78
+#: views/admin/import-export.php:88
 msgid ""
 "Comma (,) separated mailing list names/titles to add subscribers to in "
 "addition to the list(s) ticked/checked above."
 msgstr ""
 
-#: views/admin/import-export.php:142
+#: views/admin/import-export.php:152
 msgid ""
 "Choose the custom field for the first name value from the vCard to go into."
 msgstr ""
 
-#: views/admin/import-export.php:156
+#: views/admin/import-export.php:166
 msgid ""
 "Choose the custom field for the last name value from the vCard to go into."
 msgstr ""
 
-#: views/admin/import-export.php:160
+#: views/admin/import-export.php:170
 #, fuzzy
 msgid "Phone Number"
 msgstr "Colonne"
 
-#: views/admin/import-export.php:170
+#: views/admin/import-export.php:180
 msgid ""
 "Choose the custom field for the phone number value from the vCard to go into."
 msgstr ""
 
-#: views/admin/import-export.php:180
+#: views/admin/import-export.php:190
 #, fuzzy
 msgid "Require Activation?"
 msgstr "Requiert une activation par e-mail ?"
 
-#: views/admin/import-export.php:182 views/admin/mailinglists/save.php:89
+#: views/admin/import-export.php:192 views/admin/mailinglists/save.php:89
 #, fuzzy
 msgid "Yes, require activation"
 msgstr "Requiert une activation par e-mail ?"
 
-#: views/admin/import-export.php:183 views/admin/mailinglists/save.php:90
+#: views/admin/import-export.php:193 views/admin/mailinglists/save.php:90
 #, fuzzy
 msgid "No, activate immediately"
 msgstr "Immédiatement"
 
-#: views/admin/import-export.php:184
+#: views/admin/import-export.php:194
 msgid ""
 "Would you like to send an activation/confirmation email to each subscriber "
 "to activate their subscription?"
 msgstr ""
 
-#: views/admin/import-export.php:194
+#: views/admin/import-export.php:204
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:6
-#: wp-mailinglist.php:2187
+#: wp-mailinglist.php:2312
 #, fuzzy
 msgid "Confirmation Email"
 msgstr "Configuration"
 
-#: views/admin/import-export.php:197
+#: views/admin/import-export.php:207
 msgid ""
 "An activation/confirmation email will be sent to each new subscriber "
 "imported. You may modify the email template below which will be sent out."
 msgstr ""
 
-#: views/admin/import-export.php:221
+#: views/admin/import-export.php:231
 #, fuzzy
 msgid "Bounces/Unsubscribes"
 msgstr "Se désinscrire"
 
-#: views/admin/import-export.php:223
+#: views/admin/import-export.php:232
+msgid ""
+"You can drastically reduce the load and processing of importing by disabling "
+"this."
+msgstr ""
+
+#: views/admin/import-export.php:234
+msgid ""
+"Enabling this will drastically increase processing time and queries to do "
+"all the checks."
+msgstr ""
+
+#: views/admin/import-export.php:234
 msgid "Prevent previous bounces/unsubscribes from being imported again"
 msgstr ""
 
-#: views/admin/import-export.php:224
+#: views/admin/import-export.php:235
 msgid ""
 "By ticking this, the system will check each subscriber and if they bounced/"
 "unsubscribed, they will not be imported."
 msgstr ""
 
-#: views/admin/import-export.php:228 views/admin/import-export.php:289
+#: views/admin/import-export.php:239 views/admin/import-export.php:308
 msgid "Show Progress"
 msgstr ""
 
-#: views/admin/import-export.php:232
+#: views/admin/import-export.php:243
 msgid "Show Ajax progress as the import is done?"
 msgstr ""
 
-#: views/admin/import-export.php:239
+#: views/admin/import-export.php:250
 msgid "Import Subscribers"
 msgstr "Importer les abonnés"
 
-#: views/admin/import-export.php:248
+#: views/admin/import-export.php:260
 #, fuzzy
 msgid "Subscribers have been exported."
 msgstr "L'abonné a été supprimé"
 
-#: views/admin/import-export.php:248
+#: views/admin/import-export.php:260
 msgid "Download the subscribers CSV document to your computer"
 msgstr "Télécharger les abonnés en fichier CSV"
 
-#: views/admin/import-export.php:259
+#: views/admin/import-export.php:271
 #, fuzzy
 msgid "Select All Lists"
 msgstr "Sélectionnez une liste"
 
-#: views/admin/import-export.php:267 views/admin/orders/save.php:26
+#: views/admin/import-export.php:279 views/admin/orders/save.php:26
 #, fuzzy
 msgid "No mailing lists are available."
 msgstr "Aucune liste disponible"
 
-#: views/admin/import-export.php:269
+#: views/admin/import-export.php:281
 #, fuzzy
 msgid "Choose the mailing list(s) to export"
 msgstr "Sélectionnez une liste d'envoi"
 
-#: views/admin/import-export.php:273
+#: views/admin/import-export.php:285
 msgid "Export Status"
 msgstr "Statut de l'export"
 
-#: views/admin/import-export.php:275
+#: views/admin/import-export.php:287
 msgid "All Subscriptions"
 msgstr "Tous les abonnements"
 
-#: views/admin/import-export.php:276
+#: views/admin/import-export.php:288
 msgid "Active Subscriptions Only"
 msgstr "Abonnements actifs seulements"
 
-#: views/admin/import-export.php:277
+#: views/admin/import-export.php:289
 msgid "Inactive Subscriptions Only"
 msgstr "Abonnements inactifs seulements"
 
-#: views/admin/import-export.php:281
+#: views/admin/import-export.php:293
 #, fuzzy
 msgid "Export Purpose"
 msgstr "Statut de l'export"
 
-#: views/admin/import-export.php:284
+#: views/admin/import-export.php:296
 msgid "3rd Party Software"
 msgstr ""
 
-#: views/admin/import-export.php:285
+#: views/admin/import-export.php:297
 #, fuzzy
 msgid "Choose the purpose of this export."
 msgstr "Choisir le thème à utiliser pour cette nouvelle newsletter."
 
-#: views/admin/import-export.php:293
+#: views/admin/import-export.php:304
+msgid "Choose the delimiter to delimit columns with. The default is comma (,)"
+msgstr ""
+
+#: views/admin/import-export.php:312
 msgid "Show Ajax progress as the export is done?"
 msgstr ""
 
@@ -3679,7 +3744,7 @@ msgstr ""
 "Êtes-vous certains d'exécuter cette action pour les listes sélectionnées?"
 
 #: views/admin/mailinglists/loop.php:8 views/admin/mailinglists/loop.php:89
-#: views/admin/mailinglists/loop.php:139 wp-mailinglist-plugin.php:5938
+#: views/admin/mailinglists/loop.php:139 wp-mailinglist-plugin.php:6086
 msgid "Private"
 msgstr "Privé"
 
@@ -3758,50 +3823,50 @@ msgid "Add Subscriber"
 msgstr "Abonné"
 
 #: views/admin/mailinglists/loop.php:202 views/admin/mailinglists/view.php:70
-#: wp-mailinglist-plugin.php:5647 wp-mailinglist-plugin.php:5903
+#: wp-mailinglist-plugin.php:5768 wp-mailinglist-plugin.php:6051
 msgid "Daily"
 msgstr "Quotidien"
 
 #: views/admin/mailinglists/loop.php:203 views/admin/mailinglists/view.php:71
-#: wp-mailinglist-plugin.php:5648 wp-mailinglist-plugin.php:5904
+#: wp-mailinglist-plugin.php:5769 wp-mailinglist-plugin.php:6052
 msgid "Weekly"
 msgstr "Hebdomadaire"
 
 #: views/admin/mailinglists/loop.php:204 views/admin/mailinglists/view.php:72
-#: wp-mailinglist-plugin.php:5649 wp-mailinglist-plugin.php:5905
+#: wp-mailinglist-plugin.php:5770 wp-mailinglist-plugin.php:6053
 msgid "Monthly"
 msgstr "Mensuel"
 
 #: views/admin/mailinglists/loop.php:205 views/admin/mailinglists/view.php:73
-#: wp-mailinglist-plugin.php:5650 wp-mailinglist-plugin.php:5906
+#: wp-mailinglist-plugin.php:5771 wp-mailinglist-plugin.php:6054
 #, fuzzy
 msgid "Every Two Months"
 msgstr "Toutes les 2 minutes"
 
 #: views/admin/mailinglists/loop.php:206 views/admin/mailinglists/view.php:74
-#: wp-mailinglist-plugin.php:5651 wp-mailinglist-plugin.php:5907
+#: wp-mailinglist-plugin.php:5772 wp-mailinglist-plugin.php:6055
 #, fuzzy
 msgid "Every Three Months"
 msgstr "Toutes les 2 minutes"
 
 #: views/admin/mailinglists/loop.php:207 views/admin/mailinglists/view.php:75
-#: wp-mailinglist-plugin.php:5652 wp-mailinglist-plugin.php:5908
+#: wp-mailinglist-plugin.php:5773 wp-mailinglist-plugin.php:6056
 msgid "Twice Yearly (Six Months)"
 msgstr ""
 
 #: views/admin/mailinglists/loop.php:208 views/admin/mailinglists/view.php:76
-#: wp-mailinglist-plugin.php:5653 wp-mailinglist-plugin.php:5909
+#: wp-mailinglist-plugin.php:5774 wp-mailinglist-plugin.php:6057
 #, fuzzy
 msgid "Every Nine Months"
 msgstr "Toutes les 2 minutes"
 
 #: views/admin/mailinglists/loop.php:209 views/admin/mailinglists/view.php:77
-#: wp-mailinglist-plugin.php:5654 wp-mailinglist-plugin.php:5910
+#: wp-mailinglist-plugin.php:5775 wp-mailinglist-plugin.php:6058
 msgid "Yearly"
 msgstr "Annuel"
 
 #: views/admin/mailinglists/loop.php:210 views/admin/mailinglists/view.php:78
-#: wp-mailinglist-plugin.php:5655 wp-mailinglist-plugin.php:5911
+#: wp-mailinglist-plugin.php:5776 wp-mailinglist-plugin.php:6059
 msgid "Once Off"
 msgstr ""
 
@@ -3939,12 +4004,12 @@ msgstr "êtes-vous certain de supprimer cette liste?"
 msgid "Save Mailing List"
 msgstr "Sauvegarder"
 
-#: views/admin/mailinglists/save.php:158
+#: views/admin/mailinglists/save.php:161
 #, fuzzy
 msgid "Enter mailing list title here"
 msgstr "La liste d'envoi est"
 
-#: views/admin/mailinglists/save.php:159
+#: views/admin/mailinglists/save.php:162
 #, fuzzy
 msgid "Enter a valid email address"
 msgstr "Veuillez renseigner une adresse e-mail valide"
@@ -3999,7 +4064,7 @@ msgstr ""
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:10
 #: views/admin/metaboxes/settings/tableofcontents-system.php:11
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:17
-#: views/admin/metaboxes/settings/tableofcontents.php:18
+#: views/admin/metaboxes/settings/tableofcontents.php:19
 msgid "Save Settings"
 msgstr "Sauvegarder les paramètres"
 
@@ -4036,7 +4101,7 @@ msgstr ""
 #: views/admin/metaboxes/send-insert.php:3
 #: views/admin/metaboxes/send-insert.php:11
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:4
-#: views/admin/tinymce-dialog.php:194 wp-mailinglist.php:2185
+#: views/admin/tinymce-dialog.php:194 wp-mailinglist.php:2310
 #, fuzzy
 msgid "Posts"
 msgstr "Articles"
@@ -4218,7 +4283,7 @@ msgid "Post ID"
 msgstr "Slug"
 
 #: views/admin/metaboxes/send-insert.php:135
-#: views/admin/metaboxes/settings-latestposts.php:208
+#: views/admin/metaboxes/settings-latestposts.php:211
 #: views/admin/tinymce-dialog.php:356
 msgid "Menu Order"
 msgstr "Ordre du menu"
@@ -4234,14 +4299,14 @@ msgid "Random Order"
 msgstr "Au hasard"
 
 #: views/admin/metaboxes/send-insert.php:140
-#: views/admin/metaboxes/settings-latestposts.php:195
+#: views/admin/metaboxes/settings-latestposts.php:198
 #: views/admin/metaboxes/settings-scheduling.php:90
 #, fuzzy
 msgid "Ascending"
 msgstr "En attente"
 
 #: views/admin/metaboxes/send-insert.php:141
-#: views/admin/metaboxes/settings-latestposts.php:196
+#: views/admin/metaboxes/settings-latestposts.php:199
 #: views/admin/metaboxes/settings-scheduling.php:91
 #, fuzzy
 msgid "Descending"
@@ -4426,13 +4491,13 @@ msgid "ALL"
 msgstr "TOUS"
 
 #: views/admin/metaboxes/send-mailinglists.php:186
-#: wp-mailinglist-plugin.php:3965
+#: wp-mailinglist-plugin.php:4081
 #, fuzzy
 msgid "- Select Country -"
 msgstr "Pays"
 
 #: views/admin/metaboxes/send-mailinglists.php:199
-#: wp-mailinglist-plugin.php:4014
+#: wp-mailinglist-plugin.php:4130
 msgid "- Select Gender -"
 msgstr "Sexe"
 
@@ -4500,38 +4565,43 @@ msgstr ""
 msgid "Draft saved at"
 msgstr ""
 
-#: views/admin/metaboxes/send-publish.php:4 wp-mailinglist.php:2134
+#: views/admin/metaboxes/send-publish.php:4 wp-mailinglist.php:2258
 msgid "Publish as Post"
 msgstr "Publication en tant qu'article"
 
-#: views/admin/metaboxes/send-publish.php:17
-#: views/admin/metaboxes/settings-latestposts.php:101
-#: views/admin/metaboxes/settings-latestposts.php:139
+#: views/admin/metaboxes/send-publish.php:13
+#, fuzzy
+msgid "Existing Post"
+msgstr "Un seul article"
+
+#: views/admin/metaboxes/send-publish.php:26
+#: views/admin/metaboxes/settings-latestposts.php:104
+#: views/admin/metaboxes/settings-latestposts.php:142
 msgid "Post Categories"
 msgstr "Catégories"
 
-#: views/admin/metaboxes/send-publish.php:31
+#: views/admin/metaboxes/send-publish.php:40
 msgid "No categories were found"
 msgstr "Aucune catégorie disponible"
 
-#: views/admin/metaboxes/send-publish.php:37
+#: views/admin/metaboxes/send-publish.php:46
 msgid "Post Author"
 msgstr "Auteur"
 
-#: views/admin/metaboxes/send-publish.php:43
+#: views/admin/metaboxes/send-publish.php:52
 msgid "Post Status"
 msgstr "État"
 
-#: views/admin/metaboxes/send-publish.php:55
+#: views/admin/metaboxes/send-publish.php:64
 #, fuzzy
 msgid "Post Type"
 msgstr "Titre de l'article"
 
-#: views/admin/metaboxes/send-publish.php:67
+#: views/admin/metaboxes/send-publish.php:76
 msgid "Post Slug"
 msgstr "Slug"
 
-#: views/admin/metaboxes/send-publish.php:70
+#: views/admin/metaboxes/send-publish.php:79
 #, fuzzy
 msgid "Post slug to use for this post"
 msgstr "Générer un code offsite pour cette liste"
@@ -4679,7 +4749,7 @@ msgid "Queue Newsletter"
 msgstr "Confirmer l'envoi"
 
 #: views/admin/metaboxes/send-submit.php:231
-#: views/admin/metaboxes/send-submit.php:253 wp-mailinglist.php:2120
+#: views/admin/metaboxes/send-submit.php:253 wp-mailinglist.php:2244
 msgid "Send Newsletter"
 msgstr "Envoyer la newsletter"
 
@@ -4701,6 +4771,10 @@ msgid ""
 "Since this is a saved sent/draft email, you can click this \"Delete Email\" "
 "link to permanently delete it from your history. Please note that this is "
 "undoable."
+msgstr ""
+
+#: views/admin/metaboxes/send-submit.php:263
+msgid "Use progress bar to queue/send"
 msgstr ""
 
 #: views/admin/metaboxes/send/spamscore.php:2
@@ -5357,7 +5431,7 @@ msgid "Run DKIM Wizard &raquo;"
 msgstr ""
 
 #: views/admin/metaboxes/settings-importusers.php:4
-#: views/admin/settings-cronschedules.php:105
+#: views/admin/settings-cronschedules.php:115
 msgid "Auto Import WordPress Users"
 msgstr "Auto-importer les utilisateurs"
 
@@ -5482,182 +5556,186 @@ msgid "Save settings to update the preview after making changes to settings."
 msgstr ""
 
 #: views/admin/metaboxes/settings-latestposts.php:63
+msgid "Open in a new window"
+msgstr ""
+
+#: views/admin/metaboxes/settings-latestposts.php:66
 msgid ""
 "Nothing to show yet, please configure your latest posts subscription and "
 "save the settings."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:73
+#: views/admin/metaboxes/settings-latestposts.php:76
 msgid "subject of the email to the subscribers."
 msgstr "Objet de l'e-mail"
 
-#: views/admin/metaboxes/settings-latestposts.php:77
+#: views/admin/metaboxes/settings-latestposts.php:80
 msgid "Number of Posts"
 msgstr "Nombre d'articles"
 
-#: views/admin/metaboxes/settings-latestposts.php:78
+#: views/admin/metaboxes/settings-latestposts.php:81
 msgid ""
 "Specify the number of posts to include. If you are using Post Categories and "
 "Group by Category is turned on below, the number of posts will be used per "
 "category, not in total."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:81
+#: views/admin/metaboxes/settings-latestposts.php:84
 msgid "Only new posts will be sent out and each post not more than once."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:88
+#: views/admin/metaboxes/settings-latestposts.php:91
 #: views/admin/metaboxes/write-advanced.php:18
 #, fuzzy
 msgid "Language"
 msgstr "Gérer"
 
-#: views/admin/metaboxes/settings-latestposts.php:93
+#: views/admin/metaboxes/settings-latestposts.php:96
 msgid "Choose the language part which should be used for the posts."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:99
+#: views/admin/metaboxes/settings-latestposts.php:102
 #, fuzzy
 msgid "Take Posts From"
 msgstr "Derniers articles de"
 
-#: views/admin/metaboxes/settings-latestposts.php:102
-#: views/admin/metaboxes/settings-latestposts.php:114
+#: views/admin/metaboxes/settings-latestposts.php:105
+#: views/admin/metaboxes/settings-latestposts.php:117
 #, fuzzy
 msgid "Custom Post Types"
 msgstr "Champs personnalisés"
 
-#: views/admin/metaboxes/settings-latestposts.php:103
+#: views/admin/metaboxes/settings-latestposts.php:106
 msgid ""
 "Should posts be regular posts in categories or posts from custom post types?"
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:128
+#: views/admin/metaboxes/settings-latestposts.php:131
 msgid "Tick/check custom post types to take posts from for sending."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:153
+#: views/admin/metaboxes/settings-latestposts.php:156
 msgid "categories for posts to be taken from."
 msgstr "Catégories des articles"
 
-#: views/admin/metaboxes/settings-latestposts.php:155
+#: views/admin/metaboxes/settings-latestposts.php:158
 msgid "No categories are available"
 msgstr "Aucune catégorie disponible"
 
-#: views/admin/metaboxes/settings-latestposts.php:165
+#: views/admin/metaboxes/settings-latestposts.php:168
 #, fuzzy
 msgid "Group by Category"
 msgstr "Catégories"
 
-#: views/admin/metaboxes/settings-latestposts.php:169
+#: views/admin/metaboxes/settings-latestposts.php:172
 msgid "Group posts by category, each set with a category heading and link."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:179
+#: views/admin/metaboxes/settings-latestposts.php:182
 msgid "Exclude Posts"
 msgstr "Exclure des articles"
 
-#: views/admin/metaboxes/settings-latestposts.php:182
+#: views/admin/metaboxes/settings-latestposts.php:185
 msgid ""
 "optional. comma separated post IDs to exclude from the latest posts "
 "subscription email."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:186
+#: views/admin/metaboxes/settings-latestposts.php:189
 #, fuzzy
 msgid "Order Posts"
 msgstr "Insérer"
 
-#: views/admin/metaboxes/settings-latestposts.php:198
+#: views/admin/metaboxes/settings-latestposts.php:201
 #: views/admin/metaboxes/settings-scheduling.php:93
 #: views/admin/metaboxes/system/captcha.php:169
 #: views/admin/offsite-wizard.php:55
 msgid "by"
 msgstr "par"
 
-#: views/admin/metaboxes/settings-latestposts.php:206
+#: views/admin/metaboxes/settings-latestposts.php:209
 #, fuzzy
 msgid "Parent"
 msgstr "Monnaie"
 
-#: views/admin/metaboxes/settings-latestposts.php:207
+#: views/admin/metaboxes/settings-latestposts.php:210
 #, fuzzy
 msgid "Comment Count"
 msgstr "Commentaires"
 
-#: views/admin/metaboxes/settings-latestposts.php:220
+#: views/admin/metaboxes/settings-latestposts.php:223
 msgid "Oldest Post Date/Time"
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:223
-#: views/admin/metaboxes/settings-latestposts.php:268
+#: views/admin/metaboxes/settings-latestposts.php:226
+#: views/admin/metaboxes/settings-latestposts.php:271
 msgid "(format: YYYY-MM-DD HH:MM:SS)"
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:223
+#: views/admin/metaboxes/settings-latestposts.php:226
 msgid "Show posts with a publish date no older than the specified date above."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:240
+#: views/admin/metaboxes/settings-latestposts.php:243
 msgid "mailing list(s) to send latest posts subscriptions to."
 msgstr "liste(s) d'envoi pour l'abonnement aux derniers articles"
 
-#: views/admin/metaboxes/settings-latestposts.php:244
+#: views/admin/metaboxes/settings-latestposts.php:247
 msgid "Update Schedule Interval?"
 msgstr "Mettre à jour l'intervalle d'envoi ?"
 
-#: views/admin/metaboxes/settings-latestposts.php:248
+#: views/admin/metaboxes/settings-latestposts.php:251
 msgid "leave this as No to leave the interval and current schedule unchanged."
 msgstr ""
 "Laisser NON si vous ne souhaitez pas modifier l'intervalle de programmation "
 "actuelle."
 
-#: views/admin/metaboxes/settings-latestposts.php:258
+#: views/admin/metaboxes/settings-latestposts.php:261
 msgid "Start Date/Time"
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:267
+#: views/admin/metaboxes/settings-latestposts.php:270
 #, fuzzy
 msgid "Current Date/Time:"
 msgstr "Date & heure actuelle"
 
-#: views/admin/metaboxes/settings-latestposts.php:268
+#: views/admin/metaboxes/settings-latestposts.php:271
 msgid ""
 "Choose the day to start sending these posts for the first time with the "
 "settings configured."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:272
+#: views/admin/metaboxes/settings-latestposts.php:275
 msgid "Sending Interval"
 msgstr "Intervalle entre les envois"
 
-#: views/admin/metaboxes/settings-latestposts.php:277
+#: views/admin/metaboxes/settings-latestposts.php:280
 msgid "- Select Schedule -"
 msgstr "Sélectionner une date"
 
-#: views/admin/metaboxes/settings-latestposts.php:283
+#: views/admin/metaboxes/settings-latestposts.php:286
 msgid "No schedules are available"
 msgstr "Pas d'envoi programmé"
 
-#: views/admin/metaboxes/settings-latestposts.php:285
+#: views/admin/metaboxes/settings-latestposts.php:288
 msgid "set how often the latest posts subscription should be sent out."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:286
+#: views/admin/metaboxes/settings-latestposts.php:289
 msgid ""
 "the first execution will be the time of the interval from the current date/"
 "time."
 msgstr ""
 
-#: views/admin/metaboxes/settings-latestposts.php:296
+#: views/admin/metaboxes/settings-latestposts.php:299
 msgid "Email Theme"
 msgstr "Thème d'email"
 
-#: views/admin/metaboxes/settings-latestposts.php:309
+#: views/admin/metaboxes/settings-latestposts.php:312
 msgid "No themes are available"
 msgstr "Aucun thème disponible"
 
-#: views/admin/metaboxes/settings-latestposts.php:311
+#: views/admin/metaboxes/settings-latestposts.php:314
 msgid "theme to use for the latest posts subscription email."
 msgstr ""
 
@@ -6043,7 +6121,7 @@ msgid "Turn on/off the preview feature while creating a newsletter."
 msgstr ""
 
 #: views/admin/metaboxes/settings-sending.php:32
-#: wp-mailinglist-plugin.php:1544 wp-mailinglist.php:2114
+#: wp-mailinglist-plugin.php:1620 wp-mailinglist.php:2238
 msgid "Spam Score"
 msgstr ""
 
@@ -6462,7 +6540,7 @@ msgstr ""
 
 #: views/admin/metaboxes/settings-subscriptions.php:12
 #: views/admin/metaboxes/settings/tableofcontents.php:7
-#: wp-mailinglist.php:2161
+#: wp-mailinglist.php:2285
 msgid "Paid Subscriptions"
 msgstr "Paramètres des listes payantes"
 
@@ -6671,7 +6749,7 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-unsubscribe.php:144
-#: views/admin/settings-navigation.php:4 wp-mailinglist.php:2025
+#: views/admin/settings-navigation.php:4 wp-mailinglist.php:2148
 msgid "Email Templates"
 msgstr "Modèles"
 
@@ -6867,6 +6945,42 @@ msgstr "Newsletter pour les nouveaux abonnés"
 msgid "Would you like to register all new subscribers as users?"
 msgstr ""
 
+#: views/admin/metaboxes/settings/emails.php:17
+#: views/admin/settings-cronschedules.php:129
+#, fuzzy
+msgid "Email Archiving"
+msgstr "Tracking"
+
+#: views/admin/metaboxes/settings/emails.php:18
+#, php-format
+msgid ""
+"By turning on email archiving, the emails database table will be cleaned "
+"periodically of old emails sent. The emails are archived to %s which can be "
+"opened as a CSV file (comma separated)."
+msgstr ""
+
+#: views/admin/metaboxes/settings/emails.php:20
+msgid "Enable archiving of sent emails"
+msgstr ""
+
+#: views/admin/metaboxes/settings/emails.php:30
+msgid "Archive Older Than"
+msgstr ""
+
+#: views/admin/metaboxes/settings/emails.php:31
+msgid ""
+"Fill in the number of days to keep sent emails for. The default is 90 days."
+msgstr ""
+
+#: views/admin/metaboxes/settings/emails.php:33
+msgid "days"
+msgstr "jours"
+
+#: views/admin/metaboxes/settings/emails.php:34
+msgid ""
+"Archive emails older than a specific amount of days. 90 days is recommended"
+msgstr ""
+
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:1
 #: views/admin/metaboxes/settings/tableofcontents-system.php:1
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:1
@@ -6884,141 +6998,147 @@ msgid "Choose section..."
 msgstr "Section des téléchargements"
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:4
-#: wp-mailinglist.php:2208
+#: wp-mailinglist.php:2333
 #, fuzzy
 msgid "Subscriber Management Section"
 msgstr "Abonné inexistant"
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:5
-#: wp-mailinglist.php:2209
+#: wp-mailinglist.php:2334
 msgid "Subscription Behaviour"
 msgstr "Fonctions de l'abonnement"
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:6
-#: wp-mailinglist.php:2210
+#: wp-mailinglist.php:2335
 #, fuzzy
 msgid "Unsubscribe Behaviour"
 msgstr "Fonctions de l'abonnement"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:4
-#: wp-mailinglist.php:2233
+#: wp-mailinglist.php:2358
 #, fuzzy
 msgid "Captcha Settings"
 msgstr "Sauvegarder les paramètres"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:5
-#: wp-mailinglist.php:2234
+#: wp-mailinglist.php:2359
 msgid "WordPress Related"
 msgstr "Wordpress"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:6
-#: wp-mailinglist.php:2236
+#: wp-mailinglist.php:2361
 #, fuzzy
 msgid "Auto Import Users"
 msgstr "Auto-importer les utilisateurs"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:7
-#: wp-mailinglist.php:2237
+#: wp-mailinglist.php:2362
 #, fuzzy
 msgid "WordPress Comment- and Registration Form"
 msgstr "Formulaire de commentaire sur Wordpress"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:5
-#: wp-mailinglist.php:2186
+#: wp-mailinglist.php:2311
 #, fuzzy
 msgid "Latest Posts"
 msgstr "Derniers articles de"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:7
-#: wp-mailinglist.php:2188
+#: wp-mailinglist.php:2313
 #, fuzzy
 msgid "Bounce Email"
 msgstr "Vérifier les e-mails en erreur"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:8
-#: wp-mailinglist.php:2189
+#: wp-mailinglist.php:2314
 #, fuzzy
 msgid "Unsubscribe Admin Email"
 msgstr "Se désinscrire"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:9
-#: wp-mailinglist.php:2190
+#: wp-mailinglist.php:2315
 #, fuzzy
 msgid "Unsubscribe User Email"
 msgstr "Se désinscrire"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:10
-#: wp-mailinglist.php:2191
+#: wp-mailinglist.php:2316
 #, fuzzy
 msgid "Expiration Email"
 msgstr "E-mail d'administration"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:11
-#: wp-mailinglist.php:2192
+#: wp-mailinglist.php:2317
 #, fuzzy
 msgid "Paid Subscription Email"
 msgstr "Abonnement payant"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:12
-#: wp-mailinglist.php:2193
+#: wp-mailinglist.php:2318
 #, fuzzy
 msgid "Cron Schedule Email"
 msgstr "Type de planification/cron"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:13
-#: wp-mailinglist.php:2194
+#: wp-mailinglist.php:2319
 #, fuzzy
 msgid "New Subscription Email"
 msgstr "Nouvel abonnement"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:4
-#: wp-mailinglist.php:2158
+#: wp-mailinglist.php:2282
 msgid "General Mail Settings"
 msgstr "Paramètres généraux"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:5
-#: wp-mailinglist.php:2159
+#: wp-mailinglist.php:2283
 msgid "Sending Settings"
 msgstr "Paramètres d'envoi"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:6
-#: wp-mailinglist.php:2160
+#: wp-mailinglist.php:2284
 msgid "Default Subscription Form Settings"
 msgstr "Paramètres du formulaire d'abonnement"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:8
-#: wp-mailinglist.php:2162
+#: wp-mailinglist.php:2286
 msgid "PayPal Configuration"
 msgstr "Configuration PayPal"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:9
-#: wp-mailinglist.php:2163
+#: wp-mailinglist.php:2287
 msgid "2CheckOut Configuration"
 msgstr "Configuration 2CheckOut"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:10
-#: wp-mailinglist.php:2164
+#: wp-mailinglist.php:2288
 #, fuzzy
 msgid "Posts Configuration"
 msgstr "Configuration"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:11
-#: wp-mailinglist.php:2165
+#: wp-mailinglist.php:2289
 msgid "Email Scheduling"
 msgstr "Envoi d'emails"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:12
-#: wp-mailinglist.php:2166
+#: wp-mailinglist.php:2290
 msgid "Bounce Configuration"
 msgstr "Gestion d'emails en erreur"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:13
-#: views/admin/settings-cronschedules.php:65 wp-mailinglist.php:2167
+#: wp-mailinglist.php:2291
+#, fuzzy
+msgid "History &amp; Emails Configuration"
+msgstr "Configuration"
+
+#: views/admin/metaboxes/settings/tableofcontents.php:14
+#: views/admin/settings-cronschedules.php:75 wp-mailinglist.php:2292
 msgid "Latest Posts Subscription"
 msgstr "Abonnement aux derniers articles publiés"
 
-#: views/admin/metaboxes/settings/tableofcontents.php:14
-#: wp-mailinglist.php:2168
+#: views/admin/metaboxes/settings/tableofcontents.php:15
+#: wp-mailinglist.php:2293
 msgid "Theme, Scripts &amp; Custom CSS"
 msgstr ""
 
@@ -7160,7 +7280,7 @@ msgid ""
 "users though. The default is 4."
 msgstr ""
 
-#: views/admin/metaboxes/system/captcha.php:178 views/admin/send.php:73
+#: views/admin/metaboxes/system/captcha.php:178 views/admin/send.php:75
 msgid "characters"
 msgstr ""
 
@@ -7230,7 +7350,7 @@ msgstr "Confirmez-vous la suppression de ce modèle ?"
 msgid "Delete Snippet"
 msgstr "Supprimez la sélection"
 
-#: views/admin/metaboxes/templates-submit.php:12 wp-mailinglist.php:2146
+#: views/admin/metaboxes/templates-submit.php:12 wp-mailinglist.php:2270
 #, fuzzy
 msgid "Save Snippet"
 msgstr "Sauvegarder les paramètres"
@@ -7337,7 +7457,7 @@ msgstr "Historique"
 msgid "(Draft)"
 msgstr "Ébauche"
 
-#: views/admin/metaboxes/welcome/history.php:27
+#: views/admin/metaboxes/welcome/history.php:31
 #, php-format
 msgid ""
 "%s&#37; <span class=\"wpmlsuccess\">opened</span> / %s&#37; <span class="
@@ -7345,12 +7465,12 @@ msgid ""
 "span> / %s <span class=\"wpmlneutral\">clicks</span>"
 msgstr ""
 
-#: views/admin/metaboxes/welcome/history.php:38
+#: views/admin/metaboxes/welcome/history.php:42
 #, fuzzy
 msgid "View All Emails"
 msgstr "Voir cette newsletter"
 
-#: views/admin/metaboxes/welcome/history.php:42
+#: views/admin/metaboxes/welcome/history.php:46
 msgid ""
 "Sent emails and saved drafts will be displayed here as soon as you create "
 "them."
@@ -7410,6 +7530,17 @@ msgstr ""
 #, fuzzy
 msgid "Subscribers total to date:"
 msgstr "abonnés au total"
+
+#: views/admin/metaboxes/welcome/unsubscribes.php:2
+#, fuzzy
+msgid "Unsubscribes to date:"
+msgstr "abonnés au total"
+
+#: views/admin/metaboxes/welcome/unsubscribes.php:4
+#: views/admin/subscribers/unsubscribes.php:2
+#, fuzzy
+msgid "Manage Unsubscribes"
+msgstr "Gérer les abonnés"
 
 #: views/admin/metaboxes/write-advanced.php:19
 msgid ""
@@ -7579,7 +7710,7 @@ msgstr "Confirmez-vous la suppression de la commande ?"
 msgid "View Order"
 msgstr "Voir la commande :"
 
-#: views/admin/orders/loop.php:134 views/admin/subscribers/loop.php:202
+#: views/admin/orders/loop.php:134 views/admin/subscribers/loop.php:212
 msgid "View the details of this subscriber"
 msgstr "Voir les détails de l'abonné"
 
@@ -7673,13 +7804,14 @@ msgstr "Date & heure actuelle"
 msgid "Next schedule event"
 msgstr "Prochain envoi programmé"
 
-#: views/admin/queues/index.php:25 views/admin/settings-cronschedules.php:31
-#: views/admin/settings-cronschedules.php:49
-#: views/admin/settings-cronschedules.php:67
-#: views/admin/settings-cronschedules.php:93
-#: views/admin/settings-cronschedules.php:107
-#: views/admin/settings-cronschedules.php:123
-#: views/admin/settings-cronschedules.php:139
+#: views/admin/queues/index.php:25 views/admin/settings-cronschedules.php:41
+#: views/admin/settings-cronschedules.php:59
+#: views/admin/settings-cronschedules.php:77
+#: views/admin/settings-cronschedules.php:103
+#: views/admin/settings-cronschedules.php:117
+#: views/admin/settings-cronschedules.php:134
+#: views/admin/settings-cronschedules.php:151
+#: views/admin/settings-cronschedules.php:166
 msgid "Run Now"
 msgstr "Exécuter maintenant"
 
@@ -7729,6 +7861,21 @@ msgstr "Plus récent au plus ancien"
 msgid "Old to New"
 msgstr "Plus ancien au plus récent"
 
+#: views/admin/queues/index.php:103 views/admin/subscribers/index.php:30
+#, fuzzy
+msgid "Filters:"
+msgstr "Fichier"
+
+#: views/admin/queues/index.php:105
+#, fuzzy
+msgid "All History Emails"
+msgstr "Historique"
+
+#: views/admin/queues/index.php:113
+#, fuzzy
+msgid "All Themes"
+msgstr "Thèmes"
+
 #: views/admin/queues/loop.php:5
 msgid "Clear the email queue"
 msgstr "Vider la liste d'attente"
@@ -7742,7 +7889,7 @@ msgid "Clear Queue"
 msgstr "Vider la liste d'attente"
 
 #: views/admin/queues/loop.php:40 views/admin/queues/loop.php:92
-#: views/admin/subscribers/loop.php:77 views/admin/subscribers/loop.php:144
+#: views/admin/subscribers/loop.php:87 views/admin/subscribers/loop.php:154
 msgid "Image"
 msgstr ""
 
@@ -7760,7 +7907,7 @@ msgstr "Aucun message automatique spécifié"
 msgid "View this subscriber"
 msgstr "Aperçu de l'abonné"
 
-#: views/admin/queues/loop.php:169
+#: views/admin/queues/loop.php:170
 #, fuzzy
 msgid "Are you sure you want to delete this queued email?"
 msgstr "Confirmez-vous la suppression de l'e-mail ?"
@@ -7816,7 +7963,7 @@ msgid "emails have been sent out."
 msgstr "Les emails ont été envoyés"
 
 #: views/admin/send-post.php:27 views/admin/send-post.php:124
-#: wp-mailinglist.php:2745
+#: wp-mailinglist.php:2908
 #, fuzzy
 msgid "emails have been queued."
 msgstr "Les emails ont été envoyés"
@@ -7902,55 +8049,55 @@ msgstr "Aucun abonné disponible."
 msgid "Edit Newsletter"
 msgstr "Envoyer la newsletter"
 
-#: views/admin/send.php:44
+#: views/admin/send.php:46
 msgid "Permalink:"
 msgstr ""
 
-#: views/admin/send.php:46
+#: views/admin/send.php:48
 #, fuzzy
 msgid "View Newsletter"
 msgstr "Envoyer la newsletter"
 
-#: views/admin/send.php:48
+#: views/admin/send.php:50
 #, fuzzy
 msgid "Get Link"
 msgstr "Liens utiles"
 
-#: views/admin/send.php:73
+#: views/admin/send.php:75
 #, fuzzy
 msgid "words and"
 msgstr "mot de passe"
 
-#: views/admin/send.php:93 views/admin/templates/save.php:41
+#: views/admin/send.php:95 views/admin/templates/save.php:41
 #, fuzzy
 msgid "Word Count:"
 msgstr "Mots total"
 
-#: views/admin/send.php:110
+#: views/admin/send.php:112
 msgid "Add Content Area"
 msgstr ""
 
-#: views/admin/send.php:124 wp-mailinglist-plugin.php:1362
+#: views/admin/send.php:126 wp-mailinglist-plugin.php:1427
 #, php-format
 msgid "Content Area %s"
 msgstr ""
 
-#: views/admin/send.php:145
+#: views/admin/send.php:147
 #, php-format
 msgid "Use shortcode %s to display this content"
 msgstr ""
 
-#: views/admin/send.php:155 views/admin/send.php:227
+#: views/admin/send.php:157 views/admin/send.php:229
 #, fuzzy
 msgid "Are you sure you want to remove this content area?"
 msgstr "Êtes-vous certain de supprimer la pièce jointe ?"
 
-#: views/admin/send.php:212
+#: views/admin/send.php:214
 #, fuzzy
 msgid "Content Area"
 msgstr "Champs multiligne"
 
-#: views/admin/settings-cronschedules.php:7
+#: views/admin/settings-cronschedules.php:17
 msgid ""
 "These are scheduled tasks which are automatically run using the WordPress "
 "cron."
@@ -7958,102 +8105,112 @@ msgstr ""
 "Certaines tâches programmées sont automatiquement exécutées par le cron "
 "Wordpress."
 
-#: views/admin/settings-cronschedules.php:8
+#: views/admin/settings-cronschedules.php:18
 msgid "The current server time is:"
 msgstr "Heure actuelle du serveur :"
 
-#: views/admin/settings-cronschedules.php:14
-#: views/admin/settings-cronschedules.php:20
+#: views/admin/settings-cronschedules.php:24
+#: views/admin/settings-cronschedules.php:30
 msgid "Schedule Task"
 msgstr "Tâche planifiée"
 
-#: views/admin/settings-cronschedules.php:15
-#: views/admin/settings-cronschedules.php:21
+#: views/admin/settings-cronschedules.php:25
+#: views/admin/settings-cronschedules.php:31
 msgid "Next Scheduled Run"
 msgstr "Prochain envoi programmé"
 
-#: views/admin/settings-cronschedules.php:29
+#: views/admin/settings-cronschedules.php:39
 msgid "emails in the queue"
 msgstr "e-mails en attente"
 
-#: views/admin/settings-cronschedules.php:31
-#: views/admin/settings-cronschedules.php:49
-#: views/admin/settings-cronschedules.php:67
-#: views/admin/settings-cronschedules.php:93
-#: views/admin/settings-cronschedules.php:107
-#: views/admin/settings-cronschedules.php:123
-#: views/admin/settings-cronschedules.php:139
+#: views/admin/settings-cronschedules.php:41
+#: views/admin/settings-cronschedules.php:59
+#: views/admin/settings-cronschedules.php:77
+#: views/admin/settings-cronschedules.php:103
+#: views/admin/settings-cronschedules.php:117
+#: views/admin/settings-cronschedules.php:134
+#: views/admin/settings-cronschedules.php:151
+#: views/admin/settings-cronschedules.php:166
 msgid ""
 "Are you sure you want to execute this task right now? It may take a while to "
 "execute, please do not refresh or close this window."
 msgstr ""
 
-#: views/admin/settings-cronschedules.php:32
-#: views/admin/settings-cronschedules.php:50
-#: views/admin/settings-cronschedules.php:68
-#: views/admin/settings-cronschedules.php:94
-#: views/admin/settings-cronschedules.php:108
-#: views/admin/settings-cronschedules.php:124
-#: views/admin/settings-cronschedules.php:140
+#: views/admin/settings-cronschedules.php:42
+#: views/admin/settings-cronschedules.php:60
+#: views/admin/settings-cronschedules.php:78
+#: views/admin/settings-cronschedules.php:104
+#: views/admin/settings-cronschedules.php:118
+#: views/admin/settings-cronschedules.php:135
+#: views/admin/settings-cronschedules.php:152
+#: views/admin/settings-cronschedules.php:167
 msgid "Reschedule"
 msgstr "Replanifier"
 
-#: views/admin/settings-cronschedules.php:32
-#: views/admin/settings-cronschedules.php:50
-#: views/admin/settings-cronschedules.php:68
-#: views/admin/settings-cronschedules.php:94
-#: views/admin/settings-cronschedules.php:108
-#: views/admin/settings-cronschedules.php:124
-#: views/admin/settings-cronschedules.php:140
+#: views/admin/settings-cronschedules.php:42
+#: views/admin/settings-cronschedules.php:60
+#: views/admin/settings-cronschedules.php:78
+#: views/admin/settings-cronschedules.php:104
+#: views/admin/settings-cronschedules.php:118
+#: views/admin/settings-cronschedules.php:135
+#: views/admin/settings-cronschedules.php:152
+#: views/admin/settings-cronschedules.php:167
 msgid "Are you sure you want to reset this schedule?"
 msgstr "Confirmez-vous la suppression de cette planification ?"
 
-#: views/admin/settings-cronschedules.php:33
-#: views/admin/settings-cronschedules.php:51
-#: views/admin/settings-cronschedules.php:69
-#: views/admin/settings-cronschedules.php:95
-#: views/admin/settings-cronschedules.php:109
-#: views/admin/settings-cronschedules.php:125
-#: views/admin/settings-cronschedules.php:141
+#: views/admin/settings-cronschedules.php:43
+#: views/admin/settings-cronschedules.php:61
+#: views/admin/settings-cronschedules.php:79
+#: views/admin/settings-cronschedules.php:105
+#: views/admin/settings-cronschedules.php:119
+#: views/admin/settings-cronschedules.php:136
+#: views/admin/settings-cronschedules.php:153
+#: views/admin/settings-cronschedules.php:168
 msgid "Stop Schedule"
 msgstr "Arrêter l'envoi programmé"
 
-#: views/admin/settings-cronschedules.php:33
-#: views/admin/settings-cronschedules.php:51
-#: views/admin/settings-cronschedules.php:69
-#: views/admin/settings-cronschedules.php:95
-#: views/admin/settings-cronschedules.php:109
-#: views/admin/settings-cronschedules.php:125
-#: views/admin/settings-cronschedules.php:141
+#: views/admin/settings-cronschedules.php:43
+#: views/admin/settings-cronschedules.php:61
+#: views/admin/settings-cronschedules.php:79
+#: views/admin/settings-cronschedules.php:105
+#: views/admin/settings-cronschedules.php:119
+#: views/admin/settings-cronschedules.php:136
+#: views/admin/settings-cronschedules.php:153
+#: views/admin/settings-cronschedules.php:168
 msgid "Are you sure you wish to clear this scheduled task?"
 msgstr "Confirmez-vous la suppression de cette tâche planifiée ?"
 
-#: views/admin/settings-cronschedules.php:40
+#: views/admin/settings-cronschedules.php:50
 msgid "Server cron is currently being used so it is dependent on your server."
 msgstr ""
 
-#: views/admin/settings-cronschedules.php:47
+#: views/admin/settings-cronschedules.php:57
 msgid "POP3 Bounce Check"
 msgstr ""
 
-#: views/admin/settings-cronschedules.php:58
+#: views/admin/settings-cronschedules.php:68
 msgid "POP3 bounce handling is turned OFF."
 msgstr ""
 
-#: views/admin/settings-cronschedules.php:76
+#: views/admin/settings-cronschedules.php:86
 msgid "Latest posts subscription is turned OFF."
 msgstr "L'abonnement aux derniers articles est désactivé."
 
-#: views/admin/settings-cronschedules.php:91
+#: views/admin/settings-cronschedules.php:101
 msgid "future autoresponder emails waiting"
 msgstr "futurs messages automatiques en attente"
 
-#: views/admin/settings-cronschedules.php:121
+#: views/admin/settings-cronschedules.php:131
+#, fuzzy, php-format
+msgid "%s emails sent"
+msgstr "E-mails envoyés"
+
+#: views/admin/settings-cronschedules.php:149
 #, fuzzy
 msgid "Inactive Subscriptions Action"
 msgstr "Abonnements inactifs seulements"
 
-#: views/admin/settings-cronschedules.php:137
+#: views/admin/settings-cronschedules.php:164
 msgid "Really Simple Captcha cleanup"
 msgstr ""
 
@@ -8061,7 +8218,7 @@ msgstr ""
 msgid "General"
 msgstr ""
 
-#: views/admin/settings-navigation.php:5 wp-mailinglist.php:2026
+#: views/admin/settings-navigation.php:5 wp-mailinglist.php:2149
 msgid "System"
 msgstr ""
 
@@ -8082,7 +8239,7 @@ msgstr ""
 msgid "downloads section"
 msgstr "Section des téléchargements"
 
-#: views/admin/settings-submitserial.php:15 wp-mailinglist.php:1787
+#: views/admin/settings-submitserial.php:15 wp-mailinglist.php:1908
 msgid "Serial Key"
 msgstr "Clé d'activation"
 
@@ -8312,10 +8469,6 @@ msgstr ""
 msgid "Optional, <code>list</code> parameter to specify the mailing list ID"
 msgstr ""
 
-#: views/admin/setvariables.php:160
-msgid "Custom"
-msgstr "Personnalisé"
-
 #: views/admin/setvariables.php:170
 msgid "What is the ID of the post you want to insert?"
 msgstr ""
@@ -8412,11 +8565,6 @@ msgstr "Créer un nouvelle abonné"
 msgid "Search Subscribers"
 msgstr "Rechercher un abonné"
 
-#: views/admin/subscribers/index.php:30
-#, fuzzy
-msgid "Filters:"
-msgstr "Fichier"
-
 #: views/admin/subscribers/index.php:32
 #, fuzzy
 msgid "All Mailing Lists"
@@ -8452,69 +8600,70 @@ msgstr "Identifiant enregistré"
 msgid "Not Registered"
 msgstr "Utilisateur WP"
 
-#: views/admin/subscribers/loop.php:2
+#: views/admin/subscribers/loop.php:8
 msgid ""
 "Are you sure you wish to execute this action on the selected subscribers?"
 msgstr ""
 "Confirmez-vous l'exécution de cette action pour les abonnés sélectionnés ?"
 
-#: views/admin/subscribers/loop.php:6
+#: views/admin/subscribers/loop.php:12
 msgid "Check for bounced emails"
 msgstr "Vérifier les e-mails en erreur"
 
-#: views/admin/subscribers/loop.php:6
+#: views/admin/subscribers/loop.php:12
 #, fuzzy
 msgid "Are you sure you wish to check your POP3 mailbox for bounced emails?"
 msgstr ""
 "Confirmez-vous la vérification de votre messagerie POP/IMAP pour les e-mails "
 "en erreur ?"
 
-#: views/admin/subscribers/loop.php:6
+#: views/admin/subscribers/loop.php:12
 msgid "Check Bounced Emails"
 msgstr "Vérifier les e-mails en erreur"
 
-#: views/admin/subscribers/loop.php:7
+#: views/admin/subscribers/loop.php:15
 #, fuzzy
 msgid "Check Expired"
 msgstr "Inverser"
 
-#: views/admin/subscribers/loop.php:12
+#: views/admin/subscribers/loop.php:22
 #, fuzzy
 msgid "Mandatory Status"
 msgstr "Statut de l'export"
 
-#: views/admin/subscribers/loop.php:13
+#: views/admin/subscribers/loop.php:23
 #, fuzzy
 msgid "Set as Mandatory"
 msgstr "Par défaut"
 
-#: views/admin/subscribers/loop.php:14
+#: views/admin/subscribers/loop.php:24
 msgid "Set as not Mandatory"
 msgstr ""
 
-#: views/admin/subscribers/loop.php:21
+#: views/admin/subscribers/loop.php:31
 msgid "Assign Lists (appends)"
 msgstr ""
 
-#: views/admin/subscribers/loop.php:22
+#: views/admin/subscribers/loop.php:32
 msgid "Set Lists (overwrites)"
 msgstr ""
 
-#: views/admin/subscribers/loop.php:90 views/admin/subscribers/loop.php:155
+#: views/admin/subscribers/loop.php:100 views/admin/subscribers/loop.php:165
 #: views/admin/subscribers/view.php:121
 msgid "Registered"
 msgstr "Utilisateur WP"
 
-#: views/admin/subscribers/loop.php:99 views/admin/subscribers/loop.php:163
+#: views/admin/subscribers/loop.php:109 views/admin/subscribers/loop.php:173
 #: views/admin/subscribers/screen-options.php:10
 msgid "Mandatory"
 msgstr ""
 
-#: views/admin/subscribers/loop.php:205
+#: views/admin/subscribers/loop.php:215
+#: views/admin/subscribers/unsubscribes.php:143
 msgid "Are you sure you want to delete this subscriber?"
 msgstr "Confirmez-vous la suppression du l'abonné ?"
 
-#: views/admin/subscribers/loop.php:281
+#: views/admin/subscribers/loop.php:291
 msgid "No subscribers were found"
 msgstr "Aucun abonné"
 
@@ -8544,12 +8693,28 @@ msgstr ""
 msgid "All ticked/checked subscriptions are activated immediately."
 msgstr "Tous les abonnements sélectionnés sont activés immédiatement."
 
+#: views/admin/subscribers/save.php:35
+#, fuzzy
+msgid "Prevent Autoresponders?"
+msgstr "Sauvegarder"
+
 #: views/admin/subscribers/save.php:36
+msgid ""
+"Tick this box to prevent the automatic creation of autoresponder emails as "
+"you save this subscriber."
+msgstr ""
+
+#: views/admin/subscribers/save.php:38
+#, fuzzy
+msgid "Yes, prevent creation of autoresponders"
+msgstr "Sauvegarder"
+
+#: views/admin/subscribers/save.php:43
 #, fuzzy
 msgid "Register as WordPress user?"
 msgstr "Enregistrer en tant qu'utilisateur Wordpress"
 
-#: views/admin/subscribers/save.php:37
+#: views/admin/subscribers/save.php:44
 msgid ""
 "Would you like to register this subscriber as a WordPress user? The "
 "subscribers are separate from WordPress users at all times and is not the "
@@ -8557,15 +8722,15 @@ msgid ""
 "WordPress."
 msgstr ""
 
-#: views/admin/subscribers/save.php:52
+#: views/admin/subscribers/save.php:59
 msgid "Wordpress Username"
 msgstr "Identifiant Wordpress"
 
-#: views/admin/subscribers/save.php:62 views/admin/subscribers/view.php:117
+#: views/admin/subscribers/save.php:69 views/admin/subscribers/view.php:117
 msgid "Email Format"
 msgstr "Format de message"
 
-#: views/admin/subscribers/save.php:63
+#: views/admin/subscribers/save.php:70
 msgid ""
 "The preferred email format that this subscriber wants to receive. Available "
 "formats are HTML and PLAIN TEXT. If you are going to send multi-mime emails, "
@@ -8573,15 +8738,15 @@ msgid ""
 "will automatically decide."
 msgstr ""
 
-#: views/admin/subscribers/save.php:65 views/admin/subscribers/view.php:118
+#: views/admin/subscribers/save.php:72 views/admin/subscribers/view.php:118
 msgid "Html"
 msgstr "Html"
 
-#: views/admin/subscribers/save.php:65 views/admin/subscribers/view.php:118
+#: views/admin/subscribers/save.php:72 views/admin/subscribers/view.php:118
 msgid "Text"
 msgstr "Texte"
 
-#: views/admin/subscribers/save.php:68
+#: views/admin/subscribers/save.php:75
 msgid ""
 "it is recommended that you use HTML format and turn on multi-part emails "
 "under Newsletters > Configuration for compatibility."
@@ -8589,42 +8754,42 @@ msgstr ""
 "Il est conseillé d'utiliser le format HTML et d'activer dans les paramètres "
 "de configuration l'envoi au format MIME."
 
-#: views/admin/subscribers/save.php:93
+#: views/admin/subscribers/save.php:100
 msgid "show/hide"
 msgstr "montrer/cacher"
 
-#: views/admin/subscribers/save.php:94
+#: views/admin/subscribers/save.php:101
 msgid ""
 "Click \"show/hide\" to display the available custom fields and fill in "
 "values for the custom fields for this subscriber."
 msgstr ""
 
-#: views/admin/subscribers/save.php:113
+#: views/admin/subscribers/save.php:120
 msgid "Mandatory?"
 msgstr ""
 
-#: views/admin/subscribers/save.php:114
+#: views/admin/subscribers/save.php:121
 msgid ""
 "A mandatory subscriber is a subscriber that must be subscribed and stay "
 "subscribed and cannot unsubscribe. This could be a client or a site "
 "administrator that must always be subscribed."
 msgstr ""
 
-#: views/admin/subscribers/save.php:118
+#: views/admin/subscribers/save.php:125
 #, fuzzy
 msgid "A mandatory subscriber cannot unsubscribe"
 msgstr "Ces abonnés sont maintenant actifs"
 
-#: views/admin/subscribers/save.php:125
+#: views/admin/subscribers/save.php:132
 msgid "Save Subscriber"
 msgstr "Sauvegarder"
 
-#: views/admin/subscribers/save.php:132
+#: views/admin/subscribers/save.php:142
 #, fuzzy
 msgid "Enter email address here"
 msgstr "L'adresse email est"
 
-#: views/admin/subscribers/save.php:133
+#: views/admin/subscribers/save.php:143
 msgid "Enter username here"
 msgstr ""
 
@@ -8636,10 +8801,79 @@ msgstr "Aperçu écran"
 msgid "Gravatars"
 msgstr ""
 
-#: views/admin/subscribers/unsubscribes.php:2
+#: views/admin/subscribers/unsubscribes.php:4
 #, fuzzy
-msgid "Manage Unsubscribes"
-msgstr "Gérer les abonnés"
+msgid "&larr; Back to Subscribers"
+msgstr "&larr; Tous les abonnés"
+
+#: views/admin/subscribers/unsubscribes.php:9
+#: views/admin/subscribers/unsubscribes.php:198
+#, fuzzy
+msgid "unsubscribes"
+msgstr "Se désinscrire"
+
+#: views/admin/subscribers/unsubscribes.php:19
+#, fuzzy
+msgid "Search Unsubscribes"
+msgstr "Rechercher un abonné"
+
+#: views/admin/subscribers/unsubscribes.php:23
+#, fuzzy
+msgid ""
+"Are you sure you wish to execute this action on the selected unsubscribes?"
+msgstr ""
+"Confirmez-vous l'exécution de cette action pour les abonnés sélectionnés ?"
+
+#: views/admin/subscribers/unsubscribes.php:29
+#, fuzzy
+msgid "Delete Subscribers"
+msgstr "Sélectionner un abonné"
+
+#: views/admin/subscribers/unsubscribes.php:30
+#, fuzzy
+msgid "Delete Users"
+msgstr "Supprimer le brouillon"
+
+#: views/admin/subscribers/unsubscribes.php:58
+#: views/admin/subscribers/unsubscribes.php:97
+msgid "User"
+msgstr ""
+
+#: views/admin/subscribers/unsubscribes.php:64
+#: views/admin/subscribers/unsubscribes.php:103
+#: views/default/unsubscribe-user.php:36 views/default/unsubscribe.php:86
+msgid "Comments"
+msgstr "Commentaires"
+
+#: views/admin/subscribers/unsubscribes.php:141
+#, fuzzy
+msgid "Are you sure you want to delete this unsubscribe?"
+msgstr "Confirmez-vous la suppression du l'abonné ?"
+
+#: views/admin/subscribers/unsubscribes.php:141
+#, fuzzy
+msgid "Delete Unsubscribe"
+msgstr "Se désinscrire"
+
+#: views/admin/subscribers/unsubscribes.php:143
+#, fuzzy
+msgid "Delete Subscriber"
+msgstr "Sélectionner un abonné"
+
+#: views/admin/subscribers/unsubscribes.php:151
+#, fuzzy
+msgid "Are you sure you want to delete this user?"
+msgstr "Confirmez-vous la suppression de la commande ?"
+
+#: views/admin/subscribers/unsubscribes.php:151
+#, fuzzy
+msgid "Delete User"
+msgstr "Supprimer le brouillon"
+
+#: views/admin/subscribers/unsubscribes.php:185
+#, fuzzy
+msgid "No unsubscribes were found"
+msgstr "Aucun abonné"
 
 #: views/admin/subscribers/view.php:5
 #, fuzzy
@@ -8683,7 +8917,7 @@ msgstr ""
 msgid "Registered Username"
 msgstr "Identifiant enregistré"
 
-#: views/admin/subscribers/view.php:150 wp-mailinglist.php:2048
+#: views/admin/subscribers/view.php:150 wp-mailinglist.php:2171
 msgid "Subscription Orders"
 msgstr "Commandes"
 
@@ -8932,7 +9166,7 @@ msgid ""
 "URLs."
 msgstr "Merci de n'utiliser que des URL absolues."
 
-#: views/admin/themes/save-ajax.php:13 wp-mailinglist.php:4413
+#: views/admin/themes/save-ajax.php:13 wp-mailinglist.php:4715
 msgid "Theme has been saved"
 msgstr "Modèle sauvegardé"
 
@@ -9035,7 +9269,7 @@ msgstr ""
 msgid "Save Theme"
 msgstr "Sauvegarder le thème"
 
-#: views/admin/themes/save-ajax.php:229 views/admin/themes/save.php:203
+#: views/admin/themes/save-ajax.php:229 views/admin/themes/save.php:206
 msgid "Enter theme title here"
 msgstr ""
 
@@ -9254,7 +9488,7 @@ msgstr ""
 msgid "Update Automatically"
 msgstr ""
 
-#: views/admin/update.php:14 views/admin/update.php:40 wp-mailinglist.php:305
+#: views/admin/update.php:14 views/admin/update.php:40 wp-mailinglist.php:409
 #, fuzzy
 msgid "Download"
 msgstr "Télécharger le CSV"
@@ -9274,10 +9508,6 @@ msgstr ""
 msgid "Renew Now"
 msgstr "Exécuter maintenant"
 
-#: views/admin/wizard/install.php:2
-msgid "Installation Wizard"
-msgstr ""
-
 #: views/default/activate.php:4
 msgid "Activation Confirmation"
 msgstr "Confirmation d'activation"
@@ -9292,7 +9522,7 @@ msgid "Go back to"
 msgstr "Retour"
 
 #: views/default/feed-newsletters.php:3 wp-mailinglist-widget.php:8
-#: wp-mailinglist.php:2017
+#: wp-mailinglist.php:2140
 msgid "Newsletters"
 msgstr "Newsletters"
 
@@ -9401,7 +9631,7 @@ msgstr "Déconnexion"
 msgid "Current"
 msgstr "Monnaie"
 
-#: views/default/management/index.php:36 wp-mailinglist.php:3480
+#: views/default/management/index.php:36 wp-mailinglist.php:3658
 msgid "Subscribe"
 msgstr "Inscrivez-vous"
 
@@ -9436,8 +9666,8 @@ msgstr ""
 
 #: views/default/management/login-auth.php:6
 #: views/default/management/logout-auth.php:6 views/default/resubscribe.php:6
-#: views/default/unsubscribe.php:20 wp-mailinglist-plugin.php:5285
-#: wp-mailinglist-plugin.php:5800
+#: views/default/unsubscribe.php:20 wp-mailinglist-plugin.php:5406
+#: wp-mailinglist-plugin.php:5948
 msgid "Manage Subscriptions"
 msgstr "Gérer les abonnements"
 
@@ -9478,7 +9708,7 @@ msgid "You can subscribe to our other mailing list(s) as well."
 msgstr "Vous vous êtes inscrit à la newsletter suivante"
 
 #: views/default/management/newsubscriptions.php:26
-#: wp-mailinglist-plugin.php:5897 wp-mailinglist-plugin.php:5921
+#: wp-mailinglist-plugin.php:6045 wp-mailinglist-plugin.php:6069
 #: wp-mailinglist-widget.php:51
 msgid "Subscribe Now"
 msgstr "Inscrivez-vous"
@@ -9492,6 +9722,11 @@ msgstr "Aucun abonnement disponible."
 #, fuzzy
 msgid "Pay Now"
 msgstr "Exécuter maintenant"
+
+#: views/default/post-attachments.php:2
+#, fuzzy
+msgid "Attached Files"
+msgstr "Pièce jointe"
 
 #: views/default/resubscribe.php:4
 #, fuzzy
@@ -9524,10 +9759,6 @@ msgstr "Confirmation de désabonnement"
 #, fuzzy
 msgid "Please confirm that you want to unsubscribe."
 msgstr "Vérifiez votre boîte de réception pour vous confirmer le désabonnement"
-
-#: views/default/unsubscribe-user.php:36 views/default/unsubscribe.php:86
-msgid "Comments"
-msgstr "Commentaires"
 
 #: views/default/unsubscribe-user.php:43 views/default/unsubscribe.php:93
 msgid "Confirm Unsubscribe"
@@ -9652,375 +9883,375 @@ msgid ""
 "key or %s."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:348
+#: wp-mailinglist-plugin.php:402
 #, fuzzy
 msgid "Insert Selected"
 msgstr "Supprimez la sélection"
 
-#: wp-mailinglist-plugin.php:867 wp-mailinglist-plugin.php:922
+#: wp-mailinglist-plugin.php:921 wp-mailinglist-plugin.php:987
 msgid "Success"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:873 wp-mailinglist-plugin.php:927
+#: wp-mailinglist-plugin.php:927 wp-mailinglist-plugin.php:992
 #, fuzzy
 msgid "History email could not be read"
 msgstr "L'historique est indisponible."
 
-#: wp-mailinglist-plugin.php:1023
+#: wp-mailinglist-plugin.php:1088
 #, fuzzy
 msgid "Subscriber was imported."
 msgstr "aucun abonné importé"
 
-#: wp-mailinglist-plugin.php:1030
+#: wp-mailinglist-plugin.php:1095
 #, fuzzy
 msgid "No subscriber data is available."
 msgstr "Aucun abonné disponible."
 
-#: wp-mailinglist-plugin.php:1034
+#: wp-mailinglist-plugin.php:1099
 #, fuzzy
 msgid "Subscriber has previously bounced"
 msgstr "L'abonné a été supprimé"
 
-#: wp-mailinglist-plugin.php:1038
+#: wp-mailinglist-plugin.php:1103
 #, fuzzy
 msgid "Subscriber has previously unsubscribed"
 msgstr "Ces abonnés sont maintenant actifs"
 
-#: wp-mailinglist-plugin.php:1042 wp-mailinglist-plugin.php:1713
-#: wp-mailinglist-plugin.php:1719 wp-mailinglist-plugin.php:2079
-#: wp-mailinglist-plugin.php:2505
+#: wp-mailinglist-plugin.php:1107 wp-mailinglist-plugin.php:1789
+#: wp-mailinglist-plugin.php:1795 wp-mailinglist-plugin.php:2159
+#: wp-mailinglist-plugin.php:2586
 #, fuzzy
 msgid "No data was posted."
 msgstr "Aucune donnée n'a été envoyée"
 
-#: wp-mailinglist-plugin.php:1192
+#: wp-mailinglist-plugin.php:1257
 msgid "Please fill in an email address"
 msgstr "Veuillez renseigner une adresse e-mail"
 
-#: wp-mailinglist-plugin.php:1194
+#: wp-mailinglist-plugin.php:1259
 #, fuzzy
 msgid "Please fill in a subject"
 msgstr "Veuillez renseigner un objet à votre newsletter"
 
-#: wp-mailinglist-plugin.php:1195
+#: wp-mailinglist-plugin.php:1260
 #, fuzzy
 msgid "Please fill in a message"
 msgstr "Ajoutez un message d'erreur"
 
-#: wp-mailinglist-plugin.php:1214
+#: wp-mailinglist-plugin.php:1279
 msgid "Email was successfully sent, your settings are working!"
 msgstr "E-mail envoyé avec succès, vos paramètres fonctionnent."
 
-#: wp-mailinglist-plugin.php:1270 wp-mailinglist-plugin.php:6305
+#: wp-mailinglist-plugin.php:1335 wp-mailinglist-plugin.php:6480
 msgid "There are no emails in the mailbox"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:1273
+#: wp-mailinglist-plugin.php:1338
 #, php-format
 msgid "There are %s emails in the mailbox"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:1314
+#: wp-mailinglist-plugin.php:1379
 msgid "Custom fields order has been successfully saved"
 msgstr "Les champs ont été sauvegardés"
 
-#: wp-mailinglist-plugin.php:1316
+#: wp-mailinglist-plugin.php:1381
 #, fuzzy
 msgid "No fields are available"
 msgstr "Aucun champs personnalisé sélectionné"
 
-#: wp-mailinglist-plugin.php:1319
+#: wp-mailinglist-plugin.php:1384
 #, fuzzy
 msgid "No data posted"
 msgstr "Aucune donnée n'a été envoyée"
 
-#: wp-mailinglist-plugin.php:1346 wp-mailinglist.php:4436
-#: wp-mailinglist.php:4450 wp-mailinglist.php:4464 wp-mailinglist.php:4481
-#: wp-mailinglist.php:4498
+#: wp-mailinglist-plugin.php:1411 wp-mailinglist.php:4743
+#: wp-mailinglist.php:4757 wp-mailinglist.php:4771 wp-mailinglist.php:4788
+#: wp-mailinglist.php:4805
 msgid "No theme was specified"
 msgstr "Aucun thème spécifié"
 
-#: wp-mailinglist-plugin.php:1349
+#: wp-mailinglist-plugin.php:1414
 #, fuzzy
 msgid "No data was specified"
 msgstr "Aucune action spécifiée"
 
-#: wp-mailinglist-plugin.php:1481
+#: wp-mailinglist-plugin.php:1547
 msgid "See Report"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:1487
+#: wp-mailinglist-plugin.php:1553
 msgid "Spam Score Report"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:1488 wp-mailinglist-plugin.php:1493
+#: wp-mailinglist-plugin.php:1554 wp-mailinglist-plugin.php:1559
 #, fuzzy
 msgid "Close Report"
 msgstr "Fermer les modèles"
 
-#: wp-mailinglist-plugin.php:1489
+#: wp-mailinglist-plugin.php:1555
 #, fuzzy
 msgid "Report"
 msgstr "Import"
 
-#: wp-mailinglist-plugin.php:1491
+#: wp-mailinglist-plugin.php:1557
 #, fuzzy
 msgid "RAW Email"
 msgstr "e-mails"
 
-#: wp-mailinglist-plugin.php:1543
+#: wp-mailinglist-plugin.php:1619
 msgid "This is spam!"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:1543
+#: wp-mailinglist-plugin.php:1619
 msgid "This is safe!"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:1604
+#: wp-mailinglist-plugin.php:1680
 #, fuzzy
 msgid "Serial key has been deleted."
 msgstr "Le type de fichier n'a pas été sélectionné"
 
-#: wp-mailinglist-plugin.php:1607 wp-mailinglist.php:2288
+#: wp-mailinglist-plugin.php:1683 wp-mailinglist.php:2413
 #, fuzzy
 msgid "Please fill in a serial key."
 msgstr "Veuillez renseigner une clé d'activation"
 
-#: wp-mailinglist-plugin.php:1611 wp-mailinglist.php:2292
+#: wp-mailinglist-plugin.php:1687 wp-mailinglist.php:2417
 #, fuzzy
 msgid "Serial key is invalid, please try again."
 msgstr "Clé d'activation invalide, veuillez recommencer"
 
-#: wp-mailinglist-plugin.php:1646 wp-mailinglist-plugin.php:1716
+#: wp-mailinglist-plugin.php:1722 wp-mailinglist-plugin.php:1792
 #, fuzzy
 msgid "Subscriber could not be read."
 msgstr "L'abonné n'a pu être enregistré"
 
-#: wp-mailinglist-plugin.php:1689
+#: wp-mailinglist-plugin.php:1765
 #, fuzzy
 msgid "Email address is already in use, try another."
 msgstr "Le format d'email n'a pas été sauvegardé"
 
-#: wp-mailinglist-plugin.php:1710
+#: wp-mailinglist-plugin.php:1786
 #, fuzzy
 msgid "Additional data has been saved."
 msgstr "Message automatique sauvegardé"
 
-#: wp-mailinglist-plugin.php:1919
+#: wp-mailinglist-plugin.php:1995
 msgid "subscribers total"
 msgstr "abonnés au total"
 
-#: wp-mailinglist-plugin.php:1966
+#: wp-mailinglist-plugin.php:2042
 msgid ""
 "Subscription successful, please click the \"Pay Now\" button under current "
 "subscriptions to make a payment and activate your subscription."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:1968
+#: wp-mailinglist-plugin.php:2044
 #, fuzzy
 msgid "Subscription successful and activated."
 msgstr "L'abonnement n'a pas pu être activée"
 
-#: wp-mailinglist-plugin.php:1971
+#: wp-mailinglist-plugin.php:2047
 #, fuzzy
 msgid "Subscription was not successful."
 msgstr "Abonnement bien enregistré"
 
-#: wp-mailinglist-plugin.php:1988 wp-mailinglist.php:1066
+#: wp-mailinglist-plugin.php:2064 wp-mailinglist.php:1186
 #, fuzzy
 msgid "Subscriber cannot be read."
 msgstr "L'abonnée n'a pu être chargé"
 
-#: wp-mailinglist-plugin.php:1991 wp-mailinglist-plugin.php:2076
+#: wp-mailinglist-plugin.php:2067 wp-mailinglist-plugin.php:2156
 #, fuzzy
 msgid "No subscriber/mailing list data posted."
 msgstr "Aucune liste d'envoi spécifiée."
 
-#: wp-mailinglist-plugin.php:2041
+#: wp-mailinglist-plugin.php:2121
 #, fuzzy
 msgid "Subscription removed and subscriber record deleted"
 msgstr "L'abonnement n'a pas pu être activée"
 
-#: wp-mailinglist-plugin.php:2045
+#: wp-mailinglist-plugin.php:2125
 #, fuzzy
 msgid "Subscription has been removed."
 msgstr "L'abonné a été supprimé"
 
-#: wp-mailinglist-plugin.php:2049
+#: wp-mailinglist-plugin.php:2129
 #, fuzzy
 msgid "Subscription could not be removed."
 msgstr "L'abonnement n'a pas pu être activée"
 
-#: wp-mailinglist-plugin.php:2054
+#: wp-mailinglist-plugin.php:2134
 msgid "A confirmation email has been sent through to your email address."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:2061
+#: wp-mailinglist-plugin.php:2141
 #, fuzzy
 msgid "Subscription has been activated."
 msgstr "Votre abonnement a été activé"
 
-#: wp-mailinglist-plugin.php:2065
+#: wp-mailinglist-plugin.php:2145
 #, fuzzy
 msgid "Subscription could not be activated."
 msgstr "L'abonnement n'a pas pu être activée"
 
-#: wp-mailinglist-plugin.php:2070
+#: wp-mailinglist-plugin.php:2150
 msgid "You are logged in as a different subscriber."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:2073
+#: wp-mailinglist-plugin.php:2153
 msgid "You are not currently logged in."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:2207
+#: wp-mailinglist-plugin.php:2287
 msgid "Click here to complete your order"
 msgstr "Cliquer ici pour finaliser votre commande"
 
-#: wp-mailinglist-plugin.php:2253
+#: wp-mailinglist-plugin.php:2333
 msgid ""
 "Thank you for your payment!<br/><br/>Please allow a moment for the "
 "subscription to be activated."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:2287
+#: wp-mailinglist-plugin.php:2367
 #, fuzzy
 msgid "Some data is missing, please try again"
 msgstr "Clé d'activation invalide, veuillez recommencer"
 
-#: wp-mailinglist-plugin.php:2328
+#: wp-mailinglist-plugin.php:2408
 #, fuzzy
 msgid "This email was not sent to any lists."
 msgstr "Vous vous êtes inscrit à la newsletter suivante"
 
-#: wp-mailinglist-plugin.php:2332
+#: wp-mailinglist-plugin.php:2412
 #, fuzzy
 msgid "You are a mandatory subscriber and cannot unsubscribe"
 msgstr "Vous vous êtes inscrit à la newsletter suivante"
 
-#: wp-mailinglist-plugin.php:2335
+#: wp-mailinglist-plugin.php:2415
 #, fuzzy
 msgid "Your subscriber record cannot be read, please try again."
 msgstr "Message automatique sauvegardé, veuillez recommencer."
 
-#: wp-mailinglist-plugin.php:2342
+#: wp-mailinglist-plugin.php:2422
 #, fuzzy
 msgid "User cannot be read"
 msgstr "L'infolettre n'a pu être lue"
 
-#: wp-mailinglist-plugin.php:2345 wp-mailinglist-plugin.php:2423
+#: wp-mailinglist-plugin.php:2425 wp-mailinglist-plugin.php:2504
 #, fuzzy
 msgid "No subscriber or user was specified"
 msgstr "Aucun abonné spécifié"
 
-#: wp-mailinglist-plugin.php:2348
+#: wp-mailinglist-plugin.php:2428
 #, fuzzy
 msgid "No subscriber ID was specified, please try again."
 msgstr "Aucune tâche spécifiée."
 
-#: wp-mailinglist-plugin.php:2413
+#: wp-mailinglist-plugin.php:2494
 msgid "You did not select any list(s) to unsubscribe from."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:2456 wp-mailinglist.php:1063
+#: wp-mailinglist-plugin.php:2537 wp-mailinglist.php:1183
 #, fuzzy
 msgid "Authentication failed, please try again."
 msgstr "Echec du paiement, essayez à nouveau"
 
-#: wp-mailinglist-plugin.php:2459
+#: wp-mailinglist-plugin.php:2540
 #, fuzzy
 msgid "No authentication string passed, please click the link again."
 msgstr "Aucune clé d'authentification spécifiée"
 
-#: wp-mailinglist-plugin.php:2462
+#: wp-mailinglist-plugin.php:2543
 #, fuzzy
 msgid "No email saved, please try again."
 msgstr "Aucun historique spécifié."
 
-#: wp-mailinglist-plugin.php:2488
+#: wp-mailinglist-plugin.php:2569
 msgid "Authentication email has been sent, please check your inbox."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:2490
+#: wp-mailinglist-plugin.php:2571
 #, fuzzy
 msgid "Authentication email could not be sent."
 msgstr "L'historique est indisponible."
 
-#: wp-mailinglist-plugin.php:2493
+#: wp-mailinglist-plugin.php:2574
 #, fuzzy
 msgid "Authentication string could not be created."
 msgstr "Les clés d'authentification ne correspondent pas."
 
-#: wp-mailinglist-plugin.php:2496
+#: wp-mailinglist-plugin.php:2577
 msgid ""
 "Subscriber with that email address cannot be found, please try a different "
 "email address."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:2499
+#: wp-mailinglist-plugin.php:2580
 #, fuzzy
 msgid "Please fill in a valid email address."
 msgstr "Veuillez renseigner une adresse e-mail valide"
 
-#: wp-mailinglist-plugin.php:3931
+#: wp-mailinglist-plugin.php:4047
 #, fuzzy
 msgid "Select File"
 msgstr "Tout sélectionner"
 
-#: wp-mailinglist-plugin.php:3978
+#: wp-mailinglist-plugin.php:4094
 msgid "YYYY"
 msgstr "AAAA"
 
-#: wp-mailinglist-plugin.php:3991
+#: wp-mailinglist-plugin.php:4107
 msgid "MM"
 msgstr "MM"
 
-#: wp-mailinglist-plugin.php:4000
+#: wp-mailinglist-plugin.php:4116
 msgid "DD"
 msgstr "JJ"
 
-#: wp-mailinglist-plugin.php:4030
+#: wp-mailinglist-plugin.php:4146
 #, php-format
 msgid "Maximum file size of <strong>%s</strong>"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:4031
+#: wp-mailinglist-plugin.php:4147
 #, php-format
 msgid "Allowed file types are <strong>%s</strong>"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:4696
+#: wp-mailinglist-plugin.php:4817
 msgid "No feedback was provided by the subscriber."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:4699
+#: wp-mailinglist-plugin.php:4820
 msgid "Comments:"
 msgstr "Commentaires :"
 
-#: wp-mailinglist-plugin.php:4906
+#: wp-mailinglist-plugin.php:5027
 msgid "Sent on"
 msgstr "Envoyé le"
 
-#: wp-mailinglist-plugin.php:5286
+#: wp-mailinglist-plugin.php:5407
 #, fuzzy
 msgid "[newsletters_management]"
 msgstr "L'équipe."
 
-#: wp-mailinglist-plugin.php:5305
+#: wp-mailinglist-plugin.php:5426
 #, php-format
 msgid "Newsletter plugin subscriber management post/page does not exist %s"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:5305
+#: wp-mailinglist-plugin.php:5426
 #, fuzzy
 msgid "please create it now"
 msgstr "Créer une newsletter"
 
-#: wp-mailinglist-plugin.php:5340
+#: wp-mailinglist-plugin.php:5461
 msgid "Newsletter Images (do not remove)"
 msgstr "Images pour la newsletter (NE PAS SUPPRIMER)"
 
-#: wp-mailinglist-plugin.php:5341
+#: wp-mailinglist-plugin.php:5462
 msgid ""
 "This is a placeholder for the Newsletter plugin images. You may edit and "
 "reuse this post but do not remove it."
@@ -10028,93 +10259,93 @@ msgstr ""
 "Cet article contient les images de la Newsletter (gestion automatique). NE "
 "PAS SUPPRIMER CET ARTICLE."
 
-#: wp-mailinglist-plugin.php:5735
+#: wp-mailinglist-plugin.php:5883
 msgid "Authenticate Subscriber Account"
 msgstr ""
 
-#: wp-mailinglist-plugin.php:5742
+#: wp-mailinglist-plugin.php:5890
 msgid "Subscription Successful"
 msgstr "Abonnement bien enregistré"
 
-#: wp-mailinglist-plugin.php:5767
+#: wp-mailinglist-plugin.php:5915
 msgid "username"
 msgstr "identifiant"
 
-#: wp-mailinglist-plugin.php:5768
+#: wp-mailinglist-plugin.php:5916
 msgid "password"
 msgstr "mot de passe"
 
-#: wp-mailinglist-plugin.php:5784 wp-mailinglist-plugin.php:5863
+#: wp-mailinglist-plugin.php:5932 wp-mailinglist-plugin.php:6011
 msgid "Receive news updates via email from this site"
 msgstr "Je m'abonne au Bulletin par e-mail"
 
-#: wp-mailinglist-plugin.php:5791
+#: wp-mailinglist-plugin.php:5939
 #, fuzzy
 msgid "resubscribe"
 msgstr "abonnés"
 
-#: wp-mailinglist-plugin.php:5792
+#: wp-mailinglist-plugin.php:5940
 #, fuzzy
 msgid "Unsubscribe from this newsletter"
 msgstr "Se désinscrire"
 
-#: wp-mailinglist-plugin.php:5793
+#: wp-mailinglist-plugin.php:5941
 #, fuzzy
 msgid "Unsubscribe from all emails"
 msgstr "Se désinscrire"
 
-#: wp-mailinglist-plugin.php:5797
+#: wp-mailinglist-plugin.php:5945
 msgid "Confirm Subscription"
 msgstr "Confirmer l'abonnement"
 
-#: wp-mailinglist-plugin.php:5801
+#: wp-mailinglist-plugin.php:5949
 msgid "View in your browser"
 msgstr "Afficher dans le navigateur"
 
-#: wp-mailinglist-plugin.php:5832
+#: wp-mailinglist-plugin.php:5980
 msgid "You are already subscribed, redirecting to the management page..."
 msgstr ""
 
-#: wp-mailinglist-plugin.php:5841
+#: wp-mailinglist-plugin.php:5989
 msgid "secretstring"
 msgstr "phrase secrète"
 
-#: wp-mailinglist-plugin.php:5867
+#: wp-mailinglist-plugin.php:6015
 #, fuzzy
 msgid "Read more"
 msgstr "lu"
 
-#: wp-mailinglist-plugin.php:5869
+#: wp-mailinglist-plugin.php:6017
 msgid "Latest Posts from"
 msgstr "Derniers articles de"
 
-#: wp-mailinglist-plugin.php:5917
+#: wp-mailinglist-plugin.php:6065
 msgid "Thank you for subscribing."
 msgstr "Merci pour votre abonnement"
 
-#: wp-mailinglist-plugin.php:5918
+#: wp-mailinglist-plugin.php:6066
 msgid "Subscribe to our newsletter."
 msgstr "Se désabonner de notre Bulletin"
 
-#: wp-mailinglist-plugin.php:5935
+#: wp-mailinglist-plugin.php:6083
 msgid "Published"
 msgstr "Publié"
 
-#: wp-mailinglist-plugin.php:5936
+#: wp-mailinglist-plugin.php:6084
 msgid "Pending"
 msgstr "En attente"
 
-#: wp-mailinglist-plugin.php:6077
+#: wp-mailinglist-plugin.php:6239
 #, fuzzy
 msgid "Newsletters Manager"
 msgstr "Newsletters"
 
-#: wp-mailinglist-plugin.php:6555
+#: wp-mailinglist-plugin.php:6731
 #, fuzzy, php-format
 msgid "Rendering of %s has failed!"
 msgstr "Création de"
 
-#: wp-mailinglist-plugin.php:6558
+#: wp-mailinglist-plugin.php:6734
 msgid "No file was specified for rendering"
 msgstr "aucun fichier spécifié pour l'éxécution"
 
@@ -10249,109 +10480,114 @@ msgid ""
 "submissions."
 msgstr ""
 
-#: wp-mailinglist.php:260
+#: wp-mailinglist.php:364
 #, php-format
 msgid ""
-"You have been using Newsletters LITE for %s days or more. Please consider "
-"leaving a %s and say it %s on %s"
+"You have been using %s for %s days or more. Please consider %s it and say it "
+"%s on %s"
 msgstr ""
 
-#: wp-mailinglist.php:260
+#: wp-mailinglist.php:364
 #, fuzzy
-msgid "review"
-msgstr "Aperçu"
+msgid "Tribulant Newsletters"
+msgstr "Fonctionnalités de la Newsletter"
 
-#: wp-mailinglist.php:260
-msgid "works"
+#: wp-mailinglist.php:364
+#, fuzzy
+msgid "Rating"
+msgstr "Sauvegarder les paramètres"
+
+#: wp-mailinglist.php:364
+msgid "Works"
 msgstr ""
 
-#: wp-mailinglist.php:268
+#: wp-mailinglist.php:372
 #, php-format
 msgid "To activate Newsletters PRO, please submit a serial key, else %s"
 msgstr ""
 
-#: wp-mailinglist.php:268
+#: wp-mailinglist.php:372
 #, fuzzy
 msgid "continue using Newsletters LITE"
 msgstr "Confirmer l'envoi"
 
-#: wp-mailinglist.php:292
+#: wp-mailinglist.php:396
 msgid "There are "
 msgstr "Il y a"
 
-#: wp-mailinglist.php:305
+#: wp-mailinglist.php:409
 #, php-format
 msgid "Your export is ready. %s"
 msgstr ""
 
-#: wp-mailinglist.php:315
+#: wp-mailinglist.php:419
 #, fuzzy, php-format
 msgid "Folder named \"%s\" is not writable"
 msgstr "Le dossier \"wp-content/uploads\" n'est pas modifiable en écriture"
 
-#: wp-mailinglist.php:318
+#: wp-mailinglist.php:422
 #, fuzzy, php-format
 msgid "Folder named \"%s\" does not exist"
 msgstr "Le dossier \"wp-content/uploads\" est inexistant"
 
-#: wp-mailinglist.php:327
+#: wp-mailinglist.php:431
 #, php-format
 msgid ""
 "There are %s failed emails in the <a href=\"%s\">queue</a> awaiting review."
 msgstr ""
 
-#: wp-mailinglist.php:456
+#: wp-mailinglist.php:576
 #, fuzzy
 msgid "Export file could not be created"
 msgstr "L'historique est indisponible."
 
-#: wp-mailinglist.php:459
+#: wp-mailinglist.php:579
 #, fuzzy
 msgid "No export file was specified"
 msgstr "Aucun article spécifié"
 
-#: wp-mailinglist.php:462
+#: wp-mailinglist.php:582
 msgid "You do not have permission to access exports"
 msgstr ""
 
-#: wp-mailinglist.php:511
+#: wp-mailinglist.php:631
 msgid "Authentication string does not match."
 msgstr "Les clés d'authentification ne correspondent pas."
 
-#: wp-mailinglist.php:514
+#: wp-mailinglist.php:634
 msgid "No authentication string was specified."
 msgstr "Aucune clé d'authentification spécifiée"
 
-#: wp-mailinglist.php:522
+#: wp-mailinglist.php:642
 msgid "Stock themes have been added"
 msgstr "Des thèmes ont été ajoutés"
 
-#: wp-mailinglist.php:524
+#: wp-mailinglist.php:644
 msgid "Please login as administrator for stock themes to be loaded"
 msgstr "Veuillez vous identifier en tant qu'administrateur"
 
-#: wp-mailinglist.php:542
+#: wp-mailinglist.php:662
 msgid "Newsletter Theme Preview"
 msgstr "Aperçu des thèmes de la newsletter"
 
-#: wp-mailinglist.php:651
+#: wp-mailinglist.php:771
 msgid "Close this window"
 msgstr "Fermer la fenêtre"
 
-#: wp-mailinglist.php:743
+#: wp-mailinglist.php:863
 msgid "Subscription has been activated"
 msgstr "Votre abonnement a été activé"
 
-#: wp-mailinglist.php:758
+#: wp-mailinglist.php:878
 msgid "Subscription is invalid"
 msgstr "L'abonnement n'est pas valide"
 
-#: wp-mailinglist.php:764
+#: wp-mailinglist.php:884
 #, fuzzy
 msgid "Thank you for confirming your subscription."
 msgstr "Merci pour avoir activé votre abonnement"
 
-#: wp-mailinglist.php:770
+#: wp-mailinglist.php:890
 #, php-format
 msgid ""
 "Thank you for confirming your subscription.<br/><br/>Since you subscribed to "
@@ -10359,63 +10595,63 @@ msgid ""
 "and your subscription will then be active."
 msgstr ""
 
-#: wp-mailinglist.php:812
+#: wp-mailinglist.php:932
 msgid "An HTTP error has occurred. PayPal cannot be contacted."
 msgstr "Une erreur HTTP empêche la connexion à Paypal"
 
-#: wp-mailinglist.php:822
+#: wp-mailinglist.php:942
 msgid "The payment has failed. Please try again"
 msgstr "Echec du paiement, essayez à nouveau"
 
-#: wp-mailinglist.php:825
+#: wp-mailinglist.php:945
 msgid "The payment has been denied. This payment could already be pending"
 msgstr "Paiement refusé."
 
-#: wp-mailinglist.php:832
+#: wp-mailinglist.php:952
 msgid ""
 "Thank you for your PayPal subscription. Your payment is currently pending. "
 "Please wait for the merchant to accept it"
 msgstr ""
 
-#: wp-mailinglist.php:843
+#: wp-mailinglist.php:963
 msgid "PayPal subscription has been cancelled"
 msgstr "Abonnement PayPal annulé"
 
-#: wp-mailinglist.php:856
+#: wp-mailinglist.php:976
 msgid "PayPal has marked the transaction as invalid"
 msgstr "Transaction PayPal invalide"
 
-#: wp-mailinglist.php:897 wp-mailinglist.php:981
+#: wp-mailinglist.php:1017 wp-mailinglist.php:1101
 msgid "Payment received and subscription activated"
 msgstr "Paiement reçu. Abonnement activé."
 
-#: wp-mailinglist.php:984
+#: wp-mailinglist.php:1104
 msgid "Hash encryption failed! Please contact us"
 msgstr "Chiffrement (encryption) non réussie. Contactez-nous"
 
-#: wp-mailinglist.php:988
+#: wp-mailinglist.php:1108
 #, fuzzy
 msgid "Credit card could not be processed, please try again."
 msgstr "La transaction avec la carte de crédit a échoué"
 
-#: wp-mailinglist.php:1069
+#: wp-mailinglist.php:1189
 msgid "Newsletter cannot be read"
 msgstr "L'infolettre n'a pu être lue"
 
-#: wp-mailinglist.php:1072
+#: wp-mailinglist.php:1192
 msgid "No newsletter was specified"
 msgstr "Aucune infolettre spécifiée"
 
-#: wp-mailinglist.php:1150
+#: wp-mailinglist.php:1271
 #, fuzzy
 msgid "Newsletters Overview"
 msgstr "Aperçu des thèmes de la newsletter"
 
-#: wp-mailinglist.php:1172
+#: wp-mailinglist.php:1293
 msgid "Send as Newsletter"
 msgstr "Envoyer en tant que newsletter"
 
-#: wp-mailinglist.php:1172
+#: wp-mailinglist.php:1293
 msgid ""
 "Use this box to send a post, page or custom post type as a newsletter to "
 "your subscribers. You can choose the list(s) to send to, the theme to use, "
@@ -10424,204 +10660,209 @@ msgid ""
 "saved."
 msgstr ""
 
-#: wp-mailinglist.php:1397
+#: wp-mailinglist.php:1518
 msgid ""
 "No posts with the specified criteria could be found. Are there new posts "
 "available to be sent?"
 msgstr ""
 
-#: wp-mailinglist.php:1400
+#: wp-mailinglist.php:1521
 #, fuzzy
 msgid "Latest post subscription is turned off at this time."
 msgstr "L'abonnement aux derniers articles est désactivé."
 
-#: wp-mailinglist.php:1403
+#: wp-mailinglist.php:1524
 msgid "emails were sent/queued."
 msgstr "newsletters envoyées/mises en attente"
 
-#: wp-mailinglist.php:1479
+#: wp-mailinglist.php:1600
 msgid "users were imported as subscribers."
 msgstr "utilisateurs ont été importés en tant qu'abonnés."
 
-#: wp-mailinglist.php:1563
+#: wp-mailinglist.php:1684
 #, fuzzy
 msgid "autoresponder emails have been sent out."
 msgstr "les emails en attente ont été envoyés"
 
-#: wp-mailinglist.php:1589
+#: wp-mailinglist.php:1710
 msgid "No emails sent out. Cron is already running, please wait a while"
 msgstr ""
 
-#: wp-mailinglist.php:1590
+#: wp-mailinglist.php:1711
 msgid "Reset Transient"
 msgstr ""
 
-#: wp-mailinglist.php:1723
+#: wp-mailinglist.php:1844
 #, fuzzy
 msgid "queued emails have been sent out"
 msgstr "les emails en attente ont été envoyés"
 
-#: wp-mailinglist.php:1746
+#: wp-mailinglist.php:1867
 msgid "Every 2 Minutes"
 msgstr "Toutes les 2 minutes"
 
-#: wp-mailinglist.php:1747
+#: wp-mailinglist.php:1868
 msgid "Every 5 Minutes"
 msgstr "Chaque 5 minutes"
 
-#: wp-mailinglist.php:1748
+#: wp-mailinglist.php:1869
 msgid "Every 10 Minutes"
 msgstr "Chaque 10 minutes"
 
-#: wp-mailinglist.php:1749
+#: wp-mailinglist.php:1870
 msgid "Every 20 Minutes"
 msgstr "Chaque 20 minutes"
 
-#: wp-mailinglist.php:1750
+#: wp-mailinglist.php:1871
 msgid "Every 30 Minutes"
 msgstr "Chaque 30 minutes"
 
-#: wp-mailinglist.php:1751
+#: wp-mailinglist.php:1872
 msgid "Every 40 Minutes"
 msgstr "Chaque 40 minutes"
 
-#: wp-mailinglist.php:1752
+#: wp-mailinglist.php:1873
 msgid "Every 50 minutes"
 msgstr "Chaque 50 minutes"
 
-#: wp-mailinglist.php:1753
+#: wp-mailinglist.php:1874
 msgid "Once Weekly"
 msgstr "Hebdomadaire"
 
-#: wp-mailinglist.php:1754
+#: wp-mailinglist.php:1875
 msgid "Once Monthly"
 msgstr "Mensuel"
 
-#: wp-mailinglist.php:1887
+#: wp-mailinglist.php:2010
 #, fuzzy
 msgid "read more"
 msgstr "lu"
 
-#: wp-mailinglist.php:2023
+#: wp-mailinglist.php:2146
 msgid "Configuration"
 msgstr "Configuration"
 
-#: wp-mailinglist.php:2033
+#: wp-mailinglist.php:2156
 msgid "Links &amp; Clicks"
 msgstr ""
 
-#: wp-mailinglist.php:2046
+#: wp-mailinglist.php:2169
 #, fuzzy
 msgid "Save an Email Snippet"
 msgstr "Sauvegarder la liste"
 
-#: wp-mailinglist.php:2094
+#: wp-mailinglist.php:2217
 msgid "Quick Search"
 msgstr ""
 
-#: wp-mailinglist.php:2094
+#: wp-mailinglist.php:2217
 msgid "Quick search"
 msgstr ""
 
-#: wp-mailinglist.php:2095
+#: wp-mailinglist.php:2218
 #, fuzzy
 msgid "Total Subscribers"
 msgstr "Exporter les abonnés"
 
-#: wp-mailinglist.php:2095
+#: wp-mailinglist.php:2218
 msgid ""
 "This is the total number of subscribers in the database. In other words, "
 "email addresses. Each subscriber could have multiple subscriptions to "
 "different lists or no subscriptions at all for that matter."
 msgstr ""
 
-#: wp-mailinglist.php:2096
+#: wp-mailinglist.php:2219
 #, fuzzy
 msgid "Total Mailing Lists"
 msgstr "Listes d'envois"
 
-#: wp-mailinglist.php:2096
+#: wp-mailinglist.php:2219
 msgid ""
 "The total mailing lists that you have in use. Each list can have a purpose "
 "of its own, make use of lists to organize and power your subscribers."
 msgstr ""
 
-#: wp-mailinglist.php:2097
+#: wp-mailinglist.php:2220
 #, fuzzy
 msgid "Total Emails"
 msgstr "E-mail test"
 
-#: wp-mailinglist.php:2097
+#: wp-mailinglist.php:2220
 msgid ""
 "The total number of emails sent to date since the plugin was installed until "
 "now."
 msgstr ""
 
-#: wp-mailinglist.php:2098
+#: wp-mailinglist.php:2221
 #, fuzzy
 msgid "Bounced Emails"
 msgstr "Vérifier les e-mails en erreur"
 
-#: wp-mailinglist.php:2098
+#: wp-mailinglist.php:2221
 msgid "The total number of bounces to date."
 msgstr ""
 
-#: wp-mailinglist.php:2099
+#: wp-mailinglist.php:2222
+#, fuzzy
+msgid "Total unsubscribes to date."
+msgstr "Exporter les abonnés"
+
+#: wp-mailinglist.php:2223
 msgid "Statistics Overview"
 msgstr ""
 
-#: wp-mailinglist.php:2099
+#: wp-mailinglist.php:2223
 msgid ""
 "This chart shows an overview of subscribers, emails sent, unsubscribes, "
 "bounces, etc in a visual manner."
 msgstr ""
 
-#: wp-mailinglist.php:2100
+#: wp-mailinglist.php:2224
 #, fuzzy
 msgid "Recent Emails"
 msgstr "E-mail test"
 
-#: wp-mailinglist.php:2100
+#: wp-mailinglist.php:2224
 msgid "This is a quick overview of your 5 latest newsletters."
 msgstr ""
 
-#: wp-mailinglist.php:2117
+#: wp-mailinglist.php:2241
 msgid ""
 "Tick/check the group(s) or list(s) that you want to send/queue this "
 "newsletter to. The newsletter will only be sent to active subscriptions in "
 "the chosen list(s)."
 msgstr ""
 
-#: wp-mailinglist.php:2118
+#: wp-mailinglist.php:2242
 #, fuzzy
 msgid "Insert into Newsletter"
 msgstr "Envoyer la newsletter"
 
-#: wp-mailinglist.php:2118
+#: wp-mailinglist.php:2242
 msgid ""
 "Use this box to insert various things into your newsletter such as posts, "
 "snippets, custom fields and post thumbnails."
 msgstr ""
 
-#: wp-mailinglist.php:2119
+#: wp-mailinglist.php:2243
 msgid ""
 "Choose the theme that you want to use for this newsletter. The content "
 "filled into the TinyMCE editor to the left will be inserted into the theme "
 "where it has the [wpmlcontent] tag inside it."
 msgstr ""
 
-#: wp-mailinglist.php:2124
+#: wp-mailinglist.php:2248
 msgid ""
 "Specify the TEXT version of multipart emails which will be seen by users who "
 "prefer text or have HTML turned off."
 msgstr ""
 
-#: wp-mailinglist.php:2129
+#: wp-mailinglist.php:2253
 #, fuzzy
 msgid "Live Preview"
 msgstr "Aperçu"
 
-#: wp-mailinglist.php:2129
+#: wp-mailinglist.php:2253
 msgid ""
 "The preview section below shows a preview of what the newsletter will look "
 "like with the theme, content and other elements. It updates automatically "
@@ -10630,11 +10871,11 @@ msgid ""
 "clients render emails differently than browsers."
 msgstr ""
 
-#: wp-mailinglist.php:2132
+#: wp-mailinglist.php:2256
 msgid "Variables &amp; Custom Fields"
 msgstr "Variables et champs personnalisés"
 
-#: wp-mailinglist.php:2132
+#: wp-mailinglist.php:2256
 msgid ""
 "These are shortcodes which can be used inside of the newsletter theme or "
 "content where needed and as many of them as needed. The shortcodes will be "
@@ -10642,67 +10883,67 @@ msgid ""
 "can use this to personalize your newsletters to your subscribers easily."
 msgstr ""
 
-#: wp-mailinglist.php:2133
+#: wp-mailinglist.php:2257
 msgid "Email Attachment"
 msgstr "Pièce jointe"
 
-#: wp-mailinglist.php:2133
+#: wp-mailinglist.php:2257
 msgid ""
 "Attach files to your newsletter. It is possible to attach multiple files of "
 "any filetype and size to newsletters which will be sent to the subscribers. "
 "Try to keep attachments small to prevent emails from becoming too large."
 msgstr ""
 
-#: wp-mailinglist.php:2134
+#: wp-mailinglist.php:2258
 msgid ""
 "When you queue/send this newsletter you can publish it as a post on your "
 "website. Configure these settings to publish this newsletter as a post "
 "according to your needs."
 msgstr ""
 
-#: wp-mailinglist.php:2156 wp-mailinglist.php:2183 wp-mailinglist.php:2206
-#: wp-mailinglist.php:2231
+#: wp-mailinglist.php:2280 wp-mailinglist.php:2308 wp-mailinglist.php:2331
+#: wp-mailinglist.php:2356
 msgid "Configuration Settings"
 msgstr "Paramètres de configuration"
 
-#: wp-mailinglist.php:2157 wp-mailinglist.php:2184 wp-mailinglist.php:2207
-#: wp-mailinglist.php:2232
+#: wp-mailinglist.php:2281 wp-mailinglist.php:2309 wp-mailinglist.php:2332
+#: wp-mailinglist.php:2357
 #, fuzzy
 msgid "Quick Links"
 msgstr "Liens utiles"
 
-#: wp-mailinglist.php:2158
+#: wp-mailinglist.php:2282
 msgid ""
 "These are general settings related to the sending of emails such as your "
 "email server. You can also turn on/off other features here such as read "
 "tracking, click tracking and more."
 msgstr ""
 
-#: wp-mailinglist.php:2160
+#: wp-mailinglist.php:2284
 msgid ""
 "Global subscribe form settings for hardcoded and shortcode (post/page) "
 "subscribe forms."
 msgstr ""
 
-#: wp-mailinglist.php:2162
+#: wp-mailinglist.php:2286
 msgid ""
 "If you are using PayPal as your payment method for paid subscriptions you "
 "can configure it here."
 msgstr ""
 
-#: wp-mailinglist.php:2163
+#: wp-mailinglist.php:2287
 msgid ""
 "Configure 2CheckOut (2CO) here if you are using it as your payment method "
 "for paid subscriptions."
 msgstr ""
 
-#: wp-mailinglist.php:2164
+#: wp-mailinglist.php:2288
 msgid ""
 "These are settings related to posts in general. For publishing newsletters "
 "as posts and also inserting posts into newsletters."
 msgstr ""
 
-#: wp-mailinglist.php:2165
+#: wp-mailinglist.php:2289
 msgid ""
 "The purpose of email scheduling is to allow you to send thousands of emails "
 "in a load distributed way. Please take note that you cannot expect your "
@@ -10710,61 +10951,61 @@ msgid ""
 "this is where email scheduling helps you."
 msgstr ""
 
-#: wp-mailinglist.php:2171
+#: wp-mailinglist.php:2296
 msgid "Language Configuration"
 msgstr "Configuration de la langue"
 
-#: wp-mailinglist.php:2185
+#: wp-mailinglist.php:2310
 msgid ""
 "The posts template used when using the [wpmlpost...] or [wpmlposts...] "
 "shorcodes in your newsletters."
 msgstr ""
 
-#: wp-mailinglist.php:2186
+#: wp-mailinglist.php:2311
 msgid ""
 "The posts template used for the \"Latest Posts Subscription\" feature which "
 "automatically sends out new posts."
 msgstr ""
 
-#: wp-mailinglist.php:2187
+#: wp-mailinglist.php:2312
 #, fuzzy
 msgid "Email message sent to new subscribers to confirm their subscription."
 msgstr "Vérifiez votre boîte de réception pour confirmer chaque abonnement"
 
-#: wp-mailinglist.php:2188
+#: wp-mailinglist.php:2313
 msgid ""
 "Email message sent to the administrator when an email to a subscriber "
 "bounces."
 msgstr ""
 
-#: wp-mailinglist.php:2189
+#: wp-mailinglist.php:2314
 msgid "Email message sent to the administrator when a subscriber unsubscribes."
 msgstr ""
 
-#: wp-mailinglist.php:2190
+#: wp-mailinglist.php:2315
 #, fuzzy
 msgid "Email message to the subscriber to confirm their unsubscribe."
 msgstr "Vérifiez votre boîte de réception pour confirmer chaque abonnement"
 
-#: wp-mailinglist.php:2191
+#: wp-mailinglist.php:2316
 msgid "Email message sent to the subscriber when a paid subscription expires."
 msgstr ""
 
-#: wp-mailinglist.php:2192
+#: wp-mailinglist.php:2317
 msgid ""
 "Email message sent to the administrator for a new paid subscription order "
 "payment."
 msgstr ""
 
-#: wp-mailinglist.php:2193
+#: wp-mailinglist.php:2318
 msgid "Email message sent to the administrator when the email cron fires."
 msgstr ""
 
-#: wp-mailinglist.php:2194
+#: wp-mailinglist.php:2319
 msgid "Email message sent to the administrator when a new user subscribes."
 msgstr ""
 
-#: wp-mailinglist.php:2208
+#: wp-mailinglist.php:2333
 msgid ""
 "This section lets you control the way the subscriber management section "
 "behaves. It is the \"Manage Subscriptions\" page which is provided to "
@@ -10772,139 +11013,139 @@ msgid ""
 "their profile, etc."
 msgstr ""
 
-#: wp-mailinglist.php:2209
+#: wp-mailinglist.php:2334
 msgid ""
 "Control the way the plugin behaves when someone subscribes to your site. "
 "Certain things can happen upon subscription based on these settings."
 msgstr ""
 
-#: wp-mailinglist.php:2210
+#: wp-mailinglist.php:2335
 msgid ""
 "Control the unsubscribe procedure. Certain things can happen when a "
 "subscriber unsubscribes from your site based on these settings."
 msgstr ""
 
-#: wp-mailinglist.php:2233
+#: wp-mailinglist.php:2358
 #, fuzzy
 msgid ""
 "Use these settings for the captcha security image used in the subscribe "
 "forms."
 msgstr "Nom affiché dans le champ De pour les abonnés"
 
-#: wp-mailinglist.php:2234
+#: wp-mailinglist.php:2359
 msgid ""
 "These are settings related to WordPress directly and how the plugin "
 "interacts with it."
 msgstr ""
 
-#: wp-mailinglist.php:2235
+#: wp-mailinglist.php:2360
 #, fuzzy
 msgid "Permissions"
 msgstr "Modifier les permissions"
 
-#: wp-mailinglist.php:2236
+#: wp-mailinglist.php:2361
 msgid ""
 "Use these settings to configure the way that WordPress users are "
 "automatically imported as subscribers into the system."
 msgstr ""
 
-#: wp-mailinglist.php:2237
+#: wp-mailinglist.php:2362
 msgid ""
 "Put a subscribe checkbox on your WordPress registration and/or comment forms "
 "to capture subscribers."
 msgstr ""
 
-#: wp-mailinglist.php:2348
+#: wp-mailinglist.php:2485
 msgid "Email template has been loaded into the subject field and editor below."
 msgstr "Le modèle d'e-mail est chargé dans l'objet et l'éditeur ci-dessous."
 
-#: wp-mailinglist.php:2352
+#: wp-mailinglist.php:2489
 msgid "Email template could not be loaded, please try again."
 msgstr "Le template n'a pas pu être chargé."
 
-#: wp-mailinglist.php:2396
+#: wp-mailinglist.php:2546
 #, fuzzy
 msgid "Sent/draft email could not be loaded, please try again."
 msgstr "L'historique n'a pas pu être chargé, veuillez recommencer."
 
-#: wp-mailinglist.php:2422
+#: wp-mailinglist.php:2572
 msgid "Please fill in an email subject"
 msgstr "Veuillez renseigner un objet à votre newsletter"
 
-#: wp-mailinglist.php:2423
+#: wp-mailinglist.php:2573
 msgid "Please fill in a newsletter message"
 msgstr "Veuillez ajouter un message à votre newsletter"
 
-#: wp-mailinglist.php:2476
+#: wp-mailinglist.php:2626
 msgid "Newsletter could not be scheduled/qeueued"
 msgstr "L'infolettre n'a pu être mise en attente"
 
-#: wp-mailinglist.php:2478 wp-mailinglist.php:2954
+#: wp-mailinglist.php:2628 wp-mailinglist.php:3119
 msgid "Newsletter could not be sent"
 msgstr "L'infolettre n'a pu être envoyée"
 
-#: wp-mailinglist.php:2749
+#: wp-mailinglist.php:2912
 #, fuzzy
 msgid "No mailing lists or roles have been selected"
 msgstr "Aucun liste n'a été sélectionnée"
 
-#: wp-mailinglist.php:2753
+#: wp-mailinglist.php:2916
 #, fuzzy, php-format
 msgid "Newsletter has been scheduled for %s"
 msgstr "L'infolettre n'a pu être programmée/mise en attente"
 
-#: wp-mailinglist.php:2827
+#: wp-mailinglist.php:2991
 msgid ""
 "Draft has been successfully saved. It has been saved to your email history."
 msgstr "L'ébauche a été sauvegardée dans l'historique."
 
-#: wp-mailinglist.php:2830
+#: wp-mailinglist.php:2994
 msgid "Draft could not be saved. Please fill in all required fields"
 msgstr ""
 "Vérifiez que tous les champs sont renseignés : le brouillon n'a pas pu être "
 "sauvegardé."
 
-#: wp-mailinglist.php:2916
+#: wp-mailinglist.php:3081
 #, fuzzy, php-format
 msgid "Preview cannot be sent to %s, %s."
 msgstr "L'aperçu n'a pu être envoyé"
 
-#: wp-mailinglist.php:2919
+#: wp-mailinglist.php:3084
 #, fuzzy, php-format
 msgid "Preview has been sent to %s"
 msgstr "L'aperçu n'a pu être envoyé \""
 
-#: wp-mailinglist.php:2949
+#: wp-mailinglist.php:3114
 msgid "Preview could not be sent"
 msgstr "L'aperçu n'a pu être envoyé"
 
-#: wp-mailinglist.php:2952
+#: wp-mailinglist.php:3117
 msgid "Newsletter could not be scheduled/queued"
 msgstr "L'infolettre n'a pu être programmée/mise en attente"
 
-#: wp-mailinglist.php:2977
+#: wp-mailinglist.php:3145
 msgid "Autoresponder has been saved."
 msgstr "Message automatique sauvegardé"
 
-#: wp-mailinglist.php:2980
+#: wp-mailinglist.php:3153
 msgid "Autoresponder could not be saved, please try again."
 msgstr "Message automatique sauvegardé, veuillez recommencer."
 
-#: wp-mailinglist.php:2996
+#: wp-mailinglist.php:3169
 msgid "Autoresponder has been deleted."
 msgstr "Message automatique supprimé"
 
-#: wp-mailinglist.php:2999
+#: wp-mailinglist.php:3172
 msgid "Autoresponder cannot be deleted, please try again."
 msgstr "Message automatique non supprimé, veuillez recommencer."
 
-#: wp-mailinglist.php:3022
+#: wp-mailinglist.php:3195
 msgid "Selected autoresponders and scheduled messages were removed."
 msgstr ""
 "Les messages automatiques et messages programmés sélectionnés ont été "
 "supprimés."
 
-#: wp-mailinglist.php:3031
+#: wp-mailinglist.php:3204
 msgid ""
 "Selected autoresponders have been activated and messages will be scheduled "
 "for new subscriptions."
@@ -10912,42 +11153,42 @@ msgstr ""
 "Messages automatiques activés, les messages sont programmés pour les "
 "nouveaux abonnés."
 
-#: wp-mailinglist.php:3040
+#: wp-mailinglist.php:3213
 msgid ""
 "Selected autoresponders have been deactivated and no more messages will be "
 "scheduled for them."
 msgstr "Messages automatiques désactivés."
 
-#: wp-mailinglist.php:3045 wp-mailinglist.php:3239
+#: wp-mailinglist.php:3218 wp-mailinglist.php:3412
 msgid "No action was specified."
 msgstr "Aucune action spécifiée."
 
-#: wp-mailinglist.php:3049 wp-mailinglist.php:3243
+#: wp-mailinglist.php:3222 wp-mailinglist.php:3416
 msgid "No autoresponders were selected."
 msgstr "Aucun message automatique sélectionné"
 
-#: wp-mailinglist.php:3060
+#: wp-mailinglist.php:3233
 #, fuzzy
 msgid "Autoresponders schedule interval has been updated."
 msgstr "Message automatique supprimé"
 
-#: wp-mailinglist.php:3063
+#: wp-mailinglist.php:3236
 #, fuzzy
 msgid "No schedule interval was chosen."
 msgstr "Pas d'envoi programmé"
 
-#: wp-mailinglist.php:3092 wp-mailinglist.php:3303
+#: wp-mailinglist.php:3265 wp-mailinglist.php:3476
 msgid ""
 "Please note that autoresponder emails are only sent to Active subscriptions. "
 "Once a subscription is Active, the autoresponder email will queue."
 msgstr ""
 
-#: wp-mailinglist.php:3143
+#: wp-mailinglist.php:3316
 #, fuzzy
 msgid "Autoresponder email has been sent."
 msgstr "Message automatique sauvegardé"
 
-#: wp-mailinglist.php:3146
+#: wp-mailinglist.php:3319
 #, fuzzy
 msgid ""
 "Autoresponder email could not be sent, please check your email settings."
@@ -10955,262 +11196,317 @@ msgstr ""
 "Echec de l'envoi de la newsletter, veuillez vérifier vos paramètres d'envoi "
 "dans l'onglet de configuration."
 
-#: wp-mailinglist.php:3150
+#: wp-mailinglist.php:3323
 #, fuzzy
 msgid "Autoresponder email cannot be read."
 msgstr "L'historique n'a pu être ouvert"
 
-#: wp-mailinglist.php:3154
+#: wp-mailinglist.php:3327
 #, fuzzy
 msgid "No autoresponder email was specified."
 msgstr "Aucun message automatique spécifié"
 
-#: wp-mailinglist.php:3165
+#: wp-mailinglist.php:3338
 #, fuzzy
 msgid "Autoresponder email has been removed."
 msgstr "Message automatique sauvegardé"
 
-#: wp-mailinglist.php:3168
+#: wp-mailinglist.php:3341
 #, fuzzy
 msgid "Autoresponder email cannot be deleted."
 msgstr "Message automatique supprimé"
 
-#: wp-mailinglist.php:3172
+#: wp-mailinglist.php:3345
 #, fuzzy
 msgid "No autoresponder email has been specified."
 msgstr "Aucun message automatique spécifié"
 
-#: wp-mailinglist.php:3191
+#: wp-mailinglist.php:3364
 #, fuzzy
 msgid "Selected autoresponder emails were removed."
 msgstr ""
 "Les messages automatiques et messages programmés sélectionnés ont été "
 "supprimés."
 
-#: wp-mailinglist.php:3234
+#: wp-mailinglist.php:3407
 #, fuzzy
 msgid "Selected autoresponder emails were sent."
 msgstr ""
 "Les messages automatiques et messages programmés sélectionnés ont été "
 "supprimés."
 
-#: wp-mailinglist.php:3317
+#: wp-mailinglist.php:3490
 msgid "Mailing list has been saved"
 msgstr "La liste a été sauvegardée"
 
-#: wp-mailinglist.php:3320
+#: wp-mailinglist.php:3498
 msgid "Mailing list could not be saved"
 msgstr "La liste n'a pas été sauvegardée"
 
-#: wp-mailinglist.php:3349
+#: wp-mailinglist.php:3527
 msgid "Mailing list could not be read"
 msgstr "La liste n'a pu être utilisée"
 
-#: wp-mailinglist.php:3359
+#: wp-mailinglist.php:3537
 msgid "Mailing list has been removed"
 msgstr "La liste a été supprimée"
 
-#: wp-mailinglist.php:3362
+#: wp-mailinglist.php:3540
 msgid "Mailing list cannot be removed"
 msgstr "La liste n'a pas été supprimée"
 
-#: wp-mailinglist.php:3384
+#: wp-mailinglist.php:3562
 #, fuzzy
 msgid "Selected lists set as single opt-in"
 msgstr "Ces abonnés sont maintenant actifs"
 
-#: wp-mailinglist.php:3393
+#: wp-mailinglist.php:3571
 #, fuzzy
 msgid "Selected lists set as doublt opt-in"
 msgstr "Les listes sélectionnées ne sont plus \"privées\""
 
-#: wp-mailinglist.php:3402
+#: wp-mailinglist.php:3580
 #, fuzzy
 msgid "Selected mailing lists assigned to the chosen group."
 msgstr "Les listes ont été ajoutées aux abonnés"
 
-#: wp-mailinglist.php:3405
+#: wp-mailinglist.php:3583
 #, fuzzy
 msgid "No group was selected."
 msgstr "Aucun format sélectionné"
 
-#: wp-mailinglist.php:3411
+#: wp-mailinglist.php:3589
 msgid "Selected mailing lists have been removed"
 msgstr "Les listes sélectionnées ont été supprimées"
 
-#: wp-mailinglist.php:3419
+#: wp-mailinglist.php:3597
 msgid "Selected mailing lists have been set as private"
 msgstr "Les listes sélectionnées ont été marquées \"privées\""
 
-#: wp-mailinglist.php:3427
+#: wp-mailinglist.php:3605
 msgid "Selected mailing lists have been set as not private"
 msgstr "Les listes sélectionnées ne sont plus \"privées\""
 
-#: wp-mailinglist.php:3432 wp-mailinglist.php:3619 wp-mailinglist.php:3834
-#: wp-mailinglist.php:4525 wp-mailinglist.php:4624 wp-mailinglist.php:4727
-#: wp-mailinglist.php:5360 wp-mailinglist.php:5488
+#: wp-mailinglist.php:3610 wp-mailinglist.php:3802 wp-mailinglist.php:4022
+#: wp-mailinglist.php:4832 wp-mailinglist.php:4931 wp-mailinglist.php:5034
+#: wp-mailinglist.php:5723 wp-mailinglist.php:5856
 msgid "No action was selected"
 msgstr "Aucune action sélectionnée"
 
-#: wp-mailinglist.php:3436 wp-mailinglist.php:3761 wp-mailinglist.php:3788
+#: wp-mailinglist.php:3614 wp-mailinglist.php:3949 wp-mailinglist.php:3976
 msgid "No mailing lists were selected"
 msgstr "Aucun liste n'a été sélectionnée"
 
-#: wp-mailinglist.php:3472
+#: wp-mailinglist.php:3650
 msgid ""
 "Offsite code is specifically used for non-WordPress and other remote "
 "websites, not for the current one."
 msgstr "Code utile pour les sites Internet hors WP."
 
-#: wp-mailinglist.php:3553
+#: wp-mailinglist.php:3731
 #, fuzzy
 msgid "Group has been saved."
 msgstr "Commande sauvegardée"
 
-#: wp-mailinglist.php:3556
+#: wp-mailinglist.php:3739
 #, fuzzy
 msgid "Group could not be saved."
 msgstr "L'ébauche n'a pas pas été sauvegardée"
 
-#: wp-mailinglist.php:3575
+#: wp-mailinglist.php:3758
 #, fuzzy
 msgid "Group could not be read"
 msgstr "La commande n'a pas pu être ouverte"
 
-#: wp-mailinglist.php:3578 wp-mailinglist.php:3595
+#: wp-mailinglist.php:3761 wp-mailinglist.php:3778
 #, fuzzy
 msgid "No group was specified"
 msgstr "Aucun article spécifié"
 
-#: wp-mailinglist.php:3588
+#: wp-mailinglist.php:3771
 #, fuzzy
 msgid "Group has been removed"
 msgstr "Le modèle a été supprimé"
 
-#: wp-mailinglist.php:3591
+#: wp-mailinglist.php:3774
 #, fuzzy
 msgid "Group cannot be removed"
 msgstr "Champ personnalisé non supprimé"
 
-#: wp-mailinglist.php:3614
+#: wp-mailinglist.php:3797
 #, fuzzy
 msgid "Selected groups have been removed."
 msgstr "Les thèmes sélectionnés ont été supprimés"
 
-#: wp-mailinglist.php:3623
+#: wp-mailinglist.php:3806
 #, fuzzy
 msgid "No groups were selected"
 msgstr "Aucun ordre sélectionné"
 
-#: wp-mailinglist.php:3685
+#: wp-mailinglist.php:3868
 msgid "Subscriber has been saved"
 msgstr "Abonné enregistré"
 
-#: wp-mailinglist.php:3689
+#: wp-mailinglist.php:3877
 msgid "Subscriber could not be saved"
 msgstr "L'abonné n'a pu être enregistré"
 
-#: wp-mailinglist.php:3707
+#: wp-mailinglist.php:3895
 msgid "Subscriber cannot be read"
 msgstr "L'abonnée n'a pu être chargé"
 
-#: wp-mailinglist.php:3721
+#: wp-mailinglist.php:3909
 msgid "Subscriber has been removed"
 msgstr "L'abonné a été supprimé"
 
-#: wp-mailinglist.php:3724
+#: wp-mailinglist.php:3912
 msgid "Subscriber cannot be removed"
 msgstr "L'abonné n'a pu être supprimé"
 
-#: wp-mailinglist.php:3758
+#: wp-mailinglist.php:3946
 msgid "Selected mailing lists have been appended to the subscribers"
 msgstr "Les listes ont été ajoutées aux abonnés"
 
-#: wp-mailinglist.php:3785
+#: wp-mailinglist.php:3973
 msgid "Selected mailing lists have been assigned to the subscribers"
 msgstr "Les listes ont été ajoutées aux abonnés"
 
-#: wp-mailinglist.php:3798
+#: wp-mailinglist.php:3986
 msgid "Selected subscribers have been removed"
 msgstr "Les abonnés ont été supprimés de ces listes"
 
-#: wp-mailinglist.php:3809
+#: wp-mailinglist.php:3997
 #, fuzzy
 msgid "Mandatory status has been changed"
 msgstr "Tout l'historique a été supprimé"
 
-#: wp-mailinglist.php:3820
+#: wp-mailinglist.php:4008
 msgid "Selected subscribers set as active"
 msgstr "Ces abonnés sont maintenant actifs"
 
-#: wp-mailinglist.php:3829
+#: wp-mailinglist.php:4017
 msgid "Selected subscribers deactivated"
 msgstr "Ces abonnés sont désactivés"
 
-#: wp-mailinglist.php:3838
+#: wp-mailinglist.php:4026
 msgid "No subscribers were selected"
 msgstr "Aucun abonné sélectionné"
 
-#: wp-mailinglist.php:3848
+#: wp-mailinglist.php:4036
 msgid "and"
 msgstr "et"
 
-#: wp-mailinglist.php:3850
+#: wp-mailinglist.php:4038
 msgid "bounced emails were removed."
 msgstr "e-mails en erreur ont été supprimés."
 
-#: wp-mailinglist.php:3856
+#: wp-mailinglist.php:4044
 #, php-format
 msgid ""
 "%s subscriptions have been deactivated due to expiration or max emails sent."
 msgstr ""
 
-#: wp-mailinglist.php:3994
+#: wp-mailinglist.php:4085
+#, fuzzy
+msgid "Unsubscribe has been deleted"
+msgstr "L'abonné a été supprimé"
+
+#: wp-mailinglist.php:4088
+#, fuzzy
+msgid "Unsubscribe could not be deleted"
+msgstr "Les abonnés n'ont pu être exportés"
+
+#: wp-mailinglist.php:4092
+#, fuzzy
+msgid "No unsubscribe was specified"
+msgstr "Aucun abonné spécifié"
+
+#: wp-mailinglist.php:4111
+#, fuzzy
+msgid "Selected unsubscribes deleted"
+msgstr "Ces abonnés sont désactivés"
+
+#: wp-mailinglist.php:4125
+#, fuzzy
+msgid "Subscribers of the selected unsubscribes have been deleted"
+msgstr "Les abonnés ont été supprimés de ces listes"
+
+#: wp-mailinglist.php:4138
+#, fuzzy
+msgid "Users of the selected unsubscribes have been deleted"
+msgstr "Les abonnés ont été supprimés de ces listes"
+
+#: wp-mailinglist.php:4143
+#, fuzzy
+msgid "No unsubscribes were selected"
+msgstr "Aucun abonné sélectionné"
+
+#: wp-mailinglist.php:4147 wp-mailinglist.php:5327 wp-mailinglist.php:5527
+#: wp-mailinglist.php:5595
+msgid "No action was specified"
+msgstr "Aucune action spécifiée"
+
+#: wp-mailinglist.php:4156
+#, fuzzy
+msgid "User has been deleted"
+msgstr "Le type de fichier n'a pas été sélectionné"
+
+#: wp-mailinglist.php:4159
+#, fuzzy
+msgid "User could not be deleted"
+msgstr "Les abonnés n'ont pu être exportés"
+
+#: wp-mailinglist.php:4163
+#, fuzzy
+msgid "No user was specified"
+msgstr "Aucun abonné spécifié"
+
+#: wp-mailinglist.php:4291
 msgid "No file selected for uploading"
 msgstr "Aucun fichier sélectionné"
 
-#: wp-mailinglist.php:3995
+#: wp-mailinglist.php:4292
 msgid "File could not be uploaded"
 msgstr "Le fichier n'a pu être téléchargé"
 
-#: wp-mailinglist.php:3996
+#: wp-mailinglist.php:4293
 msgid "No mailing list selected"
 msgstr "Aucune liste sélectionnée"
 
-#: wp-mailinglist.php:3997
+#: wp-mailinglist.php:4294
 msgid "No file type has been selected"
 msgstr "Le type de fichier n'a pas été sélectionné"
 
-#: wp-mailinglist.php:4024
+#: wp-mailinglist.php:4321
 #, fuzzy, php-format
 msgid "Csv file could not be created! Check \"%s\" permissions!"
 msgstr ""
 "Le fichier CSV n'a pas été créé. Vérifiez les permissions du dossier \"wp-"
 "content/uploads\"!"
 
-#: wp-mailinglist.php:4215
+#: wp-mailinglist.php:4512
 msgid "subscribers successfully imported"
 msgstr "Abonnés importés!"
 
-#: wp-mailinglist.php:4217
+#: wp-mailinglist.php:4514
 msgid "No subscribers were imported"
 msgstr "aucun abonné importé"
 
-#: wp-mailinglist.php:4229
+#: wp-mailinglist.php:4526
 msgid "Subscribers could not be imported"
 msgstr "Aucun abonné n'a pu être importé"
 
-#: wp-mailinglist.php:4238
+#: wp-mailinglist.php:4535
 #, fuzzy
 msgid "Please select export list(s)"
 msgstr "Sélectionnez une liste d'envoi"
 
-#: wp-mailinglist.php:4239
+#: wp-mailinglist.php:4536
 #, fuzzy
 msgid "Please select an export filetype"
 msgstr "Sélectionnez le type de fichier"
 
-#: wp-mailinglist.php:4244
+#: wp-mailinglist.php:4541
 #, fuzzy, php-format
 msgid ""
 "Export file could not be created, please check permissions on <b>%s</b> to "
@@ -11219,52 +11515,47 @@ msgstr ""
 "Le fichier CSV n'a pas été créé. Vérifiez les permissions du dossier \"wp-"
 "content/uploads\"."
 
-#: wp-mailinglist.php:4390
-#, fuzzy, php-format
-msgid "subscribers have been exported. %s"
-msgstr "Les abonnés ont été supprimés de ces listes"
-
-#: wp-mailinglist.php:4416
+#: wp-mailinglist.php:4723
 msgid "Theme could not be saved"
 msgstr "Le modèle n'a pas pu être sauvegardé"
 
-#: wp-mailinglist.php:4429
+#: wp-mailinglist.php:4736
 msgid "Theme has been removed"
 msgstr "Le modèle a été supprimé"
 
-#: wp-mailinglist.php:4432
+#: wp-mailinglist.php:4739
 msgid "Theme could not be removed"
 msgstr "Les modèles n'ont pas pas pu être supprimés"
 
-#: wp-mailinglist.php:4447
+#: wp-mailinglist.php:4754
 #, fuzzy
 msgid "Selected theme removed as sending default"
 msgstr "Le thème sélectionné est à présent configuré comme modèle par défaut"
 
-#: wp-mailinglist.php:4461
+#: wp-mailinglist.php:4768
 #, fuzzy
 msgid "Selected theme removed as system default"
 msgstr "Le thème sélectionné est à présent configuré comme modèle par défaut"
 
-#: wp-mailinglist.php:4478
+#: wp-mailinglist.php:4785
 #, fuzzy
 msgid "Selected theme has been set as the sending default"
 msgstr "Le thème sélectionné est à présent configuré comme modèle par défaut"
 
-#: wp-mailinglist.php:4495
+#: wp-mailinglist.php:4802
 #, fuzzy
 msgid "Selected theme has been set as the system default"
 msgstr "Le thème sélectionné est à présent configuré comme modèle par défaut"
 
-#: wp-mailinglist.php:4516
+#: wp-mailinglist.php:4823
 msgid "Selected themes have been removed"
 msgstr "Les thèmes sélectionnés ont été supprimés"
 
-#: wp-mailinglist.php:4521
+#: wp-mailinglist.php:4828
 msgid "No themes were selected"
 msgstr "Aucun thème sélectionné"
 
-#: wp-mailinglist.php:4568
+#: wp-mailinglist.php:4875
 #, fuzzy
 msgid ""
 "Email Snippets are meant for content only, use the Themes for newsletter "
@@ -11273,140 +11564,142 @@ msgstr ""
 "Les modèles ne servent qu'au contenu, merci d'utiliser les thèmes pour la "
 "mise en page de la Newsletter"
 
-#: wp-mailinglist.php:4572
+#: wp-mailinglist.php:4879
 #, fuzzy
 msgid "Snippet has been saved"
 msgstr "Abonné enregistré"
 
-#: wp-mailinglist.php:4575
+#: wp-mailinglist.php:4882
 #, fuzzy
 msgid "Snippet could not be saved"
 msgstr "L'ébauche n'a pas pas été sauvegardée"
 
-#: wp-mailinglist.php:4587
+#: wp-mailinglist.php:4894
 #, fuzzy
 msgid "Snippet has been removed"
 msgstr "Champ personnalisé supprimé"
 
-#: wp-mailinglist.php:4591 wp-mailinglist.php:4604
+#: wp-mailinglist.php:4898 wp-mailinglist.php:4911
 #, fuzzy
 msgid "No snippet was specified"
 msgstr "Aucune liste spécifiée"
 
-#: wp-mailinglist.php:4600
+#: wp-mailinglist.php:4907
 #, fuzzy
 msgid "Snippet cannot be read"
 msgstr "Champ personnalisé non supprimé"
 
-#: wp-mailinglist.php:4613
+#: wp-mailinglist.php:4920
 #, fuzzy
 msgid "Selected snippets removed"
 msgstr "Les templates sélectionnés ont été supprimés"
 
-#: wp-mailinglist.php:4616
+#: wp-mailinglist.php:4923
 #, fuzzy
 msgid "Snippets could not be removed"
 msgstr "Les templates n'ont pas pu être supprimés"
 
-#: wp-mailinglist.php:4620
+#: wp-mailinglist.php:4927
 #, fuzzy
 msgid "No snippets were selected"
 msgstr "Aucun abonnement sélectionné"
 
-#: wp-mailinglist.php:4667
+#: wp-mailinglist.php:4974
 msgid "Email scheduling is turned off"
 msgstr "La programmation d'envoi mail est désactivé"
 
-#: wp-mailinglist.php:4673
+#: wp-mailinglist.php:4980
 msgid "The queue has been truncated"
 msgstr "La liste d'envoi a été écourtée"
 
-#: wp-mailinglist.php:4708
+#: wp-mailinglist.php:5015
 msgid "queue email(s) have been sent out"
 msgstr "les emails en attente ont été envoyés"
 
-#: wp-mailinglist.php:4714
+#: wp-mailinglist.php:5021
 msgid "queue email(s) removed"
 msgstr "les emails en attente ont été supprimés"
 
-#: wp-mailinglist.php:4717
+#: wp-mailinglist.php:5024
 msgid "Queue emails cannot be removed"
 msgstr "les emails en attente n'ont pas pu être supprimés"
 
-#: wp-mailinglist.php:4723
+#: wp-mailinglist.php:5030
 msgid "No queue emails were selected"
 msgstr "Aucun mail en attente n'a été sélectionné"
 
-#: wp-mailinglist.php:4736
+#: wp-mailinglist.php:5043
 #, fuzzy
 msgid "Queued email has been deleted"
 msgstr "Aucun mail en attente n'a été sélectionné"
 
-#: wp-mailinglist.php:4739
+#: wp-mailinglist.php:5046
 #, fuzzy
 msgid "Queued email could not be deleted"
 msgstr "L'historique est indisponible."
 
-#: wp-mailinglist.php:4743 wp-mailinglist.php:4771
+#: wp-mailinglist.php:5050 wp-mailinglist.php:5089
 #, fuzzy
 msgid "No queued email was specified"
 msgstr "Aucun message automatique spécifié"
 
-#: wp-mailinglist.php:4760
+#: wp-mailinglist.php:5075
 #, fuzzy
 msgid "Queued email has been sent"
 msgstr "les emails en attente ont été envoyés"
 
-#: wp-mailinglist.php:4763
-#, fuzzy
-msgid "Email could not be sent, please check email settings"
-msgstr ""
-"Echec de l'envoi de la newsletter, veuillez vérifier vos paramètres d'envoi "
-"dans l'onglet de configuration."
+#: wp-mailinglist.php:5081
+#, fuzzy, php-format
+msgid "Email could not be sent: %s"
+msgstr "L'aperçu n'a pu être envoyé"
 
-#: wp-mailinglist.php:4767
+#: wp-mailinglist.php:5085
 #, fuzzy
 msgid "Queued email cannot be read"
 msgstr "les emails en attente n'ont pas pu être supprimés"
 
-#: wp-mailinglist.php:4817
+#: wp-mailinglist.php:5151
 msgid "History email cannot be read"
 msgstr "L'historique n'a pu être ouvert"
 
-#: wp-mailinglist.php:4828
+#: wp-mailinglist.php:5155 wp-mailinglist.php:5167 wp-mailinglist.php:5190
+msgid "No history email was specified"
+msgstr "Aucun historique n'a été spécifié"
+
+#: wp-mailinglist.php:5162
 msgid "History email has been removed"
 msgstr "L'historique a été supprimé"
 
-#: wp-mailinglist.php:4830
+#: wp-mailinglist.php:5164
 msgid "History email could not be removed"
 msgstr "L'historique n'a pas pu être supprimé"
 
-#: wp-mailinglist.php:4853
+#: wp-mailinglist.php:5187
 #, fuzzy
 msgid "History email has been duplicated"
 msgstr "L'historique a été supprimé"
 
-#: wp-mailinglist.php:4874
+#: wp-mailinglist.php:5208
 msgid "history record(s) have been removed"
 msgstr "Supprimé(s)"
 
-#: wp-mailinglist.php:4882
+#: wp-mailinglist.php:5216
 msgid "Id"
 msgstr "ID"
 
-#: wp-mailinglist.php:4887
+#: wp-mailinglist.php:5221
 msgid "Read %"
 msgstr "Lus %"
 
-#: wp-mailinglist.php:4889
+#: wp-mailinglist.php:5223
 msgid "Emails Read"
 msgstr "E-mails lus"
 
-#: wp-mailinglist.php:4950
+#: wp-mailinglist.php:5284
 msgid "read"
 msgstr "lu"
 
-#: wp-mailinglist.php:4974 wp-mailinglist.php:5094
+#: wp-mailinglist.php:5308 wp-mailinglist.php:5428
 #, fuzzy, php-format
 msgid ""
 "CSV file could not be created, please check write permissions on \"%s\" "
@@ -11415,258 +11708,278 @@ msgstr ""
 "Le fichier CSV n'a pas été créé. Vérifiez les permissions du dossier \"wp-"
 "content/uploads\"."
 
-#: wp-mailinglist.php:4978 wp-mailinglist.php:5098
+#: wp-mailinglist.php:5312 wp-mailinglist.php:5432
 msgid "CSV data could not be formulated, no emails maybe? Please try again"
 msgstr "Aucune donnée CSV, veuillez recommencer."
 
-#: wp-mailinglist.php:4982 wp-mailinglist.php:5102
+#: wp-mailinglist.php:5316 wp-mailinglist.php:5436
 msgid "No history/draft emails are available to export!"
 msgstr "Aucun historique disponible pour l'export !"
 
-#: wp-mailinglist.php:4989
+#: wp-mailinglist.php:5323
 msgid "No history emails were selected"
 msgstr "Aucun historique sélectionné"
 
-#: wp-mailinglist.php:4993 wp-mailinglist.php:5193
-msgid "No action was specified"
-msgstr "Aucune action spécifiée"
-
-#: wp-mailinglist.php:5001
+#: wp-mailinglist.php:5335
 msgid "History list has been purged"
 msgstr "Tout l'historique a été supprimé"
 
-#: wp-mailinglist.php:5004
+#: wp-mailinglist.php:5338
 msgid "History items cannot be removed"
 msgstr "Impossible de supprimer"
 
-#: wp-mailinglist.php:5024
+#: wp-mailinglist.php:5358
 msgid "Attachment file has been removed."
 msgstr "La pièce jointe a été supprimée"
 
-#: wp-mailinglist.php:5027
+#: wp-mailinglist.php:5361
 #, fuzzy
 msgid "Attachment could not be read."
 msgstr "La commande n'a pas pu être ouverte"
 
-#: wp-mailinglist.php:5031
+#: wp-mailinglist.php:5365
 #, fuzzy
 msgid "No attachment was specified."
 msgstr "Aucun nom de pièce jointe spécifiée"
 
-#: wp-mailinglist.php:5047
+#: wp-mailinglist.php:5381
 msgid "Read/Opened"
 msgstr "Lu/ouvert"
 
-#: wp-mailinglist.php:5106
+#: wp-mailinglist.php:5440
 msgid "No history email was specified, please try again."
 msgstr "Aucun historique spécifié."
 
-#: wp-mailinglist.php:5152
+#: wp-mailinglist.php:5486
 #, fuzzy
 msgid "Link has been deleted"
 msgstr "Le type de fichier n'a pas été sélectionné"
 
-#: wp-mailinglist.php:5155
+#: wp-mailinglist.php:5489
 #, fuzzy
 msgid "Link could not be deleted"
 msgstr "L'aperçu n'a pu être envoyé"
 
-#: wp-mailinglist.php:5159
+#: wp-mailinglist.php:5493
 #, fuzzy
 msgid "No link was specified"
 msgstr "Aucune liste spécifiée"
 
-#: wp-mailinglist.php:5176
+#: wp-mailinglist.php:5510
 #, fuzzy
 msgid "Selected links have been deleted"
 msgstr "Les listes sélectionnées ont été supprimées"
 
-#: wp-mailinglist.php:5184
+#: wp-mailinglist.php:5518
 #, fuzzy
 msgid "Selected links have been reset"
 msgstr "Les listes sélectionnées ont été supprimées"
 
-#: wp-mailinglist.php:5189
+#: wp-mailinglist.php:5523
 #, fuzzy
 msgid "No links were selected"
 msgstr "Aucun liste n'a été sélectionnée"
 
-#: wp-mailinglist.php:5231
+#: wp-mailinglist.php:5565
 #, fuzzy
 msgid "Click has been deleted"
 msgstr "Le type de fichier n'a pas été sélectionné"
 
-#: wp-mailinglist.php:5234
+#: wp-mailinglist.php:5568
 #, fuzzy
 msgid "Click could not be deleted"
 msgstr "L'aperçu n'a pu être envoyé"
 
-#: wp-mailinglist.php:5238
+#: wp-mailinglist.php:5572
 #, fuzzy
 msgid "No click was specified"
 msgstr "Aucune liste spécifiée"
 
-#: wp-mailinglist.php:5298
+#: wp-mailinglist.php:5588
+#, fuzzy
+msgid "Selected clicks have been deleted"
+msgstr "Les listes sélectionnées ont été supprimées"
+
+#: wp-mailinglist.php:5591
+#, fuzzy
+msgid "No clicks were selected"
+msgstr "Aucun liste n'a été sélectionnée"
+
+#: wp-mailinglist.php:5655
 msgid "Order could not be retrieved"
 msgstr "La commande n'a pu être trouvée"
 
-#: wp-mailinglist.php:5309
+#: wp-mailinglist.php:5666
 msgid "Order has been saved"
 msgstr "Commande sauvegardée"
 
-#: wp-mailinglist.php:5313
+#: wp-mailinglist.php:5676
 msgid "Order could not be saved"
 msgstr "Commande non sauvegardée"
 
-#: wp-mailinglist.php:5321
+#: wp-mailinglist.php:5684
 msgid "Order could not be read"
 msgstr "La commande n'a pas pu être ouverte"
 
-#: wp-mailinglist.php:5331
+#: wp-mailinglist.php:5694
 msgid "Order successfully removed"
 msgstr "Commande supprimée"
 
-#: wp-mailinglist.php:5355
+#: wp-mailinglist.php:5718
 msgid "Selected orders succesfully removed"
 msgstr "Les commandes sélectionnées ont été supprimées"
 
-#: wp-mailinglist.php:5364
+#: wp-mailinglist.php:5727
 msgid "No orders were selected"
 msgstr "Aucun ordre sélectionné"
 
-#: wp-mailinglist.php:5409
+#: wp-mailinglist.php:5772
 msgid "Custom field has been saved"
 msgstr "Champ personnalisé sauvegardé"
 
-#: wp-mailinglist.php:5412
+#: wp-mailinglist.php:5780
 msgid "Custom field could not be saved"
 msgstr "Champ personnalisé non sauvegardé"
 
-#: wp-mailinglist.php:5419
+#: wp-mailinglist.php:5787
 msgid "This is a fixed field and can be edited but not deleted."
 msgstr ""
 
-#: wp-mailinglist.php:5432
+#: wp-mailinglist.php:5800
 msgid "Field has been removed"
 msgstr "Champ personnalisé supprimé"
 
-#: wp-mailinglist.php:5435
+#: wp-mailinglist.php:5803
 msgid "Field cannot be removed"
 msgstr "Champ personnalisé non supprimé"
 
-#: wp-mailinglist.php:5439
+#: wp-mailinglist.php:5807
 #, fuzzy
 msgid "This field may not be deleted."
 msgstr "Le format d'email n'a pas été sauvegardé"
 
-#: wp-mailinglist.php:5443
+#: wp-mailinglist.php:5811
 #, fuzzy
 msgid "Field cannot be read."
 msgstr "Champ personnalisé non supprimé"
 
-#: wp-mailinglist.php:5460
+#: wp-mailinglist.php:5828
 msgid "Selected custom fields removed"
 msgstr "Champs personnalisé supprimé"
 
-#: wp-mailinglist.php:5468
+#: wp-mailinglist.php:5836
 msgid "Selected custom fields have been set as required"
 msgstr "Les champs personnalisés sélectionnées sont obligatoires "
 
-#: wp-mailinglist.php:5481
+#: wp-mailinglist.php:5849
 msgid "Selected custom fields have been set as NOT required"
 msgstr "Les champs personnalisés sélectionnées ne sont PAS obligatoires "
 
-#: wp-mailinglist.php:5492
+#: wp-mailinglist.php:5860
 msgid "No custom fields were selected"
 msgstr "Aucun champs personnalisé sélectionné"
 
-#: wp-mailinglist.php:5552
+#: wp-mailinglist.php:5920
 #, fuzzy
 msgid "Manage subscriptions post/page has been created"
 msgstr "Abonnement PayPal annulé"
 
-#: wp-mailinglist.php:5566
+#: wp-mailinglist.php:5934
 msgid "All database tables have been checked and optimized."
 msgstr ""
 
-#: wp-mailinglist.php:5574
+#: wp-mailinglist.php:5942
 #, fuzzy
 msgid "Latest Posts Subscription history has been cleared."
 msgstr "L'abonnement aux derniers articles est désactivé."
 
-#: wp-mailinglist.php:5577
+#: wp-mailinglist.php:5945
 #, fuzzy
 msgid ""
 "Latest Posts Subscription history could not be cleared, please try again."
 msgstr "Message automatique sauvegardé, veuillez recommencer."
 
-#: wp-mailinglist.php:5586
+#: wp-mailinglist.php:5961
 msgid "Task has been executed successfully!"
 msgstr "L'envoi a été exécuté avec succès."
 
-#: wp-mailinglist.php:5589 wp-mailinglist.php:5621 wp-mailinglist.php:5634
+#: wp-mailinglist.php:5964 wp-mailinglist.php:5996 wp-mailinglist.php:6009
 msgid "No task was specified, please try again."
 msgstr "Aucune tâche spécifiée."
 
-#: wp-mailinglist.php:5618
+#: wp-mailinglist.php:5993
 msgid "Task has been rescheduled successfully!"
 msgstr "La tâche a été replanifiée avec succès !"
 
-#: wp-mailinglist.php:5631
+#: wp-mailinglist.php:6006
 msgid "Task has been unscheduled, remember to reschedule as needed."
 msgstr "La tâche a été déprogrammée, vous pouvez la replanifier si besoin."
 
-#: wp-mailinglist.php:5647
+#: wp-mailinglist.php:6022
 msgid "All configuration settings have been reset"
 msgstr "La configuration a été réinitialisée"
 
-#: wp-mailinglist.php:5650
+#: wp-mailinglist.php:6025
 msgid "Configuration settings cannot be reset"
 msgstr "La configuration ne peut être réinitialisée"
 
-#: wp-mailinglist.php:5678
+#: wp-mailinglist.php:6054
 #, fuzzy
 msgid "Tracking image file could not be moved from /tmp"
 msgstr "Le fichier n'a pu être téléchargé"
 
-#: wp-mailinglist.php:5682
+#: wp-mailinglist.php:6058
 #, fuzzy
 msgid "No image was specified"
 msgstr "Aucun thème spécifié"
 
-#: wp-mailinglist.php:5737
+#: wp-mailinglist.php:6119
 msgid "Configuration settings successfully updated"
 msgstr "La configuration a été sauvegardée"
 
-#: wp-mailinglist.php:5783
+#: wp-mailinglist.php:6165
 #, fuzzy
 msgid "Subscribers configuration settings have been saved."
 msgstr "La configuration a été réinitialisée"
 
-#: wp-mailinglist.php:5806
+#: wp-mailinglist.php:6188
 #, fuzzy
 msgid "Email template configuration settings have been saved."
 msgstr "La configuration a été réinitialisée"
 
-#: wp-mailinglist.php:5878
+#: wp-mailinglist.php:6260
 #, fuzzy
 msgid "System configuration settings have been saved."
 msgstr "La configuration a été réinitialisée"
 
-#: wp-mailinglist.php:5910
+#: wp-mailinglist.php:6292
 #, fuzzy
 msgid "Extension has been activated."
 msgstr "Votre abonnement a été activé"
 
-#: wp-mailinglist.php:5914
+#: wp-mailinglist.php:6296
 #, fuzzy
 msgid "Extension has been deactivated."
 msgstr "Votre abonnement a été activé"
 
-#: wp-mailinglist.php:5933
+#: wp-mailinglist.php:6315
 #, fuzzy
 msgid "Extensions settings have been saved."
 msgstr "La configuration a été réinitialisée"
+
+#, fuzzy
+#~ msgid "review"
+#~ msgstr "Aperçu"
+
+#, fuzzy
+#~ msgid "subscribers have been exported. %s"
+#~ msgstr "Les abonnés ont été supprimés de ces listes"
+
+#, fuzzy
+#~ msgid "Email could not be sent, please check email settings"
+#~ msgstr ""
+#~ "Echec de l'envoi de la newsletter, veuillez vérifier vos paramètres "
+#~ "d'envoi dans l'onglet de configuration."
 
 #~ msgid "Export to CSV"
 #~ msgstr "Export CSV"
@@ -11709,9 +12022,6 @@ msgstr "La configuration a été réinitialisée"
 
 #~ msgid "With Selected"
 #~ msgstr "Changer le statut"
-
-#~ msgid "Unsubscribe"
-#~ msgstr "Se désinscrire"
 
 #~ msgid "Execute"
 #~ msgstr "Valider"
@@ -11956,17 +12266,11 @@ msgstr "La configuration a été réinitialisée"
 #~ msgid "Count"
 #~ msgstr "Total"
 
-#~ msgid "Queued Emails"
-#~ msgstr "Emails en attente"
-
 #~ msgid ""
 #~ "You need to install and activate the <a target=\"_blank\" href=\"http://"
 #~ "wordpress.org/extend/plugins/really-simple-captcha/\">Really Simple "
 #~ "Captcha plugin</a>."
 #~ msgstr "Vous devez installer et activer l'extension Really Simple Captcha."
-
-#~ msgid "days"
-#~ msgstr "jours"
 
 #~ msgid "Email/Subscriber"
 #~ msgstr "E-mail/Abonné"
@@ -12018,9 +12322,6 @@ msgstr "La configuration a été réinitialisée"
 #~ msgid "Email address of the mailing list administrator"
 #~ msgstr "adresse e-mail du responsable de la liste d'envoi"
 
-#~ msgid "Email Tracking"
-#~ msgstr "Tracking"
-
 #~ msgid "Gmail SMTP"
 #~ msgstr "SMTP Gmail"
 
@@ -12051,9 +12352,6 @@ msgstr "La configuration a été réinitialisée"
 
 #~ msgid "Save Template"
 #~ msgstr "Sauvegarder"
-
-#~ msgid "Select Subscriber"
-#~ msgstr "Sélectionner un abonné"
 
 #~ msgid "2CO Product ID"
 #~ msgstr "ID du produit 2CO"
@@ -12234,9 +12532,6 @@ msgstr "La configuration a été réinitialisée"
 
 #~ msgid "Dynamic Variable"
 #~ msgstr "Variable dynamique"
-
-#~ msgid "Attachment File"
-#~ msgstr "Pièce jointe"
 
 #~ msgid "Post/Page Embed"
 #~ msgstr "Formulaire dans une page ou un article"
