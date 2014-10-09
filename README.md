@@ -21,8 +21,9 @@ Follow these steps to use the language file(s) you want:
 1. Pick the .MO files from Github for the languages that you want to use. For example "wp-mailinglist-de_DE.mo"
 2. Go to "wp-content/plugins/" in your WordPress installation and create a "wp-mailinglist-languages" folder there.
 3. Upload the "wp-mailinglist-de_DE.mo" file to "wp-content/plugins/languages/" folder you created.
-4. Go to Newsletters > Configuration > System > WordPress Related in the plugin and tick/check "Yes, load external language file" for the "Load External Language" setting.
-5. Ensure that you have the <code>WPLANG</code> constant set in your <code>wp-config.php</code> file accordingly eg. de_DE
+4. If needed, rename the file to match your textdomain. If you are using the lite version, rename it to "newsletters-lite-de_DE.mo" for example.
+5. Go to Newsletters > Configuration > System > WordPress Related in the plugin and tick/check "Yes, load external language file" for the "Load External Language" setting.
+6. Ensure that you have the <code>WPLANG</code> constant set in your <code>wp-config.php</code> file accordingly eg. de_DE
 
 Please note, if you don't tick/check that setting in #4 above, the plugin will look inside "wp-content/plugins/wp-mailinglist/languages/" for a language file.
 
@@ -40,3 +41,21 @@ Follow these steps to update language files:
 5. Translate/update strings as needed and then save the .PO file. It will automatically generate a new .MO file which can be used with the plugin and WordPress
 
 For any questions or problems, please contact us: http://tribulant.com/support/
+
+## Languages
+
+Thank you for these wonderful people who contributed in translating the plugin:
+
+* Afrikaans (af_ZA) by Tribulant Software
+* German (de_DE) by Peter Schonmann
+* Spanish (es_ES) by Juan Llamosas
+* French (fr_FR) by Kim Gjerstad
+* Hungarian (hu_HU) by Almási Gergely
+* Italian (it_IT) by Johnny
+* Lithuanian (lt_LT) by Tomas
+* Dutch (nl_NL) by <a href="http://www.webzenz.nl">Ronald de Caluwe | WebZenz</a>
+* Brazilian Portuguese (pt_BR) by Vitor Argos
+* Portuguese (pt_PT) by wordpress.mowster.net
+* Romanian (ro_RO) by <a href="http://richardconsulting.ro">Richard Vencu</a>
+* Swedish (sv_SE) by Tomas Lindhoff
+* Turkish (tr_TR) by Sersah Namoglu
