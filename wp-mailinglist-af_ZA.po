@@ -774,7 +774,7 @@ msgstr "%s van 500 (%s&#37;) inskrywers gebruik"
 
 #: models/newsletter.php:96
 msgid "%s of 1000 (%s&#37;) emails used (resets on 1st of month)"
-msgstr ""
+msgstr "%s van 1000 (%s&#37;) eposse gebruik (herstel weer op die 1ste)"
 
 #: models/newsletter.php:110 views/admin/settings-submitserial.php:2
 #: views/admin/settings-submitserial.php:24 views/admin/submitserial.php:26
@@ -829,11 +829,11 @@ msgstr ""
 #: models/order.php:219 wp-mailinglist.php:5635 wp-mailinglist.php:5664
 #: wp-mailinglist.php:5676
 msgid "No order ID was specified"
-msgstr ""
+msgstr "Geen order ID was gespesifiseer nie"
 
 #: models/order.php:231
 msgid "No order records were removed"
-msgstr ""
+msgstr "Geen order rekords was verwyder nie"
 
 #: models/order.php:235
 msgid "No subscriber ID was specified for deleting orders"
@@ -841,15 +841,15 @@ msgstr ""
 
 #: models/post.php:85
 msgid "No post was specified"
-msgstr ""
+msgstr "Geen pos was gespesifiseer nie"
 
 #: models/post.php:86
 msgid "No sent status was specified"
-msgstr ""
+msgstr "Geen gestuurde status was gespesifiseer nie"
 
 #: models/queue.php:201 wp-mailinglist-plugin.php:5198
 msgid "No subscriber specified"
-msgstr ""
+msgstr "Geen inskrywer was gespesifiseer nie"
 
 #: models/queue.php:284
 msgid "Query failed, email may already be queued?"
@@ -861,7 +861,7 @@ msgstr ""
 
 #: models/subscriber.php:459
 msgid "Please fill in a searchterm"
-msgstr ""
+msgstr "Vul n soekterm in"
 
 #: models/subscriber.php:460
 msgid "Please select a search type"
@@ -889,7 +889,7 @@ msgstr "Validering foutief, dit lyk soos spam"
 
 #: models/subscriber.php:691
 msgid "Email exists, therefore the appropriate lists have been checked below. Please submit again"
-msgstr ""
+msgstr "Epos bestaan. Die huidige lyste was hieronder nou gekies. Stuur weer."
 
 #: models/subscriber.php:694 wp-mailinglist-plugin.php:1311
 msgid "Please fill in a valid email address"
@@ -1003,11 +1003,11 @@ msgstr "Geen login ID is gestuur nie"
 
 #: vendors/class.pop3_new.php:118 vendors/class.pop3_new.php:138
 msgid "connection not established"
-msgstr ""
+msgstr "konneksie kon nie gemaak word nie"
 
 #: vendors/class.pop3_new.php:135 vendors/class.pop3_new.php:171
 msgid "No password submitted"
-msgstr ""
+msgstr "Geen wagwoord was gestuur nie"
 
 #: vendors/class.pop3_new.php:143
 #, fuzzy
@@ -1024,7 +1024,7 @@ msgstr ""
 
 #: vendors/class.pop3_new.php:168
 msgid "No login ID submitted"
-msgstr ""
+msgstr "Geen login ID is gestuur nie"
 
 #: vendors/class.pop3_new.php:176
 msgid "No server banner"
@@ -1061,11 +1061,11 @@ msgstr ""
 
 #: vendors/class.update.php:18
 msgid "Something went wrong!"
-msgstr ""
+msgstr "Iets het fout gegaan!"
 
 #: vendors/class.update.php:19
 msgid "Please try again or <a href=\"http://tribulant.com/support/\" target=\"_blank\">contact us</a>."
-msgstr ""
+msgstr "Probeer weer of <a href=\"http://tribulant.com/support/\" target=\"_blank\">kontak ons</a>."
 
 #: vendors/uploadify/upload.php:19
 #, fuzzy
@@ -1074,7 +1074,7 @@ msgstr "E-pos kon nie gestuur word nie"
 
 #: vendors/uploadify/upload.php:22
 msgid "Invalid file type"
-msgstr ""
+msgstr "Ongeldige leer tipe"
 
 #: vendors/uploadify/upload.php:25
 #, fuzzy
@@ -1109,7 +1109,7 @@ msgstr ""
 
 #: views/admin/about.php:25
 msgid "WPML integration"
-msgstr ""
+msgstr "WPML integrasie"
 
 #: views/admin/about.php:26
 msgid "This version of the Newsletter plugin is fully integrated with WPML. It now supports internationalization and multilanguage through WPML."
@@ -1117,7 +1117,7 @@ msgstr ""
 
 #: views/admin/about.php:30 views/admin/settings/api.php:11
 msgid "JSON API"
-msgstr ""
+msgstr "JSON API"
 
 #: views/admin/about.php:31
 msgid "The JSON API is a direct bridge and communication channel between any code or application and the Newsletter plugin itself, including it's database."
@@ -1125,7 +1125,7 @@ msgstr ""
 
 #: views/admin/about.php:41
 msgid "Clicks section in admin"
-msgstr ""
+msgstr "Klieke afdeling in admin"
 
 #: views/admin/about.php:42
 msgid "A new clicks section in admin to view and manage all clicks on links. You can view all links and clicks per individual subscriber and all clicks per link."
@@ -1199,7 +1199,7 @@ msgstr ""
 
 #: views/admin/about.php:94
 msgid "More Hooks"
-msgstr ""
+msgstr "Meer hake"
 
 #: views/admin/about.php:95
 msgid "We've added more action and filter hooks to the core of the plugin which can be used by developers to integrate their own apps or 3rd party plugins as needed. If you need specific hooks, please contact us and we'll add it."
@@ -1216,24 +1216,24 @@ msgstr ""
 
 #: views/admin/autoresponderemails/index.php:9
 msgid "All Autoresponder Emails"
-msgstr ""
+msgstr "Alle terugvoerder eposse"
 
 #: views/admin/autoresponderemails/index.php:10
 msgid "Unsent Autoresponder Emails"
-msgstr ""
+msgstr "Ongestuurde terugvoerder eposse"
 
 #: views/admin/autoresponderemails/index.php:11
 msgid "Sent Autoresponder Emails"
-msgstr ""
+msgstr "Gestuurde terugvoerder eposse"
 
 #: views/admin/autoresponderemails/index.php:14
 msgid "All Autoresponders"
-msgstr ""
+msgstr "Alle terugvoerders"
 
 #: views/admin/autoresponderemails/index.php:21
 #: views/admin/queues/index.php:120 views/admin/subscribers/index.php:50
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 #: views/admin/autoresponderemails/index.php:22
 msgid "Filter the autoresponder emails below by status (sent/unsent) and by specific autoresponder to find the email(s) that you might be looking for."
@@ -1241,7 +1241,7 @@ msgstr ""
 
 #: views/admin/autoresponderemails/index.php:27
 msgid "autoresponder emails"
-msgstr ""
+msgstr "terugvoerder eposse"
 
 #: views/admin/autoresponderemails/index.php:29
 #: views/admin/autoresponders/index.php:25 views/admin/clicks/index.php:9
@@ -1252,7 +1252,7 @@ msgstr ""
 #: views/admin/subscribers/unsubscribes.php:11
 #: views/admin/templates/index.php:8 views/admin/themes/index.php:9
 msgid "Show All"
-msgstr ""
+msgstr "Wys Almal"
 
 #: views/admin/autoresponderemails/index.php:31
 #: views/admin/autoresponders/index.php:27 views/admin/clicks/index.php:11
@@ -1263,7 +1263,7 @@ msgstr ""
 #: views/admin/subscribers/unsubscribes.php:13
 #: views/admin/templates/index.php:10 views/admin/themes/index.php:11
 msgid "Show Paging"
-msgstr ""
+msgstr "Wys Bladsye"
 
 #: views/admin/autoresponderemails/loop.php:2
 msgid "Are you sure you want to execute this action on the selected autoresponder emails?"
@@ -1302,11 +1302,11 @@ msgstr ""
 #: views/admin/templates/loop.php:100 views/admin/templates/view.php:13
 #: views/admin/themes/loop.php:7 views/admin/themes/loop.php:90
 msgid "Delete"
-msgstr ""
+msgstr "Verwyder"
 
 #: views/admin/autoresponderemails/loop.php:8
 msgid "Send Selected"
-msgstr ""
+msgstr "Stuur Geselekteerde"
 
 #: views/admin/autoresponderemails/loop.php:10
 #: views/admin/autoresponders/loop.php:14 views/admin/clicks/loop.php:9
@@ -1337,7 +1337,7 @@ msgstr ""
 #: views/admin/themes/loop.php:30 views/admin/themes/loop.php:53
 #: wp-mailinglist.php:4563
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: views/admin/autoresponderemails/loop.php:38
 #: views/admin/autoresponderemails/loop.php:84 views/admin/clicks/loop.php:27
@@ -1346,12 +1346,12 @@ msgstr ""
 #: views/admin/orders/loop.php:87 views/admin/orders/view.php:31
 #: views/admin/queues/loop.php:45 views/admin/queues/loop.php:96
 msgid "Subscriber"
-msgstr ""
+msgstr "Inskrywer"
 
 #: views/admin/autoresponderemails/loop.php:45
 #: views/admin/autoresponderemails/loop.php:90
 msgid "Autoresponder"
-msgstr ""
+msgstr "Terugvoerder"
 
 #: views/admin/autoresponderemails/loop.php:52
 #: views/admin/autoresponderemails/loop.php:96
