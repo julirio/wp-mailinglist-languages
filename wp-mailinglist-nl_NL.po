@@ -10181,3 +10181,8 @@ msgstr "Extensie is gedeactiveerd."
 msgid "Extensions settings have been saved."
 msgstr "Extensie instellingen zijn bewaard."
 
+#: wp-mailinglist-plugin.php:3406
+msgctxt "timezone date format"
+msgid "Y-m-d G:i:s"
+msgstr "Y-m-d G:i:s"
+
