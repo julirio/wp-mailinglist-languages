@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WordPress Newsletter plugin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-09 15:21+0200\n"
+"POT-Creation-Date: 2014-10-09 16:01+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Tribulant Software <support@tribulant.com>\n"
 "Language-Team: Almási Gergely <info@idsign.hu>\n"
@@ -12,9 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e\n"
-"X-Poedit-Basepath: ../newsletters-lite\n"
+"X-Poedit-Basepath: ../newsletters-lite/\n"
 "X-Generator: Poedit 1.6.9\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: helpers/form.php:159
@@ -176,12 +175,11 @@ msgstr "Sorban álló levelek"
 #: wp-mailinglist.php:2128
 #, fuzzy
 msgid "Sent &amp; Draft Emails"
-msgstr "Többrészes levél küldése"
+msgstr "Multi formátumú levél küldése"
 
 #: helpers/html.php:389
-#, fuzzy
 msgid "Links"
-msgstr "Hasznos linkek"
+msgstr ""
 
 #: helpers/html.php:392 views/admin/links/loop.php:5
 #: views/admin/links/loop.php:36 views/admin/links/loop.php:54
@@ -1143,9 +1141,9 @@ msgid "No file data was posted"
 msgstr "Nem került adat elküldésre"
 
 #: views/admin/about.php:9
-#, fuzzy, php-format
+#, php-format
 msgid "Welcome to Tribulant Newsletters %s"
-msgstr "Hírlevelek %s"
+msgstr ""
 
 #: views/admin/about.php:11
 #, php-format
@@ -1988,17 +1986,15 @@ msgid "You can choose an existing newsletter or create one now."
 msgstr "Válaszhat a létező levlek közül vagy létrehozhat újat is"
 
 #: views/admin/autoresponders/save.php:90
-#, fuzzy
 msgid "Sent/Draft Newsletter"
-msgstr "Előzméyn/Piszkozat Hírlevél"
+msgstr "Előzmény/Piszkozat Hírlevél"
 
 #: views/admin/autoresponders/save.php:91
-#, fuzzy
 msgid ""
 "Choose the existing sent/draft email to use from the Newsletters > History/"
 "Draft Emails section as is."
 msgstr ""
-"Válasszon egy előzmény/piszkozat levelet amit autmatikus válasznak kíván "
+"Válasszon egy előzmény/piszkozat levelet amit automatikus válasznak kíván "
 "használni."
 
 #: views/admin/autoresponders/save.php:95 views/admin/import-export.php:145
@@ -2118,7 +2114,6 @@ msgstr "Heti"
 
 #: views/admin/autoresponders/save.php:191
 #: views/admin/metaboxes/welcome/stats.php:12
-#, fuzzy
 msgid "Years"
 msgstr "Évente"
 
@@ -2483,12 +2478,12 @@ msgstr "Beállítások"
 
 #: views/admin/extensions/index.php:91
 msgid "Not Installed"
-msgstr "Ninncs installálva"
+msgstr "Nincs installálva"
 
 #: views/admin/extensions/index.php:92
 #, fuzzy
 msgid "Get it now"
-msgstr "Hasznos linkek"
+msgstr "Hírlevél létrehozása"
 
 #: views/admin/extensions/index.php:97
 msgid "Installed but Inactive"
@@ -2508,7 +2503,7 @@ msgstr "Kezelés"
 
 #: views/admin/fields/index.php:2
 msgid "Manage Custom Fields"
-msgstr "Egyedi mezők kezeléáse"
+msgstr "Egyedi mezők kezelése"
 
 #: views/admin/fields/index.php:2
 msgid "Create a new custom field"
@@ -2533,7 +2528,7 @@ msgstr "Egyedi mezők válogatása/rendezés"
 
 #: views/admin/fields/loop.php:12
 msgid "Order Fields"
-msgstr "Rendezési mezők"
+msgstr "Mezők rendezése"
 
 #: views/admin/fields/loop.php:18 views/admin/fields/loop.php:70
 #: views/admin/fields/loop.php:119 views/admin/fields/save.php:131
@@ -2819,7 +2814,7 @@ msgstr "Csoport keresése"
 
 #: views/admin/groups/loop.php:2
 msgid "Are you sure you wish to execute this action on the selected groups?"
-msgstr "Biztosan végre kívánja ezt hajtani az össze kiválasztott csoporton?"
+msgstr "Biztosan végre kívánja ezt hajtani az összes kiválasztott csoporton?"
 
 #: views/admin/groups/loop.php:7 views/admin/mailinglists/loop.php:7
 msgid "Delete Selected"
@@ -3727,7 +3722,7 @@ msgstr "Levelezési lista részleteinek megtekintése"
 
 #: views/admin/mailinglists/loop.php:172
 msgid "Admin Email:"
-msgstr "ADmin e-mail címe:"
+msgstr "Admin e-mail címe:"
 
 #: views/admin/mailinglists/loop.php:175
 #, fuzzy
@@ -4467,9 +4462,8 @@ msgid "Open in New Window"
 msgstr ""
 
 #: views/admin/metaboxes/send-preview.php:5
-#, fuzzy
 msgid "Update Preview"
-msgstr "Előnézet kiküldése"
+msgstr "Előnézet frissítés"
 
 #: views/admin/metaboxes/send-preview.php:10
 #, fuzzy
@@ -4525,23 +4519,22 @@ msgstr "Mutassa a közzétételi dátumot ennél a bejegyzésnél?"
 
 #: views/admin/metaboxes/send-submit.php:6
 msgid "Save Draft"
-msgstr "Piszkozat mnetése"
+msgstr "Piszkozat mentése"
 
 #: views/admin/metaboxes/send-submit.php:9
 msgid "Send Preview"
-msgstr "Előnézet kiküldése"
+msgstr "Teszt küldés"
 
 #: views/admin/metaboxes/send-submit.php:16
-#, fuzzy
 msgid "Send To:"
-msgstr "Küldés most"
+msgstr "Küldés:"
 
 #: views/admin/metaboxes/send-submit.php:17
 #, fuzzy
 msgid ""
 "Specify the email address(es) to send this newsletter as a preview to. For "
 "multiple emails, separate them with a comma (,)"
-msgstr "Adjno meg egy címet ahová a teszt levél kiküldésre kerül"
+msgstr "Adjon meg egy címet ahová a teszt levél kiküldésre kerülhet"
 
 #: views/admin/metaboxes/send-submit.php:21 views/admin/templates/view.php:11
 msgid "Send"
@@ -4554,9 +4547,8 @@ msgid "Cancel"
 msgstr "Mégsem"
 
 #: views/admin/metaboxes/send-submit.php:30
-#, fuzzy
 msgid "Send from"
-msgstr "Küldés most"
+msgstr "Küldő"
 
 #: views/admin/metaboxes/send-submit.php:32
 msgid ""
@@ -4565,14 +4557,12 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/send-submit.php:40
-#, fuzzy
 msgid "From Name:"
-msgstr "Küldő neve"
+msgstr "Küldő neve:"
 
 #: views/admin/metaboxes/send-submit.php:44
-#, fuzzy
 msgid "From Email:"
-msgstr "ADmin e-mail címe:"
+msgstr "Feladó e-mail címe:"
 
 #: views/admin/metaboxes/send-submit.php:48
 #: views/admin/metaboxes/send-submit.php:123
@@ -4676,9 +4666,8 @@ msgid "Remove this newsletter from your history"
 msgstr "Hírlevél eltávolítása az előzményekből"
 
 #: views/admin/metaboxes/send-submit.php:248
-#, fuzzy
 msgid "Delete Email"
-msgstr "Teszt üzenet"
+msgstr "Levél törlése"
 
 #: views/admin/metaboxes/send-submit.php:249
 msgid ""
@@ -4712,18 +4701,16 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-bounce.php:10
-#, fuzzy
 msgid "Should a subscriber be deleted when an email to a subscriber bounces?"
 msgstr ""
 "E-mail küldése az adminisztrátornak, ha egy levél visszapattan a "
-"feliratkozóról."
+"feliratkozóról?"
 
 #: views/admin/metaboxes/settings-bounce.php:20
 msgid "Bounce Count"
 msgstr "Visszapattanások száma"
 
 #: views/admin/metaboxes/settings-bounce.php:21
-#, fuzzy
 msgid ""
 "The number of emails to bounce to a subscriber before it is deleted. Use a "
 "number 1 (immediate delete) or higher."
@@ -4740,11 +4727,10 @@ msgid "Admin Notify on Bounce"
 msgstr "Admin értesítése visszapatanó levélről"
 
 #: views/admin/metaboxes/settings-bounce.php:39
-#, fuzzy
 msgid "Should the admin be notified when an email to a subscriber has bounced?"
 msgstr ""
 "E-mail küldése az adminisztrátornak, ha egy levél visszapattan a "
-"feliratkozóról."
+"feliratkozóról?"
 
 #: views/admin/metaboxes/settings-bounce.php:43
 msgid "Bounce Receival Email"
@@ -4985,7 +4971,7 @@ msgstr "jQuery UI lapok"
 #: views/admin/metaboxes/settings-customcss.php:66
 #: views/admin/metaboxes/settings-customcss.php:75
 msgid "Yes, load this script"
-msgstr "Igen, töltse ba a kódot"
+msgstr "Igen, töltse be a kódot"
 
 #: views/admin/metaboxes/settings-customcss.php:51
 #: views/admin/metaboxes/settings-customcss.php:59
@@ -5091,9 +5077,8 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-general.php:26
-#, fuzzy
 msgid "Email address of the administrator for notification purposes."
-msgstr "Cron elindulásakor az adminisztrátort értesítse"
+msgstr ""
 
 #: views/admin/metaboxes/settings-general.php:30
 msgid "From Address"
@@ -5385,8 +5370,8 @@ msgid ""
 "Should imported users be required to activate/confirm their subscription via "
 "email?"
 msgstr ""
-"Az importált feliratkozók számára kötelező az aktiválás/megerősítés e--"
-"mailen keresztül?"
+"Az importált feliratkozók számára kötelező az aktiválás/megerősítés e-mailen "
+"keresztül?"
 
 #: views/admin/metaboxes/settings-importusers.php:87
 msgid "Import Custom Fields"
@@ -6119,15 +6104,15 @@ msgstr ""
 
 #: views/admin/metaboxes/settings-sending.php:62
 msgid "Send Multipart Emails"
-msgstr "Többrészes levél küldése"
+msgstr "Multi formátumú levél küldése"
 
 #: views/admin/metaboxes/settings-sending.php:66
 msgid ""
 "Send emails in both plain text and HTML mime types to let the client "
 "software decide which to use."
 msgstr ""
-"Egyzserű szöveg és HTML formában is küldjük a levelet és az felhasználó "
-"kliense eldönti melyiket fogja használni."
+"Egyszerű szöveg és HTML formában is küldjük a levelet és az felhasználó "
+"kliense eldönti melyiket tudja megjeleníteni."
 
 #: views/admin/metaboxes/settings-sending.php:70
 msgid "Theme In TEXT Version"
@@ -6373,9 +6358,8 @@ msgid "Admin Notification on Subscription"
 msgstr "Admin értesítése feliratkozáskor"
 
 #: views/admin/metaboxes/settings-subscribers.php:159
-#, fuzzy
 msgid "Require Confirmation?"
-msgstr "Küldés megerősítése"
+msgstr "Szükséges megerősítés?"
 
 #: views/admin/metaboxes/settings-subscribers.php:161
 msgid "Yes, confirm email address"
@@ -6392,7 +6376,6 @@ msgstr ""
 "Dupla megerősítéses feliratkozás szükséges az a feliratkozás aktiválkáshoz?"
 
 #: views/admin/metaboxes/settings-subscribers.php:173
-#, fuzzy
 msgid "Confirmation Emails"
 msgstr "Megerősítő e-mail"
 
@@ -6499,7 +6482,6 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscriptions.php:17
-#, fuzzy
 msgid "Turn On to allow paid subscriptions."
 msgstr "Fizetős feliratkozás engedélyezése"
 
@@ -6891,7 +6873,7 @@ msgstr ""
 #: views/admin/metaboxes/settings-wprelated.php:45
 #, fuzzy
 msgid "Current Language"
-msgstr "Jelenlegi dátum/idő:"
+msgstr "Nyelv szerint automatikusan"
 
 #: views/admin/metaboxes/settings-wprelated.php:50
 #, fuzzy, php-format
@@ -7333,9 +7315,8 @@ msgstr "Levél üzenete"
 
 #: views/admin/metaboxes/templates/latestposts.php:50
 #: views/admin/metaboxes/templates/posts.php:51
-#, fuzzy
 msgid "Shortcode Information"
-msgstr "Küldés megerősítése"
+msgstr "Rövidkód információk"
 
 #: views/admin/metaboxes/templates/latestposts.php:51
 #: views/admin/metaboxes/templates/posts.php:52
@@ -7412,7 +7393,6 @@ msgid "Manage History Emails"
 msgstr "Előzmény levelek kezelése"
 
 #: views/admin/metaboxes/welcome/history.php:25
-#, fuzzy
 msgid "(Draft)"
 msgstr "Piszkozat"
 
@@ -7464,7 +7444,6 @@ msgid "Subscriber..."
 msgstr "Feliratkozó"
 
 #: views/admin/metaboxes/welcome/stats.php:13
-#, fuzzy
 msgid "Months"
 msgstr "Havi"
 
@@ -7475,9 +7454,8 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/welcome/stats.php:24
-#, fuzzy
 msgid "to"
-msgstr "Állj"
+msgstr ""
 
 #: views/admin/metaboxes/welcome/stats.php:27
 msgid ""
@@ -7531,7 +7509,7 @@ msgstr "Adatok olvasása, kérem várjon"
 
 #: views/admin/offsite-wizard.php:2
 msgid "Offsite Wizard"
-msgstr "Oldaon kívüli varásló"
+msgstr "Oldalon kívüli varászló"
 
 #: views/admin/offsite-wizard.php:7
 #, fuzzy
@@ -7547,9 +7525,8 @@ msgid "iFrame"
 msgstr ""
 
 #: views/admin/offsite-wizard.php:11
-#, fuzzy
 msgid "HTML"
-msgstr "HTML kód beillesztése"
+msgstr ""
 
 #: views/admin/offsite-wizard.php:12
 msgid ""
@@ -7629,7 +7606,7 @@ msgstr "Kód másolása és beillesztése bármely egyéb honlapba"
 
 #: views/admin/orders/index.php:2
 msgid "Manage Orders"
-msgstr "Feliratkozás szabályok kezelése"
+msgstr "Megrendelt előfizetések kezelése"
 
 #: views/admin/orders/index.php:6
 msgid "subscription orders"
@@ -7662,9 +7639,8 @@ msgstr ""
 "is eltávolításra kerülnek"
 
 #: views/admin/orders/loop.php:130
-#, fuzzy
 msgid "View Order"
-msgstr "Rendelés megtekintése:"
+msgstr "Rendelés megtekintése"
 
 #: views/admin/orders/loop.php:134 views/admin/subscribers/loop.php:212
 msgid "View the details of this subscriber"
@@ -7742,9 +7718,8 @@ msgid "Schedule Details"
 msgstr "Ütemezés tulajdonságai"
 
 #: views/admin/queues/index.php:7
-#, fuzzy
 msgid "Configure Email Scheduling"
-msgstr "Levelek időzítése"
+msgstr "Levelek időzítésének bállítása"
 
 #: views/admin/queues/index.php:15
 msgid "Total emails in queue"
@@ -8335,7 +8310,7 @@ msgstr "Bejegyzés elérésiútjának beillesztése"
 
 #: views/admin/setvariables.php:54
 msgid "Inserts the email address of each user"
-msgstr "Az össze sfelhasználó e-mailcímét beilleszti"
+msgstr "Az összes felhasználó e-mailcímét beilleszti"
 
 #: views/admin/setvariables.php:61
 msgid "Display the title/subject of this newsletter in the content."
@@ -8373,7 +8348,7 @@ msgstr "Aktiválási link létrehozás minden felhasználóhoz"
 
 #: views/admin/setvariables.php:113
 msgid "Creates a link which takes the subscriber to a management page"
-msgstr "Elkésziti a linket ami a feliratkozót a kezelő oldara irányítja"
+msgstr "Elkésziti a linket ami a feliratkozót a kezelő oldalra irányítja"
 
 #: views/admin/setvariables.php:119
 msgid "Display a link for subscribers to view the newsletter online"
@@ -8394,7 +8369,7 @@ msgstr "Titkos követőkód beillesztése ebbe a levélbe"
 
 #: views/admin/setvariables.php:137
 msgid "Output the total email bounces for the subscriber."
-msgstr "Kijelzi az összes visszapattanó levelet afelhasználónként."
+msgstr "Kijelzi az összes visszapattanó levelet felhasználónként."
 
 #: views/admin/setvariables.php:143
 msgid "Output all custom fields with values in a table for the subscriber."
@@ -8698,7 +8673,7 @@ msgid ""
 "it is recommended that you use HTML format and turn on multi-part emails "
 "under Newsletters > Configuration for compatibility."
 msgstr ""
-"ajánlott a  HTML használata és kapcsolja be a több részes levleket a "
+"ajánlott a  HTML használata és kapcsolja be a több formátumú leveleket a "
 "Hírlevelek - > Beállítások mneűben a kompatibiltáshoz"
 
 #: views/admin/subscribers/save.php:99
@@ -8804,7 +8779,7 @@ msgstr "Leiratkozás"
 #: views/admin/subscribers/unsubscribes.php:143
 #, fuzzy
 msgid "Delete Subscriber"
-msgstr "Sikertelen felirakozások"
+msgstr "Feliratkozó mentése"
 
 #: views/admin/subscribers/unsubscribes.php:151
 #, fuzzy
@@ -8865,7 +8840,7 @@ msgstr "Regisztrált felhasználónév"
 
 #: views/admin/subscribers/view.php:150 wp-mailinglist.php:2146
 msgid "Subscription Orders"
-msgstr "Feliratkozási szabályok"
+msgstr "Előfizetések"
 
 #: views/admin/templates/index.php:2
 #, fuzzy
@@ -8887,9 +8862,8 @@ msgid "Search Snippets"
 msgstr "Lista keresése"
 
 #: views/admin/templates/loop.php:2
-#, fuzzy
 msgid "Are you sure you wish to execute this action on the selected snippets?"
-msgstr "Biztosan végre kívánja ezt hajtani az össze kiválasztott csoporton?"
+msgstr "Biztosan végre kívánja ezt hajtani az összes kiválasztott csoporton?"
 
 #: views/admin/templates/loop.php:88
 #, fuzzy
@@ -9089,7 +9063,7 @@ msgstr "Téma előnézete:"
 
 #: views/admin/themes/save-ajax.php:2 views/admin/themes/save.php:2
 msgid "Save a Theme"
-msgstr "Téam mentése"
+msgstr "Téma mentése"
 
 #: views/admin/themes/save-ajax.php:5 views/admin/themes/save.php:5
 msgid ""
@@ -9527,9 +9501,8 @@ msgid "TEXT"
 msgstr ""
 
 #: views/default/management/customfields.php:30
-#, fuzzy
 msgid "Save Profile"
-msgstr "Profil"
+msgstr "Profil mentése"
 
 #: views/default/management/customfields.php:37
 msgid "No custom fields are available at this time."
@@ -9603,7 +9576,7 @@ msgstr ""
 
 #: views/default/management/login.php:14
 msgid "Send Confirmation"
-msgstr "Küldés megerősítése"
+msgstr "Megerősítés küldése"
 
 #: views/default/management/login.php:18
 msgid "Enter email address"
@@ -9774,11 +9747,11 @@ msgstr ""
 
 #: wp-mailinglist-plugin.php:217
 msgid "Left"
-msgstr ""
+msgstr "Bal"
 
 #: wp-mailinglist-plugin.php:218
 msgid "Right"
-msgstr ""
+msgstr "Jobb"
 
 #: wp-mailinglist-plugin.php:221
 #, fuzzy
@@ -10073,7 +10046,7 @@ msgstr "Hitelesítő szöveg nem hozható létre"
 msgid ""
 "Subscriber with that email address cannot be found, please try a different "
 "email address."
-msgstr "Ezzel az e-mail címmel nincs feliratkozó, próbáljon egy másik címet"
+msgstr "Ezzel az e-mail címmel nincs feliratkozó, ellenőrizze a címet!"
 
 #: wp-mailinglist-plugin.php:2632
 msgid "Please fill in a valid email address."
@@ -10162,7 +10135,7 @@ msgstr "Jelszó"
 
 #: wp-mailinglist-plugin.php:5971 wp-mailinglist-plugin.php:6050
 msgid "Receive news updates via email from this site"
-msgstr "Friss hírek fogadása e-mailen keresztül erről az oldalról"
+msgstr "Értesítés új hozzászólás esetén"
 
 #: wp-mailinglist-plugin.php:5978
 #, fuzzy
@@ -10371,7 +10344,7 @@ msgstr ""
 #: wp-mailinglist.php:357
 #, fuzzy
 msgid "Tribulant Newsletters"
-msgstr "Hírlevél bővítmény"
+msgstr "Tribulant hírek"
 
 #: wp-mailinglist.php:357
 #, fuzzy
@@ -10445,7 +10418,7 @@ msgstr "Alap téma hozzáadva"
 
 #: wp-mailinglist.php:637
 msgid "Please login as administrator for stock themes to be loaded"
-msgstr "Jelentkezzen be rendszergazdaként, hogy betöltehesse az alap témákat"
+msgstr "Jelentkezzen be rendszergazdaként, hogy betölthesse az alap témákat"
 
 #: wp-mailinglist.php:655
 msgid "Newsletter Theme Preview"
@@ -10738,7 +10711,7 @@ msgstr ""
 #: wp-mailinglist.php:2228
 #, fuzzy
 msgid "Live Preview"
-msgstr "Előnézet kiküldése"
+msgstr "Teszt küldés"
 
 #: wp-mailinglist.php:2228
 msgid ""
@@ -10983,7 +10956,7 @@ msgstr "A levél ütemezeve:"
 msgid ""
 "Draft has been successfully saved. It has been saved to your email history."
 msgstr ""
-"A piszkozat sikeresen mentésre került. A korábbi levlek között megtalálható"
+"A piszkozat sikeresen mentésre került. A korábbi levelek között megtalálható"
 
 #: wp-mailinglist.php:2969
 msgid "Draft could not be saved. Please fill in all required fields"
@@ -11319,7 +11292,7 @@ msgstr "Sorozatszám törölve"
 #: wp-mailinglist.php:4134
 #, fuzzy
 msgid "User could not be deleted"
-msgstr "Feliratkozó nem olvasható"
+msgstr "E-mail küldése sikertelen"
 
 #: wp-mailinglist.php:4138
 #, fuzzy
@@ -11825,36 +11798,42 @@ msgstr "Kiegészítő kikapcsolva"
 msgid "Extensions settings have been saved."
 msgstr "Kiegészítő adatok elmenteve"
 
-#~ msgid "Buy Now"
-#~ msgstr "Vásárlás most"
+#~ msgid "Class method does not exist"
+#~ msgstr "Osztály mód nem létezik"
 
-#~ msgid "Generate offsite code for this list"
-#~ msgstr "Oldalon kivüli kód generálása ehhez a listához"
+#~ msgid "You are not allowed to access this page"
+#~ msgstr "Nincs hozzáférésed az oldalhoz"
 
-#~ msgid "Change the details of this mailing list"
-#~ msgstr "Levelezéási lista tulajdonságainak változtatása"
+#~ msgid "No method was specified"
+#~ msgstr "Nincs mód kiválasztva"
 
-#~ msgid "Remove this mailing list permanently"
-#~ msgstr "Levelezési lista végeleges eltávolítása"
+#~ msgid "Submit another subscription"
+#~ msgstr "Új feliratkozás elküldése"
 
-#~ msgid "Users Import List(s)"
-#~ msgstr "Importált felhasználók listája"
+#~ msgid "Subscribe Again"
+#~ msgstr "Újra feliratkozás"
 
-#~ msgid "Mailing list(s) to import users into as subscribers."
-#~ msgstr "Lista, melybe a feliratkozókat importáljuk"
+#~ msgid "There is a new version of the Newsletter plugin available."
+#~ msgstr "Új verzió elérhető a kiegészítőből"
 
-#~ msgid "Custom Activate Redirect"
-#~ msgstr "Egyedi aktiválási átirányítás"
+#~ msgid "or <a href=\"%s\">update automatically</a>."
+#~ msgstr "vagy <a href=\"%s\">frissítés automatikusan</a>."
 
-#~ msgid "Activate Redirect URL"
-#~ msgstr "Átirányítás aktiválása"
+#~ msgid "Please ensure that you have cookies enabled in your browser."
+#~ msgstr ""
+#~ "Győződjön meg róly, hogfy a sütik engedélyezve vannak a böngészőjében!"
 
-#~ msgid "Installation Wizard"
-#~ msgstr "Telepítési varázsló"
+#~ msgid ""
+#~ "Please fill in a serial key for the Newsletter plugin to continue use."
+#~ msgstr ""
+#~ "Kérem adja meg a sorozatszámot, hogy használhassa a Newsletter bővítményt!"
 
-#, fuzzy
-#~ msgid "review"
-#~ msgstr "Előnézet"
+#~ msgid "Draft could not be saved"
+#~ msgstr "Piszkozat nem menthető"
+
+#~ msgid "Draft could not be saved, please select at least one mailing list."
+#~ msgstr ""
+#~ "Piszkozat nem menthető, kérem legalább egy levelező listát válasszon"
 
 #~ msgid "subscribers have been exported. %s"
 #~ msgstr "feliratkozók exportálása sikeres. %s"
@@ -11863,22 +11842,23 @@ msgstr "Kiegészítő adatok elmenteve"
 #~ msgid "Email could not be sent, please check email settings"
 #~ msgstr "Automatikus válaszüzenet mentése sikertelen, próbálja újra"
 
-#~ msgid "Export to CSV"
-#~ msgstr "Exportálás CSV-be"
+#~ msgid "CSV has been exported with filename \""
+#~ msgstr "CSV exportálásra került. Fájl név: \""
 
-#, fuzzy
-#~ msgid "Test POP3 bounce settings"
-#~ msgstr "POP/IMAP visszapattanási beállítások tesztelése"
+#~ msgid "Download the CSV"
+#~ msgstr "CSV letöltése"
 
-#~ msgid ""
-#~ "Select the folder inside \"wp-mailinglist/views/\" to take shop view "
-#~ "files from. eg. \"default\""
-#~ msgstr ""
-#~ "Válasszon ki egy mappát a  \"wp-mailinglist/views/\" belül ahol a fájlok "
-#~ "megtalálhatók pl. \"default\""
+#~ msgid "Subscribe Stats"
+#~ msgstr "Feliratkozási statisztika"
 
-#~ msgid "Give specific roles access to specific sections of the plugin."
-#~ msgstr "A bővítmény hozzáférhetőségének beállítása"
+#~ msgid "Inverse Selection"
+#~ msgstr "Kijelölés megfordítása"
+
+#~ msgid "Subscriber Stats"
+#~ msgstr "Feliratkozók statisztikája"
+
+#~ msgid "Below are your subscriber statistics for the past week"
+#~ msgstr "Itt láthatja a statisztikákat az elmúlt hétre vonatkozóan"
 
 #~ msgid ""
 #~ "You need to fill in a serial key to continue using the Newsletter plugin."
@@ -11886,8 +11866,29 @@ msgstr "Kiegészítő adatok elmenteve"
 #~ "Meg kell adnia  a sorozatszámot mielőtt használni tudná a Hírlevél "
 #~ "bővítményt"
 
-#~ msgid "Auto by Language"
-#~ msgstr "Nyelv szerint automatikusan"
+#~ msgid ""
+#~ "Before updating, please backup any custom folders/files under %s and %s "
+#~ "as they might be overwritten."
+#~ msgstr ""
+#~ "Frissítés előtt kérem készítsen biztonsági másolatot minden egyedi "
+#~ "fájlról és mappáról ami %s és %s között volt módosítva."
+
+#~ msgid "There is a newer version of the Newsletter plugin available."
+#~ msgstr "A Hírlevél bővítmény újabb verziója elérhető"
+
+#~ msgid ""
+#~ "Have you backed up any custom folders/files inside the plugin? Are you "
+#~ "sure you want to delete all the plugin files and install the latest?"
+#~ msgstr ""
+#~ "Készített biztonsági mentést az egyedi mappákról/fájlokrók a "
+#~ "bővítményben? Biztosan törölni akarja a teljes bővítményt és feltelepíti "
+#~ "a legújabbbat?"
+
+#~ msgid "Download Update"
+#~ msgstr "Frissítés letöltése"
+
+#~ msgid "Renew Download Now!"
+#~ msgstr "Letölés megújítása most"
 
 #~ msgid "Subtitle"
 #~ msgstr "Felirat"
@@ -11909,64 +11910,6 @@ msgstr "Kiegészítő adatok elmenteve"
 
 #~ msgid "Use Captcha for form"
 #~ msgstr "Captcha használata fomroknál"
-
-#~ msgid "Your Subscriptions"
-#~ msgstr "Feliratkozásaim"
-
-#~ msgid "With Selected"
-#~ msgstr "Kiválasztottal"
-
-#~ msgid "Execute"
-#~ msgstr "Indítás"
-
-#~ msgid "No subscriptions are available"
-#~ msgstr "Nincs elérhető feliratkozás"
-
-#~ msgid "&larr; "
-#~ msgstr "&larr; "
-
-#~ msgid "Class method does not exist"
-#~ msgstr "Osztály mód nem létezik"
-
-#~ msgid "You are not allowed to access this page"
-#~ msgstr "Nincs hozzáférésed az oldalhoz"
-
-#~ msgid "No method was specified"
-#~ msgstr "Nincs mód kiválasztva"
-
-#~ msgid "Submit another subscription"
-#~ msgstr "Új feliratkozás elküldése"
-
-#~ msgid "Subscribe Again"
-#~ msgstr "Újra feliratkozás"
-
-#~ msgid ""
-#~ "Please fill in a serial key for the Newsletter plugin to continue use."
-#~ msgstr ""
-#~ "Kérem adja meg a sorozatszámot, hogy használhassa a Newsletter bővítményt!"
-
-#~ msgid "CSV has been exported with filename \""
-#~ msgstr "CSV exportálásra került. Fájl név: \""
-
-#~ msgid "Download the CSV"
-#~ msgstr "CSV letöltése"
-
-#~ msgid "qTranslate Language"
-#~ msgstr "qTranslate nyelvek"
-
-#~ msgid "Check All"
-#~ msgstr "Összes bejelölése"
-
-#~ msgid "Inverse Selection"
-#~ msgstr "Kijelölés megfordítása"
-
-#, fuzzy
-#~ msgid "Object Cache"
-#~ msgstr "WordPress fuggő"
-
-#~ msgid "Please ensure that you have cookies enabled in your browser."
-#~ msgstr ""
-#~ "Győződjön meg róly, hogfy a sütik engedélyezve vannak a böngészőjében!"
 
 #~ msgid "No autoresponders found, please add one."
 #~ msgstr "Nincs automatikus válasz, hozzon létre egyet!"
@@ -11993,9 +11936,68 @@ msgstr "Kiegészítő adatok elmenteve"
 #~ "Válassza ki a levelet vagy a levelek sorrendjét amit hozzá kíván adni "
 #~ "ehhez a kampányhoz."
 
+#~ msgid "Export to CSV"
+#~ msgstr "Exportálás CSV-be"
+
+#~ msgid "RSS Feed"
+#~ msgstr "RSS folyam"
+
+#~ msgid "Clear History"
+#~ msgstr "Előzmények törlése"
+
 #, fuzzy
 #~ msgid "No links are available"
 #~ msgstr "Nincsenek elérhető listák"
+
+#~ msgid "Generate offsite code for this list"
+#~ msgstr "Oldalon kivüli kód generálása ehhez a listához"
+
+#~ msgid "Change the details of this mailing list"
+#~ msgstr "Levelezéási lista tulajdonságainak változtatása"
+
+#~ msgid "Remove this mailing list permanently"
+#~ msgstr "Levelezési lista végeleges eltávolítása"
+
+#~ msgid "preview"
+#~ msgstr "előnézet"
+
+#~ msgid "Test POP/IMAP bounce settings"
+#~ msgstr "POP/IMAP visszapattanási beállítások tesztelése"
+
+#~ msgid ""
+#~ "Select the folder inside \"wp-mailinglist/views/\" to take shop view "
+#~ "files from. eg. \"default\""
+#~ msgstr ""
+#~ "Válasszon ki egy mappát a  \"wp-mailinglist/views/\" belül ahol a fájlok "
+#~ "megtalálhatók pl. \"default\""
+
+#~ msgid "Gzip Compression"
+#~ msgstr "Gzip tömörítés"
+
+#~ msgid ""
+#~ "You can turn On Gzip compression to compress data with the PHP "
+#~ "ob_gzhandler."
+#~ msgstr ""
+#~ "Bekapcsolhatja a Gzipő tömörítési eljárást, az badatok tömörítéséhez a "
+#~ "PHP PHP ob_gzhandler fügvénnyel."
+
+#~ msgid "Users Import List(s)"
+#~ msgstr "Importált felhasználók listája"
+
+#~ msgid "Mailing list(s) to import users into as subscribers."
+#~ msgstr "Lista, melybe a feliratkozókat importáljuk"
+
+#~ msgid "qTranslate Language"
+#~ msgstr "qTranslate nyelvek"
+
+#~ msgid "Custom Activate Redirect"
+#~ msgstr "Egyedi aktiválási átirányítás"
+
+#~ msgid "Activate Redirect URL"
+#~ msgstr "Átirányítás aktiválása"
+
+#~ msgid "Give specific roles access to specific sections of the plugin."
+#~ msgstr "A bővítmény hozzáférhetőségének beállítása"
 
 #~ msgid "No subscription orders were found"
 #~ msgstr "Nincsenek feliratkozási szabályok"
@@ -12010,70 +12012,23 @@ msgstr "Kiegészítő adatok elmenteve"
 #~ msgid "No newsletter snippets were found"
 #~ msgstr "Nincs hírlevél sablon"
 
-#~ msgid "There is a new version of the Newsletter plugin available."
-#~ msgstr "Új verzió elérhető a kiegészítőből"
+#~ msgid "Installation Wizard"
+#~ msgstr "Telepítési varázsló"
 
-#~ msgid "or <a href=\"%s\">update automatically</a>."
-#~ msgstr "vagy <a href=\"%s\">frissítés automatikusan</a>."
+#~ msgid "Your Subscriptions"
+#~ msgstr "Feliratkozásaim"
 
-#~ msgid "Draft could not be saved"
-#~ msgstr "Piszkozat nem menthető"
+#~ msgid "With Selected"
+#~ msgstr "Kiválasztottal"
 
-#~ msgid "Draft could not be saved, please select at least one mailing list."
-#~ msgstr ""
-#~ "Piszkozat nem menthető, kérem legalább egy levelező listát válasszon"
+#~ msgid "Execute"
+#~ msgstr "Indítás"
 
-#~ msgid "Subscribe Stats"
-#~ msgstr "Feliratkozási statisztika"
+#~ msgid "No subscriptions are available"
+#~ msgstr "Nincs elérhető feliratkozás"
 
-#~ msgid "Subscriber Stats"
-#~ msgstr "Feliratkozók statisztikája"
-
-#~ msgid "Below are your subscriber statistics for the past week"
-#~ msgstr "Itt láthatja a statisztikákat az elmúlt hétre vonatkozóan"
-
-#~ msgid ""
-#~ "Before updating, please backup any custom folders/files under %s and %s "
-#~ "as they might be overwritten."
-#~ msgstr ""
-#~ "Frissítés előtt kérem készítsen biztonsági másolatot minden egyedi "
-#~ "fájlról és mappáról ami %s és %s között volt módosítva."
-
-#~ msgid "There is a newer version of the Newsletter plugin available."
-#~ msgstr "A Hírlevél bővítmény újabb verziója elérhető"
-
-#~ msgid ""
-#~ "Have you backed up any custom folders/files inside the plugin? Are you "
-#~ "sure you want to delete all the plugin files and install the latest?"
-#~ msgstr ""
-#~ "Készített biztonsági mentést az egyedi mappákról/fájlokrók a "
-#~ "bővítményben? Biztosan törölni akarja a teljes bővítményt és feltelepíti "
-#~ "a legújabbbat?"
-
-#~ msgid "Download Update"
-#~ msgstr "Frissítés letöltése"
-
-#~ msgid "Renew Download Now!"
-#~ msgstr "Letölés megújítása most"
-
-#~ msgid "RSS Feed"
-#~ msgstr "RSS folyam"
-
-#~ msgid "Clear History"
-#~ msgstr "Előzmények törlése"
-
-#~ msgid "preview"
-#~ msgstr "előnézet"
-
-#~ msgid "Gzip Compression"
-#~ msgstr "Gzip tömörítés"
-
-#~ msgid ""
-#~ "You can turn On Gzip compression to compress data with the PHP "
-#~ "ob_gzhandler."
-#~ msgstr ""
-#~ "Bekapcsolhatja a Gzipő tömörítési eljárást, az badatok tömörítéséhez a "
-#~ "PHP PHP ob_gzhandler fügvénnyel."
+#~ msgid "&larr; "
+#~ msgstr "&larr; "
 
 #, fuzzy
 #~ msgid "This email has already been sent to this subscriber before."

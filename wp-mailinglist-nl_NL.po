@@ -2,10 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WordPress Newsletter plugin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-09 15:24+0200\n"
+"POT-Creation-Date: 2014-10-10 12:34+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Tribulant Software <support@tribulant.com>\n"
-"Language-Team: Ronald de Caluwe | WebZenz <rdecaluwe@webzenz.nl>\n"
+"Language-Team: Ronald de Caluwe <rdecaluwe@webzenz.nl>\n"
 "Language: nl_NL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -741,7 +741,7 @@ msgstr "Geen onderwerp gespecificeerd"
 
 #: models/history.php:500 models/queue.php:204 wp-mailinglist-plugin.php:5200
 msgid "No message specified"
-msgstr "Geen bericht gespecificeerd"
+msgstr "Geen boodschap gespecificeerd"
 
 #: models/latestpost.php:61
 msgid "No post ID was specified"
@@ -886,9 +886,8 @@ msgid "No subscriber specified"
 msgstr "Geen abonnee gespecificeerd"
 
 #: models/queue.php:284
-#, fuzzy
 msgid "Query failed, email may already be queued?"
-msgstr "Opdracht mislukt, e-mail kan niet in de wachtrij geplaatst worden."
+msgstr "Opdracht mislukt, e-mail staat misschien al in de wachtrij?"
 
 #: models/queue.php:290
 msgid "Email with this subscriber and history email is already in the queue."
@@ -1095,7 +1094,7 @@ msgstr "verbinding bestaat niet"
 
 #: vendors/class.pop3_new.php:590
 msgid "No msg number submitted"
-msgstr "Geen aantal berichten verzonden"
+msgstr "Geen e-mail aantal verzonden"
 
 #: vendors/class.pop3_new.php:596
 msgid "Command failed "
@@ -1713,7 +1712,7 @@ msgstr "Bewerk"
 
 #: views/admin/autoresponders/loop.php:141
 msgid "Are you sure you want to delete this autoresponder?"
-msgstr "Weet je zeker dat je dit automatische bericht wilt verwijderen?"
+msgstr "Weet je zeker dat je dit automatische antwoord wilt verwijderen?"
 
 #: views/admin/autoresponders/loop.php:142
 #: views/admin/subscribers/view.php:146 wp-mailinglist-plugin.php:616
@@ -1872,7 +1871,7 @@ msgstr "Geactiveerd"
 
 #: views/admin/autoresponders/save.php:14
 msgid "Save an Autoresponder"
-msgstr "Bewaar een automatisch bericht"
+msgstr "Bewaar een automatisch antwoord"
 
 #: views/admin/autoresponders/save.php:22
 msgid "Name"
@@ -1883,14 +1882,14 @@ msgid ""
 "The name/title of your autoresponder for internal identification purposes. "
 "Your subscribers will not see this."
 msgstr ""
-"Vul een naam/titel in voor dit automatische bericht ter indentificatie voor "
+"Vul een naam/titel in voor dit automatische antwoord ter indentificatie voor "
 "jezelf. Niet zichtbaar voor abonneers."
 
 #: views/admin/autoresponders/save.php:26
 msgid ""
 "Fill in a name/title for this autoresponder for identification purposes."
 msgstr ""
-"Vul een naam/titel in voor dit automatische bericht ter indentificatie."
+"Vul een naam/titel in voor deze automatische respons ter indentificatie."
 
 #: views/admin/autoresponders/save.php:30 views/admin/emails/loop.php:42
 #: views/admin/emails/loop.php:92 views/admin/history/view.php:38
@@ -1908,9 +1907,9 @@ msgid ""
 "subscriber subscribes to any of the chosen list(s) and the subscription is "
 "active, this autoresponder will be sent to the subscriber."
 msgstr ""
-"Kies de mailinglijst die aan dit automatische bericht gekoppeld dient te "
+"Kies de mailinglijst die aan deze automatische respons gekoppeld dient te "
 "worden. Wanneer er een nieuwe abonnee is voor de gekozen lijst EN het "
-"abonnement is geactiveerd, wordt het automatische bericht verstuurd."
+"abonnement is geactiveerd, wordt de automatische respons verstuurd."
 
 #: views/admin/autoresponders/save.php:34 views/admin/import-export.php:32
 #: views/admin/mailinglists/save.php:66
@@ -1927,7 +1926,7 @@ msgstr "Geen mailinglijst gevonden, voeg er een toe."
 msgid ""
 "Subscriptions to these list(s) will be subscribed to this autoresponder."
 msgstr ""
-"Aanmeldingen bij deze lijst(en) zullen ook bij dit automatische bericht "
+"Aanmeldingen bij deze lijst(en) zullen ook bij deze automatische respons "
 "worden aangemeld."
 
 #: views/admin/autoresponders/save.php:49
@@ -1941,22 +1940,22 @@ msgid ""
 "specified mailing list(s). By default, the autoresponder only sends to new "
 "subscribers if this option is set to \"No\"."
 msgstr ""
-"Wanneer je kiest om dit automatische bericht aan bestaande abonnees te "
+"Wanneer je kiest om deze automatische respons aan bestaande abonnees te "
 "koppelen, zal hij dus ook verstuurd worden aan alle bestaande abonnees van "
 "de betreffende mailinglijst. Standaard, wanneer de instelling op \"Nee\" "
-"staat, wordt het bericht alleen verstuurd naar nieuwe abonnees."
+"staat, wordt de respons alleen verstuurd naar nieuwe abonnees."
 
 #: views/admin/autoresponders/save.php:56
 msgid ""
 "Autoresponder has already been applied to the existing subscribers before."
-msgstr "Automatisch bericht is al eerder toegepast voor bestaande abonnees."
+msgstr "Automatische respons is al eerder toegepast voor bestaande abonnees."
 
 #: views/admin/autoresponders/save.php:57
 msgid ""
 "This autoresponder will not be queued to the same subscribers as before "
 "again, only new ones."
 msgstr ""
-"Dit automatische bericht zal niet opnieuw voor dezelfde abonnee verstuurd "
+"Deze automatische respons zal niet opnieuw voor dezelfde abonnee verstuurd "
 "worden, alleen aan nieuwe abonnees."
 
 #: views/admin/autoresponders/save.php:59
@@ -1964,7 +1963,7 @@ msgid ""
 "Should this autoresponder be applied to existing subscribers of the list(s) "
 "above?"
 msgstr ""
-"Moet dit automatische bericht toegepast worden op bestaande abonnees van "
+"Moet deze automatische respons toegepast worden op bestaande abonnees van "
 "bovenstaande lijst(en)?"
 
 #: views/admin/autoresponders/save.php:60
@@ -1983,18 +1982,18 @@ msgid ""
 "received this autoresponder email. Set this to Yes to always send and to No "
 "to ensure that each subscriber gets and autoresponder email only once."
 msgstr ""
-"Je kunt een automatisch bericht instellen om altijd een een bericht te "
-"sturen of plannen nadat iemand zich heeft ingeschreven, zelfs als de persoon "
-"al ingeschreven is en het automatische bericht al eens ontvangen heeft. Vink "
+"Je kunt een automatische respons instellen om altijd een bericht te sturen "
+"of plannen nadat iemand zich heeft ingeschreven, zelfs als de persoon al "
+"ingeschreven is en de automatische respons al eens ontvangen heeft. Vink "
 "hier Ja aan om altijd te sturen en Nee om ervoor te zorgen dat iedere "
-"inschrijving het automatische bericht maar eenmaal ontvangt."
+"inschrijving de automatische respons maar eenmaal ontvangt."
 
 #: views/admin/autoresponders/save.php:70
 msgid ""
 "Should this autoresponder always be sent to a subscriber, disregarding if it "
 "has been sent before?"
 msgstr ""
-"Moet dit automatische bericht altijd verstuurd worden aan de abonnee, "
+"Moet deze automatische respons altijd verstuurd worden aan de abonnee, "
 "ongeacht of dit eerder is gebeurd?"
 
 #: views/admin/autoresponders/save.php:75
@@ -2003,7 +2002,7 @@ msgid ""
 "sent/draft email from the Newsletters > Sent &amp; Draft Emails section or "
 "you can choose to create a new email below."
 msgstr ""
-"De e-mail die je wilt gebruiken voor dit automatische bericht kan een "
+"De e-mail die je wilt gebruiken voor deze automatische respons kan een "
 "bestaande e-mail zijn (concept of reeds verstuurd) vanuit Nieuwsbrieven > "
 "Verstuurde &amp; E-mails, óf je kunt kiezen om hieronder een nieuwe e-mail "
 "te maken."
@@ -2052,8 +2051,8 @@ msgid ""
 "Choose an existing history/draft newsletter to use as the message for this "
 "autoresponder."
 msgstr ""
-"Kies een bestaand gearchiveerde/concept nieuwsbrief als bericht voor deze "
-"automatische e-mail."
+"Kies een bestaand gearchiveerde/concept nieuwsbrief als boodschap voor deze "
+"automatische respons."
 
 #: views/admin/autoresponders/save.php:115
 msgid "Newsletter Subject"
@@ -2065,7 +2064,7 @@ msgid ""
 "autoresponder. This is the subject which will show up in the email/webmail "
 "client of your subscribers."
 msgstr ""
-"Vul het onderwerp waarmee de e-mail met dit automatische bericht verstuurd "
+"Vul het onderwerp waarmee de e-mail met deze automatische respons verstuurd "
 "zal worden. Verschijnt als onderwerp in het e-mailprogramma van de ontvanger."
 
 #: views/admin/autoresponders/save.php:124
@@ -2105,9 +2104,8 @@ msgid ""
 "for this autoresponder. The content above will be put into this theme where "
 "the [wpmlcontent] shortcode was specified."
 msgstr ""
-"Kies het thema voor de e-mail die met dit automatische bericht naar de "
-"abonnees verstuurd zal worden. De inhoud van hierboven wordt in het thema "
-"geplaatst waar zich [wpmlcontent] bevindt."
+"Kies het thema voor de e-mail die met deze automatische respons. De inhoud "
+"van hierboven wordt in het thema geplaatst waar zich [wpmlcontent] bevindt."
 
 #: views/admin/autoresponders/save.php:166
 #: views/admin/metaboxes/send-theme.php:4
@@ -2131,10 +2129,10 @@ msgid ""
 "You can specify 0 (zero) to have the autoresponder send to the subscriber "
 "immediately upon activation."
 msgstr ""
-"De verzendvertraging wordt uitgedrukt in dagen. Dus wat is het aantal dagen "
-"ná abonnering waarop je dit automatische bericht verstuurd wilt hebben? Je "
-"kunt ook 0 (nul) instellen om de automatische e-mail direct na activering te "
-"laten versturen."
+"De verzendvertraging wordt uitgedrukt in dagen. Dus: wat is het aantal dagen "
+"ná abonnering waarop je deze automatische respons verstuurd wilt hebben? Je "
+"kunt ook 0 (nul) instellen om de automatische respons direct na activering "
+"te laten versturen."
 
 #: views/admin/autoresponders/save.php:191
 msgid "Minutes"
@@ -2167,7 +2165,7 @@ msgid ""
 "Delay before sending this message. Set to 0 to send immediately upon "
 "subscribe/confirm."
 msgstr ""
-"Vertraging voor het versturen van dit bericht. Type 0 in voor onmiddellijke "
+"Vertraging voor het versturen van deze respons. Type 0 in voor onmiddellijke "
 "verzending bij aanmelden/bevestigen."
 
 #: views/admin/autoresponders/save.php:199
@@ -2177,8 +2175,8 @@ msgid ""
 "subscribers accordingly. If it is Inactive, it will be ignored and will not "
 "be used and no messages will be sent from this autoresponder."
 msgstr ""
-"De status van dit automatische bericht bepaalt of hij effectief is of niet. "
-"Bij geactiveerd zal hij werken en het bericht zal naar de abonnees verstuurd "
+"De status van deze automatische respons bepaalt of hij effectief is of niet. "
+"Bij geactiveerd zal hij werken en de e-mail zal naar de abonnees verstuurd "
 "worden. Bij gedeactiveerd of nog niet geactiveerd, wordt hij genegeerd en "
 "wordt er niets verstuurd."
 
@@ -2187,24 +2185,23 @@ msgid ""
 "Deactivating this autoresponder will prevent it from sending out any "
 "messages to subscribers."
 msgstr ""
-"Deactiveren van dit automatische bericht zal voorkomen dat het een bericht "
+"Deactiveren van deze automatische respons zal voorkomen dat het een e-mail "
 "naar abonnees verstuurd."
 
 #: views/admin/autoresponders/save.php:210
 msgid "Save Autoresponder"
-msgstr "Bewaar automatisch bericht"
+msgstr "Bewaar automatische respons"
 
 #: views/admin/autoresponders/save.php:212 views/admin/fields/save.php:422
 #: views/admin/groups/save.php:17 views/admin/mailinglists/save.php:160
 #: views/admin/orders/save.php:60 views/admin/subscribers/save.php:133
 #: views/admin/themes/save.php:198
-#, fuzzy
 msgid "Continue editing"
-msgstr "Doorgaan"
+msgstr "Doorgaan met bewerken"
 
 #: views/admin/autoresponders/save.php:220
 msgid "Enter autoresponder title here"
-msgstr "Voer de titel van het automatische bericht in"
+msgstr "Voer de titel van de automatische respons in"
 
 #: views/admin/autoresponders/save.php:221 views/admin/send.php:189
 #: wp-mailinglist-plugin.php:1510
@@ -2247,7 +2244,7 @@ msgstr "Weet je zeker dat je deze klik wilt verwijderen?"
 
 #: views/admin/clicks/loop.php:105
 msgid "User:"
-msgstr ""
+msgstr "Gebruiker: "
 
 #: views/admin/dashboard.php:21
 msgid "Latest"
@@ -2286,7 +2283,7 @@ msgstr "Bounces"
 
 #: views/admin/dashboard.php:106
 msgid "See full overview"
-msgstr ""
+msgstr "Toon volledig overzicht"
 
 #: views/admin/dkim/step1.php:2 views/admin/dkim/step2.php:2
 #: views/admin/dkim/step3.php:2
@@ -2391,7 +2388,7 @@ msgstr "Exporteer"
 #: views/admin/subscribers/unsubscribes.php:76
 #: views/admin/subscribers/unsubscribes.php:115
 msgid "History Email"
-msgstr "Opgeslagen-berichten"
+msgstr "Opgeslagen e-mails"
 
 #: views/admin/emails/loop.php:54 views/admin/emails/loop.php:104
 msgid "Opened"
@@ -2525,9 +2522,8 @@ msgid "Not Installed"
 msgstr "Niet geïnstalleerd"
 
 #: views/admin/extensions/index.php:92
-#, fuzzy
 msgid "Get it now"
-msgstr "Verkrijg link"
+msgstr "Verkrijg nu"
 
 #: views/admin/extensions/index.php:97
 msgid "Installed but Inactive"
@@ -2998,7 +2994,7 @@ msgstr "verstuurde/concept e-mails"
 
 #: views/admin/history/index.php:16
 msgid "Search History"
-msgstr "Zoek in opgeslagen berichten"
+msgstr "Zoek in opgeslagen e-mails"
 
 #: views/admin/history/loop.php:2
 msgid ""
@@ -3153,7 +3149,7 @@ msgstr "&larr; Alle verstuurde &amp; concepten"
 
 #: views/admin/history/view.php:16
 msgid "Send this history email again or edit the draft"
-msgstr "Verstuur dit oude bericht opnieuw, of bewerk het concept"
+msgstr "Verstuur deze oude e-mail opnieuw, of bewerk het concept"
 
 #: views/admin/history/view.php:17 views/admin/history/view.php:173
 #: views/admin/metaboxes/settings-sending.php:23
@@ -3167,7 +3163,7 @@ msgstr "Verwijder deze opgeslagen e-mail permanent"
 
 #: views/admin/history/view.php:18
 msgid "Are you sure you wish to remove this history email?"
-msgstr "Weet je zeker dat je dit oude bericht wilt verwijderen?"
+msgstr "Weet je zeker dat je deze oude e-mail wilt verwijderen?"
 
 #: views/admin/history/view.php:27
 msgid "From"
@@ -3195,26 +3191,25 @@ msgid "Edit Theme: %s"
 msgstr "Bewerk thema: %s"
 
 #: views/admin/history/view.php:80
-#, fuzzy
 msgid "Queued"
-msgstr "Wachtrij"
+msgstr "In wachtrij geplaatst"
 
 #: views/admin/history/view.php:82
-#, fuzzy, php-format
+#, php-format
 msgid "%s emails in the queue"
-msgstr "e-mails in de wachtrij"
+msgstr "%s e-mails in de wachtrij"
 
 #: views/admin/history/view.php:87
 msgid "Tracking"
 msgstr "Tracking"
 
 #: views/admin/history/view.php:124
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "%s opened %s, %s%s unsubscribes%s %s, %s bounces %s and %s%s clicks%s out of "
 "%s emails sent out"
 msgstr ""
-"%s geopend %s, %s opzeggingen %s, %s bounces %s en %s%s kliks%s van %s "
+"%s geopend %s, %s%s opzeggingen%s %s, %s bounces %s en %s%s kliks%s van %s "
 "verstuurde e-mails "
 
 #: views/admin/history/view.php:149
@@ -3392,12 +3387,16 @@ msgid ""
 "You can drastically reduce the load and processing of importing by disabling "
 "this."
 msgstr ""
+"Je kunt de belasting voor de server drastisch verminderen door deze optie "
+"uit te schakelen."
 
 #: views/admin/import-export.php:233
 msgid ""
 "Enabling this will drastically increase processing time and queries to do "
 "all the checks."
 msgstr ""
+"Als je dit inschakelt zal de verwerkingstijd en database-belasting flink "
+"toenemen door alle checks die gedaan moeten worden."
 
 #: views/admin/import-export.php:233
 msgid "Prevent previous bounces/unsubscribes from being imported again"
@@ -3475,6 +3474,7 @@ msgstr "Kies het doel van deze export."
 #: views/admin/import-export.php:303
 msgid "Choose the delimiter to delimit columns with. The default is comma (,)"
 msgstr ""
+"Kies het leesteken dat de kolommen onderscheidt. Standaard is komma (,)"
 
 #: views/admin/import-export.php:311
 msgid "Show Ajax progress as the export is done?"
@@ -3934,15 +3934,16 @@ msgstr ""
 
 #: views/admin/mailinglists/save.php:95 views/admin/mailinglists/view.php:49
 #: views/admin/metaboxes/settings-subscribers.php:234
-#, fuzzy
 msgid "Confirm Redirect URL"
-msgstr "Aangepaste bestemming (URL)"
+msgstr "Bevestigings-doorverwijzings URL"
 
 #: views/admin/mailinglists/save.php:98
 msgid ""
 "Leave empty for default, global behaviour, else fill in a confirmation "
 "redirect URL location for this list."
 msgstr ""
+"Laat leeg voor standaard instelling, of vul een gewenste URL in voor de "
+"bevestiging van deze mailinglijst."
 
 #: views/admin/mailinglists/save.php:103 views/admin/mailinglists/view.php:62
 msgid "Paid List"
@@ -4014,7 +4015,7 @@ msgstr "Geef een geldig e-mail adres op"
 
 #: views/admin/mailinglists/save.php:170
 msgid "http://domain.com/custom/url/to/go/to/"
-msgstr ""
+msgstr "http://domein.nl/gewenste/url/"
 
 #: views/admin/mailinglists/view.php:2
 msgid "View List:"
@@ -4187,7 +4188,7 @@ msgstr ""
 
 #: views/admin/metaboxes/send-insert.php:75
 msgid "Post Type:"
-msgstr "Extra bericht typen:"
+msgstr "Bericht type:"
 
 #: views/admin/metaboxes/send-insert.php:82
 msgid ""
@@ -4311,7 +4312,7 @@ msgstr "- Alle categorieën -"
 
 #: views/admin/metaboxes/send-insert.php:154
 msgid "Post Types:"
-msgstr "Extra bericht typen:"
+msgstr "Bericht-typen:"
 
 #: views/admin/metaboxes/send-insert.php:169
 #: views/admin/tinymce-dialog.php:402
@@ -4554,9 +4555,8 @@ msgid "Publish as Post"
 msgstr "Publiceer als bericht"
 
 #: views/admin/metaboxes/send-publish.php:13
-#, fuzzy
 msgid "Existing Post"
-msgstr "Enkel bericht"
+msgstr "Bestaande bericht"
 
 #: views/admin/metaboxes/send-publish.php:26
 #: views/admin/metaboxes/settings-latestposts.php:103
@@ -4765,7 +4765,7 @@ msgstr ""
 
 #: views/admin/metaboxes/send-submit.php:263
 msgid "Use progress bar to queue/send"
-msgstr ""
+msgstr "Gebruik de voortgangsindicator voor de wachtrij/versturen"
 
 #: views/admin/metaboxes/send/spamscore.php:2
 msgid "Click \"Check Now\" to test"
@@ -5467,14 +5467,12 @@ msgstr ""
 "ieder uur uitgevoerd worden."
 
 #: views/admin/metaboxes/settings-importusers.php:26
-#, fuzzy
 msgid "Roles/Lists"
-msgstr "Lijsten"
+msgstr "Rollen/Lijsten"
 
 #: views/admin/metaboxes/settings-importusers.php:56
-#, fuzzy
 msgid "No roles/lists are available"
-msgstr "Geen lijsten beschikbaar"
+msgstr "Geen rollen/lijsten beschikbaar"
 
 #: views/admin/metaboxes/settings-importusers.php:79
 msgid "Require Activation"
@@ -5587,9 +5585,8 @@ msgstr ""
 "aangepast hebt."
 
 #: views/admin/metaboxes/settings-latestposts.php:62
-#, fuzzy
 msgid "Open in a new window"
-msgstr "Openen in nieuw venster"
+msgstr "Open in nieuw venster"
 
 #: views/admin/metaboxes/settings-latestposts.php:65
 msgid ""
@@ -6576,16 +6573,16 @@ msgid "Displays an activation link generated by <code>["
 msgstr "Toont een activatie link op de plaats van <code>[wpmlactivate]</code>."
 
 #: views/admin/metaboxes/settings-subscribers.php:220
-#, fuzzy
 msgid "Confirm Redirect"
-msgstr "Aangepaste bestemming (URL)"
+msgstr "Bevestig de doorverwijzings URL"
 
 #: views/admin/metaboxes/settings-subscribers.php:224
-#, fuzzy
 msgid ""
 "Defaults to the subscriber management section. This URL can be configured "
 "per mailing list as well."
-msgstr "Gaat standaard naar de abonnee beheerpagina."
+msgstr ""
+"Gaat standaard naar de abonnee beheerpagina. Deze URL kan ook per "
+"mailinglijst ingesteld worden."
 
 #: views/admin/metaboxes/settings-subscribers.php:237
 msgid "Link/URL to which subscribers will be redirected upon activation."
@@ -7094,21 +7091,18 @@ msgid "language files"
 msgstr "Link naar de taalbestanden"
 
 #: views/admin/metaboxes/settings-wprelated.php:41
-#, fuzzy, php-format
+#, php-format
 msgid "Place the %s file inside %s with the correct file name"
-msgstr ""
-"Plaats het .mo bestand in wp-content/plugins/wp-mailinglist-languages/ met "
-"de juiste bestandsnaam"
+msgstr "Plaats het %s bestand in %s met de juiste bestandsnaam"
 
 #: views/admin/metaboxes/settings-wprelated.php:45
-#, fuzzy
 msgid "Current Language"
-msgstr "Huidige afbeelding:"
+msgstr "Huidige taal:"
 
 #: views/admin/metaboxes/settings-wprelated.php:50
-#, fuzzy, php-format
+#, php-format
 msgid "No language file loaded, please ensure that %s exists."
-msgstr "Geen talen beschikbaar, zet s.v.p. eerst meertaligheid aan."
+msgstr "Geen taalbestand geladen, controleer s.v.p. of %s bestaat."
 
 #: views/admin/metaboxes/settings-wprelated.php:55
 msgid "\"Send as Newsletter\" box on posts/pages"
@@ -7131,9 +7125,8 @@ msgstr "Wil je alle nieuwe abonnees als gebruikers registreren?"
 
 #: views/admin/metaboxes/settings/emails.php:17
 #: views/admin/settings-cronschedules.php:129
-#, fuzzy
 msgid "Email Archiving"
-msgstr "Berichttracking"
+msgstr "E-mail archiveren"
 
 #: views/admin/metaboxes/settings/emails.php:18
 #, php-format
@@ -7142,19 +7135,23 @@ msgid ""
 "periodically of old emails sent. The emails are archived to %s which can be "
 "opened as a CSV file (comma separated)."
 msgstr ""
+"Door het archiveren van e-mails in te schakelen, wordt de database periodiek "
+"opgeschoond en worden verstuurde e-mails opgeruimd. De e-mails worden "
+"opgeslagen als %s, dat geopend kan worden als een CSV bestand."
 
 #: views/admin/metaboxes/settings/emails.php:20
 msgid "Enable archiving of sent emails"
-msgstr ""
+msgstr "Activeer het archiveren van verstuurde e-mails"
 
 #: views/admin/metaboxes/settings/emails.php:30
 msgid "Archive Older Than"
-msgstr ""
+msgstr "Archiveer ouder dan"
 
 #: views/admin/metaboxes/settings/emails.php:31
 msgid ""
 "Fill in the number of days to keep sent emails for. The default is 90 days."
 msgstr ""
+"Vul het aantal dagen in dat je e-mails wilt bewaren. Standaard is 90 dagen."
 
 #: views/admin/metaboxes/settings/emails.php:33
 msgid "days"
@@ -7164,6 +7161,8 @@ msgstr "dagen"
 msgid ""
 "Archive emails older than a specific amount of days. 90 days is recommended"
 msgstr ""
+"Archiveer e-mails ouder dan een bepaald aantal dagen. 90 dagen wordt "
+"aanbevolen."
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:1
 #: views/admin/metaboxes/settings/tableofcontents-system.php:1
@@ -7296,9 +7295,8 @@ msgstr "Bounce instellingen"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:13
 #: wp-mailinglist.php:2266
-#, fuzzy
 msgid "History &amp; Emails Configuration"
-msgstr "Berichten instellingen"
+msgstr "Verstuurde e-mails instellingen"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:14
 #: views/admin/settings-cronschedules.php:75 wp-mailinglist.php:2267
@@ -7709,9 +7707,8 @@ msgid "Subscribers total to date:"
 msgstr "Totaal aantal abonnees:"
 
 #: views/admin/metaboxes/welcome/unsubscribes.php:2
-#, fuzzy
 msgid "Unsubscribes to date:"
-msgstr "Totaal aantal abonnees:"
+msgstr "Opzeggingen tot datum:"
 
 #: views/admin/metaboxes/welcome/unsubscribes.php:4
 #: views/admin/subscribers/unsubscribes.php:2
@@ -8035,14 +8032,12 @@ msgid "Filters:"
 msgstr "Filters:"
 
 #: views/admin/queues/index.php:105
-#, fuzzy
 msgid "All History Emails"
-msgstr "Opgeslagen-berichten"
+msgstr "Volledige e-mail geschiedenis"
 
 #: views/admin/queues/index.php:113
-#, fuzzy
 msgid "All Themes"
-msgstr "Thema's"
+msgstr "Alle thema's"
 
 #: views/admin/queues/loop.php:5
 msgid "Clear the email queue"
@@ -8352,9 +8347,9 @@ msgid "future autoresponder emails waiting"
 msgstr "geplande automatische e-mails staan te wachten"
 
 #: views/admin/settings-cronschedules.php:131
-#, fuzzy, php-format
+#, php-format
 msgid "%s emails sent"
-msgstr "e-mail(s) verzonden"
+msgstr "%s verstuurde e-mails "
 
 #: views/admin/settings-cronschedules.php:149
 msgid "Inactive Subscriptions Action"
@@ -8850,20 +8845,20 @@ msgid "All ticked/checked subscriptions are activated immediately."
 msgstr "Alle aangevinkte abonnementen worden direct geactiveerd."
 
 #: views/admin/subscribers/save.php:35
-#, fuzzy
 msgid "Prevent Autoresponders?"
-msgstr "Bewaar automatisch bericht"
+msgstr "Voorkom automatische e-mails?"
 
 #: views/admin/subscribers/save.php:36
 msgid ""
 "Tick this box to prevent the automatic creation of autoresponder emails as "
 "you save this subscriber."
 msgstr ""
+"Vink aan om het automatisch aanmaken van automatische e-mails te voorkomen "
+"als je deze abonnee opslaat."
 
 #: views/admin/subscribers/save.php:38
-#, fuzzy
 msgid "Yes, prevent creation of autoresponders"
-msgstr "Bewaar een automatisch bericht"
+msgstr "Ja, voorkom aanmaken van automatisch e-mails"
 
 #: views/admin/subscribers/save.php:43
 msgid "Register as WordPress user?"
@@ -8966,42 +8961,37 @@ msgid "Gravatars"
 msgstr "Gravatars"
 
 #: views/admin/subscribers/unsubscribes.php:4
-#, fuzzy
 msgid "&larr; Back to Subscribers"
-msgstr "&larr; alle abonnees"
+msgstr "&larr; Terug naar automatische e-mails"
 
 #: views/admin/subscribers/unsubscribes.php:9
 #: views/admin/subscribers/unsubscribes.php:198
-#, fuzzy
 msgid "unsubscribes"
-msgstr "Opzeggingen"
+msgstr "opzeggingen"
 
 #: views/admin/subscribers/unsubscribes.php:19
-#, fuzzy
 msgid "Search Unsubscribes"
-msgstr "Zoek abonnees"
+msgstr "Zoek opzeggingen"
 
 #: views/admin/subscribers/unsubscribes.php:23
-#, fuzzy
 msgid ""
 "Are you sure you wish to execute this action on the selected unsubscribes?"
 msgstr ""
-"Weet je zeker dat je deze actie wilt uitvoeren op de geselecteerde abonnees?"
+"Weet je zeker dat je deze actie wilt uitvoeren op de geselecteerde "
+"opzeggingen?"
 
 #: views/admin/subscribers/unsubscribes.php:29
-#, fuzzy
 msgid "Delete Subscribers"
-msgstr "Selecteer abonnee"
+msgstr "Verwijder opzeggingen"
 
 #: views/admin/subscribers/unsubscribes.php:30
-#, fuzzy
 msgid "Delete Users"
-msgstr "Verwijder sleutel"
+msgstr "Verwijder gebruikers"
 
 #: views/admin/subscribers/unsubscribes.php:58
 #: views/admin/subscribers/unsubscribes.php:97
 msgid "User"
-msgstr ""
+msgstr "Gebruiker"
 
 #: views/admin/subscribers/unsubscribes.php:64
 #: views/admin/subscribers/unsubscribes.php:103
@@ -9010,34 +9000,28 @@ msgid "Comments"
 msgstr "Feedback. Wat kunnen we een volgende keer beter doen? "
 
 #: views/admin/subscribers/unsubscribes.php:141
-#, fuzzy
 msgid "Are you sure you want to delete this unsubscribe?"
-msgstr "Weet je zeker dat je deze abonnee wilt verwijderen?"
+msgstr "Weet je zeker dat je deze automatische e-mail wilt verwijderen?"
 
 #: views/admin/subscribers/unsubscribes.php:141
-#, fuzzy
 msgid "Delete Unsubscribe"
-msgstr "Opzeggen"
+msgstr "Verwijder opzegging"
 
 #: views/admin/subscribers/unsubscribes.php:143
-#, fuzzy
 msgid "Delete Subscriber"
-msgstr "Selecteer abonnee"
+msgstr "Verwijder abonnee"
 
 #: views/admin/subscribers/unsubscribes.php:151
-#, fuzzy
 msgid "Are you sure you want to delete this user?"
-msgstr "Weet je zeker dat je deze order wilt verwijderen?"
+msgstr "Weet je zeker dat je deze gebruiker wilt verwijderen?"
 
 #: views/admin/subscribers/unsubscribes.php:151
-#, fuzzy
 msgid "Delete User"
-msgstr "Verwijder sleutel"
+msgstr "Verwijder gebruiker"
 
 #: views/admin/subscribers/unsubscribes.php:185
-#, fuzzy
 msgid "No unsubscribes were found"
-msgstr "Geen abonnees gevonden"
+msgstr "Geen opzeggingen gevonden"
 
 #: views/admin/subscribers/view.php:5
 msgid "View Subscriber:"
@@ -9840,9 +9824,8 @@ msgid "Pay Now"
 msgstr "Betaal nu"
 
 #: views/default/post-attachments.php:2
-#, fuzzy
 msgid "Attached Files"
-msgstr "Bijlagebestand"
+msgstr "Bijlagen"
 
 #: views/default/resubscribe.php:4
 msgid "You have resubscribed!"
@@ -10552,28 +10535,25 @@ msgstr ""
 "inschrijvingen te voorkomen."
 
 #: wp-mailinglist.php:357
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "You have been using %s for %s days or more. Please consider %s it and say it "
 "%s on %s"
 msgstr ""
-"Je gebruikt Newsletters LITE nu %s of meer dagen. Wil je overwegen om een %s "
-"achter te laten en het te vertellen %s op %s"
+"Je gebruikt %s nu %s of meer dagen. Wil je overwegen om dit %s en het te "
+"vertellen %s op %s"
 
 #: wp-mailinglist.php:357
-#, fuzzy
 msgid "Tribulant Newsletters"
-msgstr "Tribulant Newsletters plugin"
+msgstr "Tribulant Newsletters"
 
 #: wp-mailinglist.php:357
-#, fuzzy
 msgid "Rating"
-msgstr "Start"
+msgstr "Waardering"
 
 #: wp-mailinglist.php:357
-#, fuzzy
 msgid "Works"
-msgstr "werkt"
+msgstr "Werkt "
 
 #: wp-mailinglist.php:365
 #, php-format
@@ -10883,9 +10863,8 @@ msgid "The total number of bounces to date."
 msgstr "Toon het aantal bounces."
 
 #: wp-mailinglist.php:2197
-#, fuzzy
 msgid "Total unsubscribes to date."
-msgstr "Toon het aantal bounces."
+msgstr "Aantal opzeggingen tot datum:"
 
 #: wp-mailinglist.php:2198
 msgid "Statistics Overview"
@@ -11531,39 +11510,32 @@ msgstr ""
 "waarvan het maximum aantal e-mails is bereikt."
 
 #: wp-mailinglist.php:4060
-#, fuzzy
 msgid "Unsubscribe has been deleted"
-msgstr "Abonnee %s is verwijderd"
+msgstr "Automatische e-mail is verwijderd."
 
 #: wp-mailinglist.php:4063
-#, fuzzy
 msgid "Unsubscribe could not be deleted"
-msgstr "Abonnee kon niet worden verwijderd"
+msgstr "Opzegging kon niet worden verwijderd"
 
 #: wp-mailinglist.php:4067
-#, fuzzy
 msgid "No unsubscribe was specified"
-msgstr "Er is geen abonnee gespecificeerd"
+msgstr "Geen opzegging geselecteerd"
 
 #: wp-mailinglist.php:4086
-#, fuzzy
 msgid "Selected unsubscribes deleted"
-msgstr "Geselecteerde abonnees gedeactiveerd"
+msgstr "Geselecteerde opzeggingen zijn verwijderd"
 
 #: wp-mailinglist.php:4100
-#, fuzzy
 msgid "Subscribers of the selected unsubscribes have been deleted"
-msgstr "Geselecteerde abonnees zijn verwijderd"
+msgstr "Abonnees van de geselecteerde opzeggingen zijn verwijderd"
 
 #: wp-mailinglist.php:4113
-#, fuzzy
 msgid "Users of the selected unsubscribes have been deleted"
-msgstr "Geselecteerde abonnees zijn verwijderd"
+msgstr "Gebruikers van de geselecteerde opzeggingen zijn verwijderd"
 
 #: wp-mailinglist.php:4118
-#, fuzzy
 msgid "No unsubscribes were selected"
-msgstr "Er zijn geen abonnees geselecteerd"
+msgstr "Geen automatische e-mail geselecteerd."
 
 #: wp-mailinglist.php:4122 wp-mailinglist.php:5304 wp-mailinglist.php:5504
 #: wp-mailinglist.php:5572
@@ -11571,19 +11543,16 @@ msgid "No action was specified"
 msgstr "Geen actie gekozen"
 
 #: wp-mailinglist.php:4131
-#, fuzzy
 msgid "User has been deleted"
-msgstr "De link is verwijderd"
+msgstr "Automatische e-mail is verwijderd."
 
 #: wp-mailinglist.php:4134
-#, fuzzy
 msgid "User could not be deleted"
-msgstr "Abonnee kon niet worden verwijderd"
+msgstr "Gebruiker kon niet worden verwijderd"
 
 #: wp-mailinglist.php:4138
-#, fuzzy
 msgid "No user was specified"
-msgstr "Er is geen abonnee gespecificeerd"
+msgstr "Geen gebruiker gespecificeerd"
 
 #: wp-mailinglist.php:4266
 msgid "No file selected for uploading"
@@ -11640,6 +11609,9 @@ msgid ""
 "Please note that Apache mod_security is turned on. Saving a theme may not be "
 "allowed due to the raw HTML. Please ask your hosting provider."
 msgstr ""
+"Let s.v.p. op: Apache mod_security is ingeschakeld. Het opslaan van het "
+"thema is mogelijk niet toegestaan vanwege de HTML. Vraag s.v.p. je "
+"hostingprovider."
 
 #: wp-mailinglist.php:4700
 msgid "Theme could not be saved"
@@ -11758,9 +11730,9 @@ msgid "Queued email has been sent"
 msgstr "E-mail uit wachtrij is verstuurd"
 
 #: wp-mailinglist.php:5058
-#, fuzzy, php-format
+#, php-format
 msgid "Email could not be sent: %s"
-msgstr "De e-mail kon niet worden verzonden"
+msgstr "E-mail kon niet worden verzonden: %s"
 
 #: wp-mailinglist.php:5062
 msgid "Queued email cannot be read"
@@ -11768,7 +11740,7 @@ msgstr "E-mail uit de wachtrij kan niet gelezen worden"
 
 #: wp-mailinglist.php:5128
 msgid "History email cannot be read"
-msgstr "E-mail geschiedenis niet leesbaar"
+msgstr "Verstuurde e-mail niet leesbaar"
 
 #: wp-mailinglist.php:5132 wp-mailinglist.php:5144 wp-mailinglist.php:5167
 msgid "No history email was specified"
@@ -11776,19 +11748,19 @@ msgstr "Geen e-mail geschiedenis gekozen"
 
 #: wp-mailinglist.php:5139
 msgid "History email has been removed"
-msgstr "E-mail geschiedenis is verwijderd"
+msgstr "Verstuurde e-mail is verwijderd"
 
 #: wp-mailinglist.php:5141
 msgid "History email could not be removed"
-msgstr "E-mail geschiedenis kan niet worden verwijderd"
+msgstr "Verstuurde e-mail kan niet worden verwijderd"
 
 #: wp-mailinglist.php:5164
 msgid "History email has been duplicated"
-msgstr "E-mail geschiedenis is gedupliceerd"
+msgstr "Verstuurde e-mail is gedupliceerd"
 
 #: wp-mailinglist.php:5185
 msgid "history record(s) have been removed"
-msgstr "E-mail geschiedenis gegevens zijn verwijderd"
+msgstr "verstuurdfe e-mail gegevens zijn verwijderd"
 
 #: wp-mailinglist.php:5193
 msgid "Id"
@@ -11894,14 +11866,12 @@ msgid "No click was specified"
 msgstr "Geen klik gekozen"
 
 #: wp-mailinglist.php:5565
-#, fuzzy
 msgid "Selected clicks have been deleted"
-msgstr "De geselecteerde links zijn verwijderd"
+msgstr "De geselecteerde kliks zijn verwijderd"
 
 #: wp-mailinglist.php:5568
-#, fuzzy
 msgid "No clicks were selected"
-msgstr "Geen links gekozen"
+msgstr "Geen kliks geselecteerd"
 
 #: wp-mailinglist.php:5632
 msgid "Order could not be retrieved"
@@ -12068,12 +12038,6 @@ msgstr "Extensie instellingen zijn bewaard."
 #~ msgid "Remove this mailing list permanently"
 #~ msgstr "Verwijder deze mailinglijst permanent"
 
-#~ msgid "Custom Activate Redirect"
-#~ msgstr "Aangepaste bestemming na activering"
-
-#~ msgid "Activate Redirect URL"
-#~ msgstr "Algemene Redirect URL"
-
 #~ msgid "Users Import List(s)"
 #~ msgstr "Voeg geïmporteerde gebruikers toe aan"
 
@@ -12081,6 +12045,12 @@ msgstr "Extensie instellingen zijn bewaard."
 #~ msgstr ""
 #~ "Mailinglijst(en) om geïmporteerde gebruikers als abonnees aan toe te "
 #~ "voegen."
+
+#~ msgid "Custom Activate Redirect"
+#~ msgstr "Aangepaste bestemming na activering"
+
+#~ msgid "Activate Redirect URL"
+#~ msgstr "Algemene Redirect URL"
 
 #~ msgid "Installation Wizard"
 #~ msgstr "Installatie wizard "
