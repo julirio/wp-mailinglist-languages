@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Wordpress Newsletter plugin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-09 15:26+0200\n"
-"PO-Revision-Date: 2014-10-09 15:26+0200\n"
+"POT-Creation-Date: 2014-10-13 10:48+0200\n"
+"PO-Revision-Date: 2014-10-13 10:48+0200\n"
 "Last-Translator: Tribulant Software <support@tribulant.com>\n"
 "Language-Team: Richard Vencu <richard.vencu@richardconsulting.ro>\n"
 "Language: ro_RO\n"
@@ -477,7 +477,7 @@ msgid ""
 "Form 7 plugin forms."
 msgstr ""
 
-#: includes/extensions.php:49 views/admin/about.php:57
+#: includes/extensions.php:49
 msgid "Digital Access Pass"
 msgstr ""
 
@@ -486,7 +486,7 @@ msgstr ""
 msgid "Capture email/newsletters subscribes from %sDigital Access Pass%s."
 msgstr ""
 
-#: includes/extensions.php:57 views/admin/about.php:67
+#: includes/extensions.php:57
 msgid "Google Analytics"
 msgstr ""
 
@@ -534,7 +534,7 @@ msgid "Total control over your Newsletter plugin for WordPress."
 msgstr ""
 
 # @ wp-mailinglist
-#: includes/extensions.php:89 views/admin/about.php:62
+#: includes/extensions.php:89
 #, fuzzy
 msgid "WooCommerce Subscribers"
 msgstr "Căutare abonaţi"
@@ -1332,183 +1332,6 @@ msgstr ""
 #, fuzzy
 msgid "No file data was posted"
 msgstr "Nu a fost publicată nici o informaţie"
-
-# @ wp-mailinglist
-#: views/admin/about.php:9
-#, fuzzy, php-format
-msgid "Welcome to Tribulant Newsletters %s"
-msgstr "Newslettere"
-
-#: views/admin/about.php:11
-#, php-format
-msgid ""
-"Thank you for installing! Tribulant Newsletters %s is more powerful, "
-"reliable and versatile than before. It includes many features and "
-"improvements to make email marketing easier and more efficient for you."
-msgstr ""
-
-# @ wp-mailinglist
-#: views/admin/about.php:13 views/admin/lite-upgrade.php:33
-#, fuzzy, php-format
-msgid "Version %s"
-msgstr "Vezi detaliile versiunii %s"
-
-#: views/admin/about.php:16
-msgid "What's new in this release"
-msgstr ""
-
-#: views/admin/about.php:20
-msgid "WordPress 4.0 Compatibility"
-msgstr ""
-
-#: views/admin/about.php:21
-#, php-format
-msgid ""
-"This version is 100% compatible with the latest WordPress version. It will "
-"fit nicely into your WordPress dashboard and maximizes the WordPress "
-"capabilities for speed, functionality and reliability."
-msgstr ""
-
-#: views/admin/about.php:25
-msgid "WPML integration"
-msgstr ""
-
-#: views/admin/about.php:26
-msgid ""
-"This version of the Newsletter plugin is fully integrated with WPML. It now "
-"supports internationalization and multilanguage through WPML."
-msgstr ""
-
-#: views/admin/about.php:30 views/admin/settings/api.php:11
-msgid "JSON API"
-msgstr ""
-
-#: views/admin/about.php:31
-msgid ""
-"The JSON API is a direct bridge and communication channel between any code "
-"or application and the Newsletter plugin itself, including it's database."
-msgstr ""
-
-#: views/admin/about.php:41
-msgid "Clicks section in admin"
-msgstr ""
-
-#: views/admin/about.php:42
-msgid ""
-"A new clicks section in admin to view and manage all clicks on links. You "
-"can view all links and clicks per individual subscriber and all clicks per "
-"link."
-msgstr ""
-
-# @ wp-mailinglist
-#: views/admin/about.php:46
-#, fuzzy
-msgid "Filter Subscribers"
-msgstr "Abonați eșuați"
-
-#: views/admin/about.php:47
-msgid ""
-"You can now filter subscribers per mailinglist, status and registered "
-"status. After filtering your subscribers, you can activate or deactivate "
-"them, assign them to another mailinglist or delete them."
-msgstr ""
-
-#: views/admin/about.php:54
-#, fuzzy
-msgid "New Extensions"
-msgstr "Extensii"
-
-#: views/admin/about.php:58
-msgid ""
-"This extension plugin allows you to capture Newsletter plugin subscribers "
-"from your 3rd party Digital Access Pass application/platform. As customers "
-"purchase products/memberships through Digital Access Pass, they will be "
-"added as subscribers."
-msgstr ""
-
-#: views/admin/about.php:63
-msgid ""
-"WooCommerce Subscribers is a free extension plugin to capture email "
-"subscribers from your WooCommerce plugin checkout procedure into your "
-"Newsletter plugin."
-msgstr ""
-
-#: views/admin/about.php:68
-msgid ""
-"Google Analytics helps you analyze visitor traffic and paint a complete "
-"picture of your audience and their needs, wherever they are along the path."
-msgstr ""
-
-# @ wp-mailinglist
-#: views/admin/about.php:78
-#, fuzzy
-msgid "Auto import users"
-msgstr "Importă automat utilizatorii WordPress"
-
-#: views/admin/about.php:79
-msgid ""
-"The new auto import user function prevent unsubscribe/bounce emails and "
-"users from importing again."
-msgstr ""
-
-# @ wp-mailinglist
-#: views/admin/about.php:80
-#, fuzzy
-msgid "WordPress Object Cache API"
-msgstr "Referitoare la Wordpress"
-
-#: views/admin/about.php:81
-msgid ""
-"peed up the plugin with the WordPress Object Cache API which is now built in "
-"to cache queries through the WordPress database object."
-msgstr ""
-
-#: views/admin/about.php:84
-msgid "Edit themes directly while creating a newsletter"
-msgstr ""
-
-#: views/admin/about.php:85
-msgid ""
-"You can now edit a theme directly as you are busy creating a newsletter."
-msgstr ""
-
-# @ wp-mailinglist
-#: views/admin/about.php:87
-#, fuzzy
-msgid "Paid subscriptions immediate payment"
-msgstr "Email abonament plătit"
-
-#: views/admin/about.php:88
-msgid ""
-"This function allow paid subscribers to pay immediately for a subscription "
-"and not being redirect and ask to confirm on email."
-msgstr ""
-
-#: views/admin/about.php:91
-msgid "Auto save information while creating a newsletter"
-msgstr ""
-
-#: views/admin/about.php:92
-msgid ""
-"Auto save information inserted into a newsletter while busy creating it."
-msgstr ""
-
-#: views/admin/about.php:94
-msgid "More Hooks"
-msgstr ""
-
-#: views/admin/about.php:95
-msgid ""
-"We've added more action and filter hooks to the core of the plugin which can "
-"be used by developers to integrate their own apps or 3rd party plugins as "
-"needed. If you need specific hooks, please contact us and we'll add it."
-msgstr ""
-
-# @ wp-mailinglist
-#: views/admin/about.php:103
-#, fuzzy
-msgid "Go to Newsletters overview"
-msgstr "Previzualizare temă mesaje"
 
 # @ wp-mailinglist
 #: views/admin/autoresponderemails/index.php:4
@@ -4021,6 +3844,12 @@ msgstr ""
 #, fuzzy
 msgid "Tribulant Newsletters plugin"
 msgstr "Modul Newsletter"
+
+# @ wp-mailinglist
+#: views/admin/lite-upgrade.php:33
+#, fuzzy, php-format
+msgid "Version %s"
+msgstr "Vezi detaliile versiunii %s"
 
 #: views/admin/lite-upgrade.php:37
 msgid ""
@@ -9315,6 +9144,10 @@ msgid ""
 "right now, click the \"Check Again\" button in order to do so."
 msgstr ""
 
+#: views/admin/settings/api.php:11
+msgid "JSON API"
+msgstr ""
+
 #: views/admin/settings/api.php:15
 msgid "Use the JSON API to perform certain functions via API calls."
 msgstr ""
@@ -13532,6 +13365,40 @@ msgstr "Extensia a fost dezactivată."
 #, fuzzy
 msgid "Extensions settings have been saved."
 msgstr "Configurația sistemului a fost salvată."
+
+# @ wp-mailinglist
+#, fuzzy
+#~ msgid "Welcome to Tribulant Newsletters %s"
+#~ msgstr "Newslettere"
+
+# @ wp-mailinglist
+#, fuzzy
+#~ msgid "Filter Subscribers"
+#~ msgstr "Abonați eșuați"
+
+#, fuzzy
+#~ msgid "New Extensions"
+#~ msgstr "Extensii"
+
+# @ wp-mailinglist
+#, fuzzy
+#~ msgid "Auto import users"
+#~ msgstr "Importă automat utilizatorii WordPress"
+
+# @ wp-mailinglist
+#, fuzzy
+#~ msgid "WordPress Object Cache API"
+#~ msgstr "Referitoare la Wordpress"
+
+# @ wp-mailinglist
+#, fuzzy
+#~ msgid "Paid subscriptions immediate payment"
+#~ msgstr "Email abonament plătit"
+
+# @ wp-mailinglist
+#, fuzzy
+#~ msgid "Go to Newsletters overview"
+#~ msgstr "Previzualizare temă mesaje"
 
 # @ wp-mailinglist
 #~ msgid "Buy Now"

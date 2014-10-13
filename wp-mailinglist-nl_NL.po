@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: WordPress Newsletter plugin\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-10 12:34+0200\n"
+"POT-Creation-Date: 2014-10-13 10:48+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Tribulant Software <support@tribulant.com>\n"
 "Language-Team: Ronald de Caluwe <rdecaluwe@webzenz.nl>\n"
@@ -409,7 +409,7 @@ msgid ""
 msgstr ""
 "Voeg abonnees aan de nieuwsbrief plugin toe vanuit de Contact Form7 plugin."
 
-#: includes/extensions.php:49 views/admin/about.php:57
+#: includes/extensions.php:49
 msgid "Digital Access Pass"
 msgstr "Digital Access Pass"
 
@@ -418,7 +418,7 @@ msgstr "Digital Access Pass"
 msgid "Capture email/newsletters subscribes from %sDigital Access Pass%s."
 msgstr "Ontvang e-mail/nieuwsbrief abonnees via %sDigital Access Pass%s."
 
-#: includes/extensions.php:57 views/admin/about.php:67
+#: includes/extensions.php:57
 msgid "Google Analytics"
 msgstr "Google Analytics"
 
@@ -456,7 +456,7 @@ msgstr "Total Control"
 msgid "Total control over your Newsletter plugin for WordPress."
 msgstr "Gehele controle over je nieuwsbriefplugin in WordPress."
 
-#: includes/extensions.php:89 views/admin/about.php:62
+#: includes/extensions.php:89
 msgid "WooCommerce Subscribers"
 msgstr "WooCommerce abonnees"
 
@@ -1123,204 +1123,6 @@ msgstr "Ongeldig bestandstype"
 #: vendors/uploadify/upload.php:25
 msgid "No file data was posted"
 msgstr "Geen bestandsdata toegevoegd"
-
-#: views/admin/about.php:9
-#, php-format
-msgid "Welcome to Tribulant Newsletters %s"
-msgstr "Welkom bij Tribulant Newsletters %s"
-
-#: views/admin/about.php:11
-#, php-format
-msgid ""
-"Thank you for installing! Tribulant Newsletters %s is more powerful, "
-"reliable and versatile than before. It includes many features and "
-"improvements to make email marketing easier and more efficient for you."
-msgstr ""
-"Dank voor het installeren! Tribulant Newsletters %s is krachtiger, "
-"betrouwbaarder en flexibeler dan ooit. Het bevat veel opties en "
-"verbeteringen om e-mail marketing makkelijker en efficiënter voor je te "
-"maken."
-
-#: views/admin/about.php:13 views/admin/lite-upgrade.php:33
-#, php-format
-msgid "Version %s"
-msgstr "Versie %s"
-
-#: views/admin/about.php:16
-msgid "What's new in this release"
-msgstr "Wat is nieuw in deze versie"
-
-#: views/admin/about.php:20
-msgid "WordPress 4.0 Compatibility"
-msgstr "WordPress 4.0 compatibiliteit"
-
-#: views/admin/about.php:21
-#, php-format
-msgid ""
-"This version is 100% compatible with the latest WordPress version. It will "
-"fit nicely into your WordPress dashboard and maximizes the WordPress "
-"capabilities for speed, functionality and reliability."
-msgstr "100% compatibel met de nieuwste WordPress versie!"
-
-#: views/admin/about.php:25
-msgid "WPML integration"
-msgstr "WPML integratie"
-
-#: views/admin/about.php:26
-msgid ""
-"This version of the Newsletter plugin is fully integrated with WPML. It now "
-"supports internationalization and multilanguage through WPML."
-msgstr ""
-"Deze versie van de Nieuwsbrieven-plugin is volledig geïntergreerd met WPML. "
-"Internationalisatie en meertaligheid dus!"
-
-#: views/admin/about.php:30 views/admin/settings/api.php:11
-msgid "JSON API"
-msgstr "JSON API"
-
-#: views/admin/about.php:31
-msgid ""
-"The JSON API is a direct bridge and communication channel between any code "
-"or application and the Newsletter plugin itself, including it's database."
-msgstr ""
-"Dit is de directe brug en communicatie-kanaal tussen de code en de "
-"Nieuwsbreieven plugin zelf, inclusief zijn database."
-
-#: views/admin/about.php:41
-msgid "Clicks section in admin"
-msgstr "Kliks-sectie in beheer"
-
-#: views/admin/about.php:42
-msgid ""
-"A new clicks section in admin to view and manage all clicks on links. You "
-"can view all links and clicks per individual subscriber and all clicks per "
-"link."
-msgstr ""
-"Een nieuw kliks-gedeelte in het beheerscherm om alle kliks te kunnen zien en "
-"beheren, bijv. per individuele abonnee of per link."
-
-#: views/admin/about.php:46
-msgid "Filter Subscribers"
-msgstr "Filter abonnees"
-
-#: views/admin/about.php:47
-msgid ""
-"You can now filter subscribers per mailinglist, status and registered "
-"status. After filtering your subscribers, you can activate or deactivate "
-"them, assign them to another mailinglist or delete them."
-msgstr ""
-"Je kunt nu abonnees folteren per mailinglijst, status en regsitratiestatus. "
-"Na filtering kun je je (de-)activeren, ze aan andere mailinglijsten "
-"toewijzen of verwijderen."
-
-#: views/admin/about.php:54
-msgid "New Extensions"
-msgstr "Nieuwe uitbreidingen"
-
-#: views/admin/about.php:58
-msgid ""
-"This extension plugin allows you to capture Newsletter plugin subscribers "
-"from your 3rd party Digital Access Pass application/platform. As customers "
-"purchase products/memberships through Digital Access Pass, they will be "
-"added as subscribers."
-msgstr ""
-"Deze uitbreidingsplugin zorgt ervoor dat je abonnees kunt ontvangen via het "
-"Digital Access Pass applicatie/platform. Wanneer klanten een product of "
-"abonnement via Digital Access Pass aanschaffen, kunnen ze worden toegevoegd "
-"als abonnees."
-
-#: views/admin/about.php:63
-msgid ""
-"WooCommerce Subscribers is a free extension plugin to capture email "
-"subscribers from your WooCommerce plugin checkout procedure into your "
-"Newsletter plugin."
-msgstr ""
-"WooCommerce abonnees is een gratis plugin om e-mail abonnees te vergaren "
-"tijdens de WooCommerce betaalprocedure."
-
-#: views/admin/about.php:68
-msgid ""
-"Google Analytics helps you analyze visitor traffic and paint a complete "
-"picture of your audience and their needs, wherever they are along the path."
-msgstr ""
-"Google Analytics helpt je om je bezoekersstroom te analyseren en een "
-"compleet plaatje te maken van je publiek en hun klikgedrag."
-
-#: views/admin/about.php:78
-msgid "Auto import users"
-msgstr "Automatisch gebruikers importeren"
-
-#: views/admin/about.php:79
-msgid ""
-"The new auto import user function prevent unsubscribe/bounce emails and "
-"users from importing again."
-msgstr ""
-"De nieuwe Auto importeer gebruikers functie voorkomt dat uitgeschreven of "
-"gebouncete gebruikers opnieuw geïmporteerd worden."
-
-#: views/admin/about.php:80
-msgid "WordPress Object Cache API"
-msgstr "WordPress Object Cache API"
-
-#: views/admin/about.php:81
-msgid ""
-"peed up the plugin with the WordPress Object Cache API which is now built in "
-"to cache queries through the WordPress database object."
-msgstr ""
-"Plugin opgepept met de WordPress Object Cache API, die nu is gebouwd om "
-"database queries te cachen via een WP database object."
-
-#: views/admin/about.php:84
-msgid "Edit themes directly while creating a newsletter"
-msgstr "Bewerk thema's tijdens het maken van je nieuwsbrief"
-
-#: views/admin/about.php:85
-msgid ""
-"You can now edit a theme directly as you are busy creating a newsletter."
-msgstr ""
-"Je kunt nu een thema bewerken terwijl je bezig bent met de inhoud van een e-"
-"mail."
-
-#: views/admin/about.php:87
-msgid "Paid subscriptions immediate payment"
-msgstr "Directe betaling bij betaald abonnement"
-
-#: views/admin/about.php:88
-msgid ""
-"This function allow paid subscribers to pay immediately for a subscription "
-"and not being redirect and ask to confirm on email."
-msgstr ""
-"Deze functie staat betalende abonnees toe om direct te betalen voor een "
-"abonnement, dus zonder omleiding en bevestiging via e-mail."
-
-#: views/admin/about.php:91
-msgid "Auto save information while creating a newsletter"
-msgstr "Automatisch opslaan tijdens het maken van een nieuwsbrief"
-
-#: views/admin/about.php:92
-msgid ""
-"Auto save information inserted into a newsletter while busy creating it."
-msgstr ""
-"Sla automatisch de aan een nieuwsbrief toegevoegde info op, tijdens het "
-"maken dus."
-
-#: views/admin/about.php:94
-msgid "More Hooks"
-msgstr "Meer hooks"
-
-#: views/admin/about.php:95
-msgid ""
-"We've added more action and filter hooks to the core of the plugin which can "
-"be used by developers to integrate their own apps or 3rd party plugins as "
-"needed. If you need specific hooks, please contact us and we'll add it."
-msgstr ""
-"We hebben meer actie- en filter-hooks toegevoegd aan de plugin, zodat "
-"ontwikkelaars hun eigen apps of extensies kunnen toevoegen. Wanneer je "
-"specifieke hook nodig hebt, neem contact op, dan voegen we hem toe."
-
-#: views/admin/about.php:103
-msgid "Go to Newsletters overview"
-msgstr "Ga naar nieuwsbrief overzicht"
 
 #: views/admin/autoresponderemails/index.php:4
 msgid "&larr; Back to Autoresponders"
@@ -3579,6 +3381,11 @@ msgstr ""
 #: views/admin/lite-upgrade.php:31
 msgid "Tribulant Newsletters plugin"
 msgstr "Tribulant Newsletters plugin"
+
+#: views/admin/lite-upgrade.php:33
+#, php-format
+msgid "Version %s"
+msgstr "Versie %s"
 
 #: views/admin/lite-upgrade.php:37
 msgid ""
@@ -8446,6 +8253,10 @@ msgstr ""
 "De plugin controleert iedere 24 uur op nieuwe versies. Wanneer je NU wilt "
 "controleren, klik dan op \"Opnieuw controleren\"."
 
+#: views/admin/settings/api.php:11
+msgid "JSON API"
+msgstr "JSON API"
+
 #: views/admin/settings/api.php:15
 msgid "Use the JSON API to perform certain functions via API calls."
 msgstr "Gebruik de JSON API om functies via API calls uit te voeren."
@@ -12025,6 +11836,166 @@ msgstr "Extensie is gedeactiveerd."
 #: wp-mailinglist.php:6292
 msgid "Extensions settings have been saved."
 msgstr "Extensie instellingen zijn bewaard."
+
+#~ msgid "Welcome to Tribulant Newsletters %s"
+#~ msgstr "Welkom bij Tribulant Newsletters %s"
+
+#~ msgid ""
+#~ "Thank you for installing! Tribulant Newsletters %s is more powerful, "
+#~ "reliable and versatile than before. It includes many features and "
+#~ "improvements to make email marketing easier and more efficient for you."
+#~ msgstr ""
+#~ "Dank voor het installeren! Tribulant Newsletters %s is krachtiger, "
+#~ "betrouwbaarder en flexibeler dan ooit. Het bevat veel opties en "
+#~ "verbeteringen om e-mail marketing makkelijker en efficiënter voor je te "
+#~ "maken."
+
+#~ msgid "What's new in this release"
+#~ msgstr "Wat is nieuw in deze versie"
+
+#~ msgid "WordPress 4.0 Compatibility"
+#~ msgstr "WordPress 4.0 compatibiliteit"
+
+#~ msgid ""
+#~ "This version is 100% compatible with the latest WordPress version. It "
+#~ "will fit nicely into your WordPress dashboard and maximizes the WordPress "
+#~ "capabilities for speed, functionality and reliability."
+#~ msgstr "100% compatibel met de nieuwste WordPress versie!"
+
+#~ msgid "WPML integration"
+#~ msgstr "WPML integratie"
+
+#~ msgid ""
+#~ "This version of the Newsletter plugin is fully integrated with WPML. It "
+#~ "now supports internationalization and multilanguage through WPML."
+#~ msgstr ""
+#~ "Deze versie van de Nieuwsbrieven-plugin is volledig geïntergreerd met "
+#~ "WPML. Internationalisatie en meertaligheid dus!"
+
+#~ msgid ""
+#~ "The JSON API is a direct bridge and communication channel between any "
+#~ "code or application and the Newsletter plugin itself, including it's "
+#~ "database."
+#~ msgstr ""
+#~ "Dit is de directe brug en communicatie-kanaal tussen de code en de "
+#~ "Nieuwsbreieven plugin zelf, inclusief zijn database."
+
+#~ msgid "Clicks section in admin"
+#~ msgstr "Kliks-sectie in beheer"
+
+#~ msgid ""
+#~ "A new clicks section in admin to view and manage all clicks on links. You "
+#~ "can view all links and clicks per individual subscriber and all clicks "
+#~ "per link."
+#~ msgstr ""
+#~ "Een nieuw kliks-gedeelte in het beheerscherm om alle kliks te kunnen zien "
+#~ "en beheren, bijv. per individuele abonnee of per link."
+
+#~ msgid "Filter Subscribers"
+#~ msgstr "Filter abonnees"
+
+#~ msgid ""
+#~ "You can now filter subscribers per mailinglist, status and registered "
+#~ "status. After filtering your subscribers, you can activate or deactivate "
+#~ "them, assign them to another mailinglist or delete them."
+#~ msgstr ""
+#~ "Je kunt nu abonnees folteren per mailinglijst, status en "
+#~ "regsitratiestatus. Na filtering kun je je (de-)activeren, ze aan andere "
+#~ "mailinglijsten toewijzen of verwijderen."
+
+#~ msgid "New Extensions"
+#~ msgstr "Nieuwe uitbreidingen"
+
+#~ msgid ""
+#~ "This extension plugin allows you to capture Newsletter plugin subscribers "
+#~ "from your 3rd party Digital Access Pass application/platform. As "
+#~ "customers purchase products/memberships through Digital Access Pass, they "
+#~ "will be added as subscribers."
+#~ msgstr ""
+#~ "Deze uitbreidingsplugin zorgt ervoor dat je abonnees kunt ontvangen via "
+#~ "het Digital Access Pass applicatie/platform. Wanneer klanten een product "
+#~ "of abonnement via Digital Access Pass aanschaffen, kunnen ze worden "
+#~ "toegevoegd als abonnees."
+
+#~ msgid ""
+#~ "WooCommerce Subscribers is a free extension plugin to capture email "
+#~ "subscribers from your WooCommerce plugin checkout procedure into your "
+#~ "Newsletter plugin."
+#~ msgstr ""
+#~ "WooCommerce abonnees is een gratis plugin om e-mail abonnees te vergaren "
+#~ "tijdens de WooCommerce betaalprocedure."
+
+#~ msgid ""
+#~ "Google Analytics helps you analyze visitor traffic and paint a complete "
+#~ "picture of your audience and their needs, wherever they are along the "
+#~ "path."
+#~ msgstr ""
+#~ "Google Analytics helpt je om je bezoekersstroom te analyseren en een "
+#~ "compleet plaatje te maken van je publiek en hun klikgedrag."
+
+#~ msgid "Auto import users"
+#~ msgstr "Automatisch gebruikers importeren"
+
+#~ msgid ""
+#~ "The new auto import user function prevent unsubscribe/bounce emails and "
+#~ "users from importing again."
+#~ msgstr ""
+#~ "De nieuwe Auto importeer gebruikers functie voorkomt dat uitgeschreven of "
+#~ "gebouncete gebruikers opnieuw geïmporteerd worden."
+
+#~ msgid "WordPress Object Cache API"
+#~ msgstr "WordPress Object Cache API"
+
+#~ msgid ""
+#~ "peed up the plugin with the WordPress Object Cache API which is now built "
+#~ "in to cache queries through the WordPress database object."
+#~ msgstr ""
+#~ "Plugin opgepept met de WordPress Object Cache API, die nu is gebouwd om "
+#~ "database queries te cachen via een WP database object."
+
+#~ msgid "Edit themes directly while creating a newsletter"
+#~ msgstr "Bewerk thema's tijdens het maken van je nieuwsbrief"
+
+#~ msgid ""
+#~ "You can now edit a theme directly as you are busy creating a newsletter."
+#~ msgstr ""
+#~ "Je kunt nu een thema bewerken terwijl je bezig bent met de inhoud van een "
+#~ "e-mail."
+
+#~ msgid "Paid subscriptions immediate payment"
+#~ msgstr "Directe betaling bij betaald abonnement"
+
+#~ msgid ""
+#~ "This function allow paid subscribers to pay immediately for a "
+#~ "subscription and not being redirect and ask to confirm on email."
+#~ msgstr ""
+#~ "Deze functie staat betalende abonnees toe om direct te betalen voor een "
+#~ "abonnement, dus zonder omleiding en bevestiging via e-mail."
+
+#~ msgid "Auto save information while creating a newsletter"
+#~ msgstr "Automatisch opslaan tijdens het maken van een nieuwsbrief"
+
+#~ msgid ""
+#~ "Auto save information inserted into a newsletter while busy creating it."
+#~ msgstr ""
+#~ "Sla automatisch de aan een nieuwsbrief toegevoegde info op, tijdens het "
+#~ "maken dus."
+
+#~ msgid "More Hooks"
+#~ msgstr "Meer hooks"
+
+#~ msgid ""
+#~ "We've added more action and filter hooks to the core of the plugin which "
+#~ "can be used by developers to integrate their own apps or 3rd party "
+#~ "plugins as needed. If you need specific hooks, please contact us and "
+#~ "we'll add it."
+#~ msgstr ""
+#~ "We hebben meer actie- en filter-hooks toegevoegd aan de plugin, zodat "
+#~ "ontwikkelaars hun eigen apps of extensies kunnen toevoegen. Wanneer je "
+#~ "specifieke hook nodig hebt, neem contact op, dan voegen we hem toe."
+
+#~ msgid "Go to Newsletters overview"
+#~ msgstr "Ga naar nieuwsbrief overzicht"
 
 #~ msgid "Buy Now"
 #~ msgstr "Koop nu"
