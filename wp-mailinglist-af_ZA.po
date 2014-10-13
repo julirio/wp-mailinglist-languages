@@ -1,15 +1,5 @@
 msgid ""
 msgstr ""
-<<<<<<< HEAD
-"Project-Id-Version: Newsletter plugin\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-10-13 10:48+0200\n"
-"PO-Revision-Date: 2014-10-13 10:48+0200\n"
-"Last-Translator: Tribulant Software <support@tribulant.com>\n"
-"Language-Team: Tribulant Software <support@tribulant.com>\n"
-"Language: af_ZA\n"
-=======
->>>>>>> FETCH_HEAD
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -395,7 +385,7 @@ msgstr "Formidabele Intekenaars"
 msgid "Capture newsletter subscribers into the Newsletter plugin from your Contact Form 7 plugin forms."
 msgstr "Kry inskrywers in jou Newsletter plugin vanaf Contact Form 7 plugin vorms."
 
-#: includes/extensions.php:49
+#: includes/extensions.php:49 views/admin/about.php:57
 msgid "Digital Access Pass"
 msgstr "Digital Access Pass"
 
@@ -403,7 +393,7 @@ msgstr "Digital Access Pass"
 msgid "Capture email/newsletters subscribes from %sDigital Access Pass%s."
 msgstr "Kry email inskrywers van %sDigital Access Pass%s"
 
-#: includes/extensions.php:57
+#: includes/extensions.php:57 views/admin/about.php:67
 msgid "Google Analytics"
 msgstr "Google Analytics"
 
@@ -444,12 +434,7 @@ msgstr "Total Control"
 msgid "Total control over your Newsletter plugin for WordPress."
 msgstr "Totale beheer oor jou Newsletter plugin vir WordPress"
 
-<<<<<<< HEAD
-# @ wp-mailinglist
-#: includes/extensions.php:89
-=======
 #: includes/extensions.php:89 views/admin/about.php:62
->>>>>>> FETCH_HEAD
 #, fuzzy
 msgid "WooCommerce Subscribers"
 msgstr "Formidabele Intekenaars"
@@ -1096,9 +1081,6 @@ msgstr "Ongeldige leer tipe"
 msgid "No file data was posted"
 msgstr "Geen data was gepos nie"
 
-<<<<<<< HEAD
-# @ wp-mailinglist
-=======
 #: views/admin/about.php:9
 #, fuzzy
 msgid "Welcome to Tribulant Newsletters %s"
@@ -1228,7 +1210,6 @@ msgstr ""
 msgid "Go to Newsletters overview"
 msgstr "Nuusbriewe Bestuurder"
 
->>>>>>> FETCH_HEAD
 #: views/admin/autoresponderemails/index.php:4
 msgid "&larr; Back to Autoresponders"
 msgstr ""
@@ -3275,12 +3256,6 @@ msgstr ""
 #, fuzzy
 msgid "Tribulant Newsletters plugin"
 msgstr "Skep Nuusbrief"
-
-# @ wp-mailinglist
-#: views/admin/lite-upgrade.php:33
-#, fuzzy, php-format
-msgid "Version %s"
-msgstr "Sien weergawe %s besonderhede"
 
 #: views/admin/lite-upgrade.php:37
 msgid "You can click \"Submit Serial\" below to activate Tribulant Newsletters PRO."
@@ -7301,10 +7276,6 @@ msgstr ""
 msgid "The plugin checks for new versions every 24 hours. If you want to check right now, click the \"Check Again\" button in order to do so."
 msgstr ""
 
-#: views/admin/settings/api.php:11
-msgid "JSON API"
-msgstr ""
-
 #: views/admin/settings/api.php:15
 msgid "Use the JSON API to perform certain functions via API calls."
 msgstr ""
@@ -10664,105 +10635,8 @@ msgstr "Intekening was geaktiveer."
 msgid "Extensions settings have been saved."
 msgstr "Uitbreidings Instellings"
 
-<<<<<<< HEAD
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Welcome to Tribulant Newsletters %s"
-#~ msgstr "Nuusbriewe"
-
-#~ msgid "What's new in this release"
-#~ msgstr "Wat is nuut in hierdie uitgawe"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Filter Subscribers"
-#~ msgstr "Formidabele Intekenaars"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "New Extensions"
-#~ msgstr "Uitbreidings"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Go to Newsletters overview"
-#~ msgstr "Nuusbriewe Bestuurder"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "review"
-#~ msgstr "Oorsig"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "subscribers have been exported. %s"
-#~ msgstr "Intekenaar was ingevoer"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Email could not be sent, please check email settings"
-#~ msgstr "E-pos kon nie gestuur word nie"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Save a Campaign"
-#~ msgstr "Bewaar E-pos Templates"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Clear History"
-#~ msgstr "E-pos Geskiedenis"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Check All"
-#~ msgstr "Keusebokse"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Upgrade to Newsletters PRO %s"
-#~ msgstr "Nuusbriewe"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Select All Groups"
-#~ msgstr "Kies Drop Down"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "No qTranslate languages have been defined."
-#~ msgstr "Serial sleutel was uitgevee"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Subscriber Stats"
-#~ msgstr "Intekenaars"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "Congratulations, your POP/IMAP settings are working!"
-#~ msgstr "E-pos was suksesvol gestuur, jou verstellings werk!"
-
-# @ wp-mailinglist
-#, fuzzy
-#~ msgid "There is a newer version of the Newsletter plugin available."
-#~ msgstr "Hierdie is n toets e-pos gestuur vanaf die Nuusbriewe plugin"
-
-# @ wp-mailinglist
-#~ msgid "Class method does not exist"
-#~ msgstr "Klas metode bestaan nie"
-
-# @ wp-mailinglist
-#~ msgid "You are not allowed to access this page"
-#~ msgstr "U word nie toegelaat om hierdie bladsy te sien nie"
-
-# @ wp-mailinglist
-#~ msgid "Submit another subscription"
-#~ msgstr "Stuur n volgende inskrywing"
-=======
 #: wp-mailinglist-plugin.php:3406
 msgctxt "timezone date format"
 msgid "Y-m-d G:i:s"
 msgstr ""
->>>>>>> FETCH_HEAD
 
