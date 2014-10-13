@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Newsletter plugin\n"
-"POT-Creation-Date: 2014-10-13 10:55+0200\n"
+"POT-Creation-Date: 2014-10-13 11:01+0200\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Tribulant Software <support@tribulant.com>\n"
 "Language-Team: Tribulant Software <support@tribulant.com>\n"
@@ -10,10 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.6.9\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: ../newsletters-lite/\n"
+"X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: helpers/form.php:159
@@ -1142,8 +1141,9 @@ msgid "No file data was posted"
 msgstr "Geen data was gepos nie"
 
 #: views/admin/autoresponderemails/index.php:4
+#, fuzzy
 msgid "&larr; Back to Autoresponders"
-msgstr ""
+msgstr "Formidabele Intekenaars"
 
 #: views/admin/autoresponderemails/index.php:9
 msgid "All Autoresponder Emails"
@@ -1324,8 +1324,9 @@ msgstr "Datum"
 #: views/admin/autoresponderemails/loop.php:66
 #: views/admin/autoresponderemails/loop.php:108 views/admin/queues/loop.php:70
 #: views/admin/queues/loop.php:121
+#, fuzzy
 msgid "Send Date"
-msgstr ""
+msgstr "Wys Datum"
 
 #: views/admin/autoresponderemails/loop.php:117
 #, fuzzy
@@ -1398,16 +1399,19 @@ msgstr "Papier Fase"
 #: views/admin/history/loop.php:312 views/admin/links/loop.php:98
 #: views/admin/mailinglists/loop.php:234 views/admin/templates/loop.php:121
 #: views/admin/themes/loop.php:107
+#, fuzzy
 msgid "per page"
-msgstr ""
+msgstr "Papier Fase"
 
 #: views/admin/autoresponders/index.php:2
+#, fuzzy
 msgid "Manage Autoresponders"
-msgstr ""
+msgstr "Auto responders"
 
 #: views/admin/autoresponders/index.php:2
+#, fuzzy
 msgid "Add a new autoresponder"
-msgstr ""
+msgstr "Terugvoerder"
 
 #: views/admin/autoresponders/index.php:2 views/admin/fields/index.php:2
 #: views/admin/groups/index.php:2 views/admin/groups/view.php:46
@@ -1419,8 +1423,9 @@ msgid "Add New"
 msgstr ""
 
 #: views/admin/autoresponders/index.php:5
+#, fuzzy
 msgid "Schedule Interval:"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/autoresponders/index.php:12
 #: views/admin/metaboxes/settings-scheduling.php:46
@@ -1441,12 +1446,14 @@ msgid ""
 msgstr ""
 
 #: views/admin/autoresponders/index.php:23
+#, fuzzy
 msgid "autoresponders"
-msgstr ""
+msgstr "Auto responders"
 
 #: views/admin/autoresponders/index.php:32
+#, fuzzy
 msgid "Search Autoresponders"
-msgstr ""
+msgstr "Auto responders"
 
 #: views/admin/autoresponders/loop.php:2
 msgid ""
@@ -1475,21 +1482,24 @@ msgstr ""
 #: views/admin/templates/view.php:31 views/admin/themes/loop.php:36
 #: views/admin/themes/loop.php:59 views/admin/themes/save-ajax.php:33
 #: views/admin/themes/save.php:18
+#, fuzzy
 msgid "Title"
-msgstr ""
+msgstr "Artikel Titel"
 
 #: views/admin/autoresponders/loop.php:45
 #: views/admin/autoresponders/loop.php:93 views/admin/fields/loop.php:66
 #: views/admin/fields/loop.php:115 views/admin/history/loop.php:54
 #: views/admin/history/loop.php:121
+#, fuzzy
 msgid "List(s)"
-msgstr ""
+msgstr "Lyste:"
 
 #: views/admin/autoresponders/loop.php:48
 #: views/admin/autoresponders/loop.php:96
 #: views/admin/autoresponders/save.php:74
+#, fuzzy
 msgid "Newsletter"
-msgstr ""
+msgstr "Nuusbriewe"
 
 #: views/admin/autoresponders/loop.php:54
 #: views/admin/autoresponders/loop.php:102
@@ -1499,8 +1509,9 @@ msgstr ""
 #: views/admin/autoresponders/loop.php:60
 #: views/admin/autoresponders/loop.php:108
 #: views/admin/autoresponders/save.php:186
+#, fuzzy
 msgid "Send Delay"
-msgstr ""
+msgstr "Stuur Geselekteerde"
 
 #: views/admin/autoresponders/loop.php:129
 #, fuzzy
@@ -1508,8 +1519,9 @@ msgid "No autoresponders found"
 msgstr "Auto responders"
 
 #: views/admin/autoresponders/loop.php:138
+#, fuzzy
 msgid "pending emails"
-msgstr ""
+msgstr "Geskiedenis/Konsep e-pos"
 
 #: views/admin/autoresponders/loop.php:140 views/admin/dashboard.php:32
 #: views/admin/fields/loop.php:156 views/admin/groups/loop.php:87
@@ -1684,12 +1696,14 @@ msgid "Active"
 msgstr ""
 
 #: views/admin/autoresponders/save.php:14
+#, fuzzy
 msgid "Save an Autoresponder"
-msgstr ""
+msgstr "Auto responders"
 
 #: views/admin/autoresponders/save.php:22
+#, fuzzy
 msgid "Name"
-msgstr ""
+msgstr "Van"
 
 #: views/admin/autoresponders/save.php:23
 msgid ""
@@ -1709,8 +1723,9 @@ msgstr ""
 #: views/admin/metaboxes/settings-latestposts.php:229
 #: views/admin/subscribers/loop.php:115 views/admin/subscribers/loop.php:178
 #: views/admin/subscribers/save.php:18 views/admin/subscribers/view.php:39
+#, fuzzy
 msgid "Mailing List(s)"
-msgstr ""
+msgstr "Poslyste"
 
 #: views/admin/autoresponders/save.php:31
 msgid ""
@@ -1728,8 +1743,9 @@ msgid "Select all"
 msgstr "Kies"
 
 #: views/admin/autoresponders/save.php:42
+#, fuzzy
 msgid "No mailinglists found, please add."
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/autoresponders/save.php:45
 msgid ""
@@ -1737,8 +1753,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/autoresponders/save.php:49
+#, fuzzy
 msgid "Apply to Existing Subscribers?"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/autoresponders/save.php:50
 msgid ""
@@ -1795,8 +1812,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/autoresponders/save.php:77
+#, fuzzy
 msgid "Choose Newsletter"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/autoresponders/save.php:80
 msgid "You can choose an existing newsletter or create one now."
@@ -1824,12 +1842,14 @@ msgstr ""
 #: wp-mailinglist-plugin.php:4043 wp-mailinglist-plugin.php:4066
 #: wp-mailinglist-widget.php:83 wp-mailinglist-widget.php:174
 #: wp-mailinglist.php:127 wp-mailinglist.php:139
+#, fuzzy
 msgid "- Select -"
-msgstr ""
+msgstr "Kies"
 
 #: views/admin/autoresponders/save.php:101
+#, fuzzy
 msgid "No sent/draft emails found, please add."
-msgstr ""
+msgstr "Serial sleutel is ongeldig, probeer asseblief weer."
 
 #: views/admin/autoresponders/save.php:104
 msgid ""
@@ -1838,8 +1858,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/autoresponders/save.php:115
+#, fuzzy
 msgid "Newsletter Subject"
-msgstr ""
+msgstr "Nuusbrief Funksies"
 
 #: views/admin/autoresponders/save.php:116
 msgid ""
@@ -1849,12 +1870,14 @@ msgid ""
 msgstr ""
 
 #: views/admin/autoresponders/save.php:124
+#, fuzzy
 msgid "Subject of the newsletter."
-msgstr ""
+msgstr "Intekenaar kon nie gelees word nie."
 
 #: views/admin/autoresponders/save.php:128
+#, fuzzy
 msgid "Newsletter Content"
-msgstr ""
+msgstr "Intekening kan nie uitgevee word nie."
 
 #: views/admin/autoresponders/save.php:129
 msgid ""
@@ -1869,12 +1892,14 @@ msgid "Word Count"
 msgstr ""
 
 #: views/admin/autoresponders/save.php:157
+#, fuzzy
 msgid "Content of the newsletter."
-msgstr ""
+msgstr "Vul inhoud in vir die nuusbrief"
 
 #: views/admin/autoresponders/save.php:162
+#, fuzzy
 msgid "Newsletter Theme"
-msgstr ""
+msgstr "Nuusbriewe Bestuurder"
 
 #: views/admin/autoresponders/save.php:163
 msgid ""
@@ -1895,8 +1920,9 @@ msgid "No themes found, please add one."
 msgstr ""
 
 #: views/admin/autoresponders/save.php:176
+#, fuzzy
 msgid "Choose the theme to use for this new newsletter."
-msgstr ""
+msgstr "Vul inhoud in vir die nuusbrief"
 
 #: views/admin/autoresponders/save.php:187
 msgid ""
@@ -1953,8 +1979,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/autoresponders/save.php:210
+#, fuzzy
 msgid "Save Autoresponder"
-msgstr ""
+msgstr "Terugvoerder"
 
 #: views/admin/autoresponders/save.php:212 views/admin/fields/save.php:422
 #: views/admin/groups/save.php:17 views/admin/mailinglists/save.php:160
@@ -1965,25 +1992,30 @@ msgid "Continue editing"
 msgstr "Sisteem Verstellings"
 
 #: views/admin/autoresponders/save.php:220
+#, fuzzy
 msgid "Enter autoresponder title here"
-msgstr ""
+msgstr "Hierdie auto-terugvoerder e-pos is verskuldig in "
 
 #: views/admin/autoresponders/save.php:221 views/admin/send.php:189
 #: wp-mailinglist-plugin.php:1510
+#, fuzzy
 msgid "Enter email subject here"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/admin/clicks/index.php:3
+#, fuzzy
 msgid "Manage Clicks"
-msgstr ""
+msgstr "Klieke"
 
 #: views/admin/clicks/index.php:7
+#, fuzzy
 msgid "clicks"
-msgstr ""
+msgstr "Klieke"
 
 #: views/admin/clicks/index.php:17
+#, fuzzy
 msgid "Search Clicks"
-msgstr ""
+msgstr "Klieke"
 
 #: views/admin/clicks/loop.php:2
 msgid "Are you sure you want to apply this action to the selected clicks?"
@@ -1991,8 +2023,9 @@ msgstr ""
 
 #: views/admin/clicks/loop.php:33 views/admin/clicks/loop.php:62
 #: views/admin/links/loop.php:32 views/admin/links/loop.php:50
+#, fuzzy
 msgid "Link"
-msgstr ""
+msgstr "Links"
 
 #: views/admin/clicks/loop.php:39 views/admin/clicks/loop.php:68
 #, fuzzy
@@ -2025,9 +2058,9 @@ msgid "View"
 msgstr ""
 
 #: views/admin/dashboard.php:39
-#, php-format
+#, fuzzy, php-format
 msgid "No emails are available yet, please %s."
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/dashboard.php:39
 msgid "create one"
@@ -2035,8 +2068,9 @@ msgstr ""
 
 #: views/admin/dashboard.php:83 views/admin/mailinglists/loop.php:104
 #: views/admin/mailinglists/loop.php:152
+#, fuzzy
 msgid "Subscriptions"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/dashboard.php:91 views/admin/subscribers/loop.php:17
 #: wp-mailinglist.php:2197
@@ -2046,8 +2080,9 @@ msgstr "Intekenaars"
 
 #: views/admin/dashboard.php:99 views/admin/subscribers/loop.php:119
 #: views/admin/subscribers/loop.php:181 views/admin/subscribers/view.php:132
+#, fuzzy
 msgid "Bounces"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/dashboard.php:106
 msgid "See full overview"
@@ -2101,8 +2136,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/dkim/step2.php:20
+#, fuzzy
 msgid "click here"
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/dkim/step2.php:32 views/admin/dkim/step3.php:25
 #: views/admin/export-post.php:131 views/admin/import-post.php:158
@@ -2126,8 +2162,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/dkim/step3.php:19
+#, fuzzy
 msgid "Continue"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/dkim/step3.php:26
 msgid "Finished, save the settings &raquo;"
@@ -2140,32 +2177,37 @@ msgstr ""
 #: views/admin/emails/loop.php:6 views/admin/history/loop.php:10
 #: views/admin/history/loop.php:18 views/admin/import-export.php:11
 #: views/admin/import-export.php:254
+#, fuzzy
 msgid "Export"
-msgstr ""
+msgstr "Invoer/Uitvoer"
 
 #: views/admin/emails/loop.php:35 views/admin/emails/loop.php:85
 #: views/admin/queues/loop.php:51 views/admin/queues/loop.php:102
 #: views/admin/subscribers/unsubscribes.php:76
 #: views/admin/subscribers/unsubscribes.php:115
+#, fuzzy
 msgid "History Email"
-msgstr ""
+msgstr "Geskiedenis/Konsep e-pos"
 
 #: views/admin/emails/loop.php:54 views/admin/emails/loop.php:104
 msgid "Opened"
 msgstr ""
 
 #: views/admin/emails/loop.php:58 views/admin/emails/loop.php:108
+#, fuzzy
 msgid "Clicked"
-msgstr ""
+msgstr "Klieke"
 
 #: views/admin/emails/loop.php:61 views/admin/emails/loop.php:111
+#, fuzzy
 msgid "Bounced"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/emails/loop.php:67 views/admin/emails/loop.php:117
 #: wp-mailinglist.php:5359
+#, fuzzy
 msgid "Sent Date"
-msgstr ""
+msgstr "Wys Datum"
 
 #: views/admin/emails/loop.php:126
 #, fuzzy
@@ -2174,12 +2216,14 @@ msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/emails/loop.php:223 views/admin/queues/index.php:16
 #: views/admin/queues/index.php:67 views/admin/queues/loop.php:222
+#, fuzzy
 msgid "emails"
-msgstr ""
+msgstr "E-pos Geskiedenis"
 
 #: views/admin/export-post.php:2 views/admin/import-export.php:318
+#, fuzzy
 msgid "Export Subscribers"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/export-post.php:5
 #, php-format
@@ -2194,8 +2238,9 @@ msgid "out of"
 msgstr ""
 
 #: views/admin/export-post.php:6
+#, fuzzy
 msgid "subscribers have been exported."
-msgstr ""
+msgstr "Intekenaar was ingevoer"
 
 #: views/admin/export-post.php:17 views/admin/import-post.php:16
 #: views/admin/send-post.php:40
@@ -2212,8 +2257,9 @@ msgid "Export More"
 msgstr ""
 
 #: views/admin/export-post.php:22
+#, fuzzy
 msgid "Subscribers Exported"
-msgstr ""
+msgstr "Intekenaar was ingevoer"
 
 #: views/admin/export-post.php:41
 msgid "Start Exporting"
@@ -2224,8 +2270,9 @@ msgid "Resume Exporting"
 msgstr ""
 
 #: views/admin/export-post.php:56 views/admin/export-post.php:71
+#, fuzzy
 msgid "Exporting Now"
-msgstr ""
+msgstr "Enkel Pos"
 
 #: views/admin/export-post.php:110 views/admin/import-export.php:259
 msgid "Download CSV"
@@ -2239,29 +2286,35 @@ msgid ""
 msgstr ""
 
 #: views/admin/export-post.php:129
+#, fuzzy
 msgid "No subscribers are available for export, please try again."
-msgstr ""
+msgstr "Serial sleutel is ongeldig, probeer asseblief weer."
 
 #: views/admin/extensions/index.php:2
+#, fuzzy
 msgid "Manage Extensions"
-msgstr ""
+msgstr "Uitbreidings"
 
 #: views/admin/extensions/index.php:4
+#, fuzzy
 msgid ""
 "These are extensions which extend the functionality of the Newsletter plugin."
-msgstr ""
+msgstr "Hierdie is n toets e-pos gestuur vanaf die Nuusbriewe plugin"
 
 #: views/admin/extensions/index.php:10 views/admin/extensions/index.php:16
+#, fuzzy
 msgid "Extension Name"
-msgstr ""
+msgstr "Uitbreidings"
 
 #: views/admin/extensions/index.php:11 views/admin/extensions/index.php:17
+#, fuzzy
 msgid "Extension Status"
-msgstr ""
+msgstr "Uitbreidings Instellings"
 
 #: views/admin/extensions/index.php:57
+#, fuzzy
 msgid "Get this extension now"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/extensions/index.php:71
 msgid "Are you sure you want to deactivate this extension?"
@@ -2290,28 +2343,33 @@ msgid "Installed and Active"
 msgstr ""
 
 #: views/admin/extensions/index.php:111
+#, fuzzy
 msgid "No extensions found."
-msgstr ""
+msgstr "Auto responders"
 
 #: views/admin/extensions/navigation.php:10
 msgid "Manage"
 msgstr ""
 
 #: views/admin/fields/index.php:2
+#, fuzzy
 msgid "Manage Custom Fields"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/fields/index.php:2
+#, fuzzy
 msgid "Create a new custom field"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/fields/index.php:6
+#, fuzzy
 msgid "custom fields"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/fields/index.php:15
+#, fuzzy
 msgid "Search Fields"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/fields/loop.php:9 views/admin/orders/loop.php:2
 #: views/admin/queues/loop.php:2
@@ -2323,8 +2381,9 @@ msgid "Sort/order all your custom fields"
 msgstr ""
 
 #: views/admin/fields/loop.php:12
+#, fuzzy
 msgid "Order Fields"
-msgstr ""
+msgstr "Teks veld"
 
 #: views/admin/fields/loop.php:18 views/admin/fields/loop.php:70
 #: views/admin/fields/loop.php:119 views/admin/fields/save.php:131
@@ -2360,8 +2419,9 @@ msgid "Validation"
 msgstr ""
 
 #: views/admin/fields/loop.php:140 views/admin/fields/order.php:37
+#, fuzzy
 msgid "No custom fields were found"
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/fields/loop.php:154
 #, fuzzy
@@ -2377,8 +2437,9 @@ msgid "All"
 msgstr ""
 
 #: views/admin/fields/order.php:2
+#, fuzzy
 msgid "Order Custom Fields"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/fields/order.php:4
 msgid "&larr; Manage All Fields"
@@ -2446,8 +2507,9 @@ msgid "Specify a custom PHP regular expression, eg. %s"
 msgstr ""
 
 #: views/admin/fields/save.php:176
+#, fuzzy
 msgid "Error Message"
-msgstr ""
+msgstr "Fout"
 
 #: views/admin/fields/save.php:203
 msgid "Error message which will be displayed when the field is left empty"
@@ -2458,12 +2520,14 @@ msgid "Field Type"
 msgstr ""
 
 #: views/admin/fields/save.php:238
+#, fuzzy
 msgid "Hidden Value"
-msgstr ""
+msgstr "Weggesteek"
 
 #: views/admin/fields/save.php:243 views/admin/setvariables.php:160
+#, fuzzy
 msgid "Custom"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/fields/save.php:244
 msgid "$_POST"
@@ -2564,8 +2628,9 @@ msgstr ""
 #: views/admin/metaboxes/settings-latestposts.php:147
 #: views/admin/metaboxes/settings-latestposts.php:232
 #: views/admin/metaboxes/write-advanced.php:67 wp-mailinglist-plugin.php:439
+#, fuzzy
 msgid "Select All"
-msgstr ""
+msgstr "Kies"
 
 #: views/admin/fields/save.php:408 views/admin/mailinglists/loop.php:161
 #, fuzzy
@@ -2578,8 +2643,9 @@ msgid "Save Custom Field"
 msgstr "Persoonlike Velde"
 
 #: views/admin/fields/save.php:447
+#, fuzzy
 msgid "Enter field title/name here"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/admin/fields/save.php:448
 msgid "Enter field slug for database and shortcodes use here"
@@ -2590,38 +2656,44 @@ msgid "Enter a caption/description to show below the field here"
 msgstr ""
 
 #: views/admin/fields/save.php:450
+#, fuzzy
 msgid "Enter watermark text here"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/admin/groups/index.php:2
+#, fuzzy
 msgid "Manage Groups"
-msgstr ""
+msgstr "Groepe"
 
 #: views/admin/groups/index.php:2
 msgid "Create a new group"
 msgstr ""
 
 #: views/admin/groups/index.php:6
+#, fuzzy
 msgid "groups"
-msgstr ""
+msgstr "Groepe"
 
 #: views/admin/groups/index.php:15
+#, fuzzy
 msgid "Search Groups"
-msgstr ""
+msgstr "Kies Drop Down"
 
 #: views/admin/groups/loop.php:2
 msgid "Are you sure you wish to execute this action on the selected groups?"
 msgstr ""
 
 #: views/admin/groups/loop.php:7 views/admin/mailinglists/loop.php:7
+#, fuzzy
 msgid "Delete Selected"
-msgstr ""
+msgstr "Kies"
 
 #: views/admin/groups/loop.php:40 views/admin/groups/loop.php:64
 #: views/admin/groups/view.php:30 wp-mailinglist-widget.php:100
 #: wp-mailinglist-widget.php:191 wp-mailinglist.php:5195
+#, fuzzy
 msgid "Lists"
-msgstr ""
+msgstr "Lyste:"
 
 #: views/admin/groups/loop.php:76
 #, fuzzy
@@ -2637,32 +2709,39 @@ msgid "Are you sure you want to delete this group?"
 msgstr ""
 
 #: views/admin/groups/save.php:2
+#, fuzzy
 msgid "Save a Group"
-msgstr ""
+msgstr "Kies Drop Down"
 
 #: views/admin/groups/save.php:9
+#, fuzzy
 msgid "Group Title"
-msgstr ""
+msgstr "Artikel Titel"
 
 #: views/admin/groups/save.php:15
+#, fuzzy
 msgid "Save Group"
-msgstr ""
+msgstr "Groepe"
 
 #: views/admin/groups/save.php:25
+#, fuzzy
 msgid "Enter group title here"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/admin/groups/view.php:2
+#, fuzzy
 msgid "View Group:"
-msgstr ""
+msgstr "Groepe"
 
 #: views/admin/groups/view.php:3
+#, fuzzy
 msgid "&larr; All Groups"
-msgstr ""
+msgstr "Kies Drop Down"
 
 #: views/admin/groups/view.php:3
+#, fuzzy
 msgid "Manage All Groups"
-msgstr ""
+msgstr "Kies Drop Down"
 
 #: views/admin/groups/view.php:7
 msgid "Change the details of this group."
@@ -2687,8 +2766,9 @@ msgstr ""
 #: views/admin/orders/view.php:18 views/admin/orders/view.php:24
 #: views/admin/subscribers/view.php:23 views/admin/subscribers/view.php:29
 #: views/admin/templates/view.php:19 views/admin/templates/view.php:25
+#, fuzzy
 msgid "Field"
-msgstr ""
+msgstr "Teks veld"
 
 #: views/admin/groups/view.php:15 views/admin/groups/view.php:21
 #: views/admin/mailinglists/view.php:17 views/admin/mailinglists/view.php:23
@@ -2722,8 +2802,9 @@ msgid "Extension plugins"
 msgstr "Uitbreidings"
 
 #: views/admin/help.php:8
+#, fuzzy
 msgid "Tribulant News Blog"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/help.php:8
 msgid "News Blog"
@@ -2747,8 +2828,9 @@ msgid "sent/draft emails"
 msgstr "Geskiedenis/Konsep e-pos"
 
 #: views/admin/history/index.php:16
+#, fuzzy
 msgid "Search History"
-msgstr ""
+msgstr "E-pos Geskiedenis"
 
 #: views/admin/history/loop.php:2
 msgid ""
@@ -2764,8 +2846,9 @@ msgid "RSS"
 msgstr ""
 
 #: views/admin/history/loop.php:12
+#, fuzzy
 msgid "Clear all email history"
-msgstr ""
+msgstr "E-pos Geskiedenis"
 
 #: views/admin/history/loop.php:12
 msgid "Are you sure you wish to clear the email history?"
@@ -2785,8 +2868,9 @@ msgstr "Eposonderwerp"
 #: views/admin/history/view.php:54 views/admin/metaboxes/system/captcha.php:58
 #: views/admin/queues/loop.php:57 views/admin/queues/loop.php:108
 #: wp-mailinglist.php:2218 wp-mailinglist.php:5196
+#, fuzzy
 msgid "Theme"
-msgstr ""
+msgstr "Temas"
 
 #: views/admin/history/loop.php:63 views/admin/history/loop.php:128
 msgid "Open / Unsub / Bounce / Clicks"
@@ -2800,8 +2884,9 @@ msgstr ""
 #: views/admin/metaboxes/send-insert.php:77
 #: views/admin/metaboxes/settings-latestposts.php:123 views/admin/posts.php:13
 #: views/admin/posts.php:20
+#, fuzzy
 msgid "Post"
-msgstr ""
+msgstr "Artikels"
 
 #: views/admin/history/loop.php:89 views/admin/history/loop.php:150
 #: views/admin/history/view.php:67 views/admin/metaboxes/send-insert.php:131
@@ -2814,8 +2899,9 @@ msgstr "Skrywer"
 #: views/admin/history/view.php:143
 #: views/admin/metaboxes/send-attachment.php:19 views/admin/queues/loop.php:61
 #: views/admin/queues/loop.php:112 views/admin/send-post.php:58
+#, fuzzy
 msgid "Attachments"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/history/loop.php:167
 #, fuzzy
@@ -2823,8 +2909,9 @@ msgid "No history emails were found"
 msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/history/loop.php:176
+#, fuzzy
 msgid "View this email"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/history/loop.php:178 views/admin/history/view.php:16
 msgid "Send/Edit"
@@ -2847,8 +2934,9 @@ msgstr ""
 
 #: views/admin/history/loop.php:202 views/admin/history/view.php:58
 #: views/admin/queues/loop.php:178
+#, fuzzy
 msgid "Theme Preview:"
-msgstr ""
+msgstr "Oorsig"
 
 #: views/admin/history/loop.php:243
 #, php-format
@@ -2887,8 +2975,9 @@ msgid " starting %s and has been sent %s times already"
 msgstr ""
 
 #: views/admin/history/view.php:10
+#, fuzzy
 msgid "Sent/Draft:"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/history/view.php:10 views/admin/queues/index.php:2
 #: views/admin/settings-cronschedules.php:12
@@ -2896,8 +2985,9 @@ msgid "Refresh"
 msgstr ""
 
 #: views/admin/history/view.php:12
+#, fuzzy
 msgid "&larr; All Sent &amp; Drafts"
-msgstr ""
+msgstr "Geskiedenis/Konsep e-pos"
 
 #: views/admin/history/view.php:16
 msgid "Send this history email again or edit the draft"
@@ -2906,20 +2996,23 @@ msgstr ""
 #: views/admin/history/view.php:17 views/admin/history/view.php:173
 #: views/admin/metaboxes/settings-sending.php:23
 #: views/admin/themes/loop.php:91
+#, fuzzy
 msgid "Preview"
-msgstr ""
+msgstr "Oorsig"
 
 #: views/admin/history/view.php:18
+#, fuzzy
 msgid "Remove this history email permanently"
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/history/view.php:18
 msgid "Are you sure you wish to remove this history email?"
 msgstr ""
 
 #: views/admin/history/view.php:27
+#, fuzzy
 msgid "From"
-msgstr ""
+msgstr "Wys Datum"
 
 #: views/admin/history/view.php:34
 #: views/admin/metaboxes/settings-latestposts.php:72
@@ -2947,13 +3040,14 @@ msgid "Queued"
 msgstr ""
 
 #: views/admin/history/view.php:82
-#, php-format
+#, fuzzy, php-format
 msgid "%s emails in the queue"
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/history/view.php:87
+#, fuzzy
 msgid "Tracking"
-msgstr ""
+msgstr "spoor"
 
 #: views/admin/history/view.php:124
 #, php-format
@@ -2969,24 +3063,29 @@ msgstr ""
 
 #: views/admin/history/view.php:169 views/admin/subscribers/view.php:13
 #: views/admin/subscribers/view.php:109 wp-mailinglist.php:5199
+#, fuzzy
 msgid "Emails Sent"
-msgstr ""
+msgstr "Eposonderwerp"
 
 #: views/admin/history/view.php:176 wp-mailinglist.php:2223
+#, fuzzy
 msgid "TEXT Version"
-msgstr ""
+msgstr "Sien weergawe %s besonderhede"
 
 #: views/admin/history/view.php:181
+#, fuzzy
 msgid "HTML Version"
-msgstr ""
+msgstr "Sien weergawe %s besonderhede"
 
 #: views/admin/import-export.php:6 wp-mailinglist.php:2141
+#, fuzzy
 msgid "Import/Export Subscribers"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/import-export.php:10 views/admin/import-export.php:14
+#, fuzzy
 msgid "Import"
-msgstr ""
+msgstr "Invoer/Uitvoer"
 
 #: views/admin/import-export.php:21
 msgid "File"
@@ -3000,20 +3099,23 @@ msgstr ""
 #: views/admin/subscribers/index.php:7 views/admin/subscribers/loop.php:44
 #: views/admin/subscribers/loop.php:303 views/admin/subscribers/save.php:24
 #: wp-mailinglist.php:4010
+#, fuzzy
 msgid "subscribers"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/import-export.php:43
 #: views/admin/metaboxes/settings-comments.php:177
 #: views/admin/metaboxes/settings-latestposts.php:240
 #: views/admin/metaboxes/write-advanced.php:76
 #: views/admin/subscribers/loop.php:48
+#, fuzzy
 msgid "No mailing lists are available"
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/import-export.php:50
+#, fuzzy
 msgid "File Type"
-msgstr ""
+msgstr "Artikel Titel"
 
 #: views/admin/import-export.php:52
 msgid "CSV Spreadsheet"
@@ -3089,8 +3191,9 @@ msgid "Require Activation?"
 msgstr "Algemene Verstellings"
 
 #: views/admin/import-export.php:191 views/admin/mailinglists/save.php:89
+#, fuzzy
 msgid "Yes, require activation"
-msgstr ""
+msgstr "Algemene Verstellings"
 
 #: views/admin/import-export.php:192 views/admin/mailinglists/save.php:90
 msgid "No, activate immediately"
@@ -3105,8 +3208,9 @@ msgstr ""
 #: views/admin/import-export.php:203
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:6
 #: wp-mailinglist.php:2287
+#, fuzzy
 msgid "Confirmation Email"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/import-export.php:206
 msgid ""
@@ -3164,12 +3268,14 @@ msgid "Download the subscribers CSV document to your computer"
 msgstr ""
 
 #: views/admin/import-export.php:270
+#, fuzzy
 msgid "Select All Lists"
-msgstr ""
+msgstr "Kies"
 
 #: views/admin/import-export.php:278 views/admin/orders/save.php:26
+#, fuzzy
 msgid "No mailing lists are available."
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/import-export.php:280
 #, fuzzy
@@ -3217,24 +3323,29 @@ msgid "Show Ajax progress as the export is done?"
 msgstr ""
 
 #: views/admin/import-post.php:2
+#, fuzzy
 msgid "Importing Subscribers"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/import-post.php:5
+#, fuzzy
 msgid "subscribers have been imported."
-msgstr ""
+msgstr "Intekenaar was ingevoer"
 
 #: views/admin/import-post.php:18
+#, fuzzy
 msgid "Import More"
-msgstr ""
+msgstr "Invoer/Uitvoer"
 
 #: views/admin/import-post.php:24
+#, fuzzy
 msgid "Subscribers Imported"
-msgstr ""
+msgstr "Intekenaar was ingevoer"
 
 #: views/admin/import-post.php:27
+#, fuzzy
 msgid "Failed Subscribers"
-msgstr ""
+msgstr "Formidabele Intekenaars"
 
 #: views/admin/import-post.php:51
 msgid "Start Importing"
@@ -3249,12 +3360,14 @@ msgid "Importing Now"
 msgstr ""
 
 #: views/admin/import-post.php:139
+#, fuzzy
 msgid "Continue to Subscribers"
-msgstr ""
+msgstr "Formidabele Intekenaars"
 
 #: views/admin/import-post.php:156
+#, fuzzy
 msgid "No subscribers are available for import, please try again."
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/index.php:13
 #, fuzzy, php-format
@@ -3262,12 +3375,14 @@ msgid "Newsletters %s"
 msgstr "Nuusbriewe"
 
 #: views/admin/links/index.php:3
+#, fuzzy
 msgid "Manage Links &amp; Clicks"
-msgstr ""
+msgstr "Links &amp; Klieke"
 
 #: views/admin/links/index.php:7
+#, fuzzy
 msgid "links"
-msgstr ""
+msgstr "Links"
 
 #: views/admin/links/index.php:17
 msgid "Search Links"
@@ -3335,39 +3450,43 @@ msgid "Buy PRO Now"
 msgstr ""
 
 #: views/admin/lite-upgrade.php:48
+#, fuzzy
 msgid "Current Limits"
-msgstr ""
+msgstr "Taal"
 
 #: views/admin/lite-upgrade.php:49
+#, fuzzy
 msgid "Your current limits in Tribulant Newsletters LITE:"
-msgstr ""
+msgstr "Nuusbriewe"
 
 #: views/admin/lite-upgrade.php:51
-#, php-format
+#, fuzzy, php-format
 msgid "<strong>%s of 1</strong> (%s&#37;) mailing lists used"
-msgstr ""
+msgstr "%s van 1 (%s&#37;) lyste gebruik"
 
 #: views/admin/lite-upgrade.php:52
-#, php-format
+#, fuzzy, php-format
 msgid "<strong>%s of 500</strong> (%s&#37;) subscribers used"
-msgstr ""
+msgstr "%s van 500 (%s&#37;) inskrywers gebruik"
 
 #: views/admin/lite-upgrade.php:53
-#, php-format
+#, fuzzy, php-format
 msgid "<strong>%s of 1000</strong> (%s&#37;) emails per month"
-msgstr ""
+msgstr "%s van 1000 (%s&#37;) eposse gebruik (herstel weer op die 1ste)"
 
 #: views/admin/lite-upgrade.php:54
+#, fuzzy
 msgid "No dynamic, custom fields"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/lite-upgrade.php:58
 msgid "Benefits of PRO"
 msgstr ""
 
 #: views/admin/lite-upgrade.php:59
+#, fuzzy
 msgid "Tribulant Newsletters PRO gives these benefits:"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/lite-upgrade.php:61
 #, php-format
@@ -3389,8 +3508,9 @@ msgid "Unlimited subscribers"
 msgstr "Intekenaars"
 
 #: views/admin/lite-upgrade.php:64
+#, fuzzy
 msgid "Unlimited email sending"
-msgstr ""
+msgstr "- Alle Lyste -"
 
 #: views/admin/lite-upgrade.php:65
 #, fuzzy
@@ -3431,16 +3551,19 @@ msgstr ""
 
 #: views/admin/mailinglists/index.php:2
 #: views/admin/metaboxes/welcome/lists.php:5
+#, fuzzy
 msgid "Manage Lists"
-msgstr ""
+msgstr "Poslyste"
 
 #: views/admin/mailinglists/index.php:2
+#, fuzzy
 msgid "Create a new mailing list"
-msgstr ""
+msgstr "Kies lys(te)"
 
 #: views/admin/mailinglists/index.php:6
+#, fuzzy
 msgid "mailing lists"
-msgstr ""
+msgstr "Poslyste"
 
 #: views/admin/mailinglists/index.php:15
 msgid "Search Lists"
@@ -3465,20 +3588,23 @@ msgid "Set as NOT private"
 msgstr ""
 
 #: views/admin/mailinglists/loop.php:12
+#, fuzzy
 msgid "Opt-In"
-msgstr ""
+msgstr "Enkel Pos"
 
 #: views/admin/mailinglists/loop.php:13
+#, fuzzy
 msgid "Set as single opt-in"
-msgstr ""
+msgstr "Enkel Pos"
 
 #: views/admin/mailinglists/loop.php:14
 msgid "Set as double opt-in"
 msgstr ""
 
 #: views/admin/mailinglists/loop.php:16
+#, fuzzy
 msgid "Set Group"
-msgstr ""
+msgstr "Kies Drop Down"
 
 #: views/admin/mailinglists/loop.php:22
 #, fuzzy
@@ -3486,19 +3612,22 @@ msgid "Group:"
 msgstr "Groepe"
 
 #: views/admin/mailinglists/loop.php:30 views/admin/mailinglists/save.php:81
+#, fuzzy
 msgid "No groups are available."
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/mailinglists/loop.php:75 views/admin/mailinglists/loop.php:127
 #: views/admin/metaboxes/send-insert.php:3
 #: views/admin/metaboxes/send-insert.php:10
+#, fuzzy
 msgid "Fields"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/mailinglists/loop.php:80 views/admin/mailinglists/loop.php:131
 #: views/admin/mailinglists/save.php:75 views/admin/mailinglists/view.php:32
+#, fuzzy
 msgid "Group"
-msgstr ""
+msgstr "Groepe"
 
 #: views/admin/mailinglists/loop.php:170
 msgid "View the details of this mailing list"
@@ -3590,16 +3719,19 @@ msgid "Place the code into the HTML of your site"
 msgstr ""
 
 #: views/admin/mailinglists/paiddiv.php:4
+#, fuzzy
 msgid "Not Paid"
-msgstr ""
+msgstr "Betaal"
 
 #: views/admin/mailinglists/save.php:15
+#, fuzzy
 msgid "Save a Mailing List"
-msgstr ""
+msgstr "Poslys"
 
 #: views/admin/mailinglists/save.php:23
+#, fuzzy
 msgid "List Title"
-msgstr ""
+msgstr "Artikel Titel"
 
 #: views/admin/mailinglists/save.php:47
 msgid "Fill in a title for your list as your users will see it."
@@ -3631,8 +3763,9 @@ msgid "Put this mailing list into a group of lists."
 msgstr ""
 
 #: views/admin/mailinglists/save.php:86
+#, fuzzy
 msgid "Double Opt-In"
-msgstr ""
+msgstr "Enkel Pos"
 
 #: views/admin/mailinglists/save.php:87
 msgid ""
@@ -3660,8 +3793,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/mailinglists/save.php:103 views/admin/mailinglists/view.php:62
+#, fuzzy
 msgid "Paid List"
-msgstr ""
+msgstr "Poslys"
 
 #: views/admin/mailinglists/save.php:107
 msgid ""
@@ -3669,16 +3803,18 @@ msgid ""
 msgstr ""
 
 #: views/admin/mailinglists/save.php:118
+#, fuzzy
 msgid "Subscription Price"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/mailinglists/save.php:121
 msgid "Payment price at the interval below to stay subscribed to this list."
 msgstr ""
 
 #: views/admin/mailinglists/save.php:125
+#, fuzzy
 msgid "Subscription Interval"
-msgstr ""
+msgstr "Intekening was geaktiveer."
 
 #: views/admin/mailinglists/save.php:128
 msgid "Interval at which to charge the payment price above."
@@ -3701,40 +3837,47 @@ msgstr ""
 
 #: views/admin/mailinglists/save.php:147
 #: views/admin/metaboxes/settings-general.php:22
+#, fuzzy
 msgid "Administrator Email"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/mailinglists/save.php:150
 msgid "Email address to send notifications to for events of this mailing list."
 msgstr ""
 
 #: views/admin/mailinglists/save.php:158
+#, fuzzy
 msgid "Save Mailing List"
-msgstr ""
+msgstr "Poslys"
 
 #: views/admin/mailinglists/save.php:168
+#, fuzzy
 msgid "Enter mailing list title here"
-msgstr ""
+msgstr "Poslyste"
 
 #: views/admin/mailinglists/save.php:169
+#, fuzzy
 msgid "Enter a valid email address"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/admin/mailinglists/save.php:170
 msgid "http://domain.com/custom/url/to/go/to/"
 msgstr ""
 
 #: views/admin/mailinglists/view.php:2
+#, fuzzy
 msgid "View List:"
-msgstr ""
+msgstr "Verskeie Artikels"
 
 #: views/admin/mailinglists/view.php:4
+#, fuzzy
 msgid "&larr; All Mailing Lists"
-msgstr ""
+msgstr "- Alle Lyste -"
 
 #: views/admin/mailinglists/view.php:4
+#, fuzzy
 msgid "Manage All Mailing Lists"
-msgstr ""
+msgstr "- Alle Lyste -"
 
 #: views/admin/mailinglists/view.php:8
 msgid "Offsite Form"
@@ -3745,8 +3888,9 @@ msgid "Are you sure you wish to remove this mailing list?"
 msgstr ""
 
 #: views/admin/mailinglists/view.php:43
+#, fuzzy
 msgid "Admin Email"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/mailinglists/view.php:67
 msgid "Price"
@@ -3762,12 +3906,14 @@ msgstr ""
 #: views/admin/metaboxes/settings/tableofcontents-system.php:11
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:17
 #: views/admin/metaboxes/settings/tableofcontents.php:19
+#, fuzzy
 msgid "Save Settings"
-msgstr ""
+msgstr "Uitbreidings Instellings"
 
 #: views/admin/metaboxes/send-attachment.php:6
+#, fuzzy
 msgid "Send Attachment(s)"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/metaboxes/send-attachment.php:8
 msgid "Yes, I want to attach files to this email"
@@ -3778,8 +3924,9 @@ msgid "You can attach files to this email for your subscribers to receive."
 msgstr ""
 
 #: views/admin/metaboxes/send-attachment.php:36
+#, fuzzy
 msgid "Add an attachment"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/metaboxes/send-attachment.php:53
 msgid "Are you sure you want to remove this?"
@@ -3799,8 +3946,9 @@ msgstr "Artikels"
 
 #: views/admin/metaboxes/send-insert.php:3
 #: views/admin/metaboxes/send-insert.php:12
+#, fuzzy
 msgid "Snippets"
-msgstr ""
+msgstr "Brokkie:"
 
 #: views/admin/metaboxes/send-insert.php:17
 #, fuzzy
@@ -3829,8 +3977,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/send-insert.php:37
+#, fuzzy
 msgid "Single"
-msgstr ""
+msgstr "Enkel Pos"
 
 #: views/admin/metaboxes/send-insert.php:40 wp-mailinglist-widget.php:84
 #: wp-mailinglist-widget.php:175
@@ -3875,8 +4024,9 @@ msgid "Full"
 msgstr "Vol"
 
 #: views/admin/metaboxes/send-insert.php:67
+#, fuzzy
 msgid "Excerpt/Short"
-msgstr ""
+msgstr "Uittreksel"
 
 #: views/admin/metaboxes/send-insert.php:68
 msgid ""
@@ -3925,12 +4075,14 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/send-insert.php:105
+#, fuzzy
 msgid "Choose all settings above."
-msgstr ""
+msgstr "Kies Artikel"
 
 #: views/admin/metaboxes/send-insert.php:113
+#, fuzzy
 msgid "Page:"
-msgstr ""
+msgstr "Bladsy"
 
 #: views/admin/metaboxes/send-insert.php:117
 #, fuzzy
@@ -3938,8 +4090,9 @@ msgid "Insert Page"
 msgstr "Voeg:"
 
 #: views/admin/metaboxes/send-insert.php:122
+#, fuzzy
 msgid "Number:"
-msgstr ""
+msgstr "Aantal Artikels"
 
 #: views/admin/metaboxes/send-insert.php:124
 msgid "Number"
@@ -4045,8 +4198,9 @@ msgid "Insert Thumbnail"
 msgstr "Duimnaelskets"
 
 #: views/admin/metaboxes/send-insert.php:319
+#, fuzzy
 msgid "Insert Snippets"
-msgstr ""
+msgstr "Kies"
 
 #: views/admin/metaboxes/send-insert.php:319
 msgid ""
@@ -4075,20 +4229,24 @@ msgid "Select all Groups"
 msgstr "Kies Drop Down"
 
 #: views/admin/metaboxes/send-mailinglists.php:23
+#, fuzzy
 msgid "lists"
-msgstr ""
+msgstr "Lyste:"
 
 #: views/admin/metaboxes/send-mailinglists.php:33
+#, fuzzy
 msgid "Select all Lists"
-msgstr ""
+msgstr "Kies"
 
 #: views/admin/metaboxes/send-mailinglists.php:40
+#, fuzzy
 msgid "No lists are available"
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/metaboxes/send-mailinglists.php:47
+#, fuzzy
 msgid "Select all Roles"
-msgstr ""
+msgstr "Kies Drop Down"
 
 #: views/admin/metaboxes/send-mailinglists.php:50
 #, php-format
@@ -4150,8 +4308,9 @@ msgid "Smaller"
 msgstr ""
 
 #: views/admin/metaboxes/send-mailinglists.php:129
+#, fuzzy
 msgid "Larger"
-msgstr ""
+msgstr "Groot"
 
 #: views/admin/metaboxes/send-mailinglists.php:134
 msgid "Equals"
@@ -4167,21 +4326,25 @@ msgstr ""
 
 #: views/admin/metaboxes/send-mailinglists.php:185
 #: wp-mailinglist-plugin.php:4160
+#, fuzzy
 msgid "- Select Country -"
-msgstr ""
+msgstr "- Kies Kategorie -"
 
 #: views/admin/metaboxes/send-mailinglists.php:198
 #: wp-mailinglist-plugin.php:4209
+#, fuzzy
 msgid "- Select Gender -"
-msgstr ""
+msgstr "- Kies Templaat -"
 
 #: views/admin/metaboxes/send-mailinglists.php:233
+#, fuzzy
 msgid "0 subscribers total"
-msgstr ""
+msgstr "intekenaars totaal"
 
 #: views/admin/metaboxes/send-mailinglists.php:237
+#, fuzzy
 msgid "Update Count"
-msgstr ""
+msgstr "Opdaterings"
 
 #: views/admin/metaboxes/send-mailinglists.php:238
 msgid ""
@@ -4192,12 +4355,14 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/send-mailinglists.php:325
+#, fuzzy
 msgid "loading subscriber count..."
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/metaboxes/send-mailinglists.php:330
+#, fuzzy
 msgid "No subscribers available."
-msgstr ""
+msgstr "Geen intekenaar data is beskikbaar nie"
 
 #: views/admin/metaboxes/send-multimime.php:4
 msgid ""
@@ -4223,8 +4388,9 @@ msgid "Open in New Window"
 msgstr ""
 
 #: views/admin/metaboxes/send-preview.php:5
+#, fuzzy
 msgid "Update Preview"
-msgstr ""
+msgstr "Oorsig"
 
 #: views/admin/metaboxes/send-preview.php:10
 msgid ""
@@ -4248,20 +4414,24 @@ msgstr "Enkel Pos"
 #: views/admin/metaboxes/send-publish.php:26
 #: views/admin/metaboxes/settings-latestposts.php:103
 #: views/admin/metaboxes/settings-latestposts.php:141
+#, fuzzy
 msgid "Post Categories"
-msgstr ""
+msgstr "Kategorie"
 
 #: views/admin/metaboxes/send-publish.php:40
+#, fuzzy
 msgid "No categories were found"
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/metaboxes/send-publish.php:46
+#, fuzzy
 msgid "Post Author"
-msgstr ""
+msgstr "Skrywer"
 
 #: views/admin/metaboxes/send-publish.php:52
+#, fuzzy
 msgid "Post Status"
-msgstr ""
+msgstr "Artikels"
 
 #: views/admin/metaboxes/send-publish.php:64
 #, fuzzy
@@ -4269,8 +4439,9 @@ msgid "Post Type"
 msgstr "Artikel Titel"
 
 #: views/admin/metaboxes/send-publish.php:76
+#, fuzzy
 msgid "Post Slug"
-msgstr ""
+msgstr "Artikel Titel"
 
 #: views/admin/metaboxes/send-publish.php:79
 #, fuzzy
@@ -4282,8 +4453,9 @@ msgid "Save Draft"
 msgstr ""
 
 #: views/admin/metaboxes/send-submit.php:9
+#, fuzzy
 msgid "Send Preview"
-msgstr ""
+msgstr "Oorsig"
 
 #: views/admin/metaboxes/send-submit.php:16
 msgid "Send To:"
@@ -4316,12 +4488,14 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/send-submit.php:40
+#, fuzzy
 msgid "From Name:"
-msgstr ""
+msgstr "Wys Datum"
 
 #: views/admin/metaboxes/send-submit.php:44
+#, fuzzy
 msgid "From Email:"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/metaboxes/send-submit.php:48
 #: views/admin/metaboxes/send-submit.php:123
@@ -4334,8 +4508,9 @@ msgid ", %s times"
 msgstr ""
 
 #: views/admin/metaboxes/send-submit.php:94
+#, fuzzy
 msgid "Send Once"
-msgstr ""
+msgstr "Stuur Geselekteerde"
 
 #: views/admin/metaboxes/send-submit.php:97
 msgid ""
@@ -4395,8 +4570,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/send-submit.php:220
+#, fuzzy
 msgid "Schedule for:"
-msgstr ""
+msgstr "Geskeduleerde Take"
 
 #: views/admin/metaboxes/send-submit.php:221
 #, fuzzy
@@ -4405,13 +4581,15 @@ msgstr "Skep Nuusbrief"
 
 #: views/admin/metaboxes/send-submit.php:226
 #: views/admin/metaboxes/send-submit.php:253
+#, fuzzy
 msgid "Queue Newsletter"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/metaboxes/send-submit.php:231
 #: views/admin/metaboxes/send-submit.php:253 wp-mailinglist.php:2219
+#, fuzzy
 msgid "Send Newsletter"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/metaboxes/send-submit.php:248
 msgid "Are you sure you wish to remove this newsletter from your history?"
@@ -4447,8 +4625,9 @@ msgid "Check Now"
 msgstr "Keusebokse"
 
 #: views/admin/metaboxes/settings-bounce.php:5
+#, fuzzy
 msgid "Subscriber Delete on Bounce"
-msgstr ""
+msgstr "Intekenaar was ingevoer"
 
 #: views/admin/metaboxes/settings-bounce.php:6
 msgid ""
@@ -4484,8 +4663,9 @@ msgid "Should the admin be notified when an email to a subscriber has bounced?"
 msgstr ""
 
 #: views/admin/metaboxes/settings-bounce.php:43
+#, fuzzy
 msgid "Bounce Receival Email"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/metaboxes/settings-bounce.php:46
 msgid ""
@@ -4498,8 +4678,9 @@ msgid "Bounce Handling Method"
 msgstr ""
 
 #: views/admin/metaboxes/settings-bounce.php:52
+#, fuzzy
 msgid "Email Piping (CGI)"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/metaboxes/settings-bounce.php:53
 msgid "POP3 Email Fetch"
@@ -4582,8 +4763,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-comments.php:19
+#, fuzzy
 msgid "Subscribe List"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/metaboxes/settings-comments.php:28
 #, fuzzy
@@ -4631,16 +4813,18 @@ msgid "Label/caption text next to the checkbox on the registration form."
 msgstr ""
 
 #: views/admin/metaboxes/settings-comments.php:149
+#, fuzzy
 msgid "Auto check to subscribe"
-msgstr ""
+msgstr "Formidabele Intekenaars"
 
 #: views/admin/metaboxes/settings-comments.php:154
 msgid "Should the subscribe checkbox be ticked/checked by default or not?"
 msgstr ""
 
 #: views/admin/metaboxes/settings-comments.php:158
+#, fuzzy
 msgid "Registration List(s)"
-msgstr ""
+msgstr "Poslyste"
 
 #: views/admin/metaboxes/settings-comments.php:159
 msgid ""
@@ -4655,8 +4839,9 @@ msgid "To which list(s) should new users be subscribed upon registration?"
 msgstr "Kies in watter poslys(te) intekenaars ingeteken gaan word."
 
 #: views/admin/metaboxes/settings-customcss.php:4
+#, fuzzy
 msgid "Select Theme Folder"
-msgstr ""
+msgstr "Kies"
 
 #: views/admin/metaboxes/settings-customcss.php:12
 msgid "Select the folder inside \""
@@ -4677,16 +4862,18 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-customcss.php:27
+#, fuzzy
 msgid "Use Custom CSS"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/metaboxes/settings-customcss.php:31
 msgid "Load any additional CSS into the site as needed."
 msgstr ""
 
 #: views/admin/metaboxes/settings-customcss.php:41
+#, fuzzy
 msgid "Load Default Scripts"
-msgstr ""
+msgstr "Standaard Lys"
 
 #: views/admin/metaboxes/settings-customcss.php:43
 msgid "Turn On/Off the loading of default scripts in the plugin."
@@ -4810,8 +4997,9 @@ msgid "Email address of the administrator for notification purposes."
 msgstr ""
 
 #: views/admin/metaboxes/settings-general.php:30
+#, fuzzy
 msgid "From Address"
-msgstr ""
+msgstr "IP Adres"
 
 #: views/admin/metaboxes/settings-general.php:31
 msgid ""
@@ -4838,8 +5026,9 @@ msgid "This is the From email address that your subscribers will see."
 msgstr ""
 
 #: views/admin/metaboxes/settings-general.php:44
+#, fuzzy
 msgid "From Name"
-msgstr ""
+msgstr "Wys Datum"
 
 #: views/admin/metaboxes/settings-general.php:45
 msgid ""
@@ -4884,12 +5073,14 @@ msgid "Custom Image/Logo"
 msgstr "Persoonlike Velde"
 
 #: views/admin/metaboxes/settings-general.php:80
+#, fuzzy
 msgid "Tracking Image/Logo"
-msgstr ""
+msgstr "spoor"
 
 #: views/admin/metaboxes/settings-general.php:87
+#, fuzzy
 msgid "Current image:"
-msgstr ""
+msgstr "Taal"
 
 #: views/admin/metaboxes/settings-general.php:101
 #, fuzzy
@@ -4908,8 +5099,9 @@ msgid "Should links inside newsletters be tracked as they are clicked?"
 msgstr ""
 
 #: views/admin/metaboxes/settings-general.php:110
+#, fuzzy
 msgid "Mail Type"
-msgstr ""
+msgstr "Artikel Titel"
 
 #: views/admin/metaboxes/settings-general.php:111
 msgid ""
@@ -4944,8 +5136,9 @@ msgid "The method of sending out emails globally."
 msgstr ""
 
 #: views/admin/metaboxes/settings-general.php:129
+#, fuzzy
 msgid "SMTP Host Name"
-msgstr ""
+msgstr "Van"
 
 #: views/admin/metaboxes/settings-general.php:133
 msgid "SMTP host name eg. \"localhost\". For Gmail, use \"smtp.gmail.com\"."
@@ -4980,8 +5173,9 @@ msgid "Set the connection protocol prefix."
 msgstr ""
 
 #: views/admin/metaboxes/settings-general.php:154
+#, fuzzy
 msgid "SMTP Authentication"
-msgstr ""
+msgstr "Kontroleer jou e-pos nou"
 
 #: views/admin/metaboxes/settings-general.php:159
 msgid "Turn On if your SMTP server requires a username and password."
@@ -5056,8 +5250,9 @@ msgstr ""
 
 #: views/admin/metaboxes/settings-importusers.php:14
 #: views/admin/settings-cronschedules.php:115
+#, fuzzy
 msgid "Auto Import WordPress Users"
-msgstr ""
+msgstr "Outo import gebruikers"
 
 #: views/admin/metaboxes/settings-importusers.php:18
 msgid ""
@@ -5075,8 +5270,9 @@ msgid "No roles/lists are available"
 msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/metaboxes/settings-importusers.php:79
+#, fuzzy
 msgid "Require Activation"
-msgstr ""
+msgstr "Algemene Verstellings"
 
 #: views/admin/metaboxes/settings-importusers.php:83
 msgid ""
@@ -5108,8 +5304,9 @@ msgid "Map user meta by selection or custom key to import into custom fields."
 msgstr ""
 
 #: views/admin/metaboxes/settings-language.php:9
+#, fuzzy
 msgid "Default Mailing List"
-msgstr ""
+msgstr "Poslyste"
 
 #: views/admin/metaboxes/settings-language.php:18
 msgid ""
@@ -5118,12 +5315,14 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-language.php:31
+#, fuzzy
 msgid "Select Default List"
-msgstr ""
+msgstr "Standaard Lys"
 
 #: views/admin/metaboxes/settings-latestposts.php:6
+#, fuzzy
 msgid "Posts Subscription"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/metaboxes/settings-latestposts.php:10
 msgid ""
@@ -5131,8 +5330,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-latestposts.php:14
+#, fuzzy
 msgid "Next Schedule"
-msgstr ""
+msgstr "Geskeduleerde Take"
 
 #: views/admin/metaboxes/settings-latestposts.php:25
 msgid ""
@@ -5186,8 +5386,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-latestposts.php:75
+#, fuzzy
 msgid "subject of the email to the subscribers."
-msgstr ""
+msgstr "Serial sleutel was uitgevee"
 
 #: views/admin/metaboxes/settings-latestposts.php:79
 msgid "Number of Posts"
@@ -5215,8 +5416,9 @@ msgid "Choose the language part which should be used for the posts."
 msgstr ""
 
 #: views/admin/metaboxes/settings-latestposts.php:101
+#, fuzzy
 msgid "Take Posts From"
-msgstr ""
+msgstr "Verskeie Artikels"
 
 #: views/admin/metaboxes/settings-latestposts.php:104
 #: views/admin/metaboxes/settings-latestposts.php:116
@@ -5322,8 +5524,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-latestposts.php:274
+#, fuzzy
 msgid "Sending Interval"
-msgstr ""
+msgstr "Kieslys Volgorde"
 
 #: views/admin/metaboxes/settings-latestposts.php:279
 #, fuzzy
@@ -5378,16 +5581,18 @@ msgid "displays subscription management page. generated by %s in content"
 msgstr ""
 
 #: views/admin/metaboxes/settings-management.php:51
+#, fuzzy
 msgid "Authentication Email Subject"
-msgstr ""
+msgstr "Kontroleer jou e-pos nou"
 
 #: views/admin/metaboxes/settings-management.php:86
 msgid "The subject of the email when a subscriber authenticates."
 msgstr ""
 
 #: views/admin/metaboxes/settings-management.php:90
+#, fuzzy
 msgid "Allow New Subscribes"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/metaboxes/settings-management.php:94
 msgid ""
@@ -5395,8 +5600,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-management.php:98
+#, fuzzy
 msgid "Custom Fields In Management"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/metaboxes/settings-management.php:102
 msgid ""
@@ -5410,12 +5616,14 @@ msgid "Allow Changing Email Address"
 msgstr "Kontroleer jou e-pos nou"
 
 #: views/admin/metaboxes/settings-management.php:116
+#, fuzzy
 msgid "Allow subscribers to change their email address?"
-msgstr ""
+msgstr "Kontroleer jou e-pos nou"
 
 #: views/admin/metaboxes/settings-management.php:120
+#, fuzzy
 msgid "Allow Changing of Format"
-msgstr ""
+msgstr "Kontroleer jou e-pos nou"
 
 #: views/admin/metaboxes/settings-management.php:125
 msgid "Let subscribers choose between HTML and TEXT formatted emails."
@@ -5444,8 +5652,9 @@ msgstr ""
 
 #: views/admin/metaboxes/settings-optin.php:58
 #: views/admin/metaboxes/settings-optin.php:122
+#, fuzzy
 msgid "Scroll to Subscription Form"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/metaboxes/settings-optin.php:62
 #: views/admin/metaboxes/settings-optin.php:126
@@ -5477,8 +5686,9 @@ msgid "Acknowledgement message to show after a successful subscribe."
 msgstr ""
 
 #: views/admin/metaboxes/settings-optin.php:103
+#, fuzzy
 msgid "Subscribe Again Link"
-msgstr ""
+msgstr "Skryf weer in"
 
 #: views/admin/metaboxes/settings-optin.php:107
 msgid ""
@@ -5491,8 +5701,9 @@ msgid "Requires captcha image input upon subscribing."
 msgstr ""
 
 #: views/admin/metaboxes/settings-pp.php:4
+#, fuzzy
 msgid "PayPal Email Address"
-msgstr ""
+msgstr "Eposadres"
 
 #: views/admin/metaboxes/settings-pp.php:5
 #: views/admin/metaboxes/settings-pp.php:8
@@ -5532,8 +5743,9 @@ msgid "The PayPal Sandbox environment is for testing purposes."
 msgstr ""
 
 #: views/admin/metaboxes/settings-publishing.php:5
+#, fuzzy
 msgid "Excerpt Length"
-msgstr ""
+msgstr "Uittreksel"
 
 #: views/admin/metaboxes/settings-publishing.php:6
 msgid ""
@@ -5574,18 +5786,21 @@ msgstr ""
 
 #: views/admin/metaboxes/settings-publishing.php:62
 #: views/admin/metaboxes/write-advanced.php:33
+#, fuzzy
 msgid "Full Post or Excerpt"
-msgstr ""
+msgstr "Vol/Uittreksel:"
 
 #: views/admin/metaboxes/settings-publishing.php:64
 #: views/admin/metaboxes/write-advanced.php:35
+#, fuzzy
 msgid "Full Post"
-msgstr ""
+msgstr "Verskeie Artikels"
 
 #: views/admin/metaboxes/settings-publishing.php:65
 #: views/admin/metaboxes/write-advanced.php:36
+#, fuzzy
 msgid "Excerpt of Post"
-msgstr ""
+msgstr "Aantal Artikels"
 
 #: views/admin/metaboxes/settings-publishing.php:67
 msgid ""
@@ -5594,12 +5809,14 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-publishing.php:76
+#, fuzzy
 msgid "Include Unsubscribe Link"
-msgstr ""
+msgstr "Skryf weer in"
 
 #: views/admin/metaboxes/settings-scheduling.php:15
+#, fuzzy
 msgid "Emails per Interval"
-msgstr ""
+msgstr "E-pos Geskiedenis"
 
 #: views/admin/metaboxes/settings-scheduling.php:16
 msgid ""
@@ -5613,8 +5830,9 @@ msgid "Recommended below 100"
 msgstr ""
 
 #: views/admin/metaboxes/settings-scheduling.php:23
+#, fuzzy
 msgid "Cron/Schedule Type"
-msgstr ""
+msgstr "Geskeduleerde Take"
 
 #: views/admin/metaboxes/settings-scheduling.php:25
 msgid "WordPress Cron"
@@ -5632,13 +5850,15 @@ msgstr ""
 
 #: views/admin/metaboxes/settings-scheduling.php:37
 #: views/admin/queues/index.php:55
+#, fuzzy
 msgid "Schedule Interval"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/metaboxes/settings-scheduling.php:41
 #: views/admin/metaboxes/system/captcha.php:196
+#, fuzzy
 msgid "- Select Interval -"
-msgstr ""
+msgstr "- Kies Kategorie -"
 
 #: views/admin/metaboxes/settings-scheduling.php:51
 msgid "Keep the schedule interval as low as possible for frequent executions."
@@ -5715,8 +5935,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-sending.php:28
+#, fuzzy
 msgid "Turn on/off the preview feature while creating a newsletter."
-msgstr ""
+msgstr "Verander ontwerpe terwyl jy n nuusbrief skep"
 
 #: views/admin/metaboxes/settings-sending.php:32
 #: wp-mailinglist-plugin.php:1673 wp-mailinglist.php:2213
@@ -5724,8 +5945,9 @@ msgid "Spam Score"
 msgstr ""
 
 #: views/admin/metaboxes/settings-sending.php:36
+#, fuzzy
 msgid "Turn on/off the spam score utility while creating a newsletter"
-msgstr ""
+msgstr "Verander ontwerpe terwyl jy n nuusbrief skep"
 
 #: views/admin/metaboxes/settings-sending.php:40
 #, fuzzy
@@ -5746,8 +5968,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-sending.php:49
+#, fuzzy
 msgid "Email Encoding"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/metaboxes/settings-sending.php:50
 msgid ""
@@ -5888,8 +6111,9 @@ msgid "Reset all settings to their defaults"
 msgstr ""
 
 #: views/admin/metaboxes/settings-submit.php:15
+#, fuzzy
 msgid "Reset Defaults"
-msgstr ""
+msgstr "Standaard Lys"
 
 #: views/admin/metaboxes/settings-submit.php:16
 msgid ""
@@ -5926,8 +6150,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscribers.php:4
+#, fuzzy
 msgid "Redirect On Success Subscribe"
-msgstr ""
+msgstr "Formidabele Intekenaars"
 
 #: views/admin/metaboxes/settings-subscribers.php:5
 msgid ""
@@ -5957,16 +6182,18 @@ msgid "Redirect upon unsubscription, activation, etc..."
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscribers.php:39
+#, fuzzy
 msgid "Subscriber Exists Redirect"
-msgstr ""
+msgstr "Intekenaar was ingevoer"
 
 #: views/admin/metaboxes/settings-subscribers.php:41
 msgid "Management Section"
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscribers.php:42
+#, fuzzy
 msgid "Custom URL"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/metaboxes/settings-subscribers.php:43
 #: views/admin/metaboxes/settings-subscribers.php:250
@@ -5978,16 +6205,18 @@ msgid "What to do when a user subscribes with an existing email address?"
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscribers.php:54
+#, fuzzy
 msgid "Custom Redirect URL"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/metaboxes/settings-subscribers.php:57
 msgid "URL/Link to redirect an existing subscriber to."
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscribers.php:67
+#, fuzzy
 msgid "Subscriber Exists Message"
-msgstr ""
+msgstr "Sukses"
 
 #: views/admin/metaboxes/settings-subscribers.php:102
 msgid ""
@@ -5995,16 +6224,18 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscribers.php:111
+#, fuzzy
 msgid "Online Newsletter Link Text"
-msgstr ""
+msgstr "Nuusbriewe"
 
 #: views/admin/metaboxes/settings-subscribers.php:146
 msgid "Displays email in browser. generated by <code>["
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscribers.php:150
+#, fuzzy
 msgid "Admin Notification on Subscription"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/metaboxes/settings-subscribers.php:159
 #, fuzzy
@@ -6012,8 +6243,9 @@ msgid "Require Confirmation?"
 msgstr "Algemene Verstellings"
 
 #: views/admin/metaboxes/settings-subscribers.php:161
+#, fuzzy
 msgid "Yes, confirm email address"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/admin/metaboxes/settings-subscribers.php:162
 msgid "No, immediately activate"
@@ -6025,8 +6257,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscribers.php:173
+#, fuzzy
 msgid "Confirmation Emails"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/metaboxes/settings-subscribers.php:175
 #: views/admin/metaboxes/settings-unsubscribe.php:209
@@ -6064,8 +6297,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscribers.php:237
+#, fuzzy
 msgid "Link/URL to which subscribers will be redirected upon activation."
-msgstr ""
+msgstr "Kies in watter poslys(te) intekenaars ingeteken gaan word."
 
 #: views/admin/metaboxes/settings-subscribers.php:247
 #: views/admin/subscribers/index.php:43
@@ -6074,8 +6308,9 @@ msgid "Inactive Subscriptions"
 msgstr "Inteken Vorm"
 
 #: views/admin/metaboxes/settings-subscribers.php:251
+#, fuzzy
 msgid "Send Reminder"
-msgstr ""
+msgstr "Kieslys Volgorde"
 
 #: views/admin/metaboxes/settings-subscribers.php:253
 #, fuzzy
@@ -6083,8 +6318,9 @@ msgid "How should inactive subscriptions be handled?"
 msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/metaboxes/settings-subscribers.php:264
+#, fuzzy
 msgid "Delete Delay"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/metaboxes/settings-subscribers.php:267
 #, php-format
@@ -6092,13 +6328,15 @@ msgid "Delete inactive subscriptions %s days after subscribing."
 msgstr ""
 
 #: views/admin/metaboxes/settings-subscribers.php:268
+#, fuzzy
 msgid ""
 "After how many days should an inactive subscription to a list be deleted?"
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/metaboxes/settings-subscribers.php:280
+#, fuzzy
 msgid "Confirmation Reminder"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/metaboxes/settings-subscribers.php:283
 #, php-format
@@ -6113,8 +6351,9 @@ msgstr ""
 #: views/admin/metaboxes/settings-subscriptions.php:12
 #: views/admin/metaboxes/settings/tableofcontents.php:7
 #: wp-mailinglist.php:2260
+#, fuzzy
 msgid "Paid Subscriptions"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/metaboxes/settings-subscriptions.php:13
 msgid ""
@@ -6268,8 +6507,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-unsubscribe.php:63
+#, fuzzy
 msgid "Unsubscription Link Text"
-msgstr ""
+msgstr "Skryf weer in"
 
 #: views/admin/metaboxes/settings-unsubscribe.php:64
 msgid ""
@@ -6332,8 +6572,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-unsubscribe.php:151
+#, fuzzy
 msgid "Unsubscribe Confirmation Screen"
-msgstr ""
+msgstr "Intekenaars Verstellings"
 
 #: views/admin/metaboxes/settings-unsubscribe.php:152
 msgid ""
@@ -6351,8 +6592,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-unsubscribe.php:166
+#, fuzzy
 msgid "Remove All Subscriptions"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/metaboxes/settings-unsubscribe.php:167
 msgid ""
@@ -6369,8 +6611,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-unsubscribe.php:181
+#, fuzzy
 msgid "Delete Subscriber on Unsubscribe"
-msgstr ""
+msgstr "Formidabele Intekenaars"
 
 #: views/admin/metaboxes/settings-unsubscribe.php:182
 msgid ""
@@ -6424,8 +6667,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-unsubscribe.php:221
+#, fuzzy
 msgid "Unsubscribe Comments Box"
-msgstr ""
+msgstr "intekenaars totaal"
 
 #: views/admin/metaboxes/settings-unsubscribe.php:222
 msgid ""
@@ -6447,8 +6691,9 @@ msgstr ""
 
 #: views/admin/metaboxes/settings-wprelated.php:30
 #: views/admin/metaboxes/settings-wprelated.php:57
+#, fuzzy
 msgid "Show"
-msgstr ""
+msgstr "Wys Almal"
 
 #: views/admin/metaboxes/settings-wprelated.php:31
 #: views/admin/metaboxes/settings-wprelated.php:58
@@ -6499,8 +6744,9 @@ msgid "No language file loaded, please ensure that %s exists."
 msgstr ""
 
 #: views/admin/metaboxes/settings-wprelated.php:55
+#, fuzzy
 msgid "\"Send as Newsletter\" box on posts/pages"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/metaboxes/settings-wprelated.php:59
 msgid ""
@@ -6508,8 +6754,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/settings-wprelated.php:63
+#, fuzzy
 msgid "Register New Subscribers as Users"
-msgstr ""
+msgstr "Formidabele Intekenaars"
 
 #: views/admin/metaboxes/settings-wprelated.php:67
 msgid "Would you like to register all new subscribers as users?"
@@ -6555,8 +6802,9 @@ msgstr ""
 #: views/admin/metaboxes/settings/tableofcontents-system.php:1
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:1
 #: views/admin/metaboxes/settings/tableofcontents.php:1
+#, fuzzy
 msgid "Go to section"
-msgstr ""
+msgstr "Kies Artikel"
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:3
 #: views/admin/metaboxes/settings/tableofcontents-system.php:3
@@ -6568,33 +6816,39 @@ msgstr "Kies Artikel"
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:4
 #: wp-mailinglist.php:2308
+#, fuzzy
 msgid "Subscriber Management Section"
-msgstr ""
+msgstr "Intekening was uitgevee."
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:5
 #: wp-mailinglist.php:2309
+#, fuzzy
 msgid "Subscription Behaviour"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/metaboxes/settings/tableofcontents-subscribers.php:6
 #: wp-mailinglist.php:2310
+#, fuzzy
 msgid "Unsubscribe Behaviour"
-msgstr ""
+msgstr "intekenaars totaal"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:4
 #: wp-mailinglist.php:2333
+#, fuzzy
 msgid "Captcha Settings"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:5
 #: wp-mailinglist.php:2334
+#, fuzzy
 msgid "WordPress Related"
-msgstr ""
+msgstr "WordPress Object Cache API"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:6
 #: wp-mailinglist.php:2336
+#, fuzzy
 msgid "Auto Import Users"
-msgstr ""
+msgstr "Outo import gebruikers"
 
 #: views/admin/metaboxes/settings/tableofcontents-system.php:7
 #: wp-mailinglist.php:2337
@@ -6609,8 +6863,9 @@ msgstr "Verskeie Artikels"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:7
 #: wp-mailinglist.php:2288
+#, fuzzy
 msgid "Bounce Email"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:8
 #: wp-mailinglist.php:2289
@@ -6631,43 +6886,51 @@ msgstr ""
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:11
 #: wp-mailinglist.php:2292
+#, fuzzy
 msgid "Paid Subscription Email"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:12
 #: wp-mailinglist.php:2293
+#, fuzzy
 msgid "Cron Schedule Email"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/metaboxes/settings/tableofcontents-templates.php:13
 #: wp-mailinglist.php:2294
+#, fuzzy
 msgid "New Subscription Email"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:4
 #: wp-mailinglist.php:2257
+#, fuzzy
 msgid "General Mail Settings"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:5
 #: wp-mailinglist.php:2258
+#, fuzzy
 msgid "Sending Settings"
-msgstr ""
+msgstr "Uitbreidings Instellings"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:6
 #: wp-mailinglist.php:2259
+#, fuzzy
 msgid "Default Subscription Form Settings"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:8
 #: wp-mailinglist.php:2261
+#, fuzzy
 msgid "PayPal Configuration"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:9
 #: wp-mailinglist.php:2262
+#, fuzzy
 msgid "2CheckOut Configuration"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:10
 #: wp-mailinglist.php:2263
@@ -6677,13 +6940,15 @@ msgstr "Sisteem Verstellings"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:11
 #: wp-mailinglist.php:2264
+#, fuzzy
 msgid "Email Scheduling"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:12
 #: wp-mailinglist.php:2265
+#, fuzzy
 msgid "Bounce Configuration"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:13
 #: wp-mailinglist.php:2266
@@ -6693,8 +6958,9 @@ msgstr "Sisteem Verstellings"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:14
 #: views/admin/settings-cronschedules.php:75 wp-mailinglist.php:2267
+#, fuzzy
 msgid "Latest Posts Subscription"
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/metaboxes/settings/tableofcontents.php:15
 #: wp-mailinglist.php:2268
@@ -6821,8 +7087,9 @@ msgid "px"
 msgstr ""
 
 #: views/admin/metaboxes/system/captcha.php:171
+#, fuzzy
 msgid "Choose your preferred size for the captcha image."
-msgstr ""
+msgstr "Verkiesde grootte van die foto"
 
 #: views/admin/metaboxes/system/captcha.php:175
 #, fuzzy
@@ -6837,8 +7104,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/system/captcha.php:178 views/admin/send.php:75
+#, fuzzy
 msgid "characters"
-msgstr ""
+msgstr "Aantal Artikels"
 
 #: views/admin/metaboxes/system/captcha.php:179
 msgid "The number of characters to show in the captcha image."
@@ -6875,8 +7143,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/system/permissions.php:15
+#, fuzzy
 msgid "Send to Roles Permissions"
-msgstr ""
+msgstr "Sien weergawe %s besonderhede"
 
 #: views/admin/metaboxes/system/permissions.php:16
 msgid ""
@@ -6885,12 +7154,14 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/system/permissions.php:27
+#, fuzzy
 msgid "Global Plugin Permissions"
-msgstr ""
+msgstr "Sien weergawe %s besonderhede"
 
 #: views/admin/metaboxes/templates-submit.php:8
+#, fuzzy
 msgid "Delete this template"
-msgstr ""
+msgstr "- Kies Templaat -"
 
 #: views/admin/metaboxes/templates-submit.php:8
 #: views/admin/templates/view.php:13
@@ -6898,12 +7169,14 @@ msgid "Are you sure you wish to remove this snippet?"
 msgstr ""
 
 #: views/admin/metaboxes/templates-submit.php:8
+#, fuzzy
 msgid "Delete Snippet"
-msgstr ""
+msgstr "Formidabele Intekenaars"
 
 #: views/admin/metaboxes/templates-submit.php:12 wp-mailinglist.php:2245
+#, fuzzy
 msgid "Save Snippet"
-msgstr ""
+msgstr "Bewaar E-pos Templates"
 
 #: views/admin/metaboxes/templates/bounce.php:51
 #: views/admin/metaboxes/templates/confirm.php:51
@@ -6915,8 +7188,9 @@ msgstr ""
 #: views/admin/metaboxes/templates/subscribe.php:51
 #: views/admin/metaboxes/templates/unsubscribe.php:51
 #: views/admin/metaboxes/templates/unsubscribeuser.php:51
+#, fuzzy
 msgid "Email Message"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/metaboxes/templates/latestposts.php:50
 #: views/admin/metaboxes/templates/posts.php:51
@@ -6980,18 +7254,21 @@ msgid "The full content of the post as published."
 msgstr ""
 
 #: views/admin/metaboxes/welcome/bounces.php:2
+#, fuzzy
 msgid "Bounced emails to date:"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/metaboxes/welcome/bounces.php:4
 #: views/admin/metaboxes/welcome/subscribers.php:4
 #: views/admin/subscribers/index.php:2
+#, fuzzy
 msgid "Manage Subscribers"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/metaboxes/welcome/emails.php:2
+#, fuzzy
 msgid "Emails sent to date:"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/metaboxes/welcome/emails.php:4
 #, fuzzy
@@ -7011,8 +7288,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/metaboxes/welcome/history.php:43
+#, fuzzy
 msgid "View All Emails"
-msgstr ""
+msgstr "Geskiedenis/Konsep e-pos"
 
 #: views/admin/metaboxes/welcome/history.php:47
 msgid ""
@@ -7039,8 +7317,9 @@ msgid "Subscriber:"
 msgstr "Intekenaars"
 
 #: views/admin/metaboxes/welcome/quicksearch.php:10
+#, fuzzy
 msgid "Search Now"
-msgstr ""
+msgstr "Keusebokse"
 
 #: views/admin/metaboxes/welcome/quicksearch.php:17
 #, fuzzy
@@ -7094,16 +7373,19 @@ msgid "No languages are available, please enable languages first."
 msgstr ""
 
 #: views/admin/metaboxes/write-advanced.php:41
+#, fuzzy
 msgid "Select a Theme"
-msgstr ""
+msgstr "Kies"
 
 #: views/admin/metaboxes/write-advanced.php:60
+#, fuzzy
 msgid "Select Mailing List(s)"
-msgstr ""
+msgstr "Poslyste"
 
 #: views/admin/metaboxes/write-advanced.php:72
+#, fuzzy
 msgid "active subscribers"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/offsite-iframe.php:2
 msgid "Form loading, please wait..."
@@ -7114,8 +7396,9 @@ msgid "Offsite Wizard"
 msgstr ""
 
 #: views/admin/offsite-wizard.php:7
+#, fuzzy
 msgid "Form Type"
-msgstr ""
+msgstr "Artikel Titel"
 
 #: views/admin/offsite-wizard.php:9
 msgid "Popup"
@@ -7136,16 +7419,19 @@ msgid ""
 msgstr ""
 
 #: views/admin/offsite-wizard.php:20
+#, fuzzy
 msgid "Select List"
-msgstr ""
+msgstr "Kies"
 
 #: views/admin/offsite-wizard.php:27
+#, fuzzy
 msgid "Choose the mailing list to subscribe users to."
-msgstr ""
+msgstr "Kies lys(te)"
 
 #: views/admin/offsite-wizard.php:37
+#, fuzzy
 msgid "Show Custom Fields"
-msgstr ""
+msgstr "Persoonlike Velde"
 
 #: views/admin/offsite-wizard.php:41
 msgid "Should custom fields be generated in this HTML code?"
@@ -7206,16 +7492,19 @@ msgid "Copy and paste the code into any webpage."
 msgstr ""
 
 #: views/admin/orders/index.php:2
+#, fuzzy
 msgid "Manage Orders"
-msgstr ""
+msgstr "Kieslys Volgorde"
 
 #: views/admin/orders/index.php:6
+#, fuzzy
 msgid "subscription orders"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/orders/index.php:15
+#, fuzzy
 msgid "Search Orders"
-msgstr ""
+msgstr "Willekeurige Volgorde"
 
 #: views/admin/orders/loop.php:51 views/admin/orders/loop.php:94
 #: views/admin/orders/save.php:31 views/admin/orders/view.php:39
@@ -7243,8 +7532,9 @@ msgid "View Order"
 msgstr "Kieslys Volgorde: "
 
 #: views/admin/orders/loop.php:134 views/admin/subscribers/loop.php:212
+#, fuzzy
 msgid "View the details of this subscriber"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/orders/loop.php:151
 #, fuzzy
@@ -7252,8 +7542,9 @@ msgid "orders"
 msgstr "Volgorde By"
 
 #: views/admin/orders/save.php:2
+#, fuzzy
 msgid "Save Subscription Order"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/orders/save.php:10
 #, fuzzy
@@ -7265,8 +7556,9 @@ msgid "Order Number"
 msgstr ""
 
 #: views/admin/orders/save.php:39
+#, fuzzy
 msgid "Product ID"
-msgstr ""
+msgstr "Artikel ID"
 
 #: views/admin/orders/save.php:45 views/admin/orders/view.php:44
 msgid "PayPal"
@@ -7277,8 +7569,9 @@ msgid "2CheckOut"
 msgstr ""
 
 #: views/admin/orders/save.php:58
+#, fuzzy
 msgid "Save Order"
-msgstr ""
+msgstr "Kieslys Volgorde"
 
 #: views/admin/orders/view.php:2
 msgid "View Order: "
@@ -7315,24 +7608,28 @@ msgid "Close This"
 msgstr ""
 
 #: views/admin/queues/index.php:3
+#, fuzzy
 msgid "Schedule Details"
-msgstr ""
+msgstr "Geskeduleerde Take"
 
 #: views/admin/queues/index.php:7
+#, fuzzy
 msgid "Configure Email Scheduling"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/queues/index.php:15
+#, fuzzy
 msgid "Total emails in queue"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/queues/index.php:19
 msgid "Current Date &amp; Time"
 msgstr ""
 
 #: views/admin/queues/index.php:24
+#, fuzzy
 msgid "Next schedule event"
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/queues/index.php:25 views/admin/settings-cronschedules.php:41
 #: views/admin/settings-cronschedules.php:59
@@ -7366,12 +7663,14 @@ msgid "Emails per schedule interval"
 msgstr ""
 
 #: views/admin/queues/index.php:73
+#, fuzzy
 msgid "Current Queue Emails"
-msgstr ""
+msgstr "Gestuurde terugvoerder eposse"
 
 #: views/admin/queues/index.php:78
+#, fuzzy
 msgid "queued emails"
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/queues/index.php:85
 msgid "A to Z"
@@ -7390,8 +7689,9 @@ msgid "Old to New"
 msgstr ""
 
 #: views/admin/queues/index.php:103 views/admin/subscribers/index.php:30
+#, fuzzy
 msgid "Filters:"
-msgstr ""
+msgstr "Filter"
 
 #: views/admin/queues/index.php:105
 #, fuzzy
@@ -7412,8 +7712,9 @@ msgid "Are you sure you wish to purge the email queue?"
 msgstr ""
 
 #: views/admin/queues/loop.php:5
+#, fuzzy
 msgid "Clear Queue"
-msgstr ""
+msgstr "E-pos Tou"
 
 #: views/admin/queues/loop.php:40 views/admin/queues/loop.php:92
 #: views/admin/subscribers/loop.php:87 views/admin/subscribers/loop.php:154
@@ -7421,8 +7722,9 @@ msgid "Image"
 msgstr ""
 
 #: views/admin/queues/loop.php:64 views/admin/queues/loop.php:115
+#, fuzzy
 msgid "Error"
-msgstr ""
+msgstr "Fout"
 
 #: views/admin/queues/loop.php:136
 #, fuzzy
@@ -7439,24 +7741,29 @@ msgid "Are you sure you want to delete this queued email?"
 msgstr ""
 
 #: views/admin/queues/view.php:3
+#, fuzzy
 msgid "Emails Queue"
-msgstr ""
+msgstr "E-pos Tou"
 
 #: views/admin/queues/view.php:8
+#, fuzzy
 msgid "Queue email details"
-msgstr ""
+msgstr "Serial sleutel was uitgevee"
 
 #: views/admin/send-post.php:3 views/admin/send-post.php:128
+#, fuzzy
 msgid "Sending Newsletter"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/send-post.php:5 views/admin/send-post.php:122
+#, fuzzy
 msgid "Queuing Newsletter"
-msgstr ""
+msgstr "Nuusbriewe"
 
 #: views/admin/send-post.php:11
+#, fuzzy
 msgid "This newsletter will be scheduled for:"
-msgstr ""
+msgstr "Intekenaar kon nie gelees word nie."
 
 #: views/admin/send-post.php:15
 msgid "This newsletter will be sent immediately, as fast as possible."
@@ -7483,17 +7790,20 @@ msgstr ""
 "skedule / Vertraging instellings."
 
 #: views/admin/send-post.php:25 views/admin/send-post.php:130
+#, fuzzy
 msgid "emails have been sent out."
-msgstr ""
+msgstr "Hierdie auto-terugvoerder e-pos is verskuldig in "
 
 #: views/admin/send-post.php:27 views/admin/send-post.php:124
 #: wp-mailinglist.php:2883
+#, fuzzy
 msgid "emails have been queued."
-msgstr ""
+msgstr "Hierdie auto-terugvoerder e-pos is verskuldig in "
 
 #: views/admin/send-post.php:43
+#, fuzzy
 msgid "Queue this newsletter instead."
-msgstr ""
+msgstr "Kies nuusbrief tipe"
 
 #: views/admin/send-post.php:49 views/admin/send-post.php:106
 msgid "Successfully Sent"
@@ -7508,20 +7818,23 @@ msgid "Failed Sending"
 msgstr ""
 
 #: views/admin/send-post.php:52 views/admin/send-post.php:114
+#, fuzzy
 msgid "Failed Queuing"
-msgstr ""
+msgstr "E-pos Tou"
 
 #: views/admin/send-post.php:55
+#, fuzzy
 msgid "Email Preview"
-msgstr ""
+msgstr "Oorsig"
 
 #: views/admin/send-post.php:103
 msgid "Start Sending"
 msgstr ""
 
 #: views/admin/send-post.php:104
+#, fuzzy
 msgid "Sending Now"
-msgstr ""
+msgstr "Kieslys Volgorde"
 
 #: views/admin/send-post.php:105
 msgid "Resume Sending"
@@ -7544,16 +7857,19 @@ msgid "Cancelled"
 msgstr ""
 
 #: views/admin/send-post.php:248
+#, fuzzy
 msgid "Continue to History"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/send-post.php:250
+#, fuzzy
 msgid "Continue to Queue"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/admin/send-post.php:306
+#, fuzzy
 msgid "No subscribers are available, please try again."
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/send.php:19
 #, fuzzy
@@ -7570,8 +7886,9 @@ msgid "View Newsletter"
 msgstr "Nuusbriewe"
 
 #: views/admin/send.php:50
+#, fuzzy
 msgid "Get Link"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/send.php:75
 msgid "words and"
@@ -7582,13 +7899,14 @@ msgid "Word Count:"
 msgstr ""
 
 #: views/admin/send.php:112
+#, fuzzy
 msgid "Add Content Area"
-msgstr ""
+msgstr "Teks area"
 
 #: views/admin/send.php:126 wp-mailinglist-plugin.php:1480
-#, php-format
+#, fuzzy, php-format
 msgid "Content Area %s"
-msgstr ""
+msgstr "Teks area"
 
 #: views/admin/send.php:147
 #, php-format
@@ -7616,17 +7934,20 @@ msgstr ""
 
 #: views/admin/settings-cronschedules.php:24
 #: views/admin/settings-cronschedules.php:30
+#, fuzzy
 msgid "Schedule Task"
-msgstr ""
+msgstr "Geskeduleerde Take"
 
 #: views/admin/settings-cronschedules.php:25
 #: views/admin/settings-cronschedules.php:31
+#, fuzzy
 msgid "Next Scheduled Run"
-msgstr ""
+msgstr "Geskeduleerde Take"
 
 #: views/admin/settings-cronschedules.php:39
+#, fuzzy
 msgid "emails in the queue"
-msgstr ""
+msgstr "E-pos Tou"
 
 #: views/admin/settings-cronschedules.php:41
 #: views/admin/settings-cronschedules.php:59
@@ -7649,8 +7970,9 @@ msgstr ""
 #: views/admin/settings-cronschedules.php:135
 #: views/admin/settings-cronschedules.php:152
 #: views/admin/settings-cronschedules.php:167
+#, fuzzy
 msgid "Reschedule"
-msgstr ""
+msgstr "Geskeduleerde Take"
 
 #: views/admin/settings-cronschedules.php:42
 #: views/admin/settings-cronschedules.php:60
@@ -7671,8 +7993,9 @@ msgstr ""
 #: views/admin/settings-cronschedules.php:136
 #: views/admin/settings-cronschedules.php:153
 #: views/admin/settings-cronschedules.php:168
+#, fuzzy
 msgid "Stop Schedule"
-msgstr ""
+msgstr "Geskeduleerde Take"
 
 #: views/admin/settings-cronschedules.php:43
 #: views/admin/settings-cronschedules.php:61
@@ -7698,12 +8021,14 @@ msgid "POP3 bounce handling is turned OFF."
 msgstr ""
 
 #: views/admin/settings-cronschedules.php:86
+#, fuzzy
 msgid "Latest posts subscription is turned OFF."
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/settings-cronschedules.php:101
+#, fuzzy
 msgid "future autoresponder emails waiting"
-msgstr ""
+msgstr "terugvoerder eposse"
 
 #: views/admin/settings-cronschedules.php:131
 #, fuzzy, php-format
@@ -7738,12 +8063,14 @@ msgid "You can obtain the serial key from your %s."
 msgstr ""
 
 #: views/admin/settings-submitserial.php:6
+#, fuzzy
 msgid "downloads section"
-msgstr ""
+msgstr "Kies Artikel"
 
 #: views/admin/settings-submitserial.php:15 wp-mailinglist.php:1881
+#, fuzzy
 msgid "Serial Key"
-msgstr ""
+msgstr "Stuur serialnommer"
 
 #: views/admin/settings-templates.php:16
 msgid ""
@@ -7792,8 +8119,9 @@ msgstr ""
 
 #: views/admin/settings-updates.php:26 views/admin/update.php:15
 #: views/admin/update.php:27 views/admin/update.php:41
+#, fuzzy
 msgid "Check Again"
-msgstr ""
+msgstr "Skryf weer in"
 
 #: views/admin/settings-updates.php:27
 msgid ""
@@ -7860,8 +8188,9 @@ msgid "Code/String"
 msgstr ""
 
 #: views/admin/setvariables.php:8
+#, fuzzy
 msgid "Description"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/admin/setvariables.php:16 views/admin/setvariables.php:25
 #: views/admin/setvariables.php:34 views/admin/setvariables.php:43
@@ -7874,28 +8203,33 @@ msgstr ""
 #: views/admin/setvariables.php:129 views/admin/setvariables.php:135
 #: views/admin/setvariables.php:141 views/admin/setvariables.php:147
 #: views/admin/setvariables.php:158
+#, fuzzy
 msgid "Insert into Editor"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/setvariables.php:19
+#, fuzzy
 msgid "Inserts the excerpt of a single post."
-msgstr ""
+msgstr "Sit n volle pos of uittreksel in"
 
 #: views/admin/setvariables.php:28
+#, fuzzy
 msgid "Insert the excerpts of multiple posts."
-msgstr ""
+msgstr "Sit volle poste of uittreksels in"
 
 #: views/admin/setvariables.php:37
 msgid "Insert a post featured thumbnail image."
 msgstr ""
 
 #: views/admin/setvariables.php:46
+#, fuzzy
 msgid "Insert the permalink URL of a post."
-msgstr ""
+msgstr "Sit n volle pos of uittreksel in"
 
 #: views/admin/setvariables.php:54
+#, fuzzy
 msgid "Inserts the email address of each user"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/admin/setvariables.php:61
 msgid "Display the title/subject of this newsletter in the content."
@@ -7911,8 +8245,9 @@ msgid "Generates an unsubscribe link for the specific list(s)."
 msgstr "Jy kan aan ons ander poslys(te) ook inteken."
 
 #: views/admin/setvariables.php:82
+#, fuzzy
 msgid "Generates an unsubscribe link for all mailing lists subscribed to."
-msgstr ""
+msgstr "Jy kan aan ons ander poslys(te) ook inteken."
 
 #: views/admin/setvariables.php:89
 msgid "Inserts the name of your website/blog"
@@ -7998,8 +8333,9 @@ msgid "Newsletters Serial Key"
 msgstr "Nuusbriewe Bestuurder"
 
 #: views/admin/submitserial.php:10
+#, fuzzy
 msgid "You are running Newsletters LITE."
-msgstr ""
+msgstr "Nuusbriewe"
 
 #: views/admin/submitserial.php:11
 #, php-format
@@ -8022,8 +8358,9 @@ msgid "Downloads Section"
 msgstr ""
 
 #: views/admin/submitserial.php:30
+#, fuzzy
 msgid "Serial Key:"
-msgstr ""
+msgstr "Stuur serialnommer"
 
 #: views/admin/submitserial.php:31
 msgid "Your current serial is valid and working."
@@ -8034,8 +8371,9 @@ msgid "Are you sure you want to delete your serial key?"
 msgstr ""
 
 #: views/admin/submitserial.php:34
+#, fuzzy
 msgid "Delete Serial"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/submitserial.php:39
 msgid ""
@@ -8048,12 +8386,14 @@ msgid "Apply Serial and Close Window"
 msgstr ""
 
 #: views/admin/subscribers/index.php:2
+#, fuzzy
 msgid "Create a new subscriber"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/subscribers/index.php:17
+#, fuzzy
 msgid "Search Subscribers"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/subscribers/index.php:32
 #, fuzzy
@@ -8093,16 +8433,18 @@ msgid ""
 msgstr ""
 
 #: views/admin/subscribers/loop.php:12
+#, fuzzy
 msgid "Check for bounced emails"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/subscribers/loop.php:12
 msgid "Are you sure you wish to check your POP3 mailbox for bounced emails?"
 msgstr ""
 
 #: views/admin/subscribers/loop.php:12
+#, fuzzy
 msgid "Check Bounced Emails"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/subscribers/loop.php:15
 #, fuzzy
@@ -8110,8 +8452,9 @@ msgid "Check Expired"
 msgstr "Keusebokse"
 
 #: views/admin/subscribers/loop.php:22
+#, fuzzy
 msgid "Mandatory Status"
-msgstr ""
+msgstr "Geskiedenis e-pos kon nie gelees word nie"
 
 #: views/admin/subscribers/loop.php:23
 msgid "Set as Mandatory"
@@ -8150,8 +8493,9 @@ msgid "No subscribers were found"
 msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: views/admin/subscribers/save.php:2
+#, fuzzy
 msgid "Save a Subscriber"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/subscribers/save.php:11
 msgid ""
@@ -8171,8 +8515,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/subscribers/save.php:31
+#, fuzzy
 msgid "All ticked/checked subscriptions are activated immediately."
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/admin/subscribers/save.php:35
 #, fuzzy
@@ -8186,8 +8531,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/subscribers/save.php:38
+#, fuzzy
 msgid "Yes, prevent creation of autoresponders"
-msgstr ""
+msgstr "Auto responders"
 
 #: views/admin/subscribers/save.php:43
 msgid "Register as WordPress user?"
@@ -8206,8 +8552,9 @@ msgid "Wordpress Username"
 msgstr ""
 
 #: views/admin/subscribers/save.php:69 views/admin/subscribers/view.php:117
+#, fuzzy
 msgid "Email Format"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/subscribers/save.php:70
 msgid ""
@@ -8222,8 +8569,9 @@ msgid "Html"
 msgstr ""
 
 #: views/admin/subscribers/save.php:72 views/admin/subscribers/view.php:118
+#, fuzzy
 msgid "Text"
-msgstr ""
+msgstr "Teks area"
 
 #: views/admin/subscribers/save.php:75
 msgid ""
@@ -8270,16 +8618,18 @@ msgid "Enter email address here"
 msgstr "Vul jou e-pos adres"
 
 #: views/admin/subscribers/save.php:142
+#, fuzzy
 msgid "Enter username here"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/admin/subscribers/screen-options.php:7
 msgid "Show on screen"
 msgstr ""
 
 #: views/admin/subscribers/screen-options.php:9
+#, fuzzy
 msgid "Gravatars"
-msgstr ""
+msgstr "Gravity Forms"
 
 #: views/admin/subscribers/unsubscribes.php:4
 #, fuzzy
@@ -8308,8 +8658,9 @@ msgid "Delete Subscribers"
 msgstr "Formidabele Intekenaars"
 
 #: views/admin/subscribers/unsubscribes.php:30
+#, fuzzy
 msgid "Delete Users"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/subscribers/unsubscribes.php:58
 #: views/admin/subscribers/unsubscribes.php:97
@@ -8356,20 +8707,23 @@ msgid "View Subscriber:"
 msgstr "Intekenaars"
 
 #: views/admin/subscribers/view.php:7
+#, fuzzy
 msgid "&larr; All Subscribers"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/subscribers/view.php:7
+#, fuzzy
 msgid "Manage All Subscribers"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/subscribers/view.php:11
 msgid "Change the details of this subscriber"
 msgstr ""
 
 #: views/admin/subscribers/view.php:12
+#, fuzzy
 msgid "Remove this subscriber"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/admin/subscribers/view.php:12
 msgid "Are you sure you wish to remove this subscriber?"
@@ -8381,8 +8735,9 @@ msgid "Paid Orders"
 msgstr "Willekeurige Volgorde"
 
 #: views/admin/subscribers/view.php:110
+#, fuzzy
 msgid "newsletters"
-msgstr ""
+msgstr "Nuusbriewe"
 
 #: views/admin/subscribers/view.php:113
 #, fuzzy
@@ -8394,24 +8749,29 @@ msgid "Registered Username"
 msgstr ""
 
 #: views/admin/subscribers/view.php:150 wp-mailinglist.php:2146
+#, fuzzy
 msgid "Subscription Orders"
-msgstr ""
+msgstr "Inteken Bestellings"
 
 #: views/admin/templates/index.php:2
+#, fuzzy
 msgid "Manage Snippets"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/templates/index.php:2
+#, fuzzy
 msgid "Create a new newsletter template"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/templates/index.php:6
+#, fuzzy
 msgid "email snippets"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/templates/index.php:15
+#, fuzzy
 msgid "Search Snippets"
-msgstr ""
+msgstr "Bewaar E-pos Templates"
 
 #: views/admin/templates/loop.php:2
 msgid "Are you sure you wish to execute this action on the selected snippets?"
@@ -8431,28 +8791,34 @@ msgid "Are you sure you want to delete this template?"
 msgstr ""
 
 #: views/admin/templates/save.php:15
+#, fuzzy
 msgid "Save a Snippet"
-msgstr ""
+msgstr "Bewaar E-pos Templates"
 
 #: views/admin/templates/save.php:69
+#, fuzzy
 msgid "Enter template title here"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/admin/templates/view.php:3
+#, fuzzy
 msgid "View Snippet"
-msgstr ""
+msgstr "Brokkie:"
 
 #: views/admin/templates/view.php:6
+#, fuzzy
 msgid "&larr; All Snippets"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/templates/view.php:6
+#, fuzzy
 msgid "Manage All Snippets"
-msgstr ""
+msgstr "Bewaar E-pos Templates"
 
 #: views/admin/templates/view.php:11
+#, fuzzy
 msgid "Send this snippet as a newsletter"
-msgstr ""
+msgstr "Skep Nuusbrief"
 
 #: views/admin/templates/view.php:12
 msgid "Change the details of this snippet"
@@ -8484,8 +8850,9 @@ msgid "Unfortunately a POP3 error occurred:"
 msgstr ""
 
 #: views/admin/testsettings.php:7
+#, fuzzy
 msgid "Test Email Settings"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/testsettings.php:9
 msgid ""
@@ -8499,20 +8866,23 @@ msgstr ""
 
 #: views/admin/testsettings.php:16 views/default/management/login.php:12
 #: views/default/unsubscribe-user.php:29 views/default/unsubscribe.php:35
+#, fuzzy
 msgid "Email Address:"
-msgstr ""
+msgstr "Eposadres"
 
 #: views/admin/testsettings.php:21
 msgid "Test Email"
 msgstr "Toets e-pos"
 
 #: views/admin/testsettings.php:22
+#, fuzzy
 msgid "Subject:"
-msgstr ""
+msgstr "Eposonderwerp"
 
 #: views/admin/testsettings.php:27
+#, fuzzy
 msgid "Message:"
-msgstr ""
+msgstr "Sukses"
 
 #: views/admin/testsettings.php:28
 msgid "This is a test email sent from the Newsletter plugin."
@@ -8523,20 +8893,23 @@ msgid "Include a test attachment"
 msgstr ""
 
 #: views/admin/testsettings.php:38
+#, fuzzy
 msgid "Send Test Email"
-msgstr ""
+msgstr "Toets e-pos"
 
 #: views/admin/themes/index.php:2
+#, fuzzy
 msgid "Manage Themes"
-msgstr ""
+msgstr "Temas"
 
 #: views/admin/themes/index.php:2
 msgid "Add a new theme"
 msgstr ""
 
 #: views/admin/themes/index.php:7
+#, fuzzy
 msgid "themes"
-msgstr ""
+msgstr "Temas"
 
 #: views/admin/themes/index.php:16
 msgid "Search themes"
@@ -8566,8 +8939,9 @@ msgid ""
 msgstr ""
 
 #: views/admin/themes/loop.php:85
+#, fuzzy
 msgid "Send Default"
-msgstr ""
+msgstr "Stuur Geselekteerde"
 
 #: views/admin/themes/loop.php:85
 msgid "Are you sure you want to remove this theme as the sending default?"
@@ -8597,8 +8971,9 @@ msgid "Theme Preview: "
 msgstr "Oorsig"
 
 #: views/admin/themes/save-ajax.php:2 views/admin/themes/save.php:2
+#, fuzzy
 msgid "Save a Theme"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/themes/save-ajax.php:5 views/admin/themes/save.php:5
 msgid ""
@@ -8619,16 +8994,18 @@ msgid ""
 msgstr ""
 
 #: views/admin/themes/save-ajax.php:13 wp-mailinglist.php:4692
+#, fuzzy
 msgid "Theme has been saved"
-msgstr ""
+msgstr "Intekening was uitgevee."
 
 #: views/admin/themes/save-ajax.php:34 views/admin/themes/save.php:19
 msgid "The title of this newsletter theme for internal usage."
 msgstr ""
 
 #: views/admin/themes/save-ajax.php:40 views/admin/themes/save.php:25
+#, fuzzy
 msgid "Theme Type"
-msgstr ""
+msgstr "Temas"
 
 #: views/admin/themes/save-ajax.php:41 views/admin/themes/save.php:26
 msgid ""
@@ -8637,25 +9014,29 @@ msgid ""
 msgstr ""
 
 #: views/admin/themes/save-ajax.php:43 views/admin/themes/save.php:28
+#, fuzzy
 msgid "Upload an HTML File"
-msgstr ""
+msgstr "Opgelaaide Leer"
 
 #: views/admin/themes/save-ajax.php:44 views/admin/themes/save.php:29
 msgid "HTML Code"
 msgstr ""
 
 #: views/admin/themes/save-ajax.php:54 views/admin/themes/save.php:39
+#, fuzzy
 msgid "Choose HTML File"
-msgstr ""
+msgstr "Kies Artikel"
 
 #: views/admin/themes/save-ajax.php:84 views/admin/themes/save.php:69
+#, fuzzy
 msgid "The Mailer Settings"
-msgstr ""
+msgstr "Die Posstuk"
 
 #: views/admin/themes/save-ajax.php:88 views/admin/themes/save-ajax.php:122
 #: views/admin/themes/save.php:73 views/admin/themes/save.php:107
+#, fuzzy
 msgid "Address"
-msgstr ""
+msgstr "IP Adres"
 
 #: views/admin/themes/save-ajax.php:95 views/admin/themes/save-ajax.php:129
 #: views/admin/themes/save.php:80 views/admin/themes/save.php:114
@@ -8673,8 +9054,9 @@ msgid "RSS URL"
 msgstr ""
 
 #: views/admin/themes/save-ajax.php:118 views/admin/themes/save.php:103
+#, fuzzy
 msgid "Pro News Settings"
-msgstr ""
+msgstr "Pro Nuus"
 
 #: views/admin/themes/save-ajax.php:157 views/admin/themes/save.php:142
 msgid "Inline Styles"
@@ -8714,12 +9096,14 @@ msgid ""
 msgstr ""
 
 #: views/admin/themes/save-ajax.php:211 views/admin/themes/save.php:196
+#, fuzzy
 msgid "Save Theme"
-msgstr ""
+msgstr "E-pos Templates"
 
 #: views/admin/themes/save-ajax.php:229 views/admin/themes/save.php:206
+#, fuzzy
 msgid "Enter theme title here"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/admin/themes/save.php:6
 msgid "inside themes."
@@ -8937,8 +9321,9 @@ msgid "Renew Now"
 msgstr ""
 
 #: views/default/activate.php:4
+#, fuzzy
 msgid "Activation Confirmation"
-msgstr ""
+msgstr "Algemene Verstellings"
 
 #: views/default/activate.php:7
 msgid "Thank you for activating your subscription"
@@ -8959,8 +9344,9 @@ msgid "Sent on:"
 msgstr ""
 
 #: views/default/management/currentsubscriptions.php:1
+#, fuzzy
 msgid "Current Subscriptions"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/default/management/currentsubscriptions.php:1
 msgid "Below are your current subscriptions to our list(s)."
@@ -8996,16 +9382,21 @@ msgid "Are you sure you want to activate this subscription?"
 msgstr ""
 
 #: views/default/management/currentsubscriptions.php:1
+#, fuzzy
 msgid "You are not subscribed to any lists."
-msgstr ""
+msgstr "Jy kan aan ons ander poslys(te) ook inteken."
 
 #: views/default/management/customfields.php:1
+#, fuzzy
 msgid "Additional Data"
-msgstr ""
+msgstr "Addissionele data is gestoor."
 
 #: views/default/management/customfields.php:2
+#, fuzzy
 msgid "Manage your subscriber profile data in the fields below."
 msgstr ""
+"Kontroleer asseblief jou intekenaar rekening deur te kliek op die skakel "
+"hieronder."
 
 #: views/default/management/customfields.php:23
 #, fuzzy
@@ -9025,8 +9416,9 @@ msgid "Save Profile"
 msgstr ""
 
 #: views/default/management/customfields.php:37
+#, fuzzy
 msgid "No custom fields are available at this time."
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/default/management/index.php:15
 msgid ""
@@ -9035,8 +9427,9 @@ msgid ""
 msgstr ""
 
 #: views/default/management/index.php:19
+#, fuzzy
 msgid "Your email address is:"
-msgstr ""
+msgstr "Vul jou e-pos adres"
 
 #: views/default/management/index.php:20
 msgid "Are you sure you wish to logout?"
@@ -9047,12 +9440,14 @@ msgid "Logout"
 msgstr ""
 
 #: views/default/management/index.php:35
+#, fuzzy
 msgid "Current"
-msgstr ""
+msgstr "Huidige Leer"
 
 #: views/default/management/index.php:36 wp-mailinglist.php:3633
+#, fuzzy
 msgid "Subscribe"
-msgstr ""
+msgstr "Inskrywer"
 
 #: views/default/management/index.php:37
 msgid "Profile"
@@ -9067,23 +9462,27 @@ msgid "Removing..."
 msgstr ""
 
 #: views/default/management/index.php:135
+#, fuzzy
 msgid "Subscribing..."
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/default/management/login-auth.php:2
+#, fuzzy
 msgid "Thank you for authenticating your email address."
-msgstr ""
+msgstr "Vul jou eposadres in"
 
 #: views/default/management/login-auth.php:3
+#, fuzzy
 msgid "If you do not get redirected in a second, click the link below."
-msgstr ""
+msgstr "As jy wil teruggaan, kliek asseblief die skakel hieronder."
 
 #: views/default/management/login-auth.php:6
 #: views/default/management/logout-auth.php:6 views/default/resubscribe.php:6
 #: views/default/unsubscribe.php:20 wp-mailinglist-plugin.php:5474
 #: wp-mailinglist-plugin.php:5987
+#, fuzzy
 msgid "Manage Subscriptions"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/default/management/login.php:1
 msgid ""
@@ -9092,8 +9491,9 @@ msgid ""
 msgstr ""
 
 #: views/default/management/login.php:14
+#, fuzzy
 msgid "Send Confirmation"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: views/default/management/login.php:18
 msgid "Enter email address"
@@ -9118,8 +9518,9 @@ msgstr "Jy kan aan ons ander poslys(te) ook inteken."
 #: views/default/management/newsubscriptions.php:26
 #: wp-mailinglist-plugin.php:6084 wp-mailinglist-plugin.php:6108
 #: wp-mailinglist-widget.php:51
+#, fuzzy
 msgid "Subscribe Now"
-msgstr ""
+msgstr "Inskrywer"
 
 #: views/default/management/newsubscriptions.php:35
 msgid "No other subscriptions are available"
@@ -9134,40 +9535,46 @@ msgid "Attached Files"
 msgstr ""
 
 #: views/default/resubscribe.php:4
+#, fuzzy
 msgid "You have resubscribed!"
-msgstr ""
+msgstr "Intekenaars"
 
 #: views/default/resubscribe.php:5
 msgid "We are happy that you still want to receive our emails."
 msgstr ""
 
 #: views/default/unsubscribe-user.php:6 views/default/unsubscribe.php:7
+#, fuzzy
 msgid "Unsubscribe Successful"
-msgstr ""
+msgstr "Intekening was nie suksesvol nie."
 
 #: views/default/unsubscribe-user.php:8
+#, fuzzy
 msgid "You have successfully unsubscribed."
-msgstr ""
+msgstr "Intekenaar was ingevoer"
 
 #: views/default/unsubscribe-user.php:9
 msgid "You will no longer receive correspondence."
 msgstr ""
 
 #: views/default/unsubscribe-user.php:18 views/default/unsubscribe.php:24
+#, fuzzy
 msgid "Unsubscribe Confirmation"
-msgstr ""
+msgstr "Intekenaars Verstellings"
 
 #: views/default/unsubscribe-user.php:24
 msgid "Please confirm that you want to unsubscribe."
 msgstr ""
 
 #: views/default/unsubscribe-user.php:43 views/default/unsubscribe.php:93
+#, fuzzy
 msgid "Confirm Unsubscribe"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/default/unsubscribe.php:9
+#, fuzzy
 msgid "You have successfully unsubscribed from the selected list(s)."
-msgstr ""
+msgstr "Jy kan aan ons ander poslys(te) ook inteken."
 
 #: views/default/unsubscribe.php:10
 msgid ""
@@ -9188,20 +9595,24 @@ msgid "You are unsubscribing from:"
 msgstr ""
 
 #: views/default/unsubscribe.php:49 views/default/unsubscribe.php:52
+#, fuzzy
 msgid "No mailing lists"
-msgstr ""
+msgstr "Poslyste"
 
 #: views/default/unsubscribe.php:67
+#, fuzzy
 msgid "Other subscribed list(s):"
-msgstr ""
+msgstr "Ander beskikbare poslyste"
 
 #: views/default/unsubscribe.php:76
+#, fuzzy
 msgid "No other subscriptions."
-msgstr ""
+msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: views/default/unsubscribe.php:97
+#, fuzzy
 msgid "&larr; Manage Subscriptions"
-msgstr ""
+msgstr "Inteken Vorm"
 
 #: views/default/widget.php:55
 #, fuzzy
@@ -9506,8 +9917,9 @@ msgid "This email was not sent to any lists."
 msgstr ""
 
 #: wp-mailinglist-plugin.php:2464
+#, fuzzy
 msgid "You are a mandatory subscriber and cannot unsubscribe"
-msgstr ""
+msgstr "Intekenaar was ingevoer"
 
 #: wp-mailinglist-plugin.php:2467
 #, fuzzy
@@ -9629,8 +10041,9 @@ msgid "please create it now"
 msgstr "Skep Nuusbrief"
 
 #: wp-mailinglist-plugin.php:5528
+#, fuzzy
 msgid "Newsletter Images (do not remove)"
-msgstr ""
+msgstr "Nuusbriewe"
 
 #: wp-mailinglist-plugin.php:5529
 msgid ""
@@ -9680,8 +10093,9 @@ msgid "Confirm Subscription"
 msgstr "Inteken Vorm"
 
 #: wp-mailinglist-plugin.php:5988
+#, fuzzy
 msgid "View in your browser"
-msgstr ""
+msgstr "Intekenaars"
 
 #: wp-mailinglist-plugin.php:6019
 msgid "You are already subscribed, redirecting to the management page..."
@@ -9714,8 +10128,9 @@ msgid "Published"
 msgstr ""
 
 #: wp-mailinglist-plugin.php:6123
+#, fuzzy
 msgid "Pending"
-msgstr ""
+msgstr "Kieslys Volgorde"
 
 #: wp-mailinglist-plugin.php:6278
 msgid "Newsletters Manager"
@@ -9929,8 +10344,9 @@ msgid "You do not have permission to access exports"
 msgstr ""
 
 #: wp-mailinglist.php:624
+#, fuzzy
 msgid "Authentication string does not match."
-msgstr ""
+msgstr "Intekening kan nie uitgevee word nie."
 
 #: wp-mailinglist.php:627
 #, fuzzy
@@ -10006,8 +10422,9 @@ msgid "PayPal has marked the transaction as invalid"
 msgstr ""
 
 #: wp-mailinglist.php:1015 wp-mailinglist.php:1099
+#, fuzzy
 msgid "Payment received and subscription activated"
-msgstr ""
+msgstr "Kies n inskrywingstydperk"
 
 #: wp-mailinglist.php:1102
 msgid "Hash encryption failed! Please contact us"
@@ -10059,8 +10476,9 @@ msgid "Latest post subscription is turned off at this time."
 msgstr "Geen ander subskripsies is beskikbaar nie"
 
 #: wp-mailinglist.php:1514
+#, fuzzy
 msgid "emails were sent/queued."
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: wp-mailinglist.php:1589
 #, fuzzy
@@ -10187,8 +10605,9 @@ msgid "Bounced Emails"
 msgstr "Toets e-pos"
 
 #: wp-mailinglist.php:2196
+#, fuzzy
 msgid "The total number of bounces to date."
-msgstr ""
+msgstr "Intekenaars"
 
 #: wp-mailinglist.php:2197
 #, fuzzy
@@ -10196,8 +10615,9 @@ msgid "Total unsubscribes to date."
 msgstr "Intekenaars"
 
 #: wp-mailinglist.php:2198
+#, fuzzy
 msgid "Statistics Overview"
-msgstr ""
+msgstr "Nuusbriewe Bestuurder"
 
 #: wp-mailinglist.php:2198
 msgid ""
@@ -10299,8 +10719,9 @@ msgstr "Sisteem Verstellings"
 
 #: wp-mailinglist.php:2256 wp-mailinglist.php:2284 wp-mailinglist.php:2307
 #: wp-mailinglist.php:2332
+#, fuzzy
 msgid "Quick Links"
-msgstr ""
+msgstr "Links"
 
 #: wp-mailinglist.php:2257
 msgid ""
@@ -10373,8 +10794,9 @@ msgid "Email message sent to the administrator when a subscriber unsubscribes."
 msgstr ""
 
 #: wp-mailinglist.php:2290
+#, fuzzy
 msgid "Email message to the subscriber to confirm their unsubscribe."
-msgstr ""
+msgstr "Intekenaar was ingevoer"
 
 #: wp-mailinglist.php:2291
 msgid "Email message sent to the subscriber when a paid subscription expires."
@@ -10478,13 +10900,14 @@ msgid "Newsletter could not be sent"
 msgstr "Intekening kan nie uitgevee word nie."
 
 #: wp-mailinglist.php:2887
+#, fuzzy
 msgid "No mailing lists or roles have been selected"
-msgstr ""
+msgstr "Geen intekenaar/poslys data gepos nie."
 
 #: wp-mailinglist.php:2891
-#, php-format
+#, fuzzy, php-format
 msgid "Newsletter has been scheduled for %s"
-msgstr ""
+msgstr "Intekenaar kon nie gelees word nie."
 
 #: wp-mailinglist.php:2966
 msgid ""
@@ -10496,14 +10919,14 @@ msgid "Draft could not be saved. Please fill in all required fields"
 msgstr ""
 
 #: wp-mailinglist.php:3056
-#, php-format
+#, fuzzy, php-format
 msgid "Preview cannot be sent to %s, %s."
-msgstr ""
+msgstr "Intekening kan nie uitgevee word nie."
 
 #: wp-mailinglist.php:3059
-#, php-format
+#, fuzzy, php-format
 msgid "Preview has been sent to %s"
-msgstr ""
+msgstr "Intekening kan nie uitgevee word nie."
 
 #: wp-mailinglist.php:3089
 #, fuzzy
@@ -10541,16 +10964,18 @@ msgid "Selected autoresponders and scheduled messages were removed."
 msgstr "Hierdie auto-terugvoerder e-pos is verskuldig in "
 
 #: wp-mailinglist.php:3179
+#, fuzzy
 msgid ""
 "Selected autoresponders have been activated and messages will be scheduled "
 "for new subscriptions."
-msgstr ""
+msgstr "Hierdie auto-terugvoerder e-pos is verskuldig in "
 
 #: wp-mailinglist.php:3188
+#, fuzzy
 msgid ""
 "Selected autoresponders have been deactivated and no more messages will be "
 "scheduled for them."
-msgstr ""
+msgstr "Hierdie auto-terugvoerder e-pos is verskuldig in "
 
 #: wp-mailinglist.php:3193 wp-mailinglist.php:3387
 #, fuzzy
@@ -10568,8 +10993,9 @@ msgid "Autoresponders schedule interval has been updated."
 msgstr "Auto Responder E-pos"
 
 #: wp-mailinglist.php:3211
+#, fuzzy
 msgid "No schedule interval was chosen."
-msgstr ""
+msgstr "Auto Responder E-pos"
 
 #: wp-mailinglist.php:3240 wp-mailinglist.php:3451
 msgid ""
@@ -10649,16 +11075,19 @@ msgid "Mailing list cannot be removed"
 msgstr "Intekenaar kan nie gelees word nie."
 
 #: wp-mailinglist.php:3537
+#, fuzzy
 msgid "Selected lists set as single opt-in"
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: wp-mailinglist.php:3546
+#, fuzzy
 msgid "Selected lists set as doublt opt-in"
-msgstr ""
+msgstr "Serial sleutel was uitgevee"
 
 #: wp-mailinglist.php:3555
+#, fuzzy
 msgid "Selected mailing lists assigned to the chosen group."
-msgstr ""
+msgstr "Serial sleutel was uitgevee"
 
 #: wp-mailinglist.php:3558
 #, fuzzy
@@ -10734,8 +11163,9 @@ msgid "Selected groups have been removed."
 msgstr "Serial sleutel was uitgevee"
 
 #: wp-mailinglist.php:3781
+#, fuzzy
 msgid "No groups were selected"
-msgstr ""
+msgstr "Geen data was gepos nie."
 
 #: wp-mailinglist.php:3843
 #, fuzzy
@@ -10768,8 +11198,9 @@ msgid "Selected mailing lists have been appended to the subscribers"
 msgstr "Serial sleutel was uitgevee"
 
 #: wp-mailinglist.php:3948
+#, fuzzy
 msgid "Selected mailing lists have been assigned to the subscribers"
-msgstr ""
+msgstr "Serial sleutel was uitgevee"
 
 #: wp-mailinglist.php:3961
 #, fuzzy
@@ -10918,11 +11349,11 @@ msgid "Please select an export filetype"
 msgstr "Kies asseblief n artikel van die kieslys."
 
 #: wp-mailinglist.php:4514
-#, php-format
+#, fuzzy, php-format
 msgid ""
 "Export file could not be created, please check permissions on <b>%s</b> to "
 "make sure it is writable."
-msgstr ""
+msgstr "E-pos kon nie gestuur word nie"
 
 #: wp-mailinglist.php:4684
 msgid ""
@@ -10950,16 +11381,19 @@ msgid "Selected theme removed as sending default"
 msgstr ""
 
 #: wp-mailinglist.php:4745
+#, fuzzy
 msgid "Selected theme removed as system default"
-msgstr ""
+msgstr "Serial sleutel was uitgevee"
 
 #: wp-mailinglist.php:4762
+#, fuzzy
 msgid "Selected theme has been set as the sending default"
-msgstr ""
+msgstr "Serial sleutel was uitgevee"
 
 #: wp-mailinglist.php:4779
+#, fuzzy
 msgid "Selected theme has been set as the system default"
-msgstr ""
+msgstr "Serial sleutel was uitgevee"
 
 #: wp-mailinglist.php:4800
 #, fuzzy
@@ -10967,8 +11401,9 @@ msgid "Selected themes have been removed"
 msgstr "Serial sleutel was uitgevee"
 
 #: wp-mailinglist.php:4805
+#, fuzzy
 msgid "No themes were selected"
-msgstr ""
+msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: wp-mailinglist.php:4852
 msgid ""
@@ -11021,8 +11456,9 @@ msgid "Email scheduling is turned off"
 msgstr ""
 
 #: wp-mailinglist.php:4957
+#, fuzzy
 msgid "The queue has been truncated"
-msgstr ""
+msgstr "Intekening was uitgevee."
 
 #: wp-mailinglist.php:4992
 #, fuzzy
@@ -11080,8 +11516,9 @@ msgid "History email cannot be read"
 msgstr "Geskiedenis e-pos kon nie gelees word nie"
 
 #: wp-mailinglist.php:5132 wp-mailinglist.php:5144 wp-mailinglist.php:5167
+#, fuzzy
 msgid "No history email was specified"
-msgstr ""
+msgstr "Geen nuusbrief was gespesifiseer nie"
 
 #: wp-mailinglist.php:5139
 #, fuzzy
@@ -11252,8 +11689,9 @@ msgid "Order could not be read"
 msgstr "Intekenaar kon nie gelees word nie."
 
 #: wp-mailinglist.php:5671
+#, fuzzy
 msgid "Order successfully removed"
-msgstr ""
+msgstr "Persoonlike velde se volgorde was bewaar"
 
 #: wp-mailinglist.php:5695
 #, fuzzy
@@ -11261,8 +11699,9 @@ msgid "Selected orders succesfully removed"
 msgstr "Persoonlike velde se volgorde was bewaar"
 
 #: wp-mailinglist.php:5704
+#, fuzzy
 msgid "No orders were selected"
-msgstr ""
+msgstr "Geen terugvoerder was gespesifiseer nie"
 
 #: wp-mailinglist.php:5749
 #, fuzzy
@@ -11275,8 +11714,9 @@ msgid "Custom field could not be saved"
 msgstr "Intekening kan nie uitgevee word nie."
 
 #: wp-mailinglist.php:5764
+#, fuzzy
 msgid "This is a fixed field and can be edited but not deleted."
-msgstr ""
+msgstr "E-pos kon nie gestuur word nie"
 
 #: wp-mailinglist.php:5777
 #, fuzzy
@@ -11356,12 +11796,14 @@ msgid "Task has been unscheduled, remember to reschedule as needed."
 msgstr ""
 
 #: wp-mailinglist.php:5999
+#, fuzzy
 msgid "All configuration settings have been reset"
-msgstr ""
+msgstr "E-pos Templates Verstellings"
 
 #: wp-mailinglist.php:6002
+#, fuzzy
 msgid "Configuration settings cannot be reset"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: wp-mailinglist.php:6031
 #, fuzzy
@@ -11374,8 +11816,9 @@ msgid "No image was specified"
 msgstr "Geen gebruiker was gespesifiseer nie"
 
 #: wp-mailinglist.php:6096
+#, fuzzy
 msgid "Configuration settings successfully updated"
-msgstr ""
+msgstr "Sisteem Verstellings"
 
 #: wp-mailinglist.php:6142
 #, fuzzy
@@ -11388,8 +11831,9 @@ msgid "Email template configuration settings have been saved."
 msgstr "E-pos Templates Verstellings"
 
 #: wp-mailinglist.php:6237
+#, fuzzy
 msgid "System configuration settings have been saved."
-msgstr ""
+msgstr "Intekenaars Verstellings"
 
 #: wp-mailinglist.php:6269
 #, fuzzy
@@ -11426,6 +11870,7 @@ msgstr "Uitbreidings Instellings"
 #~ msgid "WordPress 4.0 Compatibility"
 #~ msgstr "WordPress 4.0 Verenigbaarheid"
 
+#, fuzzy
 #~ msgid ""
 #~ "This version is 100% compatible with the latest WordPress version. It "
 #~ "will fit nicely into your WordPress dashboard and maximizes the WordPress "
@@ -11449,6 +11894,15 @@ msgstr "Uitbreidings Instellings"
 #~ msgid "New Extensions"
 #~ msgstr "Uitbreidings"
 
+#, fuzzy
+#~ msgid ""
+#~ "WooCommerce Subscribers is a free extension plugin to capture email "
+#~ "subscribers from your WooCommerce plugin checkout procedure into your "
+#~ "Newsletter plugin."
+#~ msgstr ""
+#~ "Teken gebruikers van die Formidable Forms inskrywings in die Nuusbrief "
+#~ "plugin."
+
 #~ msgid "Auto import users"
 #~ msgstr "Outo import gebruikers"
 
@@ -11465,8 +11919,17 @@ msgstr "Uitbreidings Instellings"
 #~ msgid "Edit themes directly while creating a newsletter"
 #~ msgstr "Verander ontwerpe terwyl jy n nuusbrief skep"
 
+#, fuzzy
+#~ msgid ""
+#~ "You can now edit a theme directly as you are busy creating a newsletter."
+#~ msgstr "Verander ontwerpe terwyl jy n nuusbrief skep"
+
 #~ msgid "Paid subscriptions immediate payment"
 #~ msgstr "Betaalde inskrywings met onmiddelike betaling"
+
+#, fuzzy
+#~ msgid "Auto save information while creating a newsletter"
+#~ msgstr "Verander ontwerpe terwyl jy n nuusbrief skep"
 
 #~ msgid "More Hooks"
 #~ msgstr "Meer hake"
