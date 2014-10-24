@@ -10073,25 +10073,25 @@ msgstr "Extensie instellingen zijn bewaard."
 
 #: views/admin/metaboxes/settings-customcss.php:12
 msgid "Select the folder inside \"%s\" to render template files from. eg. \"default\""
-msgstr ""
+msgstr "Kies de map binnen \"%s\" van waaruit de template bestanden aangemaakt dienen te worden, bijv. \"default\""
 
 #: views/admin/metaboxes/write-advanced.php:19
 msgid "Note that this post is already scheduled to send out as a newsletter."
-msgstr ""
+msgstr "Weet dat dit bericht reeds ingepland is om als nieuwsbrief verstuurd te worden."
 
 #: wp-mailinglist-plugin.php:2469
 msgid "You are not authorised to use this link"
-msgstr ""
+msgstr "Je hebt geen rechten om deze link te gebruiken"
 
 #: wp-mailinglist-plugin.php:3344
 msgid "Done"
-msgstr ""
+msgstr "Klaar"
 
 #: wp-mailinglist-plugin.php:3345
 msgid "Today"
-msgstr ""
+msgstr "Vandaag"
 
 #: wp-mailinglist-plugin.php:3348
 msgid "Show a different month"
-msgstr ""
+msgstr "Toon een andere maand"
 
