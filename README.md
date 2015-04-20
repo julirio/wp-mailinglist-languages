@@ -48,9 +48,10 @@ Thank you for these wonderful people who contributed in translating the plugin:
 
 * Afrikaans (af_ZA) by Tribulant Software
 * German (de_DE) by Peter Schonmann
+* Greek (el_GR) by <a href="http://www.aio.gr">Harris Karanikolas | AiO Systems Information</a>
 * Spanish (es_ES) by Juan Llamosas
 * French (fr_FR) by Kim Gjerstad
-* Hungarian (hu_HU) by Almási Gergely
+* Hungarian (hu_HU) by <a href="http://www.idsign.hu">iD Sign | Gergely Almasi</a>
 * Italian (it_IT) by Johnny
 * Lithuanian (lt_LT) by Tomas
 * Dutch (nl_NL) by <a href="http://www.webzenz.nl">Ronald de Caluwe | WebZenz</a>
