@@ -47,7 +47,7 @@ For any questions or problems, please contact us: http://tribulant.com/support/
 Thank you for these wonderful people who contributed in translating the plugin:
 
 * Afrikaans (af_ZA) by Tribulant Software
-* German (de_DE) by Peter Schonmann
+* German (de_DE) by Peter Schonmann and <a href="http://zerspanungstechnik.de">Daniel Minder</a>
 * Greek (el_GR) by <a href="http://www.aio.gr">Harris Karanikolas | AiO Systems Information</a>
 * Spanish (es_ES) by Juan Llamosas
 * French (fr_FR) by Kim Gjerstad
