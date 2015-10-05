@@ -5896,7 +5896,7 @@ msgstr "Der vollständige Inhalt des Beitrags wie veröffentlicht."
 
 #: views/admin/metaboxes/welcome/bounces.php:2
 msgid "Bounced emails to date:"
-msgstr "Unzustellbare E-Mails bis heute:"
+msgstr "Unzustellbare E-Mails bisher:"
 
 #: views/admin/metaboxes/welcome/bounces.php:4
 #: views/admin/metaboxes/welcome/subscribers.php:5
@@ -5906,7 +5906,7 @@ msgstr "Abonnenten verwalten"
 
 #: views/admin/metaboxes/welcome/emails.php:2
 msgid "Emails sent to date:"
-msgstr "Gesendete E-Mails bis heute:"
+msgstr "Gesendete E-Mails bisher:"
 
 #: views/admin/metaboxes/welcome/emails.php:4
 msgid "Manage History Emails"
@@ -5959,11 +5959,11 @@ msgstr "Standardmäßig zeigt die Grafik Statistiken für die letzten 30 Tage an
 
 #: views/admin/metaboxes/welcome/subscribers.php:2
 msgid "Subscribers total to date:"
-msgstr "Anzahl aller Abonnenten bis heute:"
+msgstr "Anzahl aller Abonnenten aktuell:"
 
 #: views/admin/metaboxes/welcome/unsubscribes.php:2
 msgid "Unsubscribes to date:"
-msgstr "Abmeldungen bis heute:"
+msgstr "Abmeldungen bisher:"
 
 #: views/admin/metaboxes/welcome/unsubscribes.php:4
 #: views/admin/subscribers/unsubscribes.php:2
@@ -8595,11 +8595,11 @@ msgstr "Unzustellbare E-Mails"
 
 #: wp-mailinglist.php:2912
 msgid "The total number of bounces to date."
-msgstr "Gesamte Anzahl unzustellbarer E-Mails bis heute."
+msgstr "Gesamte Anzahl bisher unzustellbarer E-Mails."
 
 #: wp-mailinglist.php:2913
 msgid "Total unsubscribes to date."
-msgstr "Gesamte Anzahl Abmeldungen bis heute."
+msgstr "Gesamte Anzahl bisheriger Abmeldungen."
 
 #: wp-mailinglist.php:2914
 msgid "Statistics Overview"
@@ -10887,74 +10887,74 @@ msgstr "Es wurde keine unzustellbare E-Mail angegeben"
 
 #: includes/messages.php:19
 msgid "Defaults have been loaded"
-msgstr ""
+msgstr "Standardwerte wurden geladen"
 
 #: views/admin/fields/loop.php:140
 msgid "No custom fields were found %s"
-msgstr ""
+msgstr "Es wurden keine benutzerdefinierten Felder gefunden %s"
 
 #: views/admin/fields/loop.php:140
 msgid "load defaults"
-msgstr ""
+msgstr "Lade Standard"
 
 #: views/admin/metaboxes/settings-general.php:46
 msgid "Different Reply To"
-msgstr ""
+msgstr "Anderes Reply-To"
 
 #: views/admin/metaboxes/settings-general.php:48
 msgid "Yes, set a different Reply To address."
-msgstr ""
+msgstr "Ja, setze eine andere Antwort-an-Adresse (Reply To)"
 
 #: views/admin/metaboxes/settings-general.php:49
 msgid "By default, the Reply To is the same as the From Address"
-msgstr ""
+msgstr "Standardmäßig ist die Antwort-Adresse gleich der Absender-Adresse"
 
 #: views/admin/metaboxes/settings-general.php:59
 msgid "Reply To Address"
-msgstr ""
+msgstr "Antwort-an-Adresse"
 
 #: views/admin/metaboxes/settings-general.php:62
 msgid "The email address used when readers reply to an email/newsletter."
-msgstr ""
+msgstr "Die E-Mail-Adresse, die genutzt wird, wenn Leser auf eine/n E-Mail/Newsletter antworten."
 
 #: views/admin/metaboxes/write-advanced.php:27
 msgid "Yes, send this post as a newsletter"
-msgstr ""
+msgstr "Ja, sende diesen Beitag als Newsletter"
 
 #: views/admin/metaboxes/write-advanced.php:28
 msgid "Turn this on to send this post/page as a newsletter. Then configure it and Publish, Update or Schedule the post to execute."
-msgstr ""
+msgstr "Schalten Sie dies ein, um diese/n Beitrag/Seite als Newsletter zu versenden. Konfigurieren Sie ihn und veröffentlichen, aktualisieren oder planen Sie den Artikel, um den Versand durchzuführen."
 
 #: views/admin/metaboxes/write-advanced.php:53
 msgid "Full/Excerpt"
-msgstr ""
+msgstr "Vollständig/Auszug"
 
 #: views/admin/metaboxes/write-advanced.php:57
 msgid "Choose whether the full post or only an excerpt should be used."
-msgstr ""
+msgstr "Wählen Sie aus, ob der vollständige Beitrag oder nur ein Auszug verwendet werden soll."
 
 #: views/admin/metaboxes/write-advanced.php:68
 msgid "Show Date/Author"
-msgstr ""
+msgstr "Zeige Datum/Autor"
 
 #: views/admin/metaboxes/write-advanced.php:70
 msgid "Yes, show the date and author"
-msgstr ""
+msgstr "Ja, zeige Datum und Autor"
 
 #: views/admin/metaboxes/write-advanced.php:71
 msgid "Choose whether to show post meta such as date and author."
-msgstr ""
+msgstr "Wählen Sie aus, ob Beitrags-Metadaten wir Datum und Autor angezeigt werden sollen."
 
 #: views/admin/subscribers/loop.php:178
 msgid "Plain TEXT format"
-msgstr ""
+msgstr "Reines TEXT Format"
 
 #: wp-mailinglist-plugin.php:2260
 msgid "Showing %s - %s of %s subscribers"
-msgstr ""
+msgstr "Zeige %s - %s von %s Abonnenten"
 
 #: wp-mailinglist-plugin.php:2277 wp-mailinglist-plugin.php:2280
 #: wp-mailinglist-plugin.php:2452
 msgid "Selected Subscribers"
-msgstr ""
+msgstr "Ausgewählte Abonnenten"
 
