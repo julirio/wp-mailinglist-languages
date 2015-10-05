@@ -10891,74 +10891,74 @@ msgstr "Geen bounce gespecificeerd"
 
 #: includes/messages.php:19
 msgid "Defaults have been loaded"
-msgstr ""
+msgstr "Standaardinstellingen zijn geladen"
 
 #: views/admin/fields/loop.php:140
 msgid "No custom fields were found %s"
-msgstr ""
+msgstr "Geen aangepaste velden gevonden in %s"
 
 #: views/admin/fields/loop.php:140
 msgid "load defaults"
-msgstr ""
+msgstr "laad standaard"
 
 #: views/admin/metaboxes/settings-general.php:46
 msgid "Different Reply To"
-msgstr ""
+msgstr "Ander Antwoord Aan"
 
 #: views/admin/metaboxes/settings-general.php:48
 msgid "Yes, set a different Reply To address."
-msgstr ""
+msgstr "Ja, stel een ander Antwoord Aan adres in."
 
 #: views/admin/metaboxes/settings-general.php:49
 msgid "By default, the Reply To is the same as the From Address"
-msgstr ""
+msgstr "Standaard is het Antwoord Aan veld hetzelfde als het Van adres"
 
 #: views/admin/metaboxes/settings-general.php:59
 msgid "Reply To Address"
-msgstr ""
+msgstr "Antwoord Aan adres"
 
 #: views/admin/metaboxes/settings-general.php:62
 msgid "The email address used when readers reply to an email/newsletter."
-msgstr ""
+msgstr "Het e-mailadres dat gebruikt wordt wanneer abonnees een e-mail/nieuwsbrief beantwoorden."
 
 #: views/admin/metaboxes/write-advanced.php:27
 msgid "Yes, send this post as a newsletter"
-msgstr ""
+msgstr "Ja, stuur dit bericht als een nieuwsbrief"
 
 #: views/admin/metaboxes/write-advanced.php:28
 msgid "Turn this on to send this post/page as a newsletter. Then configure it and Publish, Update or Schedule the post to execute."
-msgstr ""
+msgstr "Vink aan om dit bericht/deze pagina als een nieuwsbrief te versturen. Pas het aan en plan het in, publiceer of update het om het versturen van de nieuwsbrief uit te voeren."
 
 #: views/admin/metaboxes/write-advanced.php:53
 msgid "Full/Excerpt"
-msgstr ""
+msgstr "Volledig/Uittreksel"
 
 #: views/admin/metaboxes/write-advanced.php:57
 msgid "Choose whether the full post or only an excerpt should be used."
-msgstr ""
+msgstr "Kies of het volledige bericht of een uittreksel gebruikt dient te worden."
 
 #: views/admin/metaboxes/write-advanced.php:68
 msgid "Show Date/Author"
-msgstr ""
+msgstr "Toon datum/auteur"
 
 #: views/admin/metaboxes/write-advanced.php:70
 msgid "Yes, show the date and author"
-msgstr ""
+msgstr "Ja, toon de datum en auteur"
 
 #: views/admin/metaboxes/write-advanced.php:71
 msgid "Choose whether to show post meta such as date and author."
-msgstr ""
+msgstr "Kies of de meta-data, zoals de datum en auteur, getoond dient te worden."
 
 #: views/admin/subscribers/loop.php:178
 msgid "Plain TEXT format"
-msgstr ""
+msgstr "Platte TEKST formaat"
 
 #: wp-mailinglist-plugin.php:2260
 msgid "Showing %s - %s of %s subscribers"
-msgstr ""
+msgstr "Toont %s %s van %s abonnees"
 
 #: wp-mailinglist-plugin.php:2277 wp-mailinglist-plugin.php:2280
 #: wp-mailinglist-plugin.php:2452
 msgid "Selected Subscribers"
-msgstr ""
+msgstr "Geselecteerde abonnees"
 
