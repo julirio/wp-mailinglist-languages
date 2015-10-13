@@ -10965,65 +10965,65 @@ msgstr "Geselecteerde abonnees"
 
 #: views/admin/metaboxes/admin-mode-switcher.php:11
 msgid "Admin Mode:"
-msgstr ""
+msgstr "Admin modus:"
 
 #: views/admin/metaboxes/admin-mode-switcher.php:12
 msgid "Standard"
-msgstr ""
+msgstr "Standaard"
 
 #: views/admin/metaboxes/admin-mode-switcher.php:13
 msgid "Advanced"
-msgstr ""
+msgstr "Uitgebreid"
 
 #: views/admin/metaboxes/settings-wprelated.php:131
 msgid "Custom Post Public Archive"
-msgstr ""
+msgstr "Aangepast bericht - Openbaar archief"
 
 #: views/admin/metaboxes/settings-wprelated.php:133
 msgid "Yes, show newsletter posts publicly"
-msgstr ""
+msgstr "Ja, maak berichten van nieuwsbrieven openbaar"
 
 #: views/admin/metaboxes/settings-wprelated.php:134
 msgid "Turning this on will display newsletters in an archive here %s"
-msgstr ""
+msgstr "Als je dit inschakelt, zullen nieuwsbrieven hier (%s) in een archief getoond worden."
 
 #: wp-mailinglist-plugin.php:429
 msgid "No posts in this category"
-msgstr ""
+msgstr "Geen berichten in deze categorie"
 
 #: wp-mailinglist.php:109
 msgid "All (no choice)"
-msgstr ""
+msgstr "Alle (geen keuze)"
 
 #: wp-mailinglist.php:111
 msgid "Checkboxes List"
-msgstr ""
+msgstr "Lijst van checkboxen"
 
 #: wp-mailinglist.php:186
 msgid "Anchor Link"
-msgstr ""
+msgstr "Anker link"
 
 #: wp-mailinglist.php:187
 msgid "Insert Email Anchor"
-msgstr ""
+msgstr "Voeg e-mail anker in"
 
 #: wp-mailinglist.php:188
 msgid "Anchor Name"
-msgstr ""
+msgstr "Anker naam"
 
 #: wp-mailinglist.php:189
 msgid "Inserts an anchor link with this value as the \"name\" attribute eg. mynameattribute. You can then link to the anchor with hash eg. #mynameattribute"
-msgstr ""
+msgstr "Voegt een anker-link in met de waarde van het \"naam\" attribuut, bijv. mijnankernaam. Je kunt dan linken naar het anker met een hashtag, in dit geval #mijnankernaam"
 
 #: wp-mailinglist.php:190
 msgid "Fill in a \"name\" attribute to use"
-msgstr ""
+msgstr "Vul het \"naam\" attribuut in dat je wilt gebruiken"
 
 #: wp-mailinglist.php:192
 msgid "Insert Email Snippet"
-msgstr ""
+msgstr "Voeg e-mail snippet in"
 
 #: wp-mailinglist.php:193
 msgid "Choose the snippet to insert"
-msgstr ""
+msgstr "Kies de snippet die je toe wilt voegen"
 
