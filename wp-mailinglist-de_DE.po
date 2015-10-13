@@ -10961,65 +10961,66 @@ msgstr "Ausgewählte Abonnenten"
 
 #: views/admin/metaboxes/admin-mode-switcher.php:11
 msgid "Admin Mode:"
-msgstr ""
+msgstr "Administrations-Modus:"
 
 #: views/admin/metaboxes/admin-mode-switcher.php:12
 msgid "Standard"
-msgstr ""
+msgstr "Standard"
 
 #: views/admin/metaboxes/admin-mode-switcher.php:13
 msgid "Advanced"
-msgstr ""
+msgstr "Erweitert"
 
+#. Dies ist mehr dem Sinn nach übersetzt. "Custom Post" wird normalerweise im Plugin anders verwendet.
 #: views/admin/metaboxes/settings-wprelated.php:131
 msgid "Custom Post Public Archive"
-msgstr ""
+msgstr "Öffentliches Newsletter-Archiv"
 
 #: views/admin/metaboxes/settings-wprelated.php:133
 msgid "Yes, show newsletter posts publicly"
-msgstr ""
+msgstr "Ja, zeige Newsletter-Beiträge öffentlich an"
 
 #: views/admin/metaboxes/settings-wprelated.php:134
 msgid "Turning this on will display newsletters in an archive here %s"
-msgstr ""
+msgstr "Wenn dies eingeschaltet ist, werden Newsletter in einem Archiv hier angezeigt: %s"
 
 #: wp-mailinglist-plugin.php:429
 msgid "No posts in this category"
-msgstr ""
+msgstr "Keine Beiträge in dieser Kategorie"
 
 #: wp-mailinglist.php:109
 msgid "All (no choice)"
-msgstr ""
+msgstr "Alle (keine Auswahl)"
 
 #: wp-mailinglist.php:111
 msgid "Checkboxes List"
-msgstr ""
+msgstr "Liste mit Kontrollkästchen"
 
 #: wp-mailinglist.php:186
 msgid "Anchor Link"
-msgstr ""
+msgstr "Link-Anker"
 
 #: wp-mailinglist.php:187
 msgid "Insert Email Anchor"
-msgstr ""
+msgstr "E-Mail Anker einfügen"
 
 #: wp-mailinglist.php:188
 msgid "Anchor Name"
-msgstr ""
+msgstr "Name des Ankers"
 
 #: wp-mailinglist.php:189
 msgid "Inserts an anchor link with this value as the \"name\" attribute eg. mynameattribute. You can then link to the anchor with hash eg. #mynameattribute"
-msgstr ""
+msgstr "Fügt einen Link-Anker mit diesem Wert als \"name\"-Attribut ein, z.B. mynameattribute. Sie können auf diesen Anker mittels des Doppelkreuzes verlinken, z.B. #mynameattribute"
 
 #: wp-mailinglist.php:190
 msgid "Fill in a \"name\" attribute to use"
-msgstr ""
+msgstr "Geben Sie das zu verwendende \"name\"-Attribut ein"
 
 #: wp-mailinglist.php:192
 msgid "Insert Email Snippet"
-msgstr ""
+msgstr "E-Mail-Schnipsel einfügen"
 
 #: wp-mailinglist.php:193
 msgid "Choose the snippet to insert"
-msgstr ""
+msgstr "Wählen Sie den einzufügenden Schnipsel aus"
 
