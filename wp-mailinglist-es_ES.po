@@ -5,124 +5,124 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: POEditor.com\n"
 "Project-Id-Version: Newsletter plugin\n"
-"Language: et\n"
+"Language: es\n"
 
 #: helpers/form.php:165
 msgid "Select"
-msgstr ""
+msgstr "Seleccionar"
 
 #: helpers/html.php:424 wp-mailinglist-plugin.php:9106
 msgid "Special"
-msgstr ""
+msgstr "Especial"
 
 #: helpers/html.php:425 wp-mailinglist-plugin.php:9107
 msgid "Text Field"
-msgstr ""
+msgstr "Campo de texto"
 
 #: helpers/html.php:426 wp-mailinglist-plugin.php:9108
 msgid "Text Area"
-msgstr ""
+msgstr "Área de texto"
 
 #: helpers/html.php:427 wp-mailinglist-plugin.php:9109
 #: wp-mailinglist-widget.php:128 wp-mailinglist-widget.php:237
 #: wp-mailinglist.php:125
 msgid "Select Drop Down"
-msgstr ""
+msgstr "Seleccionar menú desplegable"
 
 #: helpers/html.php:428 wp-mailinglist-plugin.php:9110
 msgid "Radio Buttons"
-msgstr ""
+msgstr "Botón de radio"
 
 #: helpers/html.php:429 wp-mailinglist-plugin.php:9111
 msgid "Checkboxes"
-msgstr ""
+msgstr "Checkbox"
 
 #: helpers/html.php:430 wp-mailinglist-plugin.php:9112
 msgid "File Upload"
-msgstr ""
+msgstr "Cargar archivo"
 
 #: helpers/html.php:431 wp-mailinglist-plugin.php:9113
 msgid "Predefined : Country Select"
-msgstr ""
+msgstr "Predefinido : Selección de país"
 
 #: wp-mailinglist-plugin.php:9114
 msgid "Predefined : Date Picker (YYYY-MM-DD)"
-msgstr ""
+msgstr "Predefinido : Selección de fecha (AAA-MM-DD)"
 
 #: helpers/html.php:433 wp-mailinglist-plugin.php:9115
 msgid "Predefined : Gender"
-msgstr ""
+msgstr "Predefinido: Género"
 
 #: helpers/html.php:434 wp-mailinglist-plugin.php:9105
 msgid "Hidden"
-msgstr ""
+msgstr "Oculto"
 
 #: helpers/html.php:492
 msgid "Uploaded file"
-msgstr ""
+msgstr "Archivo subido"
 
 #: helpers/html.php:512 views/admin/import-export.php:257
 msgid "First Name"
-msgstr ""
+msgstr "Nombre"
 
 #: helpers/html.php:513 views/admin/import-export.php:271
 msgid "Last Name"
-msgstr ""
+msgstr "Apellido(s)"
 
 #: helpers/html.php:514
 msgid "Nickname"
-msgstr ""
+msgstr "Apodo"
 
 #: helpers/html.php:515
 msgid "Biographical Info"
-msgstr ""
+msgstr "Información biográfica"
 
 #: helpers/html.php:559
 msgid "This task does not have a next schedule."
-msgstr ""
+msgstr "Esta tarea no tiene planificación posterior"
 
 #: helpers/html.php:562
 msgid "No schedule has been set for this task."
-msgstr ""
+msgstr "No se han planificado acciones para esta tarea"
 
 #: helpers/html.php:565
 msgid "No cron schedules are available or no task was specified."
-msgstr ""
+msgstr "No hay tareas cron disponibles o no se especificó la tarea"
 
 #: helpers/html.php:631 views/admin/dashboard.php:129 wp-mailinglist.php:2937
 msgid "Overview"
-msgstr ""
+msgstr "Vista general"
 
 #: helpers/html.php:634 views/admin/lite-upgrade.php:78 wp-mailinglist.php:2935
 #: wp-mailinglist.php:2983
 msgid "Submit Serial"
-msgstr ""
+msgstr "Enviar serial"
 
 #: helpers/html.php:640 views/admin/autoresponders/save.php:86
 #: views/admin/send.php:25 wp-mailinglist.php:2951
 msgid "Create Newsletter"
-msgstr ""
+msgstr "Crear Boletín"
 
 #: helpers/html.php:643 views/admin/history/view.php:201
 #: wp-mailinglist.php:2960
 msgid "Autoresponders"
-msgstr ""
+msgstr "Autorespondedor"
 
 #: helpers/html.php:646 views/admin/autoresponderemails/index.php:2
 #: views/admin/autoresponders/loop.php:5
 #: views/admin/settings-cronschedules.php:97 wp-mailinglist.php:2961
 msgid "Autoresponder Emails"
-msgstr ""
+msgstr "Email de autorespondedor"
 
 #: helpers/html.php:649 views/admin/fields/save.php:466
 #: views/admin/groups/view.php:46 views/admin/subscribers/loop.php:32
 #: wp-mailinglist.php:2962
 msgid "Mailing Lists"
-msgstr ""
+msgstr "Lista de distribución"
 
 #: helpers/html.php:652 wp-mailinglist.php:2963
 msgid "Groups"
-msgstr ""
+msgstr "Grupos"
 
 #: helpers/html.php:655 views/admin/emails/loop.php:66
 #: views/admin/mailinglists/view.php:54 views/admin/mailinglists/view.php:103
@@ -130,273 +130,273 @@ msgstr ""
 #: views/admin/settings-navigation.php:6 wp-mailinglist-plugin.php:1395
 #: wp-mailinglist.php:2940 wp-mailinglist.php:2965 wp-mailinglist.php:3107
 msgid "Subscribers"
-msgstr ""
+msgstr "Subscriptores"
 
 #: helpers/html.php:658 views/admin/mailinglists/save.php:65
 #: views/admin/metaboxes/settings-importusers.php:77
 #: views/admin/subscribers/save.php:117 wp-mailinglist.php:2968
 msgid "Custom Fields"
-msgstr ""
+msgstr "Campos personalizables"
 
 #: helpers/html.php:661 views/admin/metaboxes/welcome/subscribers.php:12
 #: views/admin/subscribers/loop.php:14 wp-mailinglist.php:2966
 msgid "Import/Export"
-msgstr ""
+msgstr "Importar/Exportar"
 
 #: helpers/html.php:667 wp-mailinglist.php:2970
 msgid "Email Snippets"
-msgstr ""
+msgstr "Extracto de email"
 
 #: helpers/html.php:670
 msgid "Save Email Snippets"
-msgstr ""
+msgstr "Guardar extractos de email"
 
 #: helpers/html.php:673 views/admin/queues/index.php:3
 #: views/admin/settings-cronschedules.php:40 wp-mailinglist.php:2972
 msgid "Email Queue"
-msgstr ""
+msgstr "Cola de correo"
 
 #: helpers/html.php:676 views/admin/history/index.php:2 wp-mailinglist.php:2952
 msgid "Sent &amp; Draft Emails"
-msgstr ""
+msgstr "Enviado &amp; Borradores"
 
 #: helpers/html.php:682
 msgid "Links"
-msgstr ""
+msgstr "Enlaces"
 
 #: helpers/html.php:685 views/admin/links/loop.php:5
 #: views/admin/links/loop.php:36 views/admin/links/loop.php:54
 #: wp-mailinglist-plugin.php:1408 wp-mailinglist.php:2957
 msgid "Clicks"
-msgstr ""
+msgstr "Clics"
 
 #: helpers/html.php:688
 msgid "Subscribe Orders"
-msgstr ""
+msgstr "Peticiones de subscripción"
 
 #: helpers/html.php:691 views/admin/settings.php:13 wp-mailinglist.php:2939
 msgid "General Configuration"
-msgstr ""
+msgstr "Configuración general"
 
 #: helpers/html.php:694 views/admin/settings-subscribers.php:13
 #: wp-mailinglist.php:2940
 msgid "Subscribers Configuration"
-msgstr ""
+msgstr "Configuración de subscriptores"
 
 #: helpers/html.php:700 views/admin/settings-system.php:13
 #: wp-mailinglist.php:2942
 msgid "System Configuration"
-msgstr ""
+msgstr "Configuración de sistema"
 
 #: helpers/html.php:703 views/admin/settings-cronschedules.php:14
 #: views/admin/settings-navigation.php:9 wp-mailinglist.php:2943
 msgid "Scheduled Tasks"
-msgstr ""
+msgstr "Tareas planificadas"
 
 #: helpers/html.php:706 views/admin/metaboxes/settings-submit.php:14
 #: wp-mailinglist.php:2945
 msgid "Updates"
-msgstr ""
+msgstr "Actualizaciones"
 
 #: helpers/html.php:709 views/admin/metaboxes/settings-general.php:207
 #: views/admin/settings-navigation.php:10 wp-mailinglist.php:2944
 msgid "API"
-msgstr ""
+msgstr "API"
 
 #: helpers/html.php:712 wp-mailinglist.php:2974
 msgid "Extensions"
-msgstr ""
+msgstr "Extensiones"
 
 #: helpers/html.php:715 views/admin/extensions/settings.php:13
 #: wp-mailinglist.php:2975 wp-mailinglist.php:3216
 msgid "Extensions Settings"
-msgstr ""
+msgstr "Configuración de extensiones"
 
 #: helpers/html.php:718 views/admin/help.php:2 wp-mailinglist.php:2978
 msgid "Support &amp; Help"
-msgstr ""
+msgstr "Soporte &amp; Ayuda"
 
 #: helpers/html.php:721 models/newsletter.php:29
 #: views/admin/lite-upgrade.php:74 views/admin/submitserial.php:11
 #: wp-mailinglist-plugin.php:406 wp-mailinglist.php:523
 msgid "Upgrade to PRO"
-msgstr ""
+msgstr "Actualiza a PRO"
 
 #: helpers/html.php:888 views/admin/metaboxes/send-mailinglists.php:238
 #: views/admin/subscribers/loop.php:340 wp-mailinglist-plugin.php:6093
 msgid "Male"
-msgstr ""
+msgstr "Hombre"
 
 #: helpers/html.php:891 views/admin/metaboxes/send-mailinglists.php:239
 #: views/admin/subscribers/loop.php:340 wp-mailinglist-plugin.php:6094
 msgid "Female"
-msgstr ""
+msgstr "Mujer"
 
 #: helpers/html.php:1031
 msgid "The uploaded file exceeds the PHP upload_max_filesize directive."
-msgstr ""
+msgstr "El archivo subido excede la directiva PHP upload_max_filesize."
 
 #: helpers/html.php:1034
 msgid "The uploaded file exceeds the max_file_size directive specified in the form."
-msgstr ""
+msgstr "El archivo subido excede el límite especificado en el formulario de tamaño de archivo máximo."
 
 #: helpers/html.php:1037
 msgid "The uploaded file was only partially uploaded."
-msgstr ""
+msgstr "El archivo se subió parcialmente."
 
 #: helpers/html.php:1040
 msgid "No file was uploaded."
-msgstr ""
+msgstr "No se subió ningún archivo."
 
 #: helpers/html.php:1043
 msgid "Missing a temporary folder."
-msgstr ""
+msgstr "No se encuentra la carpeta temporal."
 
 #: helpers/html.php:1046
 msgid "Failed to write file to disk."
-msgstr ""
+msgstr "Fallo de escritura en disco."
 
 #: helpers/html.php:1049
 msgid "A PHP extension stopped the file upload."
-msgstr ""
+msgstr "Una extensión PHP impidió la carga del archivo."
 
 #: helpers/html.php:1052
 msgid "An error occurred. Please try again."
-msgstr ""
+msgstr "Ocurrió un error. Por favor, inténtelo de nuevo."
 
 #: includes/currencies.php:6
 msgid "Australian Dollars"
-msgstr ""
+msgstr "Dólares Australianos."
 
 #: includes/currencies.php:11
 msgid "Canadian Dollars"
-msgstr ""
+msgstr "Dólares Canadienses."
 
 #: includes/currencies.php:16
 msgid "Swiss Francs"
-msgstr ""
+msgstr "Francos Suizos."
 
 #: includes/currencies.php:21
 msgid "Danish Kroner"
-msgstr ""
+msgstr "Coronas Danesas."
 
 #: includes/currencies.php:26
 msgid "Euros"
-msgstr ""
+msgstr "Euros."
 
 #: includes/currencies.php:31
 msgid "British Pounds"
-msgstr ""
+msgstr "Libra Esterlina."
 
 #: includes/currencies.php:36
 msgid "Hong Kong Dollars"
-msgstr ""
+msgstr "Dólares de Hong Kong"
 
 #: includes/currencies.php:41
 msgid "Indonesian Rupiahs"
-msgstr ""
+msgstr "Rupias Indonesias"
 
 #: includes/currencies.php:46
 msgid "Japanese Yen"
-msgstr ""
+msgstr "Yenes Japoneses"
 
 #: includes/currencies.php:51
 msgid "Norwegian Kroner"
-msgstr ""
+msgstr "Coronas Noruegas"
 
 #: includes/currencies.php:56
 msgid "New Zealand Dollars"
-msgstr ""
+msgstr "Dólares Neozelandeses"
 
 #: includes/currencies.php:61
 msgid "Swedish Kroner"
-msgstr ""
+msgstr "Coronas Suecas"
 
 #: includes/currencies.php:66
 msgid "US Dollars"
-msgstr ""
+msgstr "Dólares USA"
 
 #: includes/currencies.php:71
 msgid "Singapore Dollars"
-msgstr ""
+msgstr "Dólares de Singapur"
 
 #: includes/currencies.php:76
 msgid "South African Rands"
-msgstr ""
+msgstr "Rands Sudafricanos"
 
 #: includes/currencies.php:81
 msgid "Brazilian Real"
-msgstr ""
+msgstr "Reales Brasileños"
 
 #: includes/currencies.php:86
 msgid "Romanian Leu"
-msgstr ""
+msgstr "Leus Rumanos"
 
 #: includes/extensions.php:9 views/admin/metaboxes/settings-sending.php:165
 msgid "Embedded Images"
-msgstr ""
+msgstr "Imágenes incrustadas."
 
 #: includes/extensions.php:10
 msgid "Attach/embed images into emails instead of loading the remotely to prevent image disabling and immediate loading of newsletters."
-msgstr ""
+msgstr "Adjunte/incruste las imágenes en los correos en lugar de enlazarlas en remoto para prevenir su exclusión por filtros y permitir la carga instantánea."
 
 #: includes/extensions.php:17
 msgid "Formidable Subscribers"
-msgstr ""
+msgstr "Subscriptores formidables."
 
 #: includes/extensions.php:18
 msgid "Subscribe users from Formidable forms entries into the Newsletter plugin."
-msgstr ""
+msgstr "Subscribir usuarios desde Formidable forms en el plugin Newsletter"
 
 #: includes/extensions.php:25
 msgid "Gravity Forms"
-msgstr ""
+msgstr "Formularios Gravity"
 
 #: includes/extensions.php:26
 msgid "Capture subscribers through Gravity Forms into the Newsletter plugin."
-msgstr ""
+msgstr "Capturar subscriptores desde Formularios Gravitiy en el plugin Newsletter"
 
 #: includes/extensions.php:33
 msgid "Total MS Control"
-msgstr ""
+msgstr "Control MS Total"
 
 #: includes/extensions.php:35
 msgid "Total control over your Newsletter plugin installation for WordPress multi-site."
-msgstr ""
+msgstr "Control total sobre su plugin Newsletter en instalaciones multisitio"
 
 #: includes/extensions.php:41
 msgid "Contact Form 7 Subscribers"
-msgstr ""
+msgstr "Subscriptores con Contact Form 7"
 
 #: includes/extensions.php:43
 msgid "Capture newsletter subscribers into the Newsletter plugin from your Contact Form 7 plugin forms."
-msgstr ""
+msgstr "Capturar subscriptores desde plugin Contact Form 7"
 
 #: includes/extensions.php:49
 msgid "Digital Access Pass"
-msgstr ""
+msgstr "Acceso Digital Pass"
 
 #: includes/extensions.php:51
 msgid "Capture email/newsletters subscribes from %sDigital Access Pass%s."
-msgstr ""
+msgstr "Capturar subscriptores/direcciones de %sDigital Access Pass%s"
 
 #: includes/extensions.php:57
 msgid "Google Analytics"
-msgstr ""
+msgstr "Google Analytics"
 
 #: includes/extensions.php:59
 msgid "Google Analytics link tracking for the %s."
-msgstr ""
+msgstr "Trazabilidad de Google Analytics para %s."
 
 #: includes/extensions.php:59 includes/extensions.php:83
 #: includes/extensions.php:123 views/admin/help.php:6
 #: views/admin/import-export.php:437
 msgid "Newsletter plugin"
-msgstr ""
+msgstr "Plugin Newsletter"
 
 #: includes/extensions.php:65
 msgid "WP eMember Subscribers"
-msgstr ""
+msgstr "Suscriptores de WP eMember"
 
 #: includes/extensions.php:67
 msgid "Capture subscribers from WP eMember into the Newsletter plugin."
@@ -412,7 +412,7 @@ msgstr ""
 
 #: includes/extensions.php:89
 msgid "Total Control"
-msgstr ""
+msgstr "Control total"
 
 #: includes/extensions.php:91
 msgid "Total control over your Newsletter plugin for WordPress."
@@ -484,7 +484,7 @@ msgstr ""
 
 #: includes/variables.php:33
 msgid "Email"
-msgstr ""
+msgstr "Email"
 
 #: includes/variables.php:37 models/field.php:140
 #: views/admin/subscribers/loop.php:68
@@ -492,11 +492,11 @@ msgstr ""
 #: views/admin/subscribers/view.php:76 wp-mailinglist-plugin.php:524
 #: wp-mailinglist.php:6045
 msgid "IP Address"
-msgstr ""
+msgstr "Dirección IP"
 
 #: includes/variables.php:41
 msgid "URLs"
-msgstr ""
+msgstr "URLs"
 
 #: includes/variables.php:47
 msgid "CUSTOM REGEX"
@@ -504,7 +504,7 @@ msgstr ""
 
 #: models/autoresponder.php:89
 msgid "Please fill in a title."
-msgstr ""
+msgstr "Por favor rellene un título"
 
 #: models/autoresponder.php:90
 msgid "Please select mailing list(s)."
@@ -603,7 +603,7 @@ msgstr ""
 #: views/admin/subscribers/view.php:36 wp-mailinglist-plugin.php:523
 #: wp-mailinglist.php:6037 wp-mailinglist.php:6796 wp-mailinglist.php:7116
 msgid "Email Address"
-msgstr ""
+msgstr "Dirección de Email"
 
 #: models/field.php:197
 msgid "Please fill in your email address"
@@ -861,7 +861,7 @@ msgstr ""
 
 #: models/subscriber.php:795
 msgid "Username and email address required for registration"
-msgstr ""
+msgstr "El nombre de usuario y la dirección de email son requeridos para el registro"
 
 #: models/subscriber.php:808
 msgid "Please select an active status"
@@ -1523,7 +1523,7 @@ msgstr ""
 #: views/default/management/currentsubscriptions.php:1
 #: views/default2/management/currentsubscriptions.php:1
 msgid "Inactive"
-msgstr ""
+msgstr "Inactiva"
 
 #: views/admin/autoresponders/index.php:54
 #: views/admin/autoresponders/save.php:227
@@ -2011,7 +2011,7 @@ msgstr ""
 
 #: views/admin/extensions/index.php:97
 msgid "Installed but Inactive"
-msgstr ""
+msgstr "Instalado pero inactivo"
 
 #: views/admin/extensions/index.php:101
 msgid "Installed and Active"
@@ -2754,7 +2754,7 @@ msgstr ""
 
 #: views/admin/import-export.php:431
 msgid "Inactive Subscriptions Only"
-msgstr ""
+msgstr "Solo suscripciones inactivas"
 
 #: views/admin/import-export.php:435
 msgid "Export Purpose"
@@ -3058,7 +3058,7 @@ msgstr ""
 #: views/admin/mailinglists/loop.php:209 views/admin/mailinglists/view.php:78
 #: wp-mailinglist-plugin.php:8564 wp-mailinglist-plugin.php:8994
 msgid "Monthly"
-msgstr ""
+msgstr "Mensualmente"
 
 #: views/admin/mailinglists/loop.php:210 views/admin/mailinglists/view.php:79
 #: wp-mailinglist-plugin.php:8565 wp-mailinglist-plugin.php:8995
@@ -3224,7 +3224,7 @@ msgstr ""
 
 #: views/admin/mailinglists/save.php:157
 msgid "Enter a valid email address"
-msgstr ""
+msgstr "Introduzca una dirección de email válida"
 
 #: views/admin/mailinglists/save.php:98 views/admin/mailinglists/save.php:105
 msgid "http://domain.com/custom/url/to/go/to/"
@@ -3296,7 +3296,7 @@ msgstr ""
 #: views/default/management/currentsubscriptions.php:1
 #: views/default2/management/currentsubscriptions.php:1
 msgid "Remove"
-msgstr ""
+msgstr "Eliminar"
 
 #: views/admin/metaboxes/send-insert.php:3
 #: views/admin/metaboxes/send-insert.php:11
@@ -4951,7 +4951,7 @@ msgstr ""
 #: views/admin/metaboxes/settings-subscribers.php:309
 #: views/admin/subscribers/index.php:64
 msgid "Inactive Subscriptions"
-msgstr ""
+msgstr "Suscripciones inactivas"
 
 #: views/admin/metaboxes/settings-subscribers.php:313
 msgid "Send Reminder"
@@ -6656,7 +6656,7 @@ msgstr ""
 
 #: views/admin/subscribers/save.php:87 views/admin/subscribers/view.php:139
 msgid "Email Format"
-msgstr ""
+msgstr "Formato de Correo"
 
 #: views/admin/subscribers/save.php:88
 msgid "The preferred email format that this subscriber wants to receive. Available formats are HTML and PLAIN TEXT. If you are going to send multi-mime emails, this setting is ineffective and the email/webmail client of the subscriber will automatically decide."
@@ -6893,7 +6893,7 @@ msgstr ""
 #: views/default2/unsubscribe-success.php:38
 #: views/default2/unsubscribe-user.php:29
 msgid "Email Address:"
-msgstr ""
+msgstr "Dirección de email"
 
 #: views/admin/testsettings.php:21
 msgid "Test Email"
@@ -7213,17 +7213,17 @@ msgstr ""
 #: views/default/management/currentsubscriptions.php:1
 #: views/default2/management/currentsubscriptions.php:1
 msgid "Current Subscriptions"
-msgstr ""
+msgstr "Suscripciones actuales"
 
 #: views/default/management/currentsubscriptions.php:1
 #: views/default2/management/currentsubscriptions.php:1
 msgid "Below are your current subscriptions to our list(s)."
-msgstr ""
+msgstr "Abajo están tus suscripciones actuales a nuestras listas"
 
 #: views/default/management/currentsubscriptions.php:1
 #: views/default2/management/currentsubscriptions.php:1
 msgid "An Active status indicates that you will receive emails on that list."
-msgstr ""
+msgstr "El estado activo indica que recibirás emails de esta lista"
 
 #: views/default/management/currentsubscriptions.php:1
 #: views/default2/management/currentsubscriptions.php:1
@@ -7258,17 +7258,17 @@ msgstr ""
 #: views/default/management/customfields.php:8
 #: views/default2/management/customfields.php:9
 msgid "Additional Data"
-msgstr ""
+msgstr "Información adicional"
 
 #: views/default/management/customfields.php:9
 #: views/default2/management/customfields.php:10
 msgid "Manage your subscriber profile data in the fields below."
-msgstr ""
+msgstr "Gestiona tus datos de suscriptor en los campos de abajo"
 
 #: views/default/management/customfields.php:32
 #: views/default2/management/customfields.php:36
 msgid "Email Format:"
-msgstr ""
+msgstr "Formato de Correo:"
 
 #: views/default/management/customfields.php:33
 #: views/default2/management/customfields.php:38
@@ -7285,7 +7285,7 @@ msgstr ""
 #: views/default/management/customfields.php:39
 #: views/default2/management/customfields.php:78
 msgid "Save Profile"
-msgstr ""
+msgstr "Guardar Perfil"
 
 #: views/default/management/customfields.php:47
 #: views/default2/management/customfields.php:88
@@ -7318,7 +7318,7 @@ msgstr ""
 
 #: views/default/management/index.php:50 views/default2/management/index.php:53
 msgid "Profile"
-msgstr ""
+msgstr "Perfil"
 
 #: views/default/js/management.php:44 views/default2/js/management.php:25
 msgid "Activating..."
@@ -7360,7 +7360,7 @@ msgstr ""
 
 #: views/default/management/login.php:31 views/default2/management/login.php:59
 msgid "Enter email address"
-msgstr ""
+msgstr "Introduzca la dirección de email"
 
 #: views/default/management/logout-auth.php:3
 #: views/default2/management/logout-auth.php:4
@@ -7375,12 +7375,12 @@ msgstr ""
 #: views/default/management/newsubscriptions.php:1
 #: views/default2/management/newsubscriptions.php:1
 msgid "Other Available Lists"
-msgstr ""
+msgstr "Otras listas disponibles"
 
 #: views/default/management/newsubscriptions.php:2
 #: views/default2/management/newsubscriptions.php:2
 msgid "You can subscribe to our other mailing list(s) as well."
-msgstr ""
+msgstr "Puedes suscribirte a nuestras otras listas de correo"
 
 #: wp-mailinglist-plugin.php:8986 wp-mailinglist-plugin.php:9010
 #: wp-mailinglist-widget.php:63
@@ -7395,7 +7395,7 @@ msgstr ""
 #: views/default/management/currentsubscriptions.php:1
 #: views/default2/management/currentsubscriptions.php:1
 msgid "Pay Now"
-msgstr ""
+msgstr "Pagar Ahora"
 
 #: views/default/post-attachments.php:2 views/default2/post-attachments.php:2
 msgid "Attached Files"
@@ -7492,7 +7492,7 @@ msgstr ""
 #: views/default/subscribe.php:33 views/default/widget.php:68
 #: views/default2/subscribe.php:33 views/default2/widget.php:64
 msgid "Please fill in the code below:"
-msgstr ""
+msgstr "Por favor rellene con el código siguiente"
 
 #: views/email/management-login.php:1
 msgid "Please authenticate your subscriber account by clicking the link below."
@@ -7581,7 +7581,7 @@ msgstr ""
 
 #: wp-mailinglist-plugin.php:2068
 msgid "Please fill in an email address"
-msgstr ""
+msgstr "Por favor rellene con una dirección de email"
 
 #: models/latestpostssubscription.php:82 wp-mailinglist-plugin.php:2070
 msgid "Please fill in a subject"
@@ -7670,7 +7670,7 @@ msgstr ""
 
 #: wp-mailinglist-plugin.php:3132
 msgid "Additional data has been saved."
-msgstr ""
+msgstr "La información adicional ha sido guardada"
 
 #: wp-mailinglist-plugin.php:3492
 msgid "Subscription successful, please click the \"Pay Now\" button under current subscriptions to make a payment and activate your subscription."
@@ -8176,7 +8176,7 @@ msgstr ""
 
 #: wp-mailinglist.php:2659
 msgid "Once Monthly"
-msgstr ""
+msgstr "Una vez al mes"
 
 #: wp-mailinglist.php:2939
 msgid "Configuration"
@@ -11411,7 +11411,7 @@ msgstr ""
 
 #: wp-mailinglist.php:966
 msgid "Fill in your email address"
-msgstr ""
+msgstr "Rellene su dirección de email"
 
 #: wp-mailinglist.php:967 wp-mailinglist.php:1021
 msgid "Email address not found"
