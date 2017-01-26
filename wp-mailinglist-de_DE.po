@@ -9,89 +9,85 @@ msgstr ""
 
 #: helpers/form.php:165
 msgid "Select"
-<<<<<<< Updated upstream
-msgstr ""
-=======
 msgstr "Auswahl"
->>>>>>> Stashed changes
 
 #: helpers/html.php:424 wp-mailinglist-plugin.php:9106
 msgid "Special"
-msgstr ""
+msgstr "Spezial"
 
 #: helpers/html.php:425 wp-mailinglist-plugin.php:9107
 msgid "Text Field"
-msgstr ""
+msgstr "Textfeld"
 
 #: helpers/html.php:426 wp-mailinglist-plugin.php:9108
 msgid "Text Area"
-msgstr ""
+msgstr "Textbereich"
 
 #: helpers/html.php:427 wp-mailinglist-plugin.php:9109
 #: wp-mailinglist-widget.php:128 wp-mailinglist-widget.php:237
 #: wp-mailinglist.php:125
 msgid "Select Drop Down"
-msgstr ""
+msgstr "Drop-Down Auswahl"
 
 #: helpers/html.php:428 wp-mailinglist-plugin.php:9110
 msgid "Radio Buttons"
-msgstr ""
+msgstr "Auswahlknöpfe"
 
 #: helpers/html.php:429 wp-mailinglist-plugin.php:9111
 msgid "Checkboxes"
-msgstr ""
+msgstr "Kontrollkästchen"
 
 #: helpers/html.php:430 wp-mailinglist-plugin.php:9112
 msgid "File Upload"
-msgstr ""
+msgstr "Datei hochladen"
 
 #: helpers/html.php:431 wp-mailinglist-plugin.php:9113
 msgid "Predefined : Country Select"
-msgstr ""
+msgstr "Vordefiniert: Länderauswahl"
 
 #: wp-mailinglist-plugin.php:9114
 msgid "Predefined : Date Picker (YYYY-MM-DD)"
-msgstr ""
+msgstr "Vordefiniert: Datumsauswahl (YYYY-MM-DD)"
 
 #: helpers/html.php:433 wp-mailinglist-plugin.php:9115
 msgid "Predefined : Gender"
-msgstr ""
+msgstr "Vordefiniert: Geschlecht"
 
 #: helpers/html.php:434 wp-mailinglist-plugin.php:9105
 msgid "Hidden"
-msgstr ""
+msgstr "Versteckt"
 
 #: helpers/html.php:492
 msgid "Uploaded file"
-msgstr ""
+msgstr "Hochgeladene Datei"
 
 #: helpers/html.php:512 views/admin/import-export.php:257
 msgid "First Name"
-msgstr ""
+msgstr "Vorname"
 
 #: helpers/html.php:513 views/admin/import-export.php:271
 msgid "Last Name"
-msgstr ""
+msgstr "Nachname"
 
 #: helpers/html.php:514
 msgid "Nickname"
-msgstr ""
+msgstr "Spitzname"
 
 #: helpers/html.php:515
 msgid "Biographical Info"
-msgstr ""
+msgstr "Biographische Information"
 
 #: helpers/html.php:559
 msgid "This task does not have a next schedule."
-msgstr ""
+msgstr "Diese Aufgabe hat keinen weiteren Zeitplan."
 
 #: helpers/html.php:562
 msgid "No schedule has been set for this task."
-msgstr ""
+msgstr "Es wurde kein Zeitplan für diese Aufgabe gesetzt."
 
 #: helpers/html.php:565
 msgid "No cron schedules are available or no task was specified."
-msgstr ""
+msgstr "Keine Cron-Termine stehen zur Verfügung oder es wurden keine Aufgaben spezifiziert."
 
 #: helpers/html.php:631 views/admin/dashboard.php:129 wp-mailinglist.php:2937
 msgid "Overview"
