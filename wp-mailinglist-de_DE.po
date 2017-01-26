@@ -9,7 +9,11 @@ msgstr ""
 
 #: helpers/form.php:165
 msgid "Select"
+<<<<<<< Updated upstream
 msgstr ""
+=======
+msgstr "Auswahl"
+>>>>>>> Stashed changes
 
 #: helpers/html.php:424 wp-mailinglist-plugin.php:9106
 msgid "Special"
